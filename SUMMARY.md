@@ -1,4 +1,4 @@
 # Summary
 
 * [First Chapter](chapter1.md)
-* [test](test.md)
+* [test](test)

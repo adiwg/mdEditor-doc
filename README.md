@@ -2,4 +2,4 @@
 
 This is the user manual for the mdEditor.
 
-{% include "./summary.md" %}
+{% include "./SUMMARY.md" %}

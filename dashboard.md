@@ -20,21 +20,17 @@ Select **list icon**t. Dsplay all objects in the editor region.
 
 **angle-up icon**. Collapse an object panel to hide all records.
 
-
-
 ### Main menu
 
 **Dashboard**. Return to main dashboard.
 
-**Export**. Export metadata records in mdJSON format. The mdJSON file can be used to share your metadata with others or to provide a backup. See Export.
+**Export**. Export metadata records in mdJSON format. The mdJSON file can be used to share your metadata with others or to provide a backup. [See Export](/export.md).
 
-**Import**. Import a mdJSON file into the editor.
+**Import**. Import a mdJSON file into the editor. [See Import](/import.md).
 
 **Settings**. Customize the editor settings.
 
 ### Editor region
 
 The editor region will display information based on the type of object that is currently selected. Selecting a **list icon** will display all of the the records contained in the associated object \(metadata, contacts or dictionatries\). Selecting a record will display record specific information and allow the record to be edited.
-
-
 

@@ -2,7 +2,7 @@
 
 ## Overview
 
-The mdEditor application is designed using a two-pane layout. The left _**sidebar**_ \(1\) provides the primary navigation showing a list of metadata records, contacts and data dictionaries. The right pane displays a context-sensitive _**main menu**_ at the top \(2\) and a primary _**editor region**_ below \(3\) that displays and allows for the editing of a selected object.![](/assets/mdEditor_areas.png)
+The mdEditor application is designed using a two-pane layout. The left [_**sidebar**_](#sidebar) \(1\) provides the primary navigation showing a list of [metadata records](/records.md), [contacts](/contacts.md) and [data dictionaries](/dictionaries.md). The right pane displays a context-sensitive [_**main menu**_](#main-menu) at the top \(2\) and a primary [_**editor region**_](#editor-region) below \(3\) that displays and allows for the editing of a selected object.![](/assets/mdEditor_areas.png)
 
 ### Basic Navigation
 
@@ -12,7 +12,7 @@ The mdEditor application is designed using a two-pane layout. The left _**sideba
 
 **mdEditor **logo.
 
-Select **plus icon **to add a new record
+Select **plus icon **to [add a new record](/record\new.md)
 
 Select **list icon**t. Dsplay all objects in the editor region.
 
@@ -28,7 +28,7 @@ Select **list icon**t. Dsplay all objects in the editor region.
 
 **Import**. Import a mdJSON file into the editor. [See Import](/import.md).
 
-**Settings**. Customize the editor settings.
+**Settings**. Customize the editor settings. [See Settings](/settings.md).
 
 ### Editor region
 

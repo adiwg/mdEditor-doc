@@ -8,27 +8,29 @@ The mdEditor application is designed using a two-pane layout. The left [_**sideb
 
 ### Sidebar
 
-![](/assets/symbol_question-circle_32.png) Select **help icon** to display context-sensitive help. Click again to display object list.
+The left sidebar displays the various components of the current metadata record set. The components are arranged by type in a series of expandable object group panels.
 
-**mdEditor **logo.
+![](/assets/mdEditor_logo_32.png)   Select the **mdEditor **logo to hide/show the object group list.
 
-Select **plus icon **to [add a new record](/record\new.md)
+![](/assets/symbol_question-circle_16.png) Select the **help icon** to display context-sensitive help. Click again to view the object groups.
 
-Select **list icon**t. Dsplay all objects in the editor region.
+![](/assets/symbol_plus_16.png) Select the **plus icon **to [add a new record](/record\new.md) to an object group.
 
-**angle-down icon**. Expands an object panel to display all records in the sidebar.
+![](/assets/symbol_list_16.png) Select the **list icon** to display a list of individual objects in the editor region.
 
-**angle-up icon**. Collapse an object panel to hide all records.
+![](/assets/symbol_angle-down_16.png) Select the **angle-down icon** to expand an object group panel and display a list of objects in the sidebar.
+
+![](/assets/symbol_angle-up_16.png) **angle-up icon**. Collapse an object panel to hide all associated records.
 
 ### Main menu
 
 **Dashboard**. Return to main dashboard.
 
-**Export**. Export metadata records in mdJSON format. The mdJSON file can be used to share your metadata with others or to provide a backup. [See Export](/export.md).
+ **Export**. Export metadata records in mdJSON format. The mdJSON file can be used to share your metadata with others or to provide a backup. [See Export](/export.md).
 
-**Import**. Import a mdJSON file into the editor. [See Import](/import.md).
+ **Import**. Import a mdJSON file into the editor. [See Import](/import.md).
 
-**Settings**. Customize the editor settings. [See Settings](/settings.md).
+ **Settings**. Customize the editor settings. [See Settings](/settings.md).
 
 ### Editor region
 

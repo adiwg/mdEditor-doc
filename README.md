@@ -24,7 +24,7 @@ Primary development has been performed by Josh Bradley \(joshua\_bradley@fws.gov
 
 ## Basic Navigation
 
-The mdEditor application is designed using a two-pane layout. The left [_**sidebar**_](#sidebar) \(1\) provides the primary navigation showing a list of [metadata records](/records.md), [contacts](/contacts.md) and [data dictionaries](/dictionaries.md). The right pane displays a context-sensitive [_**main menu**_](#main-menu) at the top \(2\) and a primary [_**editor region**_](#editor-region) below \(3\) that displays and allows for the editing of a selected object.
+The mdEditor application is designed using a two-pane layout. The left [_**sidebar**_](#sidebar) \(1\) provides the primary navigation showing a list of [metadata records](/records.md), [contacts](/contacts.md) and [data dictionaries](/dictionaries.md). The right pane displays a context-sensitive [_**main menu**_](#main-menu) at the top \(2\), a primary [_**editor region**_](#editor-region) below \(3\) that displays and allows for the editing of a selected object and a [_**status bar**_](#status-bar) at the very bottom of the display \(4\).
 
 ![](/assets/mdEditor_areas.png)
 
@@ -63,4 +63,8 @@ The following standard menu items will always be displayed on the  main menu.
 ### Editor region
 
 The editor region will display information based on the type of object that is currently selected. Selecting a **list icon** \(![](/assets/symbol_list_16.png)\)will display all of the the records contained in the associated object \(metadata, contacts or dictionaries\) in the editor region. Selecting a record will display record specific information and allow the record to be edited.
+
+### Status Bar
+
+The ststus bar displays vaios informational messages, such as if the [Auto Save](/settings.md) feature is on or off.
 

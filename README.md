@@ -34,7 +34,7 @@ The left sidebar displays the various components of the current metadata record 
 
 ![](/assets/mdEditor_logo_32.png)   Select the **mdEditor **logo to toggle the display of the sidebar.
 
-![](/assets/symbol_question-circle_16.png) Select the **help icon** to display context-sensitive help. Click again to view the object groups.
+![](/assets/symbol_question-circle_16.png) Select the **help icon** to display context-sensitive help. Click again to exit help and view the object groups.
 
 ![](/assets/symbol_plus_16.png) Select the **plus icon **to add a new record to an object group.
 

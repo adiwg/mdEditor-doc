@@ -9,7 +9,6 @@
 * [Help](help.md)
 * [Settings](settings.md)
 * [Records](records.md)
-  * [Records New](records/records-new.md)
 * [Record New](records\record\new.md)
 * [Record Search](record\show.md)
 * [Record Edit](record\edit.md)

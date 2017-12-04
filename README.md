@@ -38,7 +38,7 @@ The left sidebar displays the various components of the current metadata record 
 
 ![](/assets/symbol_plus_16.png) Select the **plus icon **to add a new record to an object group.
 
-![](/assets/symbol_list_16.png) Select the **list icon** to display a list of individual objects in the editor region.
+![](/assets/symbol_list_16.png) Select the **list icon** to display a searchable list of individual objects in the editor region.
 
 ![](/assets/symbol_angle-down_16.png) Select the **angle-down icon** to expand an object group panel and display a list of objects in the sidebar.
 

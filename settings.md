@@ -11,8 +11,7 @@ The Auto Save option will write all changes to local storage when you exit a dat
 ### Clear All Records
 
 All records can by cleared by clicking the **Clear Storage Cache**.  
-**\*Caution! Clearing all records will delete your current set of records. If you wish to retain your records for future use, be sure and make a backup with the **[**export**](/export.md)** function before clearing the cache.  
-**
+**\*Caution! Clearing all records will delete your current set of records. If you wish to retain your records for future use, be sure and make a backup with the **[**export**](/export.md)** function before clearing the cache.  **
 
 ## Defaults
 
@@ -20,13 +19,7 @@ All records can by cleared by clicking the **Clear Storage Cache**.
 
 Also included in **Defaults **is the **Metadata Repositories.**
 
-
-
 ## Publishing Settings
 
 Items can be published to an online repository.
-
-
-
-
 

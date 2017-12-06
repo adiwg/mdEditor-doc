@@ -14,14 +14,21 @@
 * [Record Show](record\show.md)
 * [Record Edit](record\edit.md)
   * [Record Main](record/edit/main.md)
+    * [Main Citation](record/edit/main/citation.md)
   * [Record Metadata](record\edit\metadata.md)
+    * Parent Metadata
   * [Record Keywords](record\edit\keywords.md)
+  * [Record Extent](record/edit/record-extent.md)
+    * [Edit Extent Features](record/edit/record-extent/edit-extent-features.md)
   * [Record Spatial](record\edit\spatial.md)
-  * [Record Quality](record\edit\quality.md)
-  * [Record Distribution](record\edit\distribution.md)
-  * [Record Associated](record\edit\associated.md)
-  * [Record Documents](record\edit\documents.md)
-  * [Record Coverages](record\edit\coverages.md)
+  * [Record Lineage](record\edit\distribution.md)
+  * [Record Distribution](record\edit\quality.md)
+    * Edit Distributors
+  * [Record Constraints](record/edit/record-constraints.md)
+  * Record Associated
+  * Record Documents
+  * [Record Funding](record/edit/record-funding.md)
+    * Allocation
 * [Contacts](contacts.md)
 * [Contact New](contact\new.md)
 * [Contact Show](contact\show.md)

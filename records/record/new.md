@@ -1,6 +1,6 @@
 # Record New
 
-Click the **plus icon \(**![](blob:https://www.gitbook.com/a7a55100-bc27-4c1e-b988-4c6a4994b6f5)\)** **to add a new record to an object group.
+Click the **plus icon \(**![](/assets/symbol_plus_16.png)\)** **to add a new record to an object group.
 
 The **Record ID **will be created automatically.
 

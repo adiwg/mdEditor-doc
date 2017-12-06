@@ -10,7 +10,7 @@ An introductory blurb....
 
 * Responsive, two-panel layout should allow display on desktop and mobile devices
 * Launched through a web browser, no need to install software
-* Metadata stored locally
+* Metadata is initially stored in the browser localstorage cache
 * Metadata can be exported as a text file \(JSON format\) for archiving or sharing
 * Open source development allows for customization
 * Defined schema \(mdJSON schema\) allows for validating records

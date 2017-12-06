@@ -10,7 +10,7 @@ An introductory blurb....
 
 * Responsive, two-panel layout should allow display on desktop and mobile devices
 * Launched through a web browser, no need to install software
-* Metadata stored locally
+* Metadata is initially stored in the browser localstorage cache
 * Metadata can be exported as a text file \(JSON format\) for archiving or sharing
 * Open source development allows for customization
 * Defined schema \(mdJSON schema\) allows for validating records
@@ -30,7 +30,7 @@ The mdEditor application is designed using a two-pane layout. The left [_**sideb
 
 ### Sidebar
 
-The left sidebar displays the various components of the current metadata record set. The components are arranged by type in a series of expandable object group panels.
+The left sidebar displays the various components of the current records. The components are arranged by type in a series of expandable object group panels.
 
 ![](/assets/mdEditor_logo_32.png)   Select the **mdEditor **logo to toggle the display of the sidebar.
 

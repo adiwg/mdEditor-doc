@@ -40,5 +40,4 @@
 * [Dictionary Edit](dictionary\edit.md)
   * [Dictionary Domains](dictionary\edit\domains.md)
   * [Dictionary Entities](dictionary\edit\entities.md)
-* Errors
 

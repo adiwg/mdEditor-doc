@@ -2,7 +2,7 @@
 
 \(Screenshot of "Keywords Window"\)
 
-**Keywords **allow for the addition of keywords via selectable thesauri.
+**Keywords **allow for the addition of keywords via selectable thesauruses.
 
 Click “+ Add Thesaurus” on the right to add the different thesauruses.
 

@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Dashboard](dashboard.md)
+* [File Management](file-management.md)
 * [Export](export.md)
 * [Import](import.md)
 * [Translate](translate.md)
@@ -42,9 +43,4 @@
 * [Contact Show](contact\show.md)
 * [Contact Edit](contact\edit.md)
 * [Dictionaries](dictionaries.md)
-* [Dictionary New](dictionary\new.md)
-* [Dictionary Show](dictionary\show.md)
-* [Dictionary Edit](dictionary\edit.md)
-  * [Dictionary Domains](dictionary\edit\domains.md)
-  * [Dictionary Entities](dictionary\edit\entities.md)
 

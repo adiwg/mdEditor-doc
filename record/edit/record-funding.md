@@ -1,12 +1,18 @@
 # Record Funding
 
-\(Screenshot of "Funding" Window\)
+Tracking funding in the metadata allows for identification of funding sources, comparison, and aggregation at the network level.
 
-Consult the [**Allocation**](/record/edit/record-funding/allocation.md) section of this manual to learn how to add allocations.
+---
 
-**Time Period **will generally be start date only, end date only, or both.  If you put in start and end date, it will calculate fiscal year off the end date. Enter as much information as you can.  
+Available fields include:
 
-**Start and End date** refers to when the money was allocated and distributed.
+* **Allocation**: Describes how the funds were allocated. Consult the [**Allocation**](/record/edit/record-funding/allocation.md) section of this manual to learn how to add allocations.
 
+* **Time Period**: Describes the time period during the allocation of funds. Consult the** **[**Time Period**](/record/edit/record-funding/time-period.md) section of this manual to learn how to edit the time period.
 
+* **Description**: Add a description of the funding.
+
+---
+
+![](/assets/Funding_Window.png)
 

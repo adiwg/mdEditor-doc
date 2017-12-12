@@ -1,10 +1,34 @@
 # Export \(![](/assets/symbol_sign-out_16.png)\)
 
-The export function will allow the contents of the current metadata recordset to be saved as a [mdJSON file](https://github.com/adiwg/mdJson-schemas/blob/master/test/draft-04.json). The mdJSON file can be shared with collaborators and imported into another record set, or saved to a local workstation as a backup or archival copy.
+The export function will allow the contents of the current metadata recordset to be saved as a mdEditor or a mdJSON file. The files can then be shared with collaborators and imported into another record set, imported into another browser using mdEditor, or saved to a local workstation as a backup or archival copy. Files are automatically named as “mdeditor-timestamp.json”.
 
-\(Screenshot of **Export **window\)
+> ![](/assets/NoteSmall.png) mdJSON files can be uploaded and translated to other formats via the mdTranslator application while mdEditor files are exclusive to the mdEditor application and retain all mdEditor information, including settings.
 
-Users can export a singular or group of records or contacts by individually selecting the items to be exported, and then clicking **Export Selected**. This will export the selected items as **mdEditor **files. Users can also use the **Export mdJSON **button to export selected items as **mdJSON **files.
+![](/assets/export_window.png)
 
-For a complete backup, use the **Export All **button. The export an mdEditor file containing all records and contacts.
+> ![](/assets/BestPracticeSmall.png)**Best Practice**: For a complete backup, use the **Export All **button. This exports an mdEditor file containing all records and contacts.
+>
+> ![](/assets/BestPracticeSmall.png)**Best Practice:** **Export All** each time you finish a work session in mdEditor \(or switch browsers, URLs, etc.\).
+
+---
+
+### **Export Options**
+
+* **Export All:** will export everything currently loaded in mdEditor into a single file. Exports an mdEditor JSON file.
+
+* **Export Selected:** will only export the items you have selected \(so individual records, contacts, etc.\). If nothing is selected it will be disabled \(i.e., grayed out\). Exports an mdEditor JSON file.
+
+* **Export mdJSON: ** only works for metadata records \(i.e., doesn't work for contacts\). Exports just the mdJSON file, which is a standalone JSON file you can load into mdTranslator and have translated into other metadata formats. mdJSON files imported into mdEditor are treated as new records and will not merge/update an existing record.
+
+* Clicking the **Include Settings **switch will also export mdEditor settings. Consult the [Settings](/settings.md) section of this manual to learn about settings.
+
+> ![](/assets/NoteSmall.png)If you need to switch browsers for mdEditor, or want to send your setting to someone else, you can export them.
+
+---
+
+#### General Notes on Exporting
+
+> ![](/assets/BestPracticeSmall.png)**Best Practice: **When Exporting Contacts, it is recommended that you export all contacts together. If you load a project and the contacts aren’t loaded in mdEditor, you can’t inject the contacts back into the metadata record.
+
+
 

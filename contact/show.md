@@ -1,4 +1,6 @@
-# Contact Show
+
+
+### Show Contacts
 
 Click the **angle-down icon** \(![](/assets/symbol_angle-down_16.png)\) to expand the contact group panel and display a list of contacts in the sidebar.
 

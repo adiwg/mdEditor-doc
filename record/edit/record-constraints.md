@@ -1,22 +1,34 @@
 # Record Constraints
 
-\(Screenshot of "Record Constraints" window\)
+Puts information about how the record can and cannot be used into the metadata.
 
-Constraint type: 
+---
 
-Use limitation:  Identify concerns over how people should or should not use the product. Depending on the type you select, it will tell you what you have to enter. If your product is licensed, let people know. Most of what we have is public domain, but not always.
+## **Use limitation**
 
- Legal: Access restraints, property restraints  This is a controlled value list.
+Identify concerns over how people should or should not use the product.
 
-Access constraints: Access constraints applied to assure the protection of privacy or intellectual property, and any special restrictions or limitations on obtaining the resource. 
+> ![](/assets/BestPracticeSmall.png)If your product is licensed, let people know here. Typically files used will be public domain, but not always.
 
-Use constraints: How the product should be used.
+![](/assets/UseLimitation.png)
 
-Other constraints: This is a good place to put a standard disclaimer.
+---
 
-Security constraints: Describing legal constraints or security pertaining to security of the resource, need to choose classification. 
+## **Legal**
 
-Classification: Identify class of security \(e.g., top secret, public access\).
+* **Access Constraints: **Access constraints are applied to assure the protection of privacy or intellectual property, and any special restrictions or limitations on obtaining the resource.
+* **Use constraint**s: How the product should be used.
+* **Other constraints:** This is a place to put standard disclaimers.
 
+![](/assets/Legal.png)
 
+---
+
+## **Security Constraints**
+
+** **A place to describe constraints or restrictions pertaining to security of the resource.  Choose classification from the drop-down menu.
+
+> ![](/assets/NoteSmall.png)**Classification **is the class of security \(e.g., top secret, public access\).
+
+![](/assets/Security.png)
 

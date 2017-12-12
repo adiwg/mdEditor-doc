@@ -1,17 +1,22 @@
-# Edit Distributors
+# Transfer Options
 
-\(Screenshot of "Transfer Options" window\)
+Available fields in transfer options include:
 
-Transfer Options:
+* **Transfer Size**: Describes the size of resource in MB.
 
-* Contacts
-* Role
+* **Distribution Units**: Used for items with unique units \(e.g. USGS quads\).
 
-* Transfer Size: Describe size of resource in MB.
+* **Online Options**: Consult the [**Online Options**](/record/edit/quality/edit-distributors/online-option.md) section of this manual to learn how to add online options.
 
-* Distribution Units: Don’t worry about this. Used for items with unique units \(e.g. USGS quads\).
+* **Offline Options**: Consult the [**Offline Options**](/record/edit/quality/edit-distributors/offline-options.md) of this manual to learn how to add offline options.
 
-Consult the [**Online Options**](/record/edit/quality/edit-distributors/online-option.md) section of this manual to learn how to add online options.
+* **Distribution Formats**: Allows for the description of distribution formats including; Format Name; Version; Compression Method; and URL.
 
-Consult the [**Offline Options**](/record/edit/quality/edit-distributors/offline-options.md) of this manual to learn how to add offline options.
+* **Transfer Frequency**: Describes the frequency that products were transferred.
+
+![](/assets/Distribution_Transfer_Options_Window.png)
+
+
+
+
 

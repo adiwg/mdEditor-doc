@@ -2,7 +2,7 @@
 
 ## Overview
 
-The mdEditor is a web application that allows users to author and edit metadata for projects and datasets. The primary design goal was to develop an editor that would allow someone to create and use archival quality metadata without the need for an extensive knowledge of metadata standards. More....
+The mdEditor is a web application that allows users to author and edit metadata for projects and datasets. The primary design goal was to develop an editor that would allow someone to create and use archival quality metadata without the need for an extensive knowledge of metadata standards.
 
 ## Features
 

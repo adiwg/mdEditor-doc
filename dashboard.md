@@ -40,3 +40,5 @@ The main menu contains several standard menu items that apply to areas of the md
 
 The editor region will display information based on the type of record that is currently selected. Selecting a **list icon** will display all of the the records contained in the associated group. Selecting a record will display record specific information and allow the record to be edited.
 
+
+

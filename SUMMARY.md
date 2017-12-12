@@ -8,6 +8,7 @@
 * [Publish](publish.md)
 * [Help](help.md)
 * [Settings](settings.md)
+* [Errors and Missing Fields](errors.md)
 * [Records](records.md)
 * [Record New](records\record\new.md)
 * [Record Search](record-search.md)
@@ -39,4 +40,5 @@
 * [Dictionary Edit](dictionary\edit.md)
   * [Dictionary Domains](dictionary\edit\domains.md)
   * [Dictionary Entities](dictionary\edit\entities.md)
+* Errors
 

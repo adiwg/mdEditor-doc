@@ -15,9 +15,11 @@ All records can by cleared by clicking the **Clear Storage Cache**.
 
 ## Defaults
 
-**Defaults **include settings for **Language**, **Character Set**, **Country**, and the **Import URL **which is used for defining the default URL for importing.
+**Defaults **include settings for **Language**, **Character Set**, **Country**, and the **Import URL **which is used for defining the default URL for importing. To Set the default import URL for importing items from ScienceBase, enter [https://api.sciencebase.gov/sbmd-service/mdjson/](https://api.sciencebase.gov/sbmd-service/mdjson/).
 
-Also included in **Defaults **is the **Metadata Repositories.**
+Also included in **Defaults **is the **Metadata Repositories. **Once entered in **Settings**, these can then be selected for projects and products so that they are flagged to go to the LCC Network Science Catalog and/or to send product metadata to Data.gov.
+
+The following defaults will be pre-loaded: default language is English, default character set is UTF-8, default location is USA.
 
 ## Publishing Settings
 

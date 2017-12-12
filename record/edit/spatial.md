@@ -1,26 +1,12 @@
-# Spatial Extent
+# Spatial
 
-The Spatial Extent function will allow you to graphically describe locations relevant to the metadata record.
+The **Spatial** function will allow you to graphically describe locations relevant to the metadata record.
 
-## Add Spatial Extent
+\(Screenshot of "Spatial" window\)
 
-## Edit Extent
+Select a **Spatial Representation Type **from the drop-down menu.
 
-## Import Features
+Consult the [**Reference System Type**](/record/edit/spatial/reference-system-type.md)** **section of this manual to learn how to add the spatial reference system type.
 
-## Export Features
-
-## Creating Features
-
-Select a feature editing tool \(line, polygon, rectangle, marker\) and draw the feature on the map. After creating a feature, the "Edit" button can be selected if you wish to modify the feature name and description.
-
-### Line
-
-### Polygon
-
-### Rectangle
-
-### Marker
-
-
+Consult the [**Spatial Resolution**](/record/edit/spatial/spatial-resolution.md) section of this manual to learn how to add spatial resolution.
 

@@ -6,7 +6,7 @@ The **Record ID **will be created automatically.
 
 In the **Record Title **field, enter a title.
 
-Under **Resource Types**, from the **Type **drop down menu, select your record type.
+Under **Resource Types**, from the **Type **drop down-menu, select your record type.
 
 The record **Name **is optional.
 

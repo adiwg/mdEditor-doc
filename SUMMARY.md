@@ -22,7 +22,12 @@
   * [Record Extent](record/edit/record-extent.md)
     * [Edit Extent Features](record/edit/record-extent/edit-extent-features.md)
   * [Record Spatial](record\edit\spatial.md)
+    * [Reference System Type](record/edit/spatial/reference-system-type.md)
+    * [Spatial Resolution](record/edit/spatial/spatial-resolution.md)
   * [Record Lineage](record\edit\distribution.md)
+    * [Process Step](record/edit/distribution/process-step.md)
+    * [Lineage Sources](record/edit/distribution/sources.md)
+    * [Lineage Citation](record/edit/distribution/citation.md)
   * [Record Distribution](record\edit\quality.md)
     * Edit Distributors
   * [Record Constraints](record/edit/record-constraints.md)

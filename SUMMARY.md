@@ -19,13 +19,13 @@
     * [Parent Metadata](record/edit/metadata/parent-metadata.md)
       * [Identifier](record/edit/metadata/parent-metadata/identifier.md)
   * [Record Keywords](record\edit\keywords.md)
+  * [Record Extent](record/edit/record-extent.md)
+    * [Edit Extent Features](record/edit/record-extent/edit-extent-features.md)
   * [Record Spatial](record\edit\spatial.md)
   * [Record Lineage](record\edit\distribution.md)
   * [Record Distribution](record\edit\quality.md)
     * Edit Distributors
   * [Record Constraints](record/edit/record-constraints.md)
-  * [Record Extent](record/edit/record-extent.md)
-    * [Edit Extent Features](record/edit/record-extent/edit-extent-features.md)
   * Record Associated
   * Record Documents
   * [Record Funding](record/edit/record-funding.md)

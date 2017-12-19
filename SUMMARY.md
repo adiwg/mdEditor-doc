@@ -36,7 +36,7 @@
   * [Record Associated](record/edit/record-associated.md)
   * [Record Documents](record/edit/record-documents.md)
   * [Record Funding](record/edit/record-funding.md)
-    * Allocation
+    * [Allocation](record/edit/record-funding/allocation.md)
 * [Contacts](contacts.md)
 * [Contact New](contact\new.md)
 * [Contact Show](contact\show.md)

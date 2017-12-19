@@ -17,7 +17,7 @@
   * [Record Main](record/edit/main.md)
     * [Main Citation](record/edit/main/citation.md)
   * [Record Metadata](record\edit\metadata.md)
-    * Parent Metadata
+    * [Parent Metadata](record/edit/metadata/parent-metadata.md)
   * [Record Keywords](record\edit\keywords.md)
   * [Record Extent](record/edit/record-extent.md)
     * [Edit Extent Features](record/edit/record-extent/edit-extent-features.md)

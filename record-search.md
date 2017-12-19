@@ -2,6 +2,8 @@
 
 Clicking the **list icon **\(![](/assets/symbol_list_16.png)\) will display a searchable list of individual objects in the editor region.
 
+\(Screenshot of records list\)
+
 Use the **Search **field to search for any string.
 
 Use the **Title **field to search by title.

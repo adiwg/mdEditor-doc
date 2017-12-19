@@ -10,7 +10,6 @@
 * [Settings](settings.md)
 * [Errors and Missing Fields](errors.md)
 * [Records](records.md)
-* [Record New](records\record\new.md)
 * [Record Search](record-search.md)
 * [Record Show](record\show.md)
 * [Record Edit](record\edit.md)

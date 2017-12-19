@@ -12,7 +12,7 @@ The **sub-menu navigation bar** is located below the breadcrumbs.  These change 
 
 If hover over links there will be a short description of what that section is.
 
-The** Spotlight Tool** is a blue box with white circle inside at right of section name.  It grays everything out except the panel you’re working on to help focus on that particular section.
+The** Spotlight Tool** is a blue box with  white circle inside at right of section name.  It grays everything out except the panel you’re working on to help focus on that particular section.
 
 ### Required Fields
 

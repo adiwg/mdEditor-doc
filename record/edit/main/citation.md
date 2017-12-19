@@ -1,5 +1,7 @@
 # Citation
 
+\(Screenshot of the "Citation" window\)
+
 **Title **will be added automatically based on the title of your record.
 
 **Dates **can be added by clicking the **Add Date **button. Enter a **Date **and **Date Type**. A **Description **of the date can also be added.

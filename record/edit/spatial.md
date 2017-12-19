@@ -1,6 +1,8 @@
-# Spatial Extent
+# Spatial
 
-The Spatial Extent function will allow you to graphically describe locations relevant to the metadata record.
+The **Spatial** function will allow you to graphically describe locations relevant to the metadata record.  
+  
+The Spatial 
 
 ## Add Spatial Extent
 

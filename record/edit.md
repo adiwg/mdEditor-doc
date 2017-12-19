@@ -16,11 +16,13 @@ The** Spotlight Tool** is a blue box with a white circle inside at right of the 
 
 ### Required Fields
 
+Certain fields are required in order to meet ISO metadata requirements. Required fields are noted by the following.
+
 A red asterisk means that this is required.
 
-Red number in a circle is also noting that this is a required field.
+A red number in a circle is also noting that this is a required field.
 
-Not required will be 0 with an orange background.
+Not required will be a 0 with an orange background.
 
-Once you’ve entered, will turn blue circle with a number.
+Once you’ve entered information in a required field, the circle will turn blue and include a number.
 

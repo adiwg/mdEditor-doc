@@ -64,5 +64,5 @@ The editor region will display information based on the type of object that is c
 
 ### Status Bar
 
-The ststus bar displays vaios informational messages, such as if the [Auto Save](/settings.md) feature is on or off.
+The status bar displays various informational messages, such as weather the [Auto Save](/settings.md) feature is on or off.
 

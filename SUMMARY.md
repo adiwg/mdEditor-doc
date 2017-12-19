@@ -30,6 +30,8 @@
     * [Lineage Citation](record/edit/distribution/citation.md)
   * [Record Distribution](record\edit\quality.md)
     * [Edit Distributors](record/edit/quality/edit-distributors.md)
+      * [Online Option](record/edit/quality/edit-distributors/online-option.md)
+      * [Offline Options](record/edit/quality/edit-distributors/offline-options.md)
   * [Record Constraints](record/edit/record-constraints.md)
   * Record Associated
   * Record Documents

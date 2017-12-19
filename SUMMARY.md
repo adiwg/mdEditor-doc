@@ -29,7 +29,7 @@
     * [Lineage Sources](record/edit/distribution/sources.md)
     * [Lineage Citation](record/edit/distribution/citation.md)
   * [Record Distribution](record\edit\quality.md)
-    * Edit Distributors
+    * [Edit Distributors](record/edit/quality/edit-distributors.md)
   * [Record Constraints](record/edit/record-constraints.md)
   * Record Associated
   * Record Documents

@@ -34,7 +34,7 @@
       * [Offline Options](record/edit/quality/edit-distributors/offline-options.md)
   * [Record Constraints](record/edit/record-constraints.md)
   * [Record Associated](record/edit/record-associated.md)
-  * Record Documents
+  * [Record Documents](record/edit/record-documents.md)
   * [Record Funding](record/edit/record-funding.md)
     * Allocation
 * [Contacts](contacts.md)

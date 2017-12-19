@@ -13,7 +13,5 @@ Transfer Options:
 
 Consult the [**Online Options**](/record/edit/quality/edit-distributors/online-option.md) section of this manual to learn how to add online options.
 
-
-
-●    Most likely will just be adding distributer information and URL \(e.g., if The Nature Conservancy is hosting a data source, the distributor is The Nature Conservancy and then enter link to location of distribution\).
+Consult the [**Offline Options**](/record/edit/quality/edit-distributors/offline-options.md) of this manual to learn how to add offline options.
 

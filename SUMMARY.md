@@ -2,9 +2,9 @@
 
 * [Introduction](README.md)
 * [Dashboard](dashboard.md)
+* [File Management](file-management.md)
 * [Export](export.md)
 * [Import](import.md)
-* [File Management](file-management.md)
 * [Translate](translate.md)
 * [Publish](publish.md)
 * [Help](help.md)

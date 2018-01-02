@@ -36,7 +36,7 @@
 ### General notes on Contacts
 
 * Copying contacts will change the ID and the name \(the name will be “Copy of ….”\) but all the other info will be the same.
-* When you edit a contact, the information will also update the metadata records that include that contact and update to SB when you publish the records.
+
 * Best management practice: It is safest to export all contacts whenever you export a project/product.
 
 

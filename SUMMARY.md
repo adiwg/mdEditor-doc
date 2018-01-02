@@ -45,5 +45,4 @@
 * [Dictionaries](dictionaries.md)
 * [Dictionary New](dictionary\new.md)
 * [Dictionary Show](dictionary\show.md)
-* File Management
 

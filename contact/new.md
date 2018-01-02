@@ -29,15 +29,13 @@
 * **Email address**: Required
 * **Physical address**: Recommended    
 * **Logo**: Optional
-  -**Note: Users **can either select or drop image that will be used for logos. If load an image, will create a URI and has a size limit. If have a larger image, link to it rather than load into mdEditor.
-   If your contact contains a logo, you must include a filename for the logo or else you will get an error on your metadata records that include that contact.
-* If an organization has a logo associated with it, individuals will inherit the logos from the organization    
+  -**Note: Users **can either select or drop image that will be used for logos. If load an image, will create a URI and has a size limit. If have a larger image, link to it rather than load into mdEditor. If your contact contains a logo, you must include a filename for the logo or else you will get an error on your metadata records that include that contact. If an organization has a logo associated with it, individuals will inherit the logos from the organization    
 
 ### General notes on Contacts
 
-* Copying contacts will change the ID and the name \(the name will be “Copy of ….”\) but all the other info will be the same.
+* Copying contacts will change the ID and the name \(the name will be “Copy of ….”\) but all the other information will be the same.
 
-* Best management practice: It is safest to export all contacts whenever you export a project/product.
+* **Best management practice**: It is safest to export all contacts whenever you export a project/product.
 
 
 

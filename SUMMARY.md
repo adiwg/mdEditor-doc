@@ -4,6 +4,7 @@
 * [Dashboard](dashboard.md)
 * [Export](export.md)
 * [Import](import.md)
+* [File Management](file-management.md)
 * [Translate](translate.md)
 * [Publish](publish.md)
 * [Help](help.md)
@@ -44,7 +45,5 @@
 * [Dictionaries](dictionaries.md)
 * [Dictionary New](dictionary\new.md)
 * [Dictionary Show](dictionary\show.md)
-* [Dictionary Edit](dictionary\edit.md)
-  * [Dictionary Domains](dictionary\edit\domains.md)
-  * [Dictionary Entities](dictionary\edit\entities.md)
+* File Management
 

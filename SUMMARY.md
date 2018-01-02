@@ -43,6 +43,4 @@
 * [Contact Show](contact\show.md)
 * [Contact Edit](contact\edit.md)
 * [Dictionaries](dictionaries.md)
-* [Dictionary New](dictionary\new.md)
-* [Dictionary Show](dictionary\show.md)
 

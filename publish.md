@@ -2,7 +2,7 @@
 
 \(screenshot of the "Publish" button\)
 
-Users can publish records to an online platform. The current option is ScienceBase.
+Users can publish records to an online platform. The current option is ScienceBase, a collaborative data cataloging and data management platform developed by the United States Geological Survey. It provides a centralized, searchable, and publicly-available repository for data. You must have a ScienceBase user account with publishing rights in order to publish to ScienceBase.
 
 * Enter your ScienceBase **Username** and **Password **and click **Login**.
 * Select the records that you would like to publish and click **Publish**.

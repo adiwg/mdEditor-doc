@@ -8,3 +8,11 @@ Users can click the **Import Data **button to import a local file, or simply dra
 
 Files can also be imported using the **Import from Online URL **functionality.
 
+If importing from ScienceBase, please do the following:
+
+* In Import URL field, paste: [https://api.sciencebase.gov/sbmd-service/mdjson/](https://api.sciencebase.gov/sbmd-service/mdjson/).
+  **-Note**: you can set default import URL to the ScienceBase API link in settings section and it will pre-populate this field. Please refer to the [Settings](/settings.md) section of this manual.
+* Copy and paste the ScienceBase ID of the item that you are trying to import at the end of the URL in the import field, and click the **Import** button.
+
+
+

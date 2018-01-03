@@ -6,5 +6,5 @@ The Import function will allow the contents of an mdEditor or [mdJSON file](http
 
 Users can click the **Import Data **button to import a local file, or simply drag and drop files onto the button.
 
-Files can also be imported using the **Import from ONline URL **functionality.
+Files can also be imported using the **Import from Online URL **functionality.
 

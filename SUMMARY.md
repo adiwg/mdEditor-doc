@@ -11,7 +11,7 @@
 * [Publish](publish.md)
   * [Requirements for Publishing](publish/requirements-for-publishing.md)
   * [How to Publish](publish/how-to-publish.md)
-  * Instructions for Testing Publishing
+  * [Instructions for Testing Publishing](publish/instructions-for-testing-publishing.md)
   * Troubleshooting Issues
 * [Help](help.md)
 * [Settings](settings.md)

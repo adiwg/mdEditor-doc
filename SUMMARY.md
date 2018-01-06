@@ -13,6 +13,7 @@
   * [How to Publish](publish/how-to-publish.md)
   * [Instructions for Testing Publishing](publish/instructions-for-testing-publishing.md)
   * [Troubleshooting Issues](publish/troubleshooting-issues.md)
+  * [FAQ](publish/faq.md)
 * [Help](help.md)
 * [Settings](settings.md)
 * [Errors and Missing Fields](errors.md)

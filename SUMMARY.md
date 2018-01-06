@@ -12,7 +12,7 @@
   * [Requirements for Publishing](publish/requirements-for-publishing.md)
   * [How to Publish](publish/how-to-publish.md)
   * [Instructions for Testing Publishing](publish/instructions-for-testing-publishing.md)
-  * Troubleshooting Issues
+  * [Troubleshooting Issues](publish/troubleshooting-issues.md)
 * [Help](help.md)
 * [Settings](settings.md)
 * [Errors and Missing Fields](errors.md)

@@ -43,7 +43,7 @@
     * [Allocation](record/edit/record-funding/allocation.md)
 * [Contacts](contacts.md)
 * [Contact New](contact\new.md)
-  * [Individual Contacts](contact/new/individual.md)
+  * [Individual Contact](contact/new/individual.md)
   * [Organization Contacts](contact/new/organization.md)
 * [Contact Show](contact\show.md)
 * [Contact Edit](contact\edit.md)

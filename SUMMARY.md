@@ -3,16 +3,17 @@
 * [Introduction](README.md)
 * [Getting Started](getting-started.md)
 * [Dashboard](dashboard.md)
-* [File Management](file-management.md)
-* [Export](export.md)
-* [Import](import.md)
+* [Data Management](data-management.md)
+  * [File Management](file-management.md)
+  * [Export](export.md)
+  * [Import](import.md)
 * [Translate](translate.md)
 * [Publish](publish.md)
 * [Help](help.md)
 * [Settings](settings.md)
 * [Errors and Missing Fields](errors.md)
 * [Records](records.md)
-* Getting Started
+* Data Management
 * [Record Search](record-search.md)
 * [Record Show](record\show.md)
 * [Record Edit](record\edit.md)
@@ -44,5 +45,4 @@
 * [Contact New](contact\new.md)
 * [Contact Show](contact\show.md)
 * [Contact Edit](contact\edit.md)
-* [Dictionaries](dictionaries.md)
 

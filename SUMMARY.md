@@ -9,6 +9,10 @@
   * [Import](import.md)
 * [Translate](translate.md)
 * [Publish](publish.md)
+  * [Requirements for Publishing](publish/requirements-for-publishing.md)
+  * [How to Publish](publish/how-to-publish.md)
+  * Instructions for Testing Publishing
+  * Troubleshooting Issues
 * [Help](help.md)
 * [Settings](settings.md)
 * [Errors and Missing Fields](errors.md)

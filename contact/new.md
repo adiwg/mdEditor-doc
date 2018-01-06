@@ -8,16 +8,7 @@
 4. For an individual: You must specify either name or position name \(or both\).
 5. For an organization: You must specify name.
 
-## Completing Contact Information
-
-### For Individuals only
-
-* **Individual name**: Required
-* **Position name**: Optional
-* **Member of Organization**: Recommended
-  > **Note: **You can make an individual part of multiple organizations.
-
-### For Organizations only
+For Organizations only
 
 * **Organization Name**: Required
 

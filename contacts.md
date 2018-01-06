@@ -1,6 +1,6 @@
 # Contacts
 
-Contacts are individuals or organizations that can be referenced by other contacts, projects, or products. Contacts contain information such as: email address; physical address; website; phone number; etc. Contacts allow viewers of metadata records the ability to contact creators or curators of said metadata.
+Contacts are individuals or organizations that can be referenced by other contacts, projects, or products. Contacts contain information such as name of individuals or organization, email address, physical address, website, and phone number so that viewers of metadata can communicate with those affiliated with a metadata record.
 
 ### General notes on Contacts
 

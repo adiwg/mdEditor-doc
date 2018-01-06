@@ -2,8 +2,8 @@
 
 ## Overview
 
-The mdEditor application is designed using a two-pane layout. The left _**sidebar**_ \(1\) provides the primary navigation showing a list of M**etadata Records**, **Contacts** and **Data Dictionaries**. The right pane displays a context-sensitive _**main menu**_ at the top \(2\), a primary _**editor region**_ below \(3\) that displays and allows for the editing of a selected object and a** **_**status bar**_ at the very bottom of the display \(4\).  
-  
+The mdEditor application is designed using a two-pane layout. The left _**sidebar**_ \(1\) provides the primary navigation showing a list of M**etadata Records**, **Contacts** and **Data Dictionaries**. The right pane displays a context-sensitive _**main menu **_\(2\) at the top, a primary _**editor region **_\(3\) below that displays and allows for the editing of a selected object and a** **_**status bar **_\(4\) at the very bottom of the display.
+
 ![](/assets/mdEditor_areas.png)
 
 ### Basic Navigation
@@ -22,11 +22,11 @@ The left sidebar displays the various components of the current metadata record 
 
 ![](/assets/symbol_angle-down_16.png) Select the **angle-down icon** to expand a group panel and display a list of records in the sidebar.
 
-![](/assets/symbol_angle-up_16.png) **angle-up icon**. Collapse a group panel to hide all associated records.
+![](/assets/symbol_angle-up_16.png) Select the **angle-up icon **to collapse a group panel and to hide all associated records.
 
 ### Main menu
 
-The main menu contains several standard menu items that apply to areas of the mdEditor and content-specific menu items that will vary depending upon the type of record that is active.
+The main menu contains several standard menu items that apply to areas of the mdEditor, and content-specific menu items that will vary depending upon the type of record that is active.
 
 #### Standard menu items
 

@@ -1,6 +1,8 @@
 # Export \(![](/assets/symbol_sign-out_16.png)\)
 
-The export function will allow the contents of the current metadata recordset to be saved as a [mdJSON file](https://github.com/adiwg/mdJson-schemas/blob/master/test/draft-04.json). The mdJSON file can be shared with collaborators and imported into another record set, or saved to a local workstation as a backup or archival copy.
+The export function will allow the contents of the current metadata recordset to be saved as mdEditor or mdJSON file. The files can be shared with collaborators and imported into another record set, or saved to a local workstation as a backup or archival copy. 
+
+> Note: mdJSON files can be uploaded and translated to other formats via the mdTranslator application while mdEditor files are exclusive to the mdEditor application an retain all mdEditor information including settings.
 
 ![](/assets/export_window.png)
 

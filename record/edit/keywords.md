@@ -8,7 +8,7 @@ Click “+ Add Thesaurus” on the right to add the different thesauruses.
 
 \(Screenshot of pick a thesaurus\)
 
-Select **Custom Thesaurus **or any of the pre-populated thesauruses from the **Pick a thesaurus **drop-down. Consult the Custom Thesaurus section of this manual to learn how to create a custom thesaurus.
+Select **Custom Thesaurus **or any of the pre-populated thesauruses from the **Pick a thesaurus **drop-down. Consult the [Custom Thesaurus](/record/edit/keywords/custom-keywords.md) section of this manual to learn how to create user definable keywords
 
 The following pre populated thesauruses are available.
 
@@ -25,6 +25,7 @@ The following pre populated thesauruses are available.
 * LCC Deliverable Types
 
 * LCC End User Types
+
   > Note: LCC \(Landscape Conservation Cooperatives\) Keywords are maintained by the national LCCs and required for any LCC metadata.
 
 

@@ -23,7 +23,7 @@
     * [Parent Metadata](record/edit/metadata/parent-metadata.md)
       * [Identifier](record/edit/metadata/parent-metadata/identifier.md)
   * [Record Keywords](record\edit\keywords.md)
-    * [Custom Keywords](record/edit/keywords/custom-keywords.md)
+    * [Custom Thesaurus](record/edit/keywords/custom-keywords.md)
   * [Record Extent](record/edit/record-extent.md)
     * [Edit Extent Features](record/edit/record-extent/edit-extent-features.md)
   * [Record Spatial](record\edit\spatial.md)

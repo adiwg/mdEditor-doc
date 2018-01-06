@@ -4,7 +4,9 @@ The export function will allow the contents of the current metadata recordset to
 
 ![](/assets/export_window.png)
 
-Users can export a singular or group of records or contacts by individually selecting the items to be exported, and then clicking **Export Selected**. This will export the selected items as **mdEditor **files. Users can also use the **Export mdJSON **button to export selected items as **mdJSON **files.
+Users can export a singular record/contact or groups of records/contacts by individually selecting the items to be exported, and then clicking **Export Selected**. This will export the selected items as **mdEditor **files. Users can also use the **Export mdJSON **button to export selected items as **mdJSON **files.
 
-For a complete backup, use the **Export All **button. The export an mdEditor file containing all records and contacts.
+> **Best Practice**: For a complete backup, use the **Export All **button. This exports an mdEditor file containing all records and contacts.
+
+
 

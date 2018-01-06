@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* [Getting Started](getting-started.md)
 * [Dashboard](dashboard.md)
 * [File Management](file-management.md)
 * [Export](export.md)
@@ -11,7 +12,7 @@
 * [Settings](settings.md)
 * [Errors and Missing Fields](errors.md)
 * [Records](records.md)
-* [Record New](record-new.md)
+* Getting Started
 * [Record Search](record-search.md)
 * [Record Show](record\show.md)
 * [Record Edit](record\edit.md)

@@ -44,7 +44,7 @@
 * [Contacts](contacts.md)
 * [Contact New](contact\new.md)
   * [Individual Contacts](contact/new/individual.md)
-  * [Organization](contact/new/organization.md)
+  * [Organization Contacts](contact/new/organization.md)
 * [Contact Show](contact\show.md)
 * [Contact Edit](contact\edit.md)
 

@@ -2,7 +2,9 @@
 
 ## Overview
 
-The mdEditor application is designed using a two-pane layout. The left [_**sidebar**_](#sidebar) \(1\) provides the primary navigation showing a list of [metadata records](/records.md), [contacts](/contacts.md) and [data dictionaries](/dictionaries.md). The right pane displays a context-sensitive [_**main menu**_](#main-menu) at the top \(2\) and a primary [_**editor region**_](#editor-region) below \(3\) that displays and allows for the editing of a selected object.![](/assets/mdEditor_areas.png)
+The mdEditor application is designed using a two-pane layout. The left _**sidebar**_ \(1\) provides the primary navigation showing a list of M**etadata Records**, **Contacts** and **Data Dictionaries**. The right pane displays a context-sensitive _**main menu**_ at the top \(2\), a primary _**editor region**_ below \(3\) that displays and allows for the editing of a selected object and a** **_**status bar**_ at the very bottom of the display \(4\).  
+  
+![](/assets/mdEditor_areas.png)
 
 ### Basic Navigation
 
@@ -16,7 +18,7 @@ The left sidebar displays the various components of the current metadata record 
 
 ![](/assets/symbol_plus_16.png) Select the **plus icon **to add a new record to an object group.
 
-![](/assets/symbol_list_16.png) Select the **list icon** to display a list of records in the editor region.
+![](/assets/symbol_list_16.png) Select the **list icon** to display a searchable list of individual objects in the editor region.
 
 ![](/assets/symbol_angle-down_16.png) Select the **angle-down icon** to expand a group panel and display a list of records in the sidebar.
 
@@ -24,7 +26,7 @@ The left sidebar displays the various components of the current metadata record 
 
 ### Main menu
 
-The main menu contains several standard menu items that apply to areas of the mdEditor and context-specific menu items that will vary depending upon the type of record that is active.
+The main menu contains several standard menu items that apply to areas of the mdEditor and content-specific menu items that will vary depending upon the type of record that is active.
 
 #### Standard menu items
 
@@ -38,5 +40,9 @@ The main menu contains several standard menu items that apply to areas of the md
 
 ### Editor region
 
-The editor region will display information based on the type of record that is currently selected. Selecting a **list icon** will display all of the records contained in the associated group. Selecting a record will display record specific information and allow the record to be edited.
+The editor region will display information based on the type of object that is currently selected. Selecting a **list icon** \(![](/assets/symbol_list_16.png)\)will display all of the records contained in the associated object \(metadata, contacts or dictionaries\) in the editor region. Selecting a record will display record specific information and allow the record to be edited.
+
+### Status Bar
+
+The status bar displays various informational messages, such as whether the [Auto Save](/settings.md) feature is on or off.
 

@@ -6,8 +6,8 @@ The mdEditor is a web application that allows users to author and edit metadata 
 
 ## Features
 
-* Responsive, two-panel layout should allow display on desktop and mobile devices.
-* Launched through a web browser, no need to install software.
+* Responsive, two-panel layout allows for display on both desktop and mobile devices.
+* Launched through a web browser, there is no need to install software.
 * Metadata is initially stored in the browser local storage cache.
 * Metadata can be exported as a text file \(JSON format\) for archiving or sharing.
 * Open source development allows for customization.
@@ -16,7 +16,7 @@ The mdEditor is a web application that allows users to author and edit metadata 
 
 ## Background
 
-The mdEditor is an extension of a project initiated by the [Alaska Data Integration Working Group](http://www.adiwg.org/about/) \(ADIwg\) to adopt a set of project-level metadata fields for use by [member organizations](http://www.adiwg.org/about/#contributing-organizations). This editor is one of several integrated ADIwg projects, which include an ADIwg developed [mdJSON Schema](https://github.com/adiwg/mdJson-schemas) that forms the underlying data structure for metadata records and a [variety of tools](http://mdtools.adiwg.org/#popup-welcome) that allow the mdJSON data file to be validated against the mdJSON schema and converted to other formats.
+The mdEditor is an extension of a project initiated by the [Alaska Data Integration Working Group](http://www.adiwg.org/about/) \(ADIwg\) to adopt a set of project-level metadata fields for use by [member organizations](http://www.adiwg.org/about/#contributing-organizations). This editor is one of several integrated ADIwg projects, which include an ADIwg developed [mdJSON Schema](https://github.com/adiwg/mdJson-schemas) \(which forms the underlying data structure for metadata records\) and a [variety of tools](http://mdtools.adiwg.org/#popup-welcome) that allow the mdJSON data file to be validated against the mdJSON schema and converted to other formats.
 
 The mdEditor is a web application for authoring and editing metadata, for both projects and datasets. It interfaces with the mdTranslator to convert mdJSON to other metadata formats.
 

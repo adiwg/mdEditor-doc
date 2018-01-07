@@ -29,28 +29,41 @@ The **Main **tab allows for the editing of primary metadata.
 
 ![](https://lh5.googleusercontent.com/b3GKNX22m0ZAXJBjwl0o9-pOIRwA7GZW7f8pPakoOYgJbWGagO_c9QW0xt7xONBwUAjrrXj9r-g1Syw_XhfU8qSPnncHxb-7uHFqdWTxe-x9RnqEsQknnVNbdV-oyGqEtNYFHQv4)
 
-**Point Of Contacts **may be added by clicking the **Add **button. 
+**Point Of Contacts **may be added by clicking the **Add **button.
 
 From the **Role **drop-down menu, select or enter a roll for your point of contact. From the **Contacts **drop-down menu, select a contact the list of contacts. Learn how to create a contact in the [**Contact New**](/contact\new.md)** **section of this manual.
 
 ---
 
-\(Screenshot of "Citation"\)
+#### **Citation**![](https://lh6.googleusercontent.com/6HlssG-PaXQEFLflkgMXCauJ7BxZwUfWqYdmu3ZHlv6a7YiwTh1VQIqf2crWkYxdrr6AyoTIKZGqhxrsr3MeGXhg0DLVGNbSQw5DvKWNs0W3xzn55uS2SDqwmE7zj_HNSUFI-1TC)
 
 **Citation **is used** **to add record citations. Read the [**Main** **Citation**](/record/edit/main/citation.md)** **section of this manual to learn how to edit citations.
 
-\(Screenshot of "Description"\)
+---
+
+#### **Description**
+
+![](/assets/Description.png)
 
 **Description **allows for the addition of the **Abstract **as well as a **Short Abstract **\(limited to 300 characters\), a **Purpose**, **Supplemental Information**, and an **Environment Description**.
 
-\(Screenshot of "Time Period"\)
+---
 
-**Time Period** refers to project start and end, or date that product was applicable \(e.g., time that a map is valid, date of publication, date of presentation\)
+#### **Time Period**
 
-* Recommended for projects: add start and end date for project
-* Time Period isn’t required but if you choose to enter something in time period, you have to enter a date.
+![](https://lh6.googleusercontent.com/qxFTVhwjILl5KxVKDAnlegTc-gjh28dFI0RiioVQrITdkphJp3oE3UokYkhG5VEipyJGl6Dj50RNszi6dIQLFjPxTMPRMZAOaFh4DiL184yheV9sKj1_gGnlcjYH_8_bp4aJnH6t)
 
-\(Screenshot of "Graphic Overview"\)
+**Time Period** refers to project start and end date, or the date that the product was applicable \(e.g., time that a map is valid, date of publication, date of presentation\)
+
+> ![](/assets/BestPracticeSmall.png)**Best Practice:** For projects, add a start and end date for each project
+>
+> ![](/assets/NoteSmall.png)Time Period isn’t required but if you choose to enter something in time period, you have to enter a date.
+
+---
+
+#### **Graphic Overview**
+
+![](https://lh4.googleusercontent.com/E0bc_a4f_FyRC3KkEPAGxYFom_bbh-DeJ6r0LZqx8m575f7rvr1-nBBfq04ANOsiYFDC5UeeD57vuS0-VRgwQbVdQvdlIcz4HnXgizjYooWF57ro2eHHyk0js3RfpMZuy0mfWvFZ)
 
 **Graphic Overview **allows for the addition of a graphic image such as a logo. Graphics must be smaller than 50kb and recommended size is smaller than 25kb.
 

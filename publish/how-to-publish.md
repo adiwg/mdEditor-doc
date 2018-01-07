@@ -2,22 +2,21 @@
 
 > ![](/assets/BestPracticeSmall.png)**Best Practice:** always hit_ refresh_ in your browser before each work session \(and periodically throughout the day\) to ensure you are using the most updated version of mdEditor. Always refresh before you access the publishing menu. However, If you start moving items around in the publishing outline \(see below for details\), you may lose this information once you refresh.
 
-
-
 * Click the **Publish** button from the top menu in mdEditor.
 
 * You will be asked to select a _publishing service_. Currently the only publishing service available is ScienceBase \(there may be additional options in the future, such as data.gov\). Click on ScienceBase.
 
-* A login window will appear on the right side of the screen - enter your ScienceBase ID and password, and click **Login**. When you are logged in, the login window will display who you are logged in as. The current user must have read/write permissions on ScienceBase for any items to be published \(including parent items\). You cannot publish until you are logged in.                             
+* A login window will appear on the right side of the screen - enter your ScienceBase ID and password, and click **Login**. When you are logged in, the login window will display who you are logged in as. The current user must have read/write permissions on ScienceBase for any items to be published \(including parent items\). You cannot publish until you are logged in.
 
-* You will see a list of every valid record in mdEditor in the publishing outline with its ScienceBase Identifier \(if the record already exists on ScienceBase\) and its parent ScienceBase Identifier \(if present in the metadata\). This publishing outline shows records in a parent-child relationship and reflects what you would see when you publish in ScienceBase. Parent-child refers to how the records are organized and displayed on ScienceBase; this is different than the Project and Product associations that are embedded within the metadata records. 
-  ---
+* You will see a list of every valid record in mdEditor in the publishing outline with its ScienceBase Identifier \(if the record already exists on ScienceBase\) and its parent ScienceBase Identifier \(if present in the metadata\). This publishing outline shows records in a parent-child relationship and reflects what you would see when you publish in ScienceBase. Parent-child refers to how the records are organized and displayed on ScienceBase; this is different than the Project and Product associations that are embedded within the metadata records.
 
-**Parent IDS**
+---
+
+**Parent IDs**
 
 Records without parent IDs already in their metadata will appear directly under the ScienceBase header, indicating that they will be published under the default parent identifier established in the settings \(which is also visible on the header - you can click it to follow a link to the record on ScienceBase\).
 
--Records that have parent IDs in the metadata record will appear below a thick blue line and will be published under the parent ID in their metadata \(which is visible in that record’s entry in the outline\). 
+-Records that have parent IDs in the metadata record will appear below a thick blue line and will be published under the parent ID in their metadata \(which is visible in that record’s entry in the outline\).
 
 > ![](/assets/NoteSmall.png): if you do not want these parent IDs to change, DO NOT drag and drop these records in the publishing outline.
 
@@ -25,7 +24,6 @@ Records without parent IDs already in their metadata will appear directly under 
 
 **How the publishing outline works:**
 
-  
 The publisher looks for the first identifier in a record that matches an existing one in mdEditor and then puts it under that record in the outline. If it doesn't find a matching identifier, it puts the record at the** root level**. Items directly below the ScienceBase header will be published under the SB item identified in your settings as “Default Parent Identifier.” Items below the blue line will be published under the parent ID specified in the metadata.
 
 * For example, if the Default Parent Identifier is your LCC Community, then projects at the root level in the publishing outline will be added directly under your LCC Community.
@@ -63,10 +61,11 @@ The publisher looks for the first identifier in a record that matches an existin
   >
   > If your products are housed in a “Products” folder on ScienceBase \(or other intermediate folders between the project item and the products\), then your products will NOT be nested under projects in the publishing outline. The parent ID for those products is the “Products” folder, which would not have a record in mdEditor. If this is your situation, don't mess with the structure in the publishing outline and publish as is \(i.e., with every item organized at the root level in the outline\).
 
-* To select a record to publish, click on it and it will turn green \(click again to un-select it\). 
-  -You cannot publish a record without a parent ID.
-  -Sending a non-existent parent ID to ScienceBase will return an error.
+* To select a record to publish, click on it and it will turn green \(click again to un-select it\).   
+  -You cannot publish a record without a parent ID.  
+  -Sending a non-existent parent ID to ScienceBase will return an error.  
   -If records contain parent IDs in the metadata, you can choose to just publish products without publishing their parent projects.
+
 * mdEditor publishes sequentially, starting with the top record \(so it will publish the project first, then the products nested below it\). 
   -If you are publishing to your default parent identifier or you have changed any project-product relationships in the publishing outline, you will see the updated parent IDs appear in the outline as publishing occurs \(if you’re publishing to the existing locations on SB, the IDs won’t change\). These new/updated IDs will also be injected directly into the mdJSON file in mdEditor. However, these updated IDs will not be included in the mdJSON file that is attached to ScienceBase as part of the publishing process. You would have to publish the record a second time to update the mdJSON file attached on ScienceBase.
 * Once publishing is done, refresh ScienceBase to ensure everything is showing up how you expected it would show up.

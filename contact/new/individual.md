@@ -1,6 +1,6 @@
 # Individual Contacts
 
-The following fields are available for individual contacts: 
+The following fields are available for individual contacts:
 
 * **Individual name**: Required
 * **Position name**: Required
@@ -16,15 +16,16 @@ The following fields are available for individual contacts:
 
   > ![](/assets/NoteSmall.png)** **Users** **can either select or drop an image to be used as a logo.
   >
-  > *  Images loaded into mdEditor must be smaller than 50kb \(recommended size is smaller than 25kb\).
-  >   *  If a larger image is necessary, link to it rather than load it into mdEditor. If your contact contains a logo, you must include a filename for the logo. 
-  > * If an organization has a logo associated with it, individuals will inherit the logos from the organization.
+  > * Images loaded into mdEditor must be smaller than 50kb \(recommended size is smaller than 25kb\).
+  >   * If a larger image is necessary, link to it rather than load it into mdEditor
+
+  > *  If your contact contains a logo, you must include a filename for the logo. 
+  >
+  > * If an organization has a logo associated with it, individuals will inherit the logo from the organization.
 
 * **Available Times**: Recommended
 
   ---
-
-
 
 
 

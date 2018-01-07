@@ -4,7 +4,7 @@ Publishing requires the record to be a "valid" record \(i.e., passes the basic m
 
 Publishing requires that you have a parent identifier assigned to every record. The Default Parent Identifier can be set in mdEditor Settings. Consult the [Settings](/settings.md) for more information.
 
-> ![](/assets/NoteSmall.png) Please use a testing folder before you update your real records.
+> ![](/assets/NoteSmall.png) Please use a testing folder before you update your real records. \(See the Instructions for Testing section for more information\)
 
 
 

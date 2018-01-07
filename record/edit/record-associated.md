@@ -1,8 +1,6 @@
 # Record Associated
 
-The **Associated** section is used to associate project with product.
+The **Associated** section is used to associate projects with products.
 
-Select “resource type.”
-
-Add an identifier.
+![](/assets/AssociatedScreenshot.png)
 

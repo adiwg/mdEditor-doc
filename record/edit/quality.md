@@ -12,3 +12,5 @@
 
 **Transfer Options **provide details regarding obtaining the product. Online and offline options are available. Consult the [**Transfer Options**](/record/edit/quality/edit-distributors.md)** **section of this manual to learn how to edit transfer options.
 
+**Order Process** describes the steps necessary for ordering the product. Consult the Order Process section of this manual to learn about editing the order process.
+

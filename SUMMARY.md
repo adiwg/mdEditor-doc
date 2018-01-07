@@ -33,8 +33,6 @@
     * [Edit Extent Features](record/edit/record-extent/edit-extent-features.md)
   * [Record Lineage](record\edit\distribution.md)
     * [Process Step](record/edit/distribution/process-step.md)
-    * [Lineage Sources](record/edit/distribution/sources.md)
-    * [Lineage Citation](record/edit/distribution/citation.md)
   * [Record Spatial](record\edit\spatial.md)
     * [Reference System Type](record/edit/spatial/reference-system-type.md)
     * [Spatial Resolution](record/edit/spatial/spatial-resolution.md)

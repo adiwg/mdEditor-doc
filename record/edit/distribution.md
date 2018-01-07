@@ -9,9 +9,12 @@
 
 Add a general **Statement **noting actions taken to verify, transform, repair, and integrate the resource.
 
-* Consult the [**Process Step**](/record/edit/distribution/process-step.md) section of this manual to learn how to add the steps taken in the creation of your project.
-* Consult the [**Sources**](/record/edit/distribution/sources.md) section of this manual to learn how to add your sources.
-* Consult the [**Citation**](/record/edit/distribution/citation.md) section of this manual to learn how to add citations.
+The following fields are available but optional
+
+* **Process Step**: Consult the [**Process Step**](/record/edit/distribution/process-step.md) section of this manual to learn how to add the steps taken in the creation of your project.
+* **Sources**
+* **Citation**
+* **Scope**
 
 
 

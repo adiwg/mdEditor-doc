@@ -5,6 +5,19 @@
 
 Available fields include:
 
-* 
+* **Medium Title**: The title of the medium.
+
+* **Storage**: Describes the storage format of the item. IE: Size and type of the medium.
+
+* **Identifier**: Provides a unique identity of the medium.
+
+* **Namespace**: Provides a database the the identifier is related to.
+
+*  **Version**: Provides a version of the identifier.
+
+* **Description**: Describes the identifier.
+
+* **Note**: Users can also add a note with further description of the offline item.
+
 
 

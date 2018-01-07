@@ -10,15 +10,17 @@ The following fields are available for Organization contacts:
 * **Physical address**: Recommended
 * **Online Resource**: Recommended
 
-  > **Note**:Online resource my include websites or social networks.
+  > ![](/assets/NoteSmall.png)Online resource may include websites or social networks.
 
-* **Logo**: Optional
+**Logo**: Optional
 
-  > **Note**:** **Users** **can either select or drop an image that will be used for a logo. Images loaded into mdEditor must be smaller than 50kb and recommended size is smaller than 25kb. If a larger image is necessary, link to it rather than load into mdEditor. If your contact contains a logo, you must include a filename for the logo or else you will get an error on your metadata records that include that contact. If an organization has a logo associated with it, individuals will inherit the logos from the organization.
+> ![](blob:https://www.gitbook.com/0c981198-af1b-4a54-8f28-100a015b1951)Users can either select or drop an image that will be used for a logo.
+>
+> * Images loaded into mdEditor must be smaller than 50kb \(recommended size is smaller than 25kb\). If a larger image is necessary, link to it rather than loading it into the mdEditor. 
+>
+> * If your contact contains a logo, you must include a filename for the logo.
+>
+> * If an organization has a logo associated with it, individuals will inherit the logo from the organization.
 
-* **Available Times**: Recommended
-
-> **Note: **You can make an individual part of multiple organizations.
-
-
+**Available Times**: Recommended
 

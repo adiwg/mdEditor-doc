@@ -1,4 +1,4 @@
 # Spatial Resolution
 
-\(Screenshot of "Spatial Resolution Window"\)
+![](https://lh6.googleusercontent.com/lMPAuHivRGjxeb_sC4U7hFesl9SGizocm8PAoroXbG2MN4g5bRhcDiybImmhf3_RtpHVwp2vQ7YD4HHeJnOLefHElJ0mHGiYTLAIs-S5JTuv1OCczKedQVh2iQHYyzTcaSDDTryK)
 

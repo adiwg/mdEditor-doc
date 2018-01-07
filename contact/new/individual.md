@@ -1,22 +1,30 @@
 # Individual Contacts
 
-The following fields are available for individual contacts:
+The following fields are available for individual contacts: 
 
 * **Individual name**: Required
 * **Position name**: Required
 * **Contact Type**: Recommended
-* **Member of Organization**: Recommended
+* **Member Organization**: Recommended
+  > ![](blob:https://www.gitbook.com/5f70dbd0-c8cf-4fd5-a80a-f0eff2109184)You can make an individual part of multiple organizations.
 * **Phone**: Recommended
 * **Email address**: Required
 * **Physical address**: Recommended
 * **Online Resource**: Recommended
-  > **Note**:Online resource my include websites or social networks.
+  > ![](/assets/NoteSmall.png)Online resources may include websites or social networks.
 * **Logo**: Optional
-  > **Note**:** **Users** **can either select or drop an image that will be used for a logo. Images loaded into mdEditor must be smaller than 50kb and recommended size is smaller than 25kb. If a larger image is necessary, link to it rather than load into mdEditor. If your contact contains a logo, you must include a filename for the logo or else you will get an error on your metadata records that include that contact. If an organization has a logo associated with it, individuals will inherit the logos from the organization.
+
+  > ![](/assets/NoteSmall.png)** **Users** **can either select or drop an image to be used as a logo.
+  >
+  > *  Images loaded into mdEditor must be smaller than 50kb \(recommended size is smaller than 25kb\).
+  >   *  If a larger image is necessary, link to it rather than load it into mdEditor. If your contact contains a logo, you must include a filename for the logo. 
+  > * If an organization has a logo associated with it, individuals will inherit the logos from the organization.
 
 * **Available Times**: Recommended
 
-> **Note: **You can make an individual part of multiple organizations.
+  ---
+
+
 
 
 

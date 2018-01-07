@@ -6,7 +6,9 @@ Contacts are individuals or organizations that can be referenced by other contac
 
 Copying contacts will change the ID and the name \(the name will be “Copy of ….”\) but all the other information will be the same.
 
-> **Best practice**: It is safest to export all contacts whenever you export a project/product. Consult the [Export](/export.md) section of this manual to learn more.
+> ![](/assets/BestPracticeSmall.png)**Best practice**: It is safest to export all contacts whenever you export a project/product. 
+>
+> Consult the [Export](/export.md) section of this manual to learn more.
 
 
 

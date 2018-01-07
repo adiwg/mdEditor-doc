@@ -8,7 +8,7 @@ For tracking issues, please use the github thread [here](https://github.com/adiw
 
    > ![](/assets/BestPracticeSmall.png)
    >
-   > **Best Practice**: It is recommend that you export that project and its products into its own mdEditor file. Set default parent identifier as a test folder.
+   > **Best Practice**: It's recommended that you export that project and its products into its own mdEditor file. Set default parent identifier as a test folder.
 
    If you** already have** items on SB, it is harder to test without affecting your real records.
 
@@ -28,7 +28,8 @@ For tracking issues, please use the github thread [here](https://github.com/adiw
 
 5. Follow the publishing instructions above for the Scenario that applies to you.
 
-6. Verify your test records have published as expected in your test folder on ScienceBase \(or to the real record if that’s how you are testing\).
+6. Verify that your test records have published as expected in your test folder on ScienceBase \(or to the real record if that’s how you are testing\).
+
 7. After you are satisfied with how your test records published to ScienceBase, you can proceed with publishing your real record.
 8. Update your mdEditor settings to your real Default Parent Identifier.
 9. Using the record you just tested, proceed with publishing to the real location on ScienceBase.

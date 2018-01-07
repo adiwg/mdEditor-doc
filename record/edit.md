@@ -1,6 +1,6 @@
 # Record Edit
 
-\(Screenshot of "Edit Button"\)
+\(Screenshot of Edit Button\) 
 
 Click the **Edit **button to begin editing your record.
 

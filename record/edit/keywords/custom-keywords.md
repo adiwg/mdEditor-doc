@@ -1,8 +1,9 @@
 # Custom Keywords
 
-> mdEditor allows for the creation of user creatable custom thesauruses.  
->   
-> **Best Practice**: Use custom theasauruse when pre populated thesaurus do not offer necessary keywords.
+mdEditor allows for the creation of user-created, custom thesauruses.
+
+> ![](/assets/BestPracticeSmall.png)  
+> **Best Practice**: Use a custom thesaurus when a pre-populated thesaurus does not offer necessary keywords.
 
 ## Available fields
 
@@ -16,6 +17,4 @@
 ## Add Keyword
 
 Click the **Add Keyword **button to add keywords. Enter your **Keyword **in the field and add an optional **ID**.
-
-
 

@@ -8,7 +8,7 @@ Select **Custom Thesaurus **or any of the pre-populated thesauruses from the **P
 
 ![](https://lh5.googleusercontent.com/KVJ4_feuJ1xYnsRLYYGfRFBOJ_pR76xdlThDJ39GYUFdkyUR-wbODSCKEW637polRHdv4JqotIFxiEPKUZgLo7EGv41XAF63zcx7sqrYLNdWnc1CVhGk7HYzLXcrEY5LoPOA37-c)
 
-**The following pre populated thesauruses are available: **
+**The following pre-populated thesauruses are available: **
 
 1. GCMD Science Keywords
 

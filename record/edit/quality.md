@@ -1,16 +1,14 @@
 # Record Distribution
 
-\(Screenshot of Record Distribution window\)
-
-\(Description of Distribution\)
-
-Use **Description **to describe the distribution of the resource.
+**Distribution **allows users the ability to document how products are obtained. Online or offline options are available. 
 
 ---
 
-## Edit Distribution
+## Editing Distributors for Distribution
 
-\(Screenshot of "Transfer Options" window\)
+![](/assets/Editing_Distributors_For_Distribution_Window.png)**Contacts **are required and can be selected from the list of contacts. Consult the [Contacts](/contacts.md) section of this manual to learn how to add contacts.
+
+**Role **is required and can be added or selected from dropdown menu.
 
 Transfer Options:
 

@@ -4,7 +4,7 @@ There are two icons with exclamation points that will appear to alert you to pot
 
 ![](/assets/SmallRed.png)The red exclamation point indicates “This record has been modified! Click to save.”
 
-![](/assets/SmallOrange.png)The orange exclamation point indicates “This record has errors! Click to view.”
+![](/assets/SmallOrange.png) The orange exclamation point indicates “This record has errors! Click to view.”
 
 To review errors, click on the orange error icon next to metadata title
 
@@ -22,12 +22,12 @@ When all errors are resolved, the pencil edit icon on the left for that particul
 
 ### Advanced option for reviewing records:  Use mdTranslator
 
-\(Screenshot of "Translate" button\)
+![](/assets/Translate.png)
 
 Click “Translate” in the top main menu
 
-Select HTML to check your mdEditor file
+Select HTML to check your mdEditor file. It is normal for the translation to take some time. 
 
-The service might have delays waking up so translating might take a while  
+  
 .
 

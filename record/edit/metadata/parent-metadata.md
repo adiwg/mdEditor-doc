@@ -3,7 +3,7 @@
 Parent Metadata allows for an association between the current record and its parent record.
 
 * **Title **is required.
-* **Alternate Title **allows for the additional title of the resource.
+* **Alternate Title **allows for an additional title of the resource.
 * **Dates **allow for the addition of a **Date**, **Date Type**, **Description, Edition**, and **Presentation Form**.
 * **Responsible Parties **allows for the selection of a responsible party from your list of contacts.
 * **Online Resource **allows for the addition of a URL noting where the parent resides online.

@@ -1,32 +1,34 @@
 # Keywords
 
-\(Screenshot of "Keywords Window"\)
-
 **Keywords **allow for the addition of keywords via selectable thesauruses.
 
 Click “+ Add Thesaurus” on the right to add the different thesauruses.
 
-\(Screenshot of pick a thesaurus\)
+Select **Custom Thesaurus **or any of the pre-populated thesauruses from the **Pick a thesaurus **drop-down. \(Consult the [Custom Thesaurus](/record/edit/keywords/custom-keywords.md) section of this manual to learn how to create user definable keywords\)
 
-Select **Custom Thesaurus **or any of the pre-populated thesauruses from the **Pick a thesaurus **drop-down. Consult the [Custom Thesaurus](/record/edit/keywords/custom-keywords.md) section of this manual to learn how to create user definable keywords
+![](https://lh5.googleusercontent.com/KVJ4_feuJ1xYnsRLYYGfRFBOJ_pR76xdlThDJ39GYUFdkyUR-wbODSCKEW637polRHdv4JqotIFxiEPKUZgLo7EGv41XAF63zcx7sqrYLNdWnc1CVhGk7HYzLXcrEY5LoPOA37-c)
 
-The following pre populated thesauruses are available.
+**The following pre populated thesauruses are available: **
 
-* GCMD Science Keywords
-* GCMD Platforms
-* GCMD Instruments
+1. GCMD Science Keywords
 
-  > **Note**: GCMD \(Global Change Master Directory keywords\) are built and maintained by NASA.
+2. GCMD Platforms
 
-* ISO Topic Category
+3. GCMD Instruments
 
-  > **Note:** ISO \(International Organization for Standardization\) topics were built and maintained by the ISO Technical Committee and are required for the development of ISO metadata.
+4. ISO Topic Category
 
-* LCC Deliverable Types
+5. LCC Deliverable Types
 
-* LCC End User Types
+6. LCC End User Types
 
-  > Note: LCC \(Landscape Conservation Cooperatives\) Keywords are maintained by the national LCCs and required for any LCC metadata.
+> ![](/assets/NoteSmall.png)
+>
+> **GCMD \(Global Change Master Directory keywords\)** are built and maintained by NASA.
+>
+> **ISO \(International Organization for Standardization\)** topics were built and maintained by the ISO Technical Committee and are required for the development of ISO metadata.
+>
+> **LCC \(Landscape Conservation Cooperatives\) **Keywords are maintained by the national LCCs and required for any LCC metadata.
 
 
 

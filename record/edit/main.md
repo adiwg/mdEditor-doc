@@ -67,7 +67,11 @@ From the **Role **drop-down menu, select or enter a roll for your point of conta
 
 **Graphic Overview **allows for the addition of a graphic image such as a logo. Graphics must be smaller than 50kb and recommended size is smaller than 25kb.
 
-\(Screenshot of "Credits"\)
+---
+
+#### **Credits**
+
+![](/assets/CreditsScreenshot.png)
 
 **Credits **allows for the addition of additional credits for the resource.
 

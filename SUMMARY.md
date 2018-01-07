@@ -37,7 +37,7 @@
     * [Reference System Type](record/edit/spatial/reference-system-type.md)
     * [Spatial Resolution](record/edit/spatial/spatial-resolution.md)
   * [Record Distribution](record\edit\quality.md)
-    * [Edit Distributors](record/edit/quality/edit-distributors.md)
+    * [Transfer Options](record/edit/quality/edit-distributors.md)
       * [Online Option](record/edit/quality/edit-distributors/online-option.md)
       * [Offline Options](record/edit/quality/edit-distributors/offline-options.md)
   * [Record Constraints](record/edit/record-constraints.md)

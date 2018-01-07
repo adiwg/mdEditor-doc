@@ -1,6 +1,6 @@
 # Record Distribution
 
-**Distribution **allows users the ability to document how products are obtained. Online or offline options are available. 
+**Distribution **allows users the ability to document how products are obtained. Online or offline options are available.
 
 ---
 
@@ -10,18 +10,7 @@
 
 **Role **is required and can be added or selected from dropdown menu.
 
-Transfer Options:
-
-* Contacts
-* Role
-
-* Transfer Size: Describe size of resource in MB.
-
-* Distribution Units: Don’t worry about this. Used for items with unique units \(e.g. USGS quads\).
-
-Consult the [**Online Options**](/record/edit/quality/edit-distributors/online-option.md) section of this manual to learn how to add online options.
-
-Consult the [**Offline Options**](/record/edit/quality/edit-distributors/offline-options.md) of this manual to learn how to add offline options.
+**Transfer Options **provide details regarding obtaining the product. Online and offline options are available. Consult the [**Transfer Options**](/record/edit/quality/edit-distributors.md)** **section of this manual to learn how to edit transfer options.
 
 ---
 

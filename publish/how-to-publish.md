@@ -34,6 +34,8 @@ The publisher looks for the first identifier in a record that matches an existin
 
 -You can drag and drop records to establish the parent-child relationship here \(so you don’t have to manually establish in ScienceBase\). This will also allow you to move items around \(e.g., move a product from one project to another\) and have that change be reflected on ScienceBase. Remember, this is only about parent-child relationships on ScienceBase, not about project-product associations.
 
+![](/assets/NoteSmall.png)
+
 > If you move a product under a different project, it will update that product’s parent ID.
 >
 > Parent IDs established through the relationships in the publishing outline will overwrite existing parent IDs in the metadata.
@@ -42,7 +44,7 @@ The publisher looks for the first identifier in a record that matches an existin
 
 -If you have existing parent IDs in your metadata \(and want to keep them as is\), DO NOT drag and drop those records onto the ScienceBase header - this will erase the existing parent ID and insert whatever you have set as the default parent identifier.
 
-> **Best practice:** Make sure if you have projects and associated products that you have them in mdEditor at the same time and manage them at the same time.
+> ![](/assets/BestPracticeSmall.png)**Best practice:** Make sure if you have projects and associated products that you have them in mdEditor at the same time and manage them at the same time.
 
 * Before you move records in the publishing outline please select your scenario below and follow the corresponding guidance.  
   -Scenario A: You do not have items on ScienceBase yet and your desired parent-child relationship is having each product as a direct child of a project item on ScienceBase:
@@ -61,13 +63,14 @@ The publisher looks for the first identifier in a record that matches an existin
   >
   > If your products are housed in a “Products” folder on ScienceBase \(or other intermediate folders between the project item and the products\), then your products will NOT be nested under projects in the publishing outline. The parent ID for those products is the “Products” folder, which would not have a record in mdEditor. If this is your situation, don't mess with the structure in the publishing outline and publish as is \(i.e., with every item organized at the root level in the outline\).
 
-* To select a record to publish, click on it and it will turn green \(click again to un-select it\).   
+* To select a record to publish, click on it and it will turn green \(click again to un-select it\).  
   -You cannot publish a record without a parent ID.  
   -Sending a non-existent parent ID to ScienceBase will return an error.  
   -If records contain parent IDs in the metadata, you can choose to just publish products without publishing their parent projects.
 
-* mdEditor publishes sequentially, starting with the top record \(so it will publish the project first, then the products nested below it\). 
+* mdEditor publishes sequentially, starting with the top record \(so it will publish the project first, then the products nested below it\).   
   -If you are publishing to your default parent identifier or you have changed any project-product relationships in the publishing outline, you will see the updated parent IDs appear in the outline as publishing occurs \(if you’re publishing to the existing locations on SB, the IDs won’t change\). These new/updated IDs will also be injected directly into the mdJSON file in mdEditor. However, these updated IDs will not be included in the mdJSON file that is attached to ScienceBase as part of the publishing process. You would have to publish the record a second time to update the mdJSON file attached on ScienceBase.
+
 * Once publishing is done, refresh ScienceBase to ensure everything is showing up how you expected it would show up.
   -SB items should have an mdJSON and xml file attached.
   -SB items should be in the location reflected in the mdEditor publishing outline.

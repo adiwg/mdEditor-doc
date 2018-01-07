@@ -1,12 +1,11 @@
 # Main
 
-The **Main **tab allows editing of primary metadata.
+The **Main **tab allows for the editing of primary metadata.
 
-\(Screenshot of Basic Information\) 
+![](/assets/MainScreenshot.png)
 
-**Record ID **and **Title **are auto-filled.
-
-The **Status **drop-down menu allows you to select the status of your item.
+* When editing a **Record ID **and **Title **are auto-filled \(but can be edited\).
+* The **Status **drop-down menu allows you to select the status of your item.
 
 ---
 
@@ -22,7 +21,7 @@ The **Status **drop-down menu allows you to select the status of your item.
 
 ![](https://lh5.googleusercontent.com/mpINpuZFxHh2SvToPFVGJcILS3vDJNnF_hETtwi3BmAImHcYpQHSPKSs3SySaxZdTUgyQB0PD9ghrw2djbh9ce5ZwcvV239b38nt2dGW3wlVyFT_Kmu51N789u6xmED7YQOANpyM)
 
-**Resource Types** \(**Type **and **Name**\), will be filled automatically with the information that you added when you created your record \(as described in [**Record New**](/records\record\new.md)\). These may be changed as necessary.
+**Resource Types** \(**Type **and **Name**\), will be filled automatically with the information added when you created your record \(as described in [**Record New**](/records\record\new.md)\). These may be changed as necessary.
 
 ---
 
@@ -30,7 +29,9 @@ The **Status **drop-down menu allows you to select the status of your item.
 
 ![](https://lh5.googleusercontent.com/b3GKNX22m0ZAXJBjwl0o9-pOIRwA7GZW7f8pPakoOYgJbWGagO_c9QW0xt7xONBwUAjrrXj9r-g1Syw_XhfU8qSPnncHxb-7uHFqdWTxe-x9RnqEsQknnVNbdV-oyGqEtNYFHQv4)
 
-**Point Of Contacts **may be added by clicking the **Add **button. From the **Role **drop-down menu, select or enter a roll for your point of contact. From the **Contacts **drop-down menu, select a contact the list of contacts. Learn how to create a contact in the [**Contact New**](/contact\new.md)** **section of this manual.
+**Point Of Contacts **may be added by clicking the **Add **button. 
+
+From the **Role **drop-down menu, select or enter a roll for your point of contact. From the **Contacts **drop-down menu, select a contact the list of contacts. Learn how to create a contact in the [**Contact New**](/contact\new.md)** **section of this manual.
 
 ---
 

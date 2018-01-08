@@ -22,7 +22,7 @@
 
   * Indicating that they will be published under the default parent identifier established in the settings. This information is visible on the header, which is hyperlinked to the record on ScienceBase. 
 
-* Records** that have **parent IDs in the metadata record will appear below a thick blue line and will be published under the parent ID in their metadata .
+* Records** that have** **parent IDs** in the metadata record will appear below a thick blue line and will be published under the parent ID in their metadata .
 
 > ![](/assets/NoteSmall.png) if you do not want these parent IDs to change,** do not** drag and drop these records in the publishing outline.
 

@@ -1,13 +1,17 @@
 # Import \(![](/assets/symbol_sign-in_16.png)\)
 
-The Import function will allow the contents of an mdEditor or [mdJSON file](https://github.com/adiwg/mdJson-schemas/blob/master/test/draft-04.json)  file to be incorporated into the current metadata record.  
-![](/assets/Import_Window.png)
+The Import function will allow the contents of an mdEditor or [mdJSON file](https://github.com/adiwg/mdJson-schemas/blob/master/test/draft-04.json)  file to be incorporated into the current metadata record.
 
 Users can click the **Import Data **button to import a local file, or simply drag and drop files onto the button.
 
 Files can also be imported using the **Import from Online URL **functionality.
 
-If importing from ScienceBase, please do the following:
+  
+![](/assets/Import_Window.png)
+
+---
+
+#### If importing from ScienceBase, please do the following:
 
 * In Import URL field, paste: [https://api.sciencebase.gov/sbmd-service/mdjson/](https://api.sciencebase.gov/sbmd-service/mdjson/).
   > ![](/assets/NoteSmall.png) You can set default import URL to the "ScienceBase API link" in settings section and it will pre-populate this field. Please refer to the [Settings](/settings.md) section of this manual.

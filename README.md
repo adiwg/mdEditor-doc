@@ -37,7 +37,7 @@ Primary development has been performed by Josh Bradley \(joshua\_bradley@fws.gov
 
 ## Overall Science Catalog System Architecture
 
-The following diagram describes the science catalog system architecture.
+_The following diagram describes the science catalog system architecture._
 
 > ![](blob:https://www.gitbook.com/8dc807c5-afde-465b-a552-3ca05303b2b2)Currently the mdEditor is used primarily with ScienceBase, a collaborative scientific data and information management platform developed and run by the USGS and used directly by science teams. The mdEditor can work with other databases, but in this manual, ScienceBase will be used as the primary example of a database.
 >

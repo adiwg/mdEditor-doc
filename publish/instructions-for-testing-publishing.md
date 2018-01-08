@@ -33,6 +33,7 @@ For tracking issues, please use the github thread [here](https://github.com/adiw
 7. After you are satisfied with how your test records published to ScienceBase, you can proceed with publishing your real record.
 
 8. Update your mdEditor settings to your real Default Parent Identifier.
+
 9. Using the record you just tested, proceed with publishing to the real location on ScienceBase.
 10. Make sure any test SBIDs are removed entirely from the record you want to actually publish.
 11. Verify the real records have updated as expected.

@@ -83,7 +83,7 @@ Before you move records in the publishing outline please select your scenario be
 * To select a record to publish, click on it and it will turn green \(click again to un-select it\).
 
   * You cannot publish a record without a parent ID.
-  * Sending a non-existent parent ID to ScienceBase will return an error.
+    * Sending a non-existent parent ID to ScienceBase will return an error.
   * If records contain parent IDs in the metadata, you can choose to  publish products without publishing their parent projects.
 
 * mdEditor publishes sequentially, starting with the top record \(it will publish the project first, then the products nested below it\).

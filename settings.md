@@ -31,7 +31,7 @@ All records can be cleared by clicking the **Clear Storage Cache**.
 
 **Defaults **include settings for **Language**, **Character Set**, **Country**, and the **Import URL \(** used for defining the default URL for importing\). To Set the default import URL for importing items from ScienceBase, enter [https://api.sciencebase.gov/sbmd-service/mdjson/](https://api.sciencebase.gov/sbmd-service/mdjson/).
 
-Also included in **Defaults** are the **Metadata Repositories. **Once entered in **Settings**, these can then be selected for projects and products so that they are flagged to a metadata repository of your choice.
+Also included in **Defaults** are the **Metadata Repositories **\(a server where the metadata is published to\)**. **Once entered in **Settings**, these can then be selected for projects and products so that they are flagged to a metadata repository of your choice.
 
 The following defaults will be pre-loaded:
 

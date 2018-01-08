@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [Getting Started](getting-started.md)
 * [Dashboard](dashboard.md)
+* [Right Vertical Menu](right-vertical-menu.md)
 * [Data Management](data-management.md)
   * [File Management](file-management.md)
   * [Export](export.md)
@@ -52,5 +53,5 @@
   * [Individual Contact](contact/new/individual.md)
   * [Organization Contacts](contact/new/organization.md)
 * [Contact Show](contact\show.md)
-* [Contact Edit](contact\edit.md)
+* Right Vertical Menu
 

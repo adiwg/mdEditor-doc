@@ -6,9 +6,9 @@
 
 * The **Source **is the original sources of funds.
 
-* **Recipient **describes the recipient of the funds.
+* **Recipient **describes the recipient of the funds 
 
-  * If there are multiple recipients, user must add separate funding allocation for each recipient.
+  * If there are multiple recipients, user must add separate funding allocations for each recipient.
 
 * The** Matching** check box refers to matching funds or in-kind services.
 

@@ -4,13 +4,9 @@ Tracking funding in the metadata allows for identification of funding sources, c
 
 ---
 
-**Start and End date** refer to when the money was allocated and distributed. 
+**Start and End date** refer to when the money was allocated and distributed. The entire duration of spending should be reflected in the time period chosen. The time period_ _can entered as _start date only, end date only_, or both.
 
-* The time period_ _can be _start date only, end date only_, or both.
-
-
-
-> ![](/assets/NoteSmall.png) If you put in start and end date, it will calculate fiscal year off the end date.
+> ![](/assets/NoteSmall.png) If you use start and end date, it will calculate fiscal year off the end date.
 
 ---
 

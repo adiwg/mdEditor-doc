@@ -6,7 +6,7 @@
 
 ## Editing Distributors for Distribution
 
-![](/assets/Editing_Distributors_For_Distribution_Window.png)**Contacts **are required and can be selected from the list of contacts. Consult the [Contacts](/contacts.md) section of this manual to learn how to add contacts.
+![](/assets/Editing_Distributors_For_Distribution_Window.png)**Contacts **are required and can be selected from the list of contacts. Consult the [**Contacts**](/contacts.md)** **section of this manual to learn how to add contacts.
 
 **Role **is required and can be added or selected from dropdown menu.
 

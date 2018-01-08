@@ -18,8 +18,10 @@
 
 > ![](/assets/NoteSmall.png)Parent-child refers to how the records are organized and displayed on ScienceBase; this is different than the Project and Product associations that are embedded within the metadata records.
 
-* Records without parent IDs already in their metadata will appear directly under the ScienceBase header, indicating that they will be published under the default parent identifier established in the settings \(which is also visible on the header - you can click it to follow a link to the record on ScienceBase\).
-* Records that have parent IDs in the metadata record will appear below a thick blue line and will be published under the parent ID in their metadata \(which is visible in that record’s entry in the outline\).
+* Records **without parent IDs** already in their metadata will appear directly under the ScienceBase header
+  * Indicating that they will be published under the default parent identifier established in the settings. This information is visible on the header, which is hyperlinked to the record on ScienceBase. 
+
+* Records** that have **parent IDs in the metadata record will appear below a thick blue line and will be published under the parent ID in their metadata \(which is visible in that record’s entry in the outline\).
 
 > ![](/assets/NoteSmall.png) if you do not want these parent IDs to change,** do not** drag and drop these records in the publishing outline.
 

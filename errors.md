@@ -6,17 +6,17 @@ There are two icons with exclamation points that will appear to alert you to pot
 
 ![](/assets/SmallOrange.png) The orange exclamation point indicates “This record has errors! Click to view.”
 
-To review errors, click on the orange error icon next to metadata title
+---
+
+#### Reviewing Errors
+
+To review errors, click on the orange error icon next to metadata title. This opens a new window with a list of errors and a reference to the section each error appears in. The **Close **button is on the right side of the screen and will return you to you the record or contact edit screen.
+
+> ![](/assets/BestPracticeSmall.png)**Best Practice**: Start at the top of the list, and work downwards, addressing each error. The error list is accessible from any section of the metadata record and will update as you fix errors.
 
 ![](/assets/SmallErrors.png)
 
-This opens a new window with a list of errors and a reference to the section each error appears in. The **Close** button is on the right side of the screen and will return you to you the record or contact edit screen.
-
-> ![](/assets/NoteSmall.png)
->
-> The error list is accessible from any section of the metadata record and will update as you fix errors.
->
-> An error may be hidden by profile type, so you may need to look at the full profile to find errors.  This is more likely to occur when converting and importing different metadata standards.
+> ![](/assets/NoteSmall.png)An error may be hidden by profile type, so you may need to look at the full profile to find errors.  This is more likely to occur when converting and importing different metadata standards.
 
 When all errors are resolved, the pencil edit icon on the left for that particular metadata record will turn green.
 

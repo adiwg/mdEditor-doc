@@ -6,6 +6,8 @@ Users can click the **Import Data **button to import a local file, or simply dra
 
 Files can also be imported using the **Import from Online URL **functionality.
 
+> ![](/assets/NoteSmall.png)**Note**: to import Settings, you should set the import to “Replace” mode. Generally, it's a good idea to set the mode back to “Merge,” once you’ve finished importing the settings.
+
 ![](/assets/Import_Window.png)
 
 #### After Importing

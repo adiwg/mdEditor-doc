@@ -2,7 +2,20 @@
 
 The **Associated** section is used to associate items with eachother.
 
-Creating Associations is a two part process involving filling in fields and selecting a associated items.
+> ![](/assets/NoteSmall.png)In ScienceBase **Associated Records **are referred to as** Item Associations**
+
+
+
+Creating Associations is a two part process involving filling in fields and selecting associated items.
+
+1. Provide Information about your initial record
+2. Select items to associate that record with
+
+
+
+---
+
+
 
 ## ![](/assets/AssociatedScreenshot.png)Select a Record
 
@@ -21,6 +34,10 @@ Fill in available fields:
   > ![](/assets/BestPracticeSmall.png)**Best Practice: **When making associations between items and their parent project, select parentProject
 
 * **Initiative Type**: Choose a type of initiative.
+
+
+
+
 
 
 

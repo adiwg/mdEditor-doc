@@ -1,8 +1,6 @@
 # Troubleshooting Issues
 
-Before you publish anything, click F12 to bring up the error console. Click on the three vertical dots for options on how to dock it.![](/assets/ErrorCScreenshot.png)
-
-![](/assets/ErrorCScreenshot.png)
+Before you publish anything, click F12 to bring up the error console. Click on the three vertical dots for options on how to dock it.
 
 ![](/assets/ErrorCScreenshot.png)
 

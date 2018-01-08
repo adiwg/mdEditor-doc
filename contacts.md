@@ -9,10 +9,12 @@ Copying contacts will change the ID and the name \(the name will be “Copy of �
 > ![](/assets/BestPracticeSmall.png)**Best practice**: It is safest to export all contacts whenever you export a project/product. \(Consult the [Export](/export.md) section of this manual to learn more.\)
 >
 > ![](/assets/BestPracticeSmall.png)**Best Practice: **Leave your contacts in mdEditor so that they’re always available.
-
+>
 > ![](/assets/BestPracticeSmall.png)**Best Practice: **Always spell out acronyms when creating contacts
+>
+> ![](/assets/NoteSmall.png)**Note: when you edit a contact, the information will also update the metadata records that include that contact and update to SB when you publish the records**
 
-### Show Contacts
+## Show Contacts
 
 Click the **angle-down icon** \(![](/assets/symbol_angle-down_16.png)\) to expand the contact group panel and display a list of contacts in the sidebar.
 

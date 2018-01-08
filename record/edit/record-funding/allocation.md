@@ -12,9 +12,8 @@
 
 * The** Matching** check box refers to matching funds or in-kind services.
 
-  * _Matching funds should be broken down into separate funding providers, in order to show what partners are supporting the work._
-
-> ![](/assets/NoteSmall.png)When matching is checked: Description** **funds/contribution details will be matched with the organization that provided the funds.
+  * Matching funds should be broken down into separate funding providers, in order to show what partners are supporting the work.
+  * _When matching is checked:_ Description** **funds/contribution details will be matched with the organization that provided the funds.
 
 * **Description **is a place to clarify anything that is potentially ambiguous 
 

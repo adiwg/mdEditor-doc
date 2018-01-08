@@ -16,5 +16,7 @@
 
 > ![](/assets/NoteSmall.png)When matching is checked: Description** **funds/contribution details will be matched with the organization that provided the funds.
 
+* **Description **is a place to clarify anything that is potentially ambiguous 
+
 ![](/assets/EditAllocationScreenshot.png)
 

@@ -6,16 +6,24 @@ Options available when viewing or editing:
 
 * **Copy**: The copy button makes a duplicate of a record or contact.
   > ![](/assets/NoteSmall.png)**Note**: Making a copy will generate a new ID for the copied record and be named “Copy of …”. All the other info will remain the same including associations. The “metadata identifier” is NOT copied but any identifiers in the main citation WILL be copied, including any ScienceBase IDs.
-*  **Delete**: The delete button will completely delete the record or contact.  
+* **Delete**: The delete button will completely delete the record or contact.  
   > ![](/assets/BestPracticeSmall.png)Best Practice: Make a backup of your record or contact before deleting. Consult the [**Export**](/export.md)** **section of this manual to learn how to make a backup.
 
 ## Viewing Options
 
 ![](/assets/Right_Vertical_Menu_View.png)
 
-Viewing options include:
+Viewing options include everything mentioned above along with an **Edit **button. The button will allow you to begin editing your item.
 
-* **Copy**: 
+## Editing Options
+
+![](/assets/Right_Vertical_Menu_Edit.png)
+
+Editing options include the above options along with the following:
+
+* **Save**: Used to save changes. 
+  > ![](/assets/NoteSmall.png)Note: Save can only be used if auto-save is turned off. Consult the [**Settings**](/settings.md)** **section of this manual for more information.
+* **Cancel**: Used to undo changes that have not yet been saved.
 
 
 

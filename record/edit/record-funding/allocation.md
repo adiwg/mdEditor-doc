@@ -8,6 +8,8 @@
 
 * **Recipient **describes the recipient of the funds.
 
+  * If there are multiple recipients, need to add separate funding allocation for each recipient.
+
 * The** Matching** check box refers to matching funds or in-kind services.
 
 > ![](/assets/NoteSmall.png)When matching is checked: Description** **funds/contribution details will be matched with the organization that provided the funds.

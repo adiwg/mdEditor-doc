@@ -20,6 +20,8 @@ This opens a new window with a list of errors and a reference to the section eac
 
 When all errors are resolved, the pencil edit icon on the left for that particular metadata record will turn green.
 
+---
+
 ### Advanced Error Checking Options:
 
 It is possible to check for errors or review records by using the mdTranslator function.

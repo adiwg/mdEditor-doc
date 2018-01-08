@@ -1,15 +1,22 @@
-#### If importing from ScienceBase, please do the following:
+# If importing from ScienceBase, please do the following:
 
-* In Import URL field, paste: [https://api.sciencebase.gov/sbmd-service/mdjson/](https://api.sciencebase.gov/sbmd-service/mdjson/).
-  > ![](/assets/NoteSmall.png) You can set default import URL to the "ScienceBase API link" in settings section and it will pre-populate this field. Please refer to the [Settings](/settings.md) section of this manual.
-* Copy and paste the ScienceBase ID of the item that you are trying to import at the end of the URL in the import field, and click the **Import** button.
+# Method 1:
 
-## After Importing
+1. Copy the SBID from an existing ScienceBase item \(it is the string of letters/numbers at the end of the item’s ScienceBase URL - e.g., 51129cace4b0ebe69d7eb7a3\)
+2. Go to ScienceBase API address: [https://api.sciencebase.gov/sbmd-service/mdjson/,](https://api.sciencebase.gov/sbmd-service/mdjson/) and add the SBID to end of this link and hit enter. You should see mdJSON text as below.  If not, press enter again to search again.
+   ![](/assets/ScienceBase_mdJSON_Text.png)
+3. Right click in text area and select “save as” and add “.json” to the end of the file name. This will download the JSON file to your computer.
+4. You can either drag the JSON file to the drop box in mdEditor from the download link visible in your browser, or from the location on your computer where you saved the file.
 
-* Review what was imported. Click the “preview JSON” buttons to sort between multiple entries of the same contact, and decide which version to keep. 
-* Select the records and contacts you want to import.
-  > ![](/assets/BestPracticeSmall.png)**Best Practice: **Choose the contact with more complete information.
-* Click on the right hand button “**Click to Import Data**” to import the selected records
+## Method 2
+
+Use this method for items where no mdJSON already exists, may or may not have SB Project facet. This method assumes you are importing from a ScienceBase item.
+
+1. In Import URL field, paste: [https://api.sciencebase.gov/sbmd-service/mdjson/](https://api.sciencebase.gov/sbmd-service/mdjson/).
+   > ![](/assets/NoteSmall.png) You can set default import URL to the "ScienceBase API link" in settings section and it will pre-populate this field. Please refer to the [Settings](/settings.md) section of this manual.
+2. Copy and paste the ScienceBase ID of the item that you are trying to import at the end of the URL in the import field, and click the **Import** button.
+
+Return to the Import section of this manual to learn how to review what was imported.
 
 
 

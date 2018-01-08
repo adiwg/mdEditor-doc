@@ -33,12 +33,22 @@ Primary development has been performed by Josh Bradley \(joshua\_bradley@fws.gov
 
 ## Overall Science Catalog System Architecture
 
-The following describes the science catalog system architecture.
+The following diagram describes the science catalog system architecture. 
 
-* Items are imported from ScienceBase, or created directly in mdEditor.
-  > ![](/assets/NoteSmall.png)**Note**: ScienceBase is a collaborative scientific data and information management platform developed and run by the USGS and used directly by science teams. For more information, see ScienceBase in the glossary of terms.
-* mdEditor  
-  outputs mdJSON files which are then transmitted via a web service into ScienceBase.
+
+
+> ![](blob:https://www.gitbook.com/8dc807c5-afde-465b-a552-3ca05303b2b2)Currently the mdEditor is used primarily with ScienceBase, a collaborative scientific data and information management platform developed and run by the USGS and used directly by science teams. The mdEditor can work other databases, but in this manual, ScienceBase will be used as the primary example. 
+>
+> For more information, see ScienceBase in the glossary of terms.
+
+
+
+![](/assets/Science_Catalog_System_Architecture.png)
+
+Items are imported from ScienceBase, or created directly in mdEditor.
+
+* > ![](/assets/NoteSmall.png)**Note**: ScienceBase is a collaborative scientific data and information management platform developed and run by the USGS and used directly by science teams. For more information, see ScienceBase in the glossary of terms.
+* mdEditor outputs mdJSON files which are then transmitted via a web service into ScienceBase.
 
 * mdJSON files can also be stored in a local repository and then transmitted via a web service to ScienceBase. Or, the local files can be exported to a web accessible folder and then harvested by ScienceBase.
 
@@ -46,5 +56,5 @@ The following describes the science catalog system architecture.
 
 * Items are exported from ScienceBase to: Data.gov as XML; the LCC Science Catalog website as Projects and Products; or into mdEditor as mdJSON.
 
-![](/assets/Science_Catalog_System_Architecture.png)
+
 

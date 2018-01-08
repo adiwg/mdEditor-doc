@@ -12,3 +12,12 @@ Users can export a singular record/contact or groups of records/contacts by indi
 
 
 
+**Export Options**
+
+* **Export All:** will export everything currently loaded in mdEditor into a single file. Exports an mdEditor JSON file.
+
+* **Export Selected:** will only export the items you have selected \(so an individual record or contacts, etc.\). If nothing is selected it will be disabled \(i.e., grayed out\). Exports an mdEditor JSON file.
+* **Export mdJSON: ** only works for metadata records \(i.e., doesn't work for contacts\). Exports just the mdJSON file, which is a standalone JSON file you can load into mdTranslator and have it translate into other metadata formats. Not the format needed for mdEditor to be able to know what to do with the record \(technically mdEditor can import mdJSON, but it will be treated as a new record, i.e., it won't be able to merge/update an existing record\).
+
+
+

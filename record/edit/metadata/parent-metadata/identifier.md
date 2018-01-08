@@ -2,10 +2,6 @@
 
 **Identifier **lets users define a database identifier for the parent.
 
-![](/assets/Identifier_Window.png)
-
-
-
 The following fields are availible
 
 * **Identifier: \(required\) **The Identifier** **field is used for input of parent folder's location on its respective database. It is typically a string of numbers and in a parent items url. IE: A ScienceBase identifier is the section of the URL immediately following "**item/". **Please see the following.
@@ -14,6 +10,8 @@ The following fields are availible
 * **Version: \(optional\) **
 * **Description: \(optional\)**
 * **Authority: \(optional\)**
+
+![](/assets/Identifier_Window.png)
 
 
 

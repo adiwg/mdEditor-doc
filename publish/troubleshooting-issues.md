@@ -1,9 +1,10 @@
 # Troubleshooting Issues
 
-Before you publish anything, click F12 to bring up the error console. Click on the three vertical dots for options on how to dock it.
+Before you publish anything, click F12 to bring up the error console. Click on the three vertical dots for options on how to dock it.![](/assets/ErrorCScreenshot.png)
 
+![](/assets/ErrorCScreenshot.png)
 
-The **Network tab** will show errors in Publishing when working with ScienceBase.  
+The **Network tab** will show errors in Publishing when working with ScienceBase.
 
 Look for anything that shows up in red. If you get anything 400 and red, it’s a problem that you can address. However, If it’s a 500 level error in red that is a Science Base problem that is outside the scope of the mdEditor.
 

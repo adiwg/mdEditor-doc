@@ -4,17 +4,27 @@ Tracking funding in the metadata allows for identification of funding sources, c
 
 ---
 
-**Start and End date** refer to when the money was allocated and distributed. 
+Available fields include:
 
-* The time period_ _can be _start date only, end date only_, or both.
+* **Allocation**: Describes how the funds were allocated. Consult the [**Allocation**](/record/edit/record-funding/allocation.md) section of this manual to learn how to add allocations.
 
+* **Time Period**: Describes the time period during the allocation of funds. Available fields include:  
+  -**Start and End date:** Refers to when the money was allocated and distributed. The time period\_ \_can be: start date; end date; or both.
 
+  > ![](/assets/NoteSmall.png) **Note:** If you put in start and end date, it will calculate fiscal year off the end date.
 
-> ![](/assets/NoteSmall.png) If you put in start and end date, it will calculate fiscal year off the end date.
+  -**Fiscal Year**: Select a fiscal year from the drop down menu.
+
+  > ![](/assets/NoteSmall.png)**Note**: Fiscal year can be selected independently of start and end date.
+
+  -**ID**: A unique identifier for the time period.  
+  -**Description**: A description of the time period.  
+  -**Time Period Names**: A name for the time period.  
+  -**Interval Amount**: Amount of time for the interval.  
+  -**Time Unit**: A unit of time that describes the interval.  
+  -**Duration**: Includes: Years; Months; Days; Hours; Minutes; and Seconds.
 
 ---
 
-Consult the [**Allocation**](/record/edit/record-funding/allocation.md) section of this manual to learn how to add allocations.
 
-![](https://lh6.googleusercontent.com/DTF1JeNmQla8DhhMWKOTi4BsR_tlQsNWcsWbvUI66U4O3iZsvHlpR6cxa8KBseZ_Bc5OKySETS5RWnIvuzgbfcTOzIj6cbuIWYioq9fjLjqql8Y6cAlLwvD8Dq94IuYdn46NsC-w)
 

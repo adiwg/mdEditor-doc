@@ -46,6 +46,7 @@
   * [Record Documents](record/edit/record-documents.md)
   * [Record Funding](record/edit/record-funding.md)
     * [Allocation](record/edit/record-funding/allocation.md)
+    * [Time Period](record/edit/record-funding/time-period.md)
 * [Contacts](contacts.md)
 * [Contact New](contact\new.md)
   * [Individual Contact](contact/new/individual.md)

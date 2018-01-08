@@ -4,18 +4,12 @@ The **Associated** section is used to associate items with eachother.
 
 > ![](/assets/NoteSmall.png)In ScienceBase **Associated Records **are referred to as** Item Associations**
 
-
-
 Creating Associations is a two part process involving filling in fields and selecting associated items.
 
 1. Provide Information about your initial record
 2. Select items to associate that record with
 
-
-
 ---
-
-
 
 ## ![](/assets/AssociatedScreenshot.png)Select a Record
 
@@ -35,9 +29,30 @@ Fill in available fields:
 
 * **Initiative Type**: Choose a type of initiative.
 
+* **Resource Type: **Select the type of resource from the drop down menu and give it a name.
 
+* **Basic Information: **\(required\) Basic information allows for the input of:  
+  **-Title**: \(required\)  
+  **-Alternate Titles**: \(optional\)  
+  **-Dates**: \(optional\)  
+  **-Edition**: \(optional\)  
+  **-Presentation Form**:\(optional\)
 
+Other available fields include:
 
+* **Responsible Parties**
+
+* **Online Resource**
+
+* **Identifier**
+
+* **Series**
+
+* **Other Details**
+
+* **Graphic**
+
+* **Metadata Citation**
 
 
 

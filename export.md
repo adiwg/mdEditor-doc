@@ -1,15 +1,13 @@
 # Export \(![](/assets/symbol_sign-out_16.png)\)
 
-The export function will allow the contents of the current metadata recordset to be saved as a mdEditor or a mdJSON file. The files can then be shared with collaborators and imported into another record set, into another browser using mdEditor, or saved to a local workstation as a backup or archival copy. Files are automatically named as “mdeditor-timestamp.json”.
+The export function will allow the contents of the current metadata recordset to be saved as a mdEditor or a mdJSON file. The files can then be shared with collaborators and imported into another record set, imported into another browser using mdEditor, or saved to a local workstation as a backup or archival copy. Files are automatically named as “mdeditor-timestamp.json”.
 
-> ![](/assets/NoteSmall.png) mdJSON files can be uploaded and translated to other formats via the mdTranslator application while mdEditor files are exclusive to the mdEditor application an retain all mdEditor information, including settings.
-
-
+> ![](/assets/NoteSmall.png) mdJSON files can be uploaded and translated to other formats via the mdTranslator application while mdEditor files are exclusive to the mdEditor application and retain all mdEditor information, including settings.
 
 ![](/assets/export_window.png)
 
 > ![](/assets/BestPracticeSmall.png)**Best Practice**: For a complete backup, use the **Export All **button. This exports an mdEditor file containing all records and contacts.
-
+>
 > ![](blob:https://www.gitbook.com/5d8b0b1e-7698-46a7-9de5-47f7b9efe128)**Best Practice:** Export All each time you finish a work session in mdEditor \(or switch browsers, URLs, etc.\).
 
 **Export Options**

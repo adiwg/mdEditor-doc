@@ -1,6 +1,6 @@
 # Record Distribution
 
-**Distribution **allows users the ability to document how products are obtained. Online or offline options are available.
+**Distribution **allows users the ability to document how or where products are obtained. Online or offline options are available.
 
 ---
 

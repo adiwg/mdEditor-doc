@@ -6,8 +6,8 @@ The mdEditor is a web application that allows users to author and edit metadata 
 
 ## Features
 
-* Responsive, two-panel layout allows for display on both desktop and mobile devices.
-* Launched through a web browser, there is no need to install software.
+* A Responsive, two-panel layout allows for display on both desktop and mobile devices.
+* Launched through a web browser, there is no need for users to install software.
 * Metadata is initially stored in the browser local storage cache.
 * Metadata can be exported as a text file \(JSON format\) for archiving or sharing.
 * Open source development allows for customization.

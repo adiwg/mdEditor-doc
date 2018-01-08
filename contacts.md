@@ -12,7 +12,7 @@ Copying contacts will change the ID and the name \(the name will be â€œCopy of â
 >
 > ![](/assets/BestPracticeSmall.png)**Best Practice: **Always spell out acronyms when creating contacts
 
-### 
+###  
 
 
 

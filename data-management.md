@@ -1,4 +1,4 @@
--=0Data Management
+
 
 ## How mdEditor Stores Information
 

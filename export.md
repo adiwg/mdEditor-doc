@@ -4,20 +4,18 @@ The export function will allow the contents of the current metadata recordset to
 
 > ![](/assets/NoteSmall.png) mdJSON files can be uploaded and translated to other formats via the mdTranslator application while mdEditor files are exclusive to the mdEditor application an retain all mdEditor information, including settings.
 
-![](/assets/export_window.png)
-
-Users can export a singular record/contact or groups of records/contacts by individually selecting the items to be exported, and then clicking **Export Selected**. This will export the selected items as **mdEditor **files. Users can also use the **Export mdJSON **button to export selected items as **mdJSON **files. Clicking the **Include Settings **switch will also export mdEditor settings. Consult the [Settings](/settings.md) section of this manual to learn about settings.
+![](/assets/export_window.png). 
 
 > ![](/assets/BestPracticeSmall.png)**Best Practice**: For a complete backup, use the **Export All **button. This exports an mdEditor file containing all records and contacts.
-
-
 
 **Export Options**
 
 * **Export All:** will export everything currently loaded in mdEditor into a single file. Exports an mdEditor JSON file.
 
 * **Export Selected:** will only export the items you have selected \(so an individual record or contacts, etc.\). If nothing is selected it will be disabled \(i.e., grayed out\). Exports an mdEditor JSON file.
+
 * **Export mdJSON: ** only works for metadata records \(i.e., doesn't work for contacts\). Exports just the mdJSON file, which is a standalone JSON file you can load into mdTranslator and have it translate into other metadata formats. Not the format needed for mdEditor to be able to know what to do with the record \(technically mdEditor can import mdJSON, but it will be treated as a new record, i.e., it won't be able to merge/update an existing record\).
+* Clicking the **Include Settings **switch will also export mdEditor settings. Consult the [Settings](/settings.md) section of this manual to learn about settings.
 
 
 

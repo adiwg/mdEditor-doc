@@ -22,13 +22,14 @@ When all errors are resolved, the pencil edit icon on the left for that particul
 
 ### Advanced Error Checking Options:
 
-It is possible to check for errors or review records by using the mdTranslator function. 
+It is possible to check for errors or review records by using the mdTranslator function.
+
+* Click “Translate” in the top main menu. 
+* Select HTML to check your mdEditor file. 
+* Click Translate \(It is normal for the translation to take some time\). 
+* A box detailing potential errors will appear on the right-hand side of the screen. 
 
 
-
-Click “Translate” in the top main menu
-
-Select HTML to check your mdEditor file. It is normal for the translation to take some time.
 
 .
 

@@ -2,7 +2,7 @@
 
 ## Overview
 
-The mdEditor is a web application that allows users to author and edit metadata for projects, datasets, maps, images, and documents. The primary design goal was to develop an application that would allow someone to create and use archival quality metadata without the need for an extensive knowledge of metadata standards.
+The mdEditor is a web application that allows users to author and edit metadata for projects, datasets, maps, images, and documents. That metadata can then be exported, translated into different file formats, or published to a database. The primary design goal was to develop an application that would allow someone to create and use archival quality metadata without the need for an extensive knowledge of metadata standards.
 
 ## Features
 
@@ -37,7 +37,7 @@ The following describes the science catalog system architecture.
 
 * Items are imported from ScienceBase, or created directly in mdEditor.
   > ![](/assets/NoteSmall.png)**Note**: ScienceBase is a collaborative scientific data and information management platform developed and run by the USGS and used directly by science teams. For more information, see ScienceBase in the glossary of terms.
-* mdEditor   
+* mdEditor  
   outputs mdJSON files which are then transmitted via a web service into ScienceBase.
 
 * mdJSON files can also be stored in a local repository and then transmitted via a web service to ScienceBase. Or, the local files can be exported to a web accessible folder and then harvested by ScienceBase.

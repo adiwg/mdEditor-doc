@@ -36,8 +36,9 @@ Primary development has been performed by Josh Bradley \(joshua\_bradley@fws.gov
 The following describes the science catalog system architecture.
 
 * Items are imported from ScienceBase, or created directly in mdEditor.
-  > ![](/assets/NoteSmall.png)**Note**: ScienceBase is a collaborative scientific data and information management platform developed and run by the USGS used directly by science teams. For more information, see ScienceBase in the glossary of terms.
-* mdEditor   outputs mdJSON files which are then transmitted via a web service into ScienceBase.
+  > ![](/assets/NoteSmall.png)**Note**: ScienceBase is a collaborative scientific data and information management platform developed and run by the USGS and used directly by science teams. For more information, see ScienceBase in the glossary of terms.
+* mdEditor   
+  outputs mdJSON files which are then transmitted via a web service into ScienceBase.
 
 * mdJSON files can also be stored in a local repository and then transmitted via a web service to ScienceBase. Or, the local files can be exported to a web accessible folder and then harvested by ScienceBase.
 
@@ -46,6 +47,4 @@ The following describes the science catalog system architecture.
 * Items are exported from ScienceBase to: Data.gov as XML; the LCC Science Catalog website as Projects and Products; or into mdEditor as mdJSON.
 
 ![](/assets/Science_Catalog_System_Architecture.png)
-
-
 

@@ -18,7 +18,7 @@
 
   > ![](/assets/NoteSmall.png)Matching funds should be broken down into separate funding providers, in order to show what partners are supporting the work.  
   >   
-  > ![](/assets/NoteSmall.png)When matching is checked: Description** **funds/contribution details will be matched with the organization that provided the funds.
+  > ![](/assets/NoteSmall.png)When matching is checked: description** **should describe** **the organization that provided the funds.
 
 * **Description**: Add a description for the funding allocation
 

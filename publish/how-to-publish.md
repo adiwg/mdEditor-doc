@@ -84,11 +84,11 @@ Before you move records in the publishing outline please select your scenario be
 
   * You cannot publish a record without a parent ID.
     * Sending a non-existent parent ID to ScienceBase will return an error.
-  * If records contain parent IDs in the metadata, you can choose to  publish products without publishing their parent projects.
+    * If records contain parent IDs in the metadata, you can choose to publish products without publishing their parent projects.
 
 * mdEditor publishes sequentially, starting with the top record \(it will publish the project first, then the products nested below it\).
 
-  * If you are publishing to your default parent identifier or you have changed any project-product relationships in the publishing outline, you will see the updated parent IDs appear in the outline as publishing occurs \(if you’re publishing to the existing locations on SB, the IDs won’t change\).
+  * If you are publishing to your default parent identifier or you have changed any project-product relationships in the publishing outline, you will see the updated parent IDs appear in the outline as publishing occurs \(if you’re publishing to the existing locations on ScienceBase, the IDs won’t change\).
 
   * These new/updated IDs will also be injected directly into the mdJSON file in mdEditor. However, these updated IDs will not be included in the mdJSON file that is attached to ScienceBase as part of the publishing process. You would have to publish the record a second time to update the mdJSON file attached on ScienceBase.
 

@@ -10,13 +10,7 @@ Look for anything that shows up in red. If you get anything 400 and red, it’s 
 
 * Click on the name of the row with errors and it will bring up a window - look at the Preview tab to see the string of the error message.
 
-  * Scroll to the right to find the error messages - copy and paste that into the github error thread.
 
-    * It is good to attach the mdJSON that the error refers to \(either Export Selected or Export mdJSON\). Provide as much info as possible so the administrator can replicate the issue to solve it.
-
-      > ![](/assets/NoteSmall.png): if making screenshots is part of your error report, beware that the “josso” string in the row refers to your login session \(so it can be a mild security risk\). Make sure the josso string is hidden if you make a screenshot that you post to github.
-
-* For tracking issues, please use the github thread [here](https://github.com/adiwg/mdEditor/issues/128) \(sign up for notifications via email\) to file any bug reports.
 
 
 

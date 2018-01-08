@@ -1,7 +1,5 @@
 # Transfer Options
 
-![](/assets/Distribution_Transfer_Options_Window.png)
-
 Available fields in transfer options include:
 
 * **Transfer Size**: Describes the size of resource in MB.
@@ -15,6 +13,10 @@ Available fields in transfer options include:
 * **Distribution Formats**: Allows for the description of distribution formats including; Format Name; Version; Compression Method; and URL.
 
 * **Transfer Frequency**: Describes the frequency that products were transferred.
+
+![](/assets/Distribution_Transfer_Options_Window.png)
+
+
 
 
 

@@ -53,7 +53,7 @@ Items directly below the ScienceBase header will be published under the ScienceB
 
 ---
 
-#### Step Two: Moving Records into Publishing Outline
+#### Step Two: Moving Records in the Publishing Outline
 
 Before you move records in the publishing outline please select your scenario below and follow the corresponding guidance.
 

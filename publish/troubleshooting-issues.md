@@ -1,6 +1,6 @@
 # Troubleshooting Issues
 
-Before you publish anything, click F12 to bring up the error console. Click on the three vertical dots for options on how to dock it.
+Before you publish anything, click F12 \(Cmd + Opt + J on Mac\) to bring up the error console. Click on the three vertical dots for options on how to dock it.
 
 ![](/assets/ErrorCScreenshot.png)
 

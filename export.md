@@ -20,5 +20,13 @@ The export function will allow the contents of the current metadata recordset to
 
 > ![](/assets/NoteSmall.png)If you need to switch browsers for mdEditor, or want to send your setting to someone else, you can export them.
 
+---
+
+#### General Notes on Exporting 
+
+> ![](blob:https://www.gitbook.com/5c12064b-ba13-410e-b6e3-3f8d061f2170)**Best Practice: **When Exporting Contacts, it is recommended that you export all contacts together. If you load a project and the contacts aren’t loaded in mdEditor, you can’t inject the contacts back into the metadata record.
+
+
+
 
 

@@ -8,7 +8,7 @@
 
 * **Recipient **describes the recipient of the funds.
 
-  * If there are multiple recipients, need to add separate funding allocation for each recipient.
+  * If there are multiple recipients, user must add separate funding allocation for each recipient.
 
 * The** Matching** check box refers to matching funds or in-kind services.
 

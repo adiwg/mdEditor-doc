@@ -2,15 +2,17 @@
 
 ## Overview
 
-The mdEditor application is designed using a two-pane layout. The left _**sidebar**_ \(1\) provides the primary navigation showing a list of M**etadata Records**, **Contacts** and **Data Dictionaries**. The right pane displays a context-sensitive _**main menu **_\(2\) at the top, a primary _**editor region **_\(3\) below that displays and allows for the editing of a selected object and a** **_**status bar **_\(4\) at the very bottom of the display.
+The mdEditor application is designed using a two-pane layout. The left _**sidebar**_ \(1\) provides the primary navigation showing a list of **Metadata Records**, **Contacts** and **Data Dictionaries**. The right pane displays a context-sensitive _**main menu **_\(2\) at the top, a primary _**editor region **_\(3\) below that displays and allows for the editing of a selected object and a** **_**status bar **_\(4\) at the very bottom of the display.
 
 ![](/assets/mdEditor_areas.png)
+
+---
 
 ### Basic Navigation
 
 ### Sidebar
 
-The left sidebar displays the various components of the current metadata record set. The components are arranged by type in a series of expandable panels that group the metadata, contact and data dictionary records.
+The left sidebar displays the various components of the current metadata record set. The components are arranged by type in a series of expandable panels that group the metadata, contact, and data dictionary records.
 
 ![](/assets/mdEditor_logo_32.png)   Select the **mdEditor **logo to toggle the display of the sidebar.
 
@@ -45,4 +47,6 @@ The editor region will display information based on the type of object that is c
 ### Status Bar
 
 The status bar displays various informational messages, such as whether the [Auto Save](/settings.md) feature is on or off.
+
+
 

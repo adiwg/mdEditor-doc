@@ -20,14 +20,15 @@ This opens a new window with a list of errors and a reference to the section eac
 
 When all errors are resolved, the pencil edit icon on the left for that particular metadata record will turn green.
 
-### Advanced option for reviewing records:  Use mdTranslator
+### Advanced Error Checking Options:
 
-![](/assets/Translate.png)
+It is possible to check for errors or review records by using the mdTranslator function. 
+
+
 
 Click “Translate” in the top main menu
 
-Select HTML to check your mdEditor file. It is normal for the translation to take some time. 
+Select HTML to check your mdEditor file. It is normal for the translation to take some time.
 
-  
 .
 

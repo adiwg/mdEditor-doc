@@ -31,7 +31,6 @@
   * [Record Keywords](record\edit\keywords.md)
     * [Custom Thesaurus](record/edit/keywords/custom-keywords.md)
   * [Record Extent](record/edit/record-extent.md)
-    * [Edit Extent Features](record/edit/record-extent/edit-extent-features.md)
   * [Record Lineage](record\edit\distribution.md)
     * [Process Step](record/edit/distribution/process-step.md)
   * [Record Spatial](record\edit\spatial.md)

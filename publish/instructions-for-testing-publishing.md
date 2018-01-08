@@ -24,13 +24,14 @@ For tracking issues, please use the github thread [here](https://github.com/adiw
 
 3. Select one project with its associated products to test.
 
-4. Before you publish anything, click F12 to bring up the error console to be able to track errors as they occur \(consult the [Troubleshooting Issues](/publish/troubleshooting-issues.md) section of this manual for more information\).
+4. Before you publish anything, click F12 \(Cmd + Opt + J on Mac\), to bring up the error console to be able to track errors as they occur \(consult the [Troubleshooting Issues](/publish/troubleshooting-issues.md) section of this manual for more information\).
 
 5. Follow the publishing instructions above for the Scenario that applies to you.
 
 6. Verify that your test records have published as expected in your test folder on ScienceBase \(or to the real record if that’s how you are testing\).
 
 7. After you are satisfied with how your test records published to ScienceBase, you can proceed with publishing your real record.
+
 8. Update your mdEditor settings to your real Default Parent Identifier.
 9. Using the record you just tested, proceed with publishing to the real location on ScienceBase.
 10. Make sure any test SBIDs are removed entirely from the record you want to actually publish.

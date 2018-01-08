@@ -3,6 +3,8 @@
 The export function will allow the contents of the current metadata recordset to be saved as a mdEditor or a mdJSON file. The files can then be shared with collaborators and imported into another record set, into another browser using mdEditor, or saved to a local workstation as a backup or archival copy. Files are automatically named as “mdeditor-timestamp.json”.
 
 > ![](/assets/NoteSmall.png) mdJSON files can be uploaded and translated to other formats via the mdTranslator application while mdEditor files are exclusive to the mdEditor application an retain all mdEditor information, including settings.
+>
+> ![](/assets/BestPracticeSmall.png)Best Practice for backing up: Export All each time you finish a work session in mdEditor \(or switch browsers, URLs, etc.\).
 
 ![](/assets/export_window.png)
 
@@ -22,11 +24,9 @@ The export function will allow the contents of the current metadata recordset to
 
 ---
 
-#### General Notes on Exporting 
+#### General Notes on Exporting
 
 > ![](blob:https://www.gitbook.com/5c12064b-ba13-410e-b6e3-3f8d061f2170)**Best Practice: **When Exporting Contacts, it is recommended that you export all contacts together. If you load a project and the contacts aren’t loaded in mdEditor, you can’t inject the contacts back into the metadata record.
-
-
 
 
 

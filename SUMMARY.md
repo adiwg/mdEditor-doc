@@ -7,7 +7,7 @@
   * [File Management](file-management.md)
   * [Export](export.md)
   * [Import](import.md)
-    * ScienceBase Import
+    * [ScienceBase Import](import/sciencebase-import.md)
 * [Translate](translate.md)
 * [Publish](publish.md)
   * [Requirements for Publishing](publish/requirements-for-publishing.md)

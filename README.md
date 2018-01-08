@@ -25,9 +25,9 @@ The mdEditor is a web application for authoring and editing metadata for both pr
 * Create mdJSON files which are compatible with the mdTranslator.
 * Manage multiple records at once.
 * Re-use metadata records, contacts, and dictionaries.
-* Support spatial extents \(which are imported or drawn using the editor\).
+* Support spatial extents \(which can be imported or drawn using the editor\).
 * Import/Export managing record "sets" on the local filesystem.
-* Use built-in keyword thesaurus or create custom keyword lists.
+* Use a built-in keyword thesaurus or create custom keyword lists.
 
 Primary development has been performed by Josh Bradley \(joshua\_bradley@fws.gov\) and Stan Smith \(ssmith@arcticlcc.org\) of the [Arctic Landscape Conservation Cooperative](http://arcticlcc.org/).
 

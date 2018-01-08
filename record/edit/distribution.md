@@ -1,7 +1,5 @@
 # Record Lineage
 
-![](/assets/Lineage_Window.png)
-
 **Lineage **is used to track the process of building spatial datasets.
 
 * Using lineage, descriptions can be made of the steps and sources taken to create your product.
@@ -15,6 +13,8 @@ The following fields are available but optional
 * **Sources**
 * **Citation**
 * **Scope**
+
+![](/assets/Lineage_Window.png)
 
 
 

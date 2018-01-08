@@ -29,7 +29,5 @@ It is possible to check for errors or review records by using the mdTranslator f
 * Click Translate \(It is normal for the translation to take some time\). 
 * A box detailing potential errors will appear on the right-hand side of the screen. 
 
-
-
-.
+.![](/assets/Translate_Error_Window.png)
 

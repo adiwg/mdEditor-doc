@@ -17,8 +17,10 @@ Select the record that you would like to associate to from the **Select a Resour
 Fill in available fields:
 
 * **Association Type**: \(required\) Select the type of association from the drop down.
-  
-  ![](/assets/BestPracticeSmall.png)Best Practice
+
+  > ![](/assets/BestPracticeSmall.png)**Best Practice: **When making associations between items and their parent project, select parentProject
+
+* **Initiative Type**: Choose a type of initiative.
 
 
 

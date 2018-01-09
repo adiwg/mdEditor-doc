@@ -1,4 +1,4 @@
-# Appendix
+# Appendix:
 
 ## Overall Science Catalog System Architecture
 

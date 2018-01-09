@@ -2,6 +2,8 @@
 
 The right vertical menu allows for general manipulation of records and contacts. Available options differ depending on whether the item is being viewed or edited.
 
+---
+
 ### General Options
 
 _Options available when viewing or editing_
@@ -35,9 +37,7 @@ _Options available when editing_
 Editing options include the above options along with the following:
 
 * **Save**: Used to save changes. 
-  > ![](/assets/NoteSmall.png) Save can only be used if auto-save is turned off.
-  >
-  > Consult the [**Settings**](/settings.md)** **section of this manual for more information.
+  > ![](/assets/NoteSmall.png) Save can only be used if auto-save is turned off. Consult the [**Settings**](/settings.md)** **section of this manual for more information.
 * **Cancel**: Used to undo changes that have not yet been saved.
 
 

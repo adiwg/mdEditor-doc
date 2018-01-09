@@ -24,9 +24,9 @@ For tracking issues, please use the github thread [here](https://github.com/adiw
 
 3. Select one project with its associated products to test.
 
-4. Before you publish anything, click F12 \(Cmd + Opt + J on Mac\), to bring up the error console to be able to track errors as they occur \(consult the [Troubleshooting Issues](/publish/troubleshooting-issues.md) section of this manual for more information\).
+4. Before you publish anything, click F12 \( or Cmd + Opt + J on Mac\), to bring up the error console to be able to track errors as they occur \(consult the [Troubleshooting Issues](/publish/troubleshooting-issues.md) section of this manual for more information\).
 
-5. Follow the publishing instructions above for the Scenario that applies to you.
+5. Follow the publishing instructions above for the scenario that applies to you.
 
 6. Verify that your test records have published as expected in your test folder on ScienceBase \(or to the real record if that’s how you are testing\).
 
@@ -37,7 +37,8 @@ For tracking issues, please use the github thread [here](https://github.com/adiw
 9. Using the record you just tested, proceed with publishing to the real location on ScienceBase.
 
 10. Make sure any test SBIDs are removed entirely from the record you want to actually publish.
-11. Verify the real records have updated as expected.
+
+11. Verify that the real records have updated as expected.
 12. Proceed with publishing your other records to their real locations.
 
 

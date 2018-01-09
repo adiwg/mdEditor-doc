@@ -12,9 +12,7 @@ Users can publish records to an online platform. The current option is ScienceBa
 
 **Publish** is only visible when you’re viewing a metadata record.
 
-Upon successfully publishing to ScienceBase, the third column will display a date and time. The record's ScienceBase ID will be displayed in the first column, and the Parent ID will be displayed in the second column. Consult the [Parent Metadata](/record/edit/metadata/parent-metadata.md) section of this manual to learn how to add a Parent ID.
 
-If there are any errors during publishing, they will be noted in the third column.
 
 
 

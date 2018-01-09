@@ -2,10 +2,11 @@
 
 The **Main **tab allows for the editing of primary metadata.
 
-![](/assets/MainScreenshot.png)
+* **Record ID **and **Title **will be auto-filled, but can be edited.
 
-* When editing a **Record ID **and **Title **are auto-filled \(but can be edited\).
 * The **Status **drop-down menu allows you to select the status of your item.
+
+![](/assets/MainScreenshot.png)
 
 ---
 

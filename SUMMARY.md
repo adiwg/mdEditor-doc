@@ -53,5 +53,5 @@
   * [Individual Contact](contact/new/individual.md)
   * [Organization Contacts](contact/new/organization.md)
 * [Contact Show](contact\show.md)
-* Right Vertical Menu
+* [Glossary of Terms](glossary-of-terms.md)
 

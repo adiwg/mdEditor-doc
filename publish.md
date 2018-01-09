@@ -10,9 +10,5 @@ Users can publish records to an online platform. The current option is ScienceBa
 
 ---
 
-**Publish** is only visible when you’re viewing a metadata record.
-
-
-
 
 

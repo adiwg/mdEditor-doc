@@ -1,19 +1,20 @@
 # Record Edit
 
-![](/assets/EditButton.png)
+Edit functionality is only visible when viewing a metadata record. Click the Edit button to begin editing your record.![](/assets/EditButton.png)
 
-Click the **Edit **button to begin editing your record.
+---
 
 ### Navigation When Editing Records
 
-You can use your browser’s forward and back arrows to navigate between record tabs, just like you would on a web page.
+![](/assets/HighLevel.png)
 
-\(Screenshot of "high-level navigation"\)
-
-* When editing a Metadata record, navigation **breadcrumbs** appear in light blue on top of the form.
+* When editing a Metadata record, navigation **breadcrumbs** appear in light blue on top of the form. These can be used to navigate. 
 * The **sub-menu navigation bar** is located below the breadcrumbs.  These change depending on what function is in use.
-* If you hover over links there will be a short description of what that section is.
-* The** Spotlight Tool** is a blue box with a white circle inside at right of the section name.  It grays everything out except the panel you’re working on to help focus on that particular section
+  * If you hover over the items, there will be a short description of what each section is.
+
+![](/assets/SpotlightTool.png)
+
+* The** Spotlight Tool** is a blue box with a white circle at the right of each section.  It grays everything out except the panel you’re working on to help focus on that particular section
 
 ---
 
@@ -27,5 +28,5 @@ Certain fields are required in order to meet ISO metadata requirements. Required
 
 ![](/assets/Orange Ast.png)A number with an orange background is noting that a field is_ not_ required
 
-![](/assets/BlueNumber.png)Once you’ve entered information in a required field, the circle will turn blue and include a number.
+![](/assets/BlueNumber.png)A blue circle with a number means that a field has been filled out.
 

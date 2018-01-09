@@ -26,7 +26,7 @@ Certain fields are required in order to meet ISO metadata requirements. Required
 
 ![](/assets/RedNumber.png)A red number in a circle is also noting that this is a required field.
 
-![](/assets/Orange Ast.png)A number with an orange background is noting that a field is_ not_ required
+![](/assets/Orange Ast.png)A number with an orange background is noting that a field is** **_not _required
 
 ![](/assets/BlueNumber.png)A blue circle with a number means that a field has been filled out.
 

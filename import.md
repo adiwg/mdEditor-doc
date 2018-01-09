@@ -17,9 +17,5 @@ Files can also be imported using the **Import from Online URL **functionality.
 
 ---
 
-#### General Notes on Importing
-
-> ![](/assets/NoteSmall.png)To import Settings, you should set the import to “Replace” mode. Generally, it's a good idea to set the mode back to “Merge,” once you’ve finished importing the settings.
-
 
 

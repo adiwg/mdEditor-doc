@@ -1,6 +1,6 @@
 # Record Metadata
 
-Record Metadata is the place to enter the key information into your record. 
+Record Metadata is the place to enter key information into your record.
 
 * **Metadata Status **is not required but recommended.
 * **Dates **are** **not required but recommended. Enter a correction date or date of the last update.

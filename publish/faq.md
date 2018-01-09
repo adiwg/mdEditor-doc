@@ -14,7 +14,8 @@
 
    > Once you use mdEditor for editing items, you have to keep using mdEditor. If you go back to DEPTH or SB directly to edit items, your edits will not be reflected in the attached mdJSON, so your edits will be lost \(overwritten\) the next time you publish from mdEditor.
 
-4. What if we are working on files remotely for same project? Will these merge?  
+4. What if we are working on files remotely for same project? Will these merge?
+
    > Files and contact lists will not merge. The new import will overwrite the older version.
 
 > ![](/assets/BestPracticeSmall.png)**Best Practice**: Maintain a master contacts list that is accessible by multiple editors.

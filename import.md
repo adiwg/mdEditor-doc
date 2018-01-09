@@ -19,7 +19,7 @@ Files can also be imported using the **Import from Online URL **functionality.
 
 #### General Notes on Importing
 
-> ![](blob:https://www.gitbook.com/a48a9aea-8379-4711-b95a-5c09780d8023) To import Settings, you should set the import to “Replace” mode. Generally, it's a good idea to set the mode back to “Merge,” once you’ve finished importing the settings.
+> ![](/assets/NoteSmall.png)To import Settings, you should set the import to “Replace” mode. Generally, it's a good idea to set the mode back to “Merge,” once you’ve finished importing the settings.
 
 
 

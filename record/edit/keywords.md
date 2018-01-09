@@ -6,6 +6,8 @@
 * Select **Custom Thesaurus **or any of the pre-populated thesauruses from the **Pick a thesaurus **drop-down. 
   * \(Consult the [Custom Thesaurus](/record/edit/keywords/custom-keywords.md) section of this manual to learn how to create user definable keywords\)
 
+> ![](/assets/NoteSmall.png)Keywords Edited in the mdEditor will overwrite keywords in Science Base
+
 ![](https://lh5.googleusercontent.com/KVJ4_feuJ1xYnsRLYYGfRFBOJ_pR76xdlThDJ39GYUFdkyUR-wbODSCKEW637polRHdv4JqotIFxiEPKUZgLo7EGv41XAF63zcx7sqrYLNdWnc1CVhGk7HYzLXcrEY5LoPOA37-c)
 
 **The following pre-populated thesauruses are available: **

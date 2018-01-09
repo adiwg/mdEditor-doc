@@ -8,7 +8,7 @@ Puts information about how the record can and cannot be used into the metadata.
 
 Identify concerns over how people should or should not use the product.
 
-> ![](blob:https://www.gitbook.com/e1963b65-f38d-4304-aecc-23b4c7159718)If your product is licensed, let people know here. Typically files used will be public domain, but not always.
+> ![](/assets/BestPracticeSmall.png)If your product is licensed, let people know here. Typically files used will be public domain, but not always.
 
 ![](/assets/UseLimitation.png)
 

@@ -14,7 +14,7 @@ The **Main **tab allows for the editing of primary metadata.
 
 ![](https://lh4.googleusercontent.com/2ERPdFhyAVQYiGMA0NwrxuJgEpWXjv42wJWG8GyAvxbLzAkQFGPC4q0Gm69yt-5Ytt6BlFu4HipCCrunpBLJoFR9-DaAKFtq_JgmXrhmgEM_2J8an8oBrYB7cMogQ-9ub-w0_nUP)
 
-**Default Locale **allows for selection of **Language**, **Character Set**, and **Country**. English, UTF-8, and USA are selected by default, but you may change the local if necessary.
+**Default Locale **allows for selection of **Language**, **Character Set**, and **Country**. English, UTF-8, and USA are selected by default, but you may change them if necessary.
 
 ---
 
@@ -32,7 +32,7 @@ The **Main **tab allows for the editing of primary metadata.
 
 **Point Of Contacts **may be added by clicking the **Add **button.
 
-From the **Role **drop-down menu, select or enter a roll for your point of contact. From the **Contacts **drop-down menu, select a contact the list of contacts. Learn how to create a contact in the [**Contact New**](/contact\new.md)** **section of this manual.
+From the **Role **drop-down menu, select or enter a roll for your point of contact. From the **Contacts **drop-down menu, select a contact from the list of contacts. Learn how to create a contact in the [**Contact New**](/contact\new.md)** **section of this manual.
 
 ---
 

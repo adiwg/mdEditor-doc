@@ -12,7 +12,7 @@ Copying contacts will change the ID and the name \(the name will be â€œCopy of â
 >
 > ![](/assets/BestPracticeSmall.png)**Best Practice: **Always spell out acronyms when creating contacts
 >
-> ![](/assets/NoteSmall.png)**Note: when you edit a contact, the information will also update the metadata records that include that contact and update to SB when you publish the records.**
+> ![](/assets/NoteSmall.png)**Note: **when you edit a contact, the information will also update the metadata records that include that contact, and the information will update to SB when you publish the records**.**
 
 ### 
 

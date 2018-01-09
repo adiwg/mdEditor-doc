@@ -1,5 +1,7 @@
 # Record Constraints
 
+A place to add information about how the record can and cannot be used into the metadata. 
+
 ---
 
 ## **Use limitation**

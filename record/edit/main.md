@@ -1,6 +1,6 @@
 # Main
 
-The **Main **tab allows for the editing of primary metadata.
+The **Main **tab allows for the creation of primary metadata from scratch. \(i.e. Creating a record that doesn’t need to be imported from somewhere else\)
 
 * **Record ID **and **Title **will be auto-filled, but can be edited.
 
@@ -56,7 +56,7 @@ From the **Role **drop-down menu, select or enter a roll for your point of conta
 
 **Time Period** refers to project start and end date, or the date that the product was applicable \(e.g., time that a map is valid, date of publication, date of presentation\)
 
-> ![](/assets/BestPracticeSmall.png)**Best Practice:** For each project, add a start and end date. 
+> ![](/assets/BestPracticeSmall.png)**Best Practice:** For each project, add a start and end date.
 >
 > ![](/assets/NoteSmall.png)**Time Period** isn’t required but if you choose to enter something in time period, you have to enter a date.
 

@@ -6,18 +6,20 @@ Users can click the **Import Data **button to import a local file, or simply dra
 
 Files can also be imported using the **Import from Online URL **functionality.
 
-> ![](/assets/NoteSmall.png)**Note**: to import Settings, you should set the import to “Replace” mode. Generally, it's a good idea to set the mode back to “Merge,” once you’ve finished importing the settings.
-
 ![](/assets/Import_Window.png)
 
 #### After Importing
 
 * Review what was imported. Click the “preview JSON” buttons to sort between multiple entries of the same contact, and decide which version to keep. 
 * Select the records and contacts you want to import.
-  > ![](/assets/BestPracticeSmall.png)**Best Practice: **Choose the contact with more complete information.
+  > ![](/assets/BestPracticeSmall.png)**Best Practice: **Choose the record or contact with the most complete information.
 * Click on the right hand button “**Click to Import Data**” to import the selected records
 
+---
 
+#### General Notes on Importing
+
+> ![](blob:https://www.gitbook.com/a48a9aea-8379-4711-b95a-5c09780d8023) To import Settings, you should set the import to “Replace” mode. Generally, it's a good idea to set the mode back to “Merge,” once you’ve finished importing the settings.
 
 
 

@@ -8,15 +8,15 @@ For tracking issues, please use the github thread [here](https://github.com/adiw
 
    > ![](/assets/BestPracticeSmall.png)
    >
-   > **Best Practice**: It's recommended that you export that project and its products into its own mdEditor file. Set default parent identifier as a test folder.
+   > **Best Practice**: It's recommended that you export a project and its products into its own mdEditor file. Set default parent identifier as a test folder.
 
-   If you** already have** items on SB, it is harder to test without affecting your real records.
+   If you** already have** items on Science Base, it is harder to test without it affecting your real records.
 
    > ![](/assets/BestPracticeSmall.png)
    >
    > **Best Practice**:
    >
-   > _Approach 1_ - Take a simple project and product set, then make a copy of the mdEditor records. In the test version, delete all SBIDs and parent IDs. The SBID will either be located in the citation or if you imported the record from SB, then the SBID will be the record identifier. Set default parent identifier as a test folder.
+   > _Approach 1_ - Take a simple project and product set, and make a copy of the mdEditor records. In the test version, delete all Science Base IDs \(SBIDs\) and parent IDs. The SBID will either be located in the citation, or if you imported the record from SB, the SBID will be the record identifier. Set default parent identifier as a test folder.
    >
    > _ Approach 2 _- Publish directly to a real record if you are okay with the risk it presents.
 
@@ -35,6 +35,7 @@ For tracking issues, please use the github thread [here](https://github.com/adiw
 8. Update your mdEditor settings to your real Default Parent Identifier.
 
 9. Using the record you just tested, proceed with publishing to the real location on ScienceBase.
+
 10. Make sure any test SBIDs are removed entirely from the record you want to actually publish.
 11. Verify the real records have updated as expected.
 12. Proceed with publishing your other records to their real locations.

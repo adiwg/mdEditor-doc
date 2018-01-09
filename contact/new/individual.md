@@ -6,12 +6,13 @@ The following fields are available for individual contacts:
 * **Position name**: Required
 * **Contact Type**: Recommended
 * **Member Organization**: Recommended
-  > ![](/assets/NoteSmall.png)You can make an individual part of multiple organizations.
+  * You can make an individual part of multiple organizations.
 * **Phone**: Recommended
 * **Email address**: Required
 * **Physical address**: Recommended
 * **Online Resource**: Recommended
-  > ![](/assets/NoteSmall.png)Online resources may include websites or social networks.
+  * Online resources may include websites or social networks.
+* **Available Times**: Recommended
 * **Logo**: Optional
 
   > ![](/assets/NoteSmall.png)** **
@@ -24,9 +25,7 @@ The following fields are available for individual contacts:
   >
   > * If an organization has a logo associated with it, individuals will inherit the logo from the organization.
 
-* **Available Times**: Recommended
-
-  ---
+---
 
 
 

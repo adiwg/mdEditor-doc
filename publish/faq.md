@@ -16,10 +16,10 @@
 
 5. What if we are working on files remotely for same project? Will these merge?
 
-   > These DO NOT merge. Contact list DOES NOT merge. The new import will overwrite the current version.
+   These **do not** merge. Contact list **does not **merge. The new import will overwrite the current version.
 
    > ![](/assets/BestPracticeSmall.png)**Best Practice**: Maintain a master contacts list that is accessible by multiple editors.
-
+   >
    > ![](/assets/BestPracticeSmall.png)**Best Practice**: It is recommend that only one person edit the same project/product at the same time to help with version control.
 
 

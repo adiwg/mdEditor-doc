@@ -2,31 +2,27 @@
 
 > ![](/assets/BestPracticeSmall.png)**Best Practice:** always hit_ refresh_ in your browser before each work session \(and periodically throughout the day\) to ensure you are using the most updated version of mdEditor. Always refresh before you access the publishing menu. However, If you start moving items around in the publishing outline \(see below for details\), you may lose this information once you refresh.
 >
-> ![](/assets/NoteSmall.png)**Note: **Currently the  publishing service available through the mdEditor is ScienceBase. In the future, mdEditor will likely be able to work with other databases, such as data.gov. Instructions in this manual will use ScienceBase as an example..
+> ![](/assets/NoteSmall.png)**Note: **Currently the  publishing service available through the mdEditor is ScienceBase. In the future, mdEditor will likely be able to work with other databases. Instructions in this manual will use ScienceBase.
 
 ---
 
 #### Step One: Logging Into Science Base
 
-* Click the **Publish** button from the top menu in mdEditor.
+1. Click the **Publish** button from the top menu in mdEditor.
+2. You will be asked to select a _publishing service_. Click on Science Base.
+3. A login window will appear on the right side of the screen - enter your ScienceBase ID and password, and click **Login**. When you are logged in, the login window will display who you are logged in as. _The current user must have read/write permissions on ScienceBase for any items to be published \(including parent items\)_. You cannot publish until you are logged in.
+4. You will see a list of every valid record in mdEditor in the publishing outline with its ScienceBase Identifier \(if the record already exists on ScienceBase\) and its parent ScienceBase Identifier \(if present in the metadata\). This publishing outline shows records in a parent-child relationship and reflects what you would see when you publish in ScienceBase.
+5. Records **without parent IDs** already in their metadata will appear directly under the ScienceBase header
 
-* You will be asked to select a _publishing service_. Click on Science Base.
+   * Indicating that they will be published under the default parent identifier established in the settings. This information is visible on the header, which is hyperlinked to the record on ScienceBase. 
 
-* A login window will appear on the right side of the screen - enter your ScienceBase ID and password, and click **Login**. When you are logged in, the login window will display who you are logged in as. _The current user must have read/write permissions on ScienceBase for any items to be published \(including parent items\)_. You cannot publish until you are logged in.
+6. Records** that have** **parent IDs** in the metadata record will appear below a thick blue line and will be published under the parent ID in their metadata .
 
-* You will see a list of every valid record in mdEditor in the publishing outline with its ScienceBase Identifier \(if the record already exists on ScienceBase\) and its parent ScienceBase Identifier \(if present in the metadata\). This publishing outline shows records in a parent-child relationship and reflects what you would see when you publish in ScienceBase.
+> ![](/assets/NoteSmall.png) Parent-Child refers to how the records are organized and displayed on Science Base; this is different than the Project and Product associations that are embedded within the metadata records.
 
-> ![](/assets/NoteSmall.png)Parent-child refers to how the records are organized and displayed on ScienceBase; this is different than the Project and Product associations that are embedded within the metadata records.
+> If you do not want these parent IDs to change,** do not** drag and drop these records in the publishing outline.
 
-* Records **without parent IDs** already in their metadata will appear directly under the ScienceBase header
-
-  * Indicating that they will be published under the default parent identifier established in the settings. This information is visible on the header, which is hyperlinked to the record on ScienceBase. 
-
-* Records** that have** **parent IDs** in the metadata record will appear below a thick blue line and will be published under the parent ID in their metadata .
-
-> ![](/assets/NoteSmall.png) if you do not want these parent IDs to change,** do not** drag and drop these records in the publishing outline.
-
-#### 
+#### ![](/assets/PublishScreenshot2.png)
 
 ---
 
@@ -44,15 +40,17 @@ Items directly below the ScienceBase header will be published under the ScienceB
 
 -You can drag and drop records to establish the parent-child relationship, eliminating the need to establish the relationship in ScienceBase. This will also allow you to move items around \(e.g., move a product from one project to another\) and have that change be reflected on ScienceBase. Remember, this is only about parent-child relationships on ScienceBase, not about project-product associations.
 
-> ![](/assets/NoteSmall.png)If you move a product under a different project, it will update that product’s parent ID.
+> ![](/assets/NoteSmall.png)
 >
-> Parent IDs established through the relationships in the publishing outline will overwrite existing parent IDs in the metadata.
+> -If you move a product under a different project, it will update that product’s parent ID.
 >
-> Dragging and dropping a record onto the ScienceBase header at the top will set that record’s parent ID to the default parent ID you identified in settings.
+> -Parent IDs established through the relationships in the publishing outline will overwrite existing parent IDs in the metadata.
 >
-> If you have existing parent IDs in your metadata \(and want to keep them as is\), **DO NOT** drag and drop those records onto the ScienceBase header - this will erase the existing parent ID and insert whatever you have set as the default parent identifier.
+> -Dragging and dropping a record onto the ScienceBase header at the top will set that record’s parent ID to the default parent ID you identified in settings.
 >
-> ![](/assets/BestPracticeSmall.png)**Best practice:** Make sure that if you have projects and associated products that you have them in mdEditor at the same time and manage them at the same time.
+> -If you have existing parent IDs in your metadata \(and want to keep them as is\), **do not** drag and drop those records onto the ScienceBase header-- this will erase the existing parent ID and insert what you have set as the default parent identifier.
+
+> ![](/assets/BestPracticeSmall.png)**Best practice: **If you have projects and associated products, make sure you have them in mdEditor at the same time and manage them at the same time.
 
 ---
 

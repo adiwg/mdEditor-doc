@@ -32,27 +32,27 @@ Fill in available fields:
 * **Resource Type: **Select the type of resource from the drop down menu and give it a name.
 
 * **Basic Information: **\(required\) Basic information allows for the input of:  
-  **-Title**: \(required\)  
-  **-Alternate Titles**: \(optional\)  
-  **-Dates**: \(optional\)  
-  **-Edition**: \(optional\)  
-  **-Presentation Form**:\(optional\)
+  **-Title**: \(required\) The title of the association.  
+  **-Alternate Titles**: An alternate title of the association.  
+  **-Dates**: A date that the association was created.  
+  **-Edition**: An edition number of the association.  
+  **-Presentation Form**: Select or enter a presentation form.
 
 Other available fields include:
 
-* **Responsible Parties**
+* **Responsible Parties**: The party responsible for maintaining the association
 
-* **Online Resource**
+* **Online Resource**: An online resource that further describes the association.
 
-* **Identifier**
+* **Identifier**: A unique identifier for the association.
 
-* **Series**
+* **Series**: A series number of the association.
 
-* **Other Details**
+* **Other Details**: Other details describing the association.
 
-* **Graphic**
+* **Graphic**: You may add a graphic to your association. Graphics must be smaller than 50kb  and recommend size is smaller then 25kb.
 
-* **Metadata Citation**
+* **Metadata Citation: **You may add a metadata citation noting any references pertaining to the association.
 
 
 

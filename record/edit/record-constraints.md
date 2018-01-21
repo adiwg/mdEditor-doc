@@ -8,9 +8,9 @@ Puts information about how the record can and cannot be used into the metadata.
 
 Identify concerns over how people should or should not use the product.
 
-> ![](/assets/BestPracticeSmall.png)If your product is licensed, let people know here. Typically files used will be public domain, but not always.
+> ![](/assets/best_practice_small.png)If your product is licensed, let people know here. Typically files used will be public domain, but not always.
 
-![](/assets/UseLimitation.png)
+![](/assets/use_limitation.png)
 
 ---
 
@@ -20,7 +20,7 @@ Identify concerns over how people should or should not use the product.
 * **Use constraint**s: How the product should be used.
 * **Other constraints:** This is a place to put standard disclaimers.
 
-![](/assets/Legal.png)
+![](/assets/legal.png)
 
 ---
 
@@ -28,7 +28,7 @@ Identify concerns over how people should or should not use the product.
 
 ** **A place to describe constraints or restrictions pertaining to security of the resource.  Choose classification from the drop-down menu.
 
-> ![](/assets/NoteSmall.png)**Classification **is the class of security \(e.g., top secret, public access\).
+> ![](/assets/note_small.png)**Classification **is the class of security \(e.g., top secret, public access\).
 
-![](/assets/Security.png)
+![](/assets/security.png)
 

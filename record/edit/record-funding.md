@@ -14,5 +14,5 @@ Available fields include:
 
 ---
 
-![](/assets/Funding_Window.png)
+![](/assets/funding_window.png)
 

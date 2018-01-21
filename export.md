@@ -2,13 +2,13 @@
 
 The export function will allow the contents of the current metadata recordset to be saved as a mdEditor or a mdJSON file. The files can then be shared with collaborators and imported into another record set, imported into another browser using mdEditor, or saved to a local workstation as a backup or archival copy. Files are automatically named as “mdeditor-timestamp.json”.
 
-> ![](/assets/NoteSmall.png) mdJSON files can be uploaded and translated to other formats via the mdTranslator application while mdEditor files are exclusive to the mdEditor application and retain all mdEditor information, including settings.
+> ![](/assets/note_small.png) mdJSON files can be uploaded and translated to other formats via the mdTranslator application while mdEditor files are exclusive to the mdEditor application and retain all mdEditor information, including settings.
 
 ![](/assets/export_window.png)
 
-> ![](/assets/BestPracticeSmall.png)**Best Practice**: For a complete backup, use the **Export All **button. This exports an mdEditor file containing all records and contacts.
+> ![](/assets/best_practice_small.png)**Best Practice**: For a complete backup, use the **Export All **button. This exports an mdEditor file containing all records and contacts.
 >
-> ![](/assets/BestPracticeSmall.png)**Best Practice:** **Export All** each time you finish a work session in mdEditor \(or switch browsers, URLs, etc.\).
+> ![](/assets/best_practice_small.png)**Best Practice:** **Export All** each time you finish a work session in mdEditor \(or switch browsers, URLs, etc.\).
 
 ---
 
@@ -22,13 +22,13 @@ The export function will allow the contents of the current metadata recordset to
 
 * Clicking the **Include Settings **switch will also export mdEditor settings. Consult the [Settings](/settings.md) section of this manual to learn about settings.
 
-> ![](/assets/NoteSmall.png)If you need to switch browsers for mdEditor, or want to send your setting to someone else, you can export them.
+> ![](/assets/note_small.png)If you need to switch browsers for mdEditor, or want to send your setting to someone else, you can export them.
 
 ---
 
 #### General Notes on Exporting
 
-> ![](/assets/BestPracticeSmall.png)**Best Practice: **When Exporting Contacts, it is recommended that you export all contacts together. If you load a project and the contacts aren’t loaded in mdEditor, you can’t inject the contacts back into the metadata record.
+> ![](/assets/best_practice_small.png)**Best Practice: **When Exporting Contacts, it is recommended that you export all contacts together. If you load a project and the contacts aren’t loaded in mdEditor, you can’t inject the contacts back into the metadata record.
 
 
 

@@ -17,9 +17,7 @@ Available fields include:
 * **Description**: Describes the identifier.
 
 * **Note**: Users can also add a note with further description of the offline item.  
-  ![](https://lh4.googleusercontent.com/PmKeJ9s1XOekd8kvbxt4kByQ1f-h3NSXbY1KBVRZFcPvyA5z6GeD0ZjcoSxHL6AMW-hwL3nTbypRCFOWcolIJev2KATjrCG6EUvz68vcmhKRkwSbRMskjnatH22ij-4H5K61K30d)
-
-
+  ![](/assets/offline_options.png)
 
 
 

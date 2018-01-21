@@ -14,9 +14,5 @@ Available fields in transfer options include:
 
 * **Transfer Frequency**: Describes the frequency that products were transferred.
 
-![](/assets/Distribution_Transfer_Options_Window.png)
-
-
-
-
+![](/assets/distribution_transfer_options_window.png)
 

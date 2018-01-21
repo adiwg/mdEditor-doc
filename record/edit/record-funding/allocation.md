@@ -12,11 +12,11 @@
 
 * **Recipient **describes the recipient of the funds
 
-  > ![](/assets/NoteSmall.png) If there are multiple recipients, users must add separate funding allocations for each recipient.
+  > ![](/assets/note_small.png) If there are multiple recipients, users must add separate funding allocations for each recipient.
 
 * The** Matching** check-box refers to matching funds or in-kind services.
 
-  > ![](/assets/NoteSmall.png)
+  > ![](/assets/note_small.png)
   >
   > -Matching funds should be broken down into separate funding providers, in order to show what partners are supporting the work.  
   > -When matching is checked: description** **should describe** **the organization that provided the funds.
@@ -25,5 +25,5 @@
 
 * **Online Resource**: Add an online resource that further details the allocation.
 
-![](/assets/Allocation_Window.png)
+![](/assets/allocation_window.png)
 

@@ -39,11 +39,11 @@ Primary development has been performed by Josh Bradley \(joshua\_bradley@fws.gov
 
 _The following diagram describes the science catalog system architecture._
 
-> ![](/assets/NoteSmall.png)Currently the mdEditor is used primarily with ScienceBase, a collaborative scientific data and information management platform developed and run by the USGS and used directly by science teams. The mdEditor can work with other databases, but in this manual, ScienceBase will be used as the primary example of a database.
+> ![](/assets/note_small.png)Currently the mdEditor is used primarily with ScienceBase, a collaborative scientific data and information management platform developed and run by the USGS and used directly by science teams. The mdEditor can work with other databases, but in this manual, ScienceBase will be used as the primary example of a database.
 >
 > For more information, see ScienceBase in the glossary of terms.
 
-![](/assets/Science_Catalog_System_Architecture.png)
+![](/assets/science_catalog_system_architecture.png)
 
 * Items are imported from a database \(like ScienceBase\), or created directly in mdEditor.
 * mdJSON files can also be stored in a local repository and then transmitted via a web service to ScienceBase. Alternately, the  local files can be exported to a web accessible folder and then harvested by ScienceBase.

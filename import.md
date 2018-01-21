@@ -6,13 +6,13 @@ Users can click the **Import Data **button to import a local file, or simply dra
 
 Files can also be imported using the **Import from Online URL **functionality.
 
-![](/assets/Import_Window.png)
+![](/assets/import_window.png)
 
 #### After Importing
 
 * Review what was imported. Click the “preview JSON” buttons to sort between multiple entries of the same contact, and decide which version to keep. 
 * Select the records and contacts you want to import.
-  > ![](/assets/BestPracticeSmall.png)**Best Practice: **Choose the record or contact with the most complete information.
+  > ![](/assets/best_practice_small.png)**Best Practice: **Choose the record or contact with the most complete information.
 * Click on the right hand button “**Click to Import Data**” to import the selected records
 
 ---

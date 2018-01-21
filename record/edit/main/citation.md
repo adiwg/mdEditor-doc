@@ -13,5 +13,5 @@ The following fields are available in citation:
 
 Return to the [**Record Main**](/record/edit/main.md) section of this manual to learn how to add the remaining sections of the **Main** tab.
 
-![](/assets/Main_Citation_Window.png)
+![](/assets/main_citation_window.png)
 

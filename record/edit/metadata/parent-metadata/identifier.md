@@ -9,8 +9,9 @@
 * **Namespace: \(required\) **The Namespace field** **allows for the addition of the database that you are adding to.
 
 * **Version: \(optional\) **
+
 * **Description: \(optional\)**
 * **Authority: \(optional\)**
 
-![](/assets/Identifier_Window.png)
+![](/assets/identifier_window.png)
 

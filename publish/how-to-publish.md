@@ -1,8 +1,8 @@
 # How to Publish
 
-> ![](/assets/BestPracticeSmall.png)**Best Practice:** always hit_ refresh_ in your browser before each work session \(and periodically throughout the day\) to ensure you are using the most updated version of mdEditor. Always refresh before you access the publishing menu. However, If you start moving items around in the publishing outline \(see below for details\), you may lose this information once you refresh.
+> ![](/assets/best_practice_small.png)**Best Practice:** always hit_ refresh_ in your browser before each work session \(and periodically throughout the day\) to ensure you are using the most updated version of mdEditor. Always refresh before you access the publishing menu. However, If you start moving items around in the publishing outline \(see below for details\), you may lose this information once you refresh.
 >
-> ![](/assets/NoteSmall.png)**Note: **Currently the  publishing service available through the mdEditor is ScienceBase. In the future, mdEditor will likely be able to work with other databases. Instructions in this manual will use ScienceBase.
+> ![](/assets/note_small.png)**Note: **Currently the  publishing service available through the mdEditor is ScienceBase. In the future, mdEditor will likely be able to work with other databases. Instructions in this manual will use ScienceBase.
 
 ---
 
@@ -18,7 +18,7 @@
 
 6. Records** that have** **parent IDs** in the metadata record will appear below a thick blue line and will be published under the parent ID in their metadata .
 
-> ![](/assets/NoteSmall.png) Parent-Child refers to how the records are organized and displayed on Science Base; this is different than the Project and Product associations that are embedded within the metadata records.
+> ![](/assets/note_small.png) Parent-Child refers to how the records are organized and displayed on Science Base; this is different than the Project and Product associations that are embedded within the metadata records.
 >
 > If you do not want these parent IDs to change,** do not** drag and drop these records in the publishing outline.
 
@@ -40,7 +40,7 @@ Items directly below the ScienceBase header will be published under the ScienceB
 
 -You can drag and drop records to establish the parent-child relationship, eliminating the need to establish the relationship in ScienceBase. This will also allow you to move items around \(e.g., move a product from one project to another\) and have that change be reflected on ScienceBase. Remember, this is only about parent-child relationships on ScienceBase, not about project-product associations.
 
-> ![](/assets/NoteSmall.png)
+> ![](/assets/note_small.png)
 >
 > -If you move a product under a different project, it will update that product’s parent ID.
 >
@@ -50,7 +50,7 @@ Items directly below the ScienceBase header will be published under the ScienceB
 >
 > -If you have existing parent IDs in your metadata \(and want to keep them as is\), **do not** drag and drop those records onto the ScienceBase header-- this will erase the existing parent ID and insert what you have set as the default parent identifier.
 >
-> ![](/assets/BestPracticeSmall.png)**Best practice: **If you have projects and associated products, make sure you have them in mdEditor at the same time and manage them at the same time.
+> ![](/assets/best_practice_small.png)**Best practice: **If you have projects and associated products, make sure you have them in mdEditor at the same time and manage them at the same time.
 
 ---
 
@@ -92,19 +92,17 @@ _You** have **existing parent-child relationships on ScienceBase and/or you have
 
    * These new/updated IDs will be injected directly into the mdJSON file in mdEditor. However, these updated IDs will not be included in the mdJSON file that is attached to ScienceBase as part of the publishing process. You would have to publish the record a second time to update the mdJSON file attached on ScienceBase.
 
-3. Upon successfully publishing to ScienceBase, the third column will display a date and time. The record's ScienceBase ID will be displayed in the first column, and the Parent ID will be displayed in the second column. 
+3. Upon successfully publishing to ScienceBase, the third column will display a date and time. The record's ScienceBase ID will be displayed in the first column, and the Parent ID will be displayed in the second column.
 
    If there are any errors during publishing, they will be noted in the third column.
 
-4. Once publishing is done, refresh ScienceBase to ensure everything is showing up how you expected it would show up. 
+4. Once publishing is done, refresh ScienceBase to ensure everything is showing up how you expected it would show up.
 
    * SB items should have an mdJSON and xml file attached
 
    * SB items should be in the location reflected in the mdEditor publishing outline.
 
 5. You can re-publish records as needed \(e.g., after updating or correcting metadata\).
-
-
 
 
 

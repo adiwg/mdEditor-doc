@@ -1,5 +1,7 @@
 # Record Documents
 
+---
+
 **Documents **is used for documents that are related to the project, but do not define or describe the project such as a video, webinar, book, poster, webpage, news release, etc.
 
 Available fields include:
@@ -28,9 +30,7 @@ Other available fields include:
 
 * **Metadata Citation: **You may add a metadata citation noting any references pertaining to the association.
 
-
-
-> ![](/assets/NoteSmall.png)SB has something similar called “weblink,” SB weblinks will be populated here if sbJSON is imported into mdEditor.
+> ![](/assets/NoteSmall.png)ScienceBase has something similar called “weblink,” ScienceBase weblinks will be populated here if sbJSON is imported into mdEditor.
 
 ---
 

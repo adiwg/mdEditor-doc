@@ -1,5 +1,7 @@
 # Dashboard
 
+---
+
 ## Overview
 
 The mdEditor application is designed using a two-pane layout. The left _**sidebar**_ \(1\) provides the primary navigation showing a list of **Metadata Records**, **Contacts** and **Data Dictionaries**. The right pane displays a context-sensitive _**main menu **_\(2\) at the top, a primary _**editor region **_\(3\) below that displays and allows for the editing of a selected object and a** **_**status bar **_\(4\) at the very bottom of the display.
@@ -47,6 +49,4 @@ The editor region will display information based on the type of object that is c
 ### Status Bar
 
 The status bar displays various informational messages, such as whether the [Auto Save](/settings.md) feature is on or off.
-
-
 

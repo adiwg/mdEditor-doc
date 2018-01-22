@@ -1,8 +1,8 @@
 # Record Funding
 
-Tracking funding in the metadata allows for identification of funding sources, comparison, and aggregation at the network level.
-
 ---
+
+Tracking funding in the metadata allows for identification of funding sources, comparison, and aggregation at the network level.
 
 Available fields include:
 

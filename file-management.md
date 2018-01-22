@@ -1,5 +1,7 @@
 # File Management
 
+---
+
 mdEditor.json files can be exported and imported via mdEditor's built in **Export** and **Import **functionality \(described in the [Export](/export.md) and [Import](/import.md) section of this manual\).
 
 > ![](/assets/NoteSmall.png)The only way to backup your records is by using the [Export](/export.md) functionality.

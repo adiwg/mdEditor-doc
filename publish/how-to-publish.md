@@ -20,7 +20,7 @@
 
 6. Records** that have** **parent IDs** in the metadata record will appear below a thick blue line and will be published under the parent ID in their metadata .
 
-> ![](/assets/note_small.png) Parent-Child refers to how the records are organized and displayed on Science Base; this is different than the Project and Product associations that are embedded within the metadata records.
+> ![](/assets/note_small.png) Parent-Child refers to how the records are organized and displayed on ScienceBase; this is different than the Project and Product associations that are embedded within the metadata records.
 >
 > If you do not want these parent IDs to change,** do not** drag and drop these records in the publishing outline.
 
@@ -44,14 +44,14 @@ You can drag and drop records to establish the parent-child relationship, elimin
 
 > ![](/assets/note_small.png)
 >
-> If you move a product under a different project, it will update that product’s parent ID. 
+> If you move a product under a different project, it will update that product’s parent ID.
 >
-> Parent IDs established through the relationships in the publishing outline will overwrite existing parent IDs in the metadata. 
+> Parent IDs established through the relationships in the publishing outline will overwrite existing parent IDs in the metadata.
 >
 > Dragging and dropping a record onto the ScienceBase header at the top will set that record’s parent ID to the default parent ID you identified in settings.
 >
 > If you have existing parent IDs in your metadata \(and want to keep them as is\), **do not** drag and drop those records onto the ScienceBase header-- this will erase the existing parent ID and insert what you have set as the default parent identifier.
-
+>
 > ![](/assets/best_practice_small.png)**Best practice: **If you have projects and associated products, make sure you have them in mdEditor at the same time and manage them at the same time.
 
 ---

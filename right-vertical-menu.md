@@ -1,8 +1,8 @@
 # Right Vertical Menu
 
-The right vertical menu allows for general manipulation of records and contacts. Available options differ depending on whether the item is being viewed or edited.
-
 ---
+
+The right vertical menu allows for general manipulation of records and contacts. Available options differ depending on whether the item is being viewed or edited.
 
 ### General Options
 

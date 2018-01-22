@@ -1,6 +1,6 @@
-
-
 ## How mdEditor Stores Information
+
+---
 
 mdEditor stores information on your local computer in your local browser cache. It’s a local storage cache, not your normal file cache. Therefore, clearing your browser cache will not clear your mdEditor records.
 

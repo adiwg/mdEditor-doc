@@ -1,5 +1,7 @@
 # mdEditor User Manual
 
+---
+
 ## Overview
 
 The mdEditor is a web application that allows users to author and edit metadata for projects, datasets, maps, images, and documents. That metadata can then be exported, translated into other metadata formats, or published to a database. The primary design goal was to develop an application that would allow users to create and use archival quality metadata without the need for an extensive knowledge of metadata standards.

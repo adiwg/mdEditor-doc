@@ -1,5 +1,7 @@
 # Individual Contacts
 
+---
+
 The following fields are available for individual contacts:
 
 * **Individual name**: Required
@@ -17,7 +19,7 @@ The following fields are available for individual contacts:
 
   > ![](/assets/NoteSmall.png)** **
   >
-  > * Users** **can either select or drop an image to be used as a logo.
+  > * You** **can either select or drop an image to be used as a logo.
   >
   > * Images loaded into mdEditor must be smaller than 50kb \(recommended size is smaller than 25kb\). If a larger image is necessary, link to it rather than loading it into the mdEditor.
   >

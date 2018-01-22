@@ -1,5 +1,7 @@
 # Record Distribution
 
+---
+
 **Distribution **allows users the ability to document how or where products are obtained. Distribution methods may include online \(website, database, etc\) or offline \(Delivery via Mail, Library, etc\) options.
 
 * **Contacts **are required and can be selected from the list of contacts.

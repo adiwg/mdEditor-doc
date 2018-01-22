@@ -1,5 +1,7 @@
 # Transfer Options
 
+---
+
 Available fields in transfer options include:
 
 * **Transfer Size**: Describes the size of resource in MB.

@@ -1,5 +1,7 @@
 # Record Edit
 
+---
+
 Edit functionality is only visible when viewing a metadata record. Click the Edit button to begin editing your record.![](/assets/edit_button.png)
 
 ---

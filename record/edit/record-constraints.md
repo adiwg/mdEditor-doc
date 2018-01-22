@@ -1,10 +1,10 @@
 # Record Constraints
 
-Puts information about how the record can and cannot be used into the metadata.
-
 ---
 
-## **Use limitation**
+Puts information about how the record can and cannot be used into the metadata.
+
+## **Use limitations**
 
 Identify concerns over how people should or should not use the product.
 

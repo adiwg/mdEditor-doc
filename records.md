@@ -1,5 +1,7 @@
 # Metadata Records
 
+---
+
 The Metadata Records panel contains all of the individual metadata records for a mdEditor record set.
 
 Clicking on the **plus icon **\(![](/assets/symbol_plus_16.png)\) will create a new record.

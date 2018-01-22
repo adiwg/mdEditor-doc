@@ -18,7 +18,7 @@ Available fields include:
 
 * **Description**: Describes the identifier.
 
-* **Note**: You can also add a note with further description of the offline item.  
+* **Note**: Allows for further description of the offline item.  
   ![](/assets/offline_options.png)
 
 

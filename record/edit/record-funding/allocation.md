@@ -1,6 +1,8 @@
 # Allocation
 
-* **Funding Allocations **details where to put the funds. Users can add multiple allocations for same fiscal year
+---
+
+* **Funding Allocations **details where to put the funds. You can add multiple allocations for the same fiscal year
 
 * **Amount**: \(required\) Enter the amount of funding.
 

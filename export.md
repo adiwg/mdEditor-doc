@@ -1,8 +1,10 @@
 # Export \(![](/assets/symbol_sign-out_16.png)\)
 
+---
+
 The export function will allow the contents of the current metadata recordset to be saved as a mdEditor or a mdJSON file. The files can then be shared with collaborators and imported into another record set, imported into another browser using mdEditor, or saved to a local workstation as a backup or archival copy. Files are automatically named as “mdeditor-timestamp.json”.
 
-> ![](/assets/NoteSmall.png) mdJSON files can be uploaded and translated to other formats via the mdTranslator application while mdEditor files are exclusive to the mdEditor application and retain all mdEditor information, including settings.
+> ![](/assets/NoteSmall.png) mdJSON files can be uploaded and translated to other formats via the mdTranslator application while mdEditor files are exclusive to the mdEditor application, and retain all mdEditor information, including settings.
 
 ![](/assets/export_window.png)
 
@@ -16,7 +18,7 @@ The export function will allow the contents of the current metadata recordset to
 
 * **Export All:** will export everything currently loaded in mdEditor into a single file. Exports an mdEditor JSON file.
 
-* **Export Selected:** will only export the items you have selected \(so individual records, contacts, etc.\). If nothing is selected it will be disabled \(i.e., grayed out\). Exports an mdEditor JSON file.
+* **Export Selected:** will only export the items you have selected \(so individual records, contacts, etc.\). If nothing is selected, it will be disabled \(i.e., grayed out\). Exports an mdEditor JSON file.
 
 * **Export mdJSON: ** only works for metadata records \(i.e., doesn't work for contacts\). Exports just the mdJSON file, which is a standalone JSON file you can load into mdTranslator and have translated into other metadata formats. mdJSON files imported into mdEditor are treated as new records and will not merge/update an existing record.
 

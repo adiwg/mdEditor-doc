@@ -1,5 +1,7 @@
 # Main
 
+---
+
 The **Main **tab allows for the creation of primary metadata from scratch. \(i.e. Creating a record that doesn’t need to be imported from somewhere else\)
 
 * **Record ID **and **Title **will be auto-filled, but can be edited.

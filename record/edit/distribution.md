@@ -1,5 +1,7 @@
 # Record Lineage
 
+---
+
 **Lineage **is used to track the process of building spatial datasets. It's a space that** **can be used to describe the steps and sources  used to create the product, and document the roles and contacts of product contributors.
 
 * **Statement: **Required. Notes actions taken to verify, transform, repair, and integrate the resource.

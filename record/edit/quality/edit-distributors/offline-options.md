@@ -1,5 +1,7 @@
 # Offline Options
 
+---
+
 **Offline Options **allows for the input of information pertaining to obtaining a product that is not available online.
 
 Available fields include:
@@ -16,7 +18,7 @@ Available fields include:
 
 * **Description**: Describes the identifier.
 
-* **Note**: Users can also add a note with further description of the offline item.  
+* **Note**: You can also add a note with further description of the offline item.  
   ![](/assets/offline_options.png)
 
 

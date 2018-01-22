@@ -12,7 +12,7 @@ For tracking issues, please use the github thread [here](https://github.com/adiw
    >
    > **Best Practice**: It's recommended that you export a project and its products into its own mdEditor file. Set default parent identifier as a test folder.
 
-   If you** already have** items on Science Base, it is harder to test without it affecting your real records.
+   If you** already have** items on ScienceBase, it is harder to test without it affecting your real records.
 
    > ![](/assets/BestPracticeSmall.png)
    >

@@ -1,6 +1,6 @@
 # Settings \(![](/assets/symbol_cog_16.png)\)
 
-# 
+---
 
 The settings menu allows the configuring of user specific options.
 
@@ -16,7 +16,7 @@ A record that has been modified will be flagged with a red edit icon \(![](/asse
 
 A record that has been saved will be identified by a green edit icon \(![](/assets/record_saved.png)\). An incomplete record will not turn green when saved.
 
-> ![](/assets/NoteSmall.png)Auto-Save allows the user to save less frequently, but it makes it harder to undo changes that you make to your records. If you stay on the same record, you can cancel changes. But once you leave the record, the record is saved and you can’t cancel the change except by manually editing the record from a different screen \(See [Records Edit](/record\edit.md) for more information\).
+> ![](/assets/NoteSmall.png)Auto-Save allows you to save less frequently, but it makes it harder to undo changes that you make to your records. If you stay on the same record, you can cancel changes. But once you leave the record, the record is saved and you can’t cancel the change except by manually editing the record from a different screen \(See [Records Edit](/record\edit.md) for more information\).
 >
 > ---
 

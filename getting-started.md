@@ -1,5 +1,7 @@
 ## Getting Started
 
+---
+
 ### Opening mdEditor
 
 * mdEditor is currently hosted on the GitHub website and can be opened by following this URL: [https://jlblcc.github.io/mdEditor/\#/dashboard](https://jlblcc.github.io/mdEditor/#/dashboard)

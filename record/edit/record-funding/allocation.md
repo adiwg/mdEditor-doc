@@ -1,6 +1,8 @@
 # Allocation
 
-* **Funding Allocations **details where to put the funds. Users can add multiple allocations for same fiscal year
+---
+
+* **Funding Allocations **details where to put the funds. You can add multiple allocations for same fiscal year
 
 * **Amount**: \(required\) Enter the amount of funding.
 
@@ -12,7 +14,7 @@
 
 * **Recipient **describes the recipient of the funds
 
-  > ![](/assets/note_small.png) If there are multiple recipients, users must add separate funding allocations for each recipient.
+  > ![](/assets/note_small.png) If there are multiple recipients, you must add separate funding allocations for each recipient.
 
 * The** Matching** check-box refers to matching funds or in-kind services.
 

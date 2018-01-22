@@ -1,5 +1,7 @@
 # Custom Thesaurus
 
+---
+
 mdEditor allows for the creation of user-created, custom thesauruses.
 
 > ![](/assets/best_practice_small.png)  

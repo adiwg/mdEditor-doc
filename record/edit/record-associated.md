@@ -1,5 +1,7 @@
 # Record Associated
 
+---
+
 The **Associated** section is used to connect items with each other.
 
 > ![](/assets/note_small.png)In ScienceBase **Associated Records **are referred to as** Item Associations**

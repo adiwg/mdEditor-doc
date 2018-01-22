@@ -32,7 +32,7 @@ Use this method for items where no mdJSON already exists, may or may not have Sc
    > ![](/assets/NoteSmall.png) You can set default import URL to the "ScienceBase API link" in settings section and it will pre-populate this field. Please refer to the [Settings](/settings.md) section of this manual.
 2. Copy and paste the **ScienceBase ID \(SBID\) **of the item that you are trying to import at the end of the URL in the import field, and click the **Import** button.
 3. Review what was imported. Click the “**preview JSON”** buttons to sort between multiple entries of the same contact, and decide which version to keep. 
-4. **Select the Records and Contacts **you want to Import
+4. Select the Records and Contacts you want to Import
 5. Click on the right hand button “**Click to Import Data**” to import the selected records
 
 

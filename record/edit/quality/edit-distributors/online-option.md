@@ -1,5 +1,7 @@
 # Online Options
 
+---
+
 Online options include:
 
 * **Name**: Name of your URI

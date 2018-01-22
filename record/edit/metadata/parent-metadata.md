@@ -1,5 +1,7 @@
 # Parent Metadata
 
+---
+
 Parent Metadata allows for an association between the current record and its parent record
 
 * **Title **is required.

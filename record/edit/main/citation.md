@@ -1,5 +1,7 @@
 # Citation
 
+---
+
 The following fields are available in citation:
 
 * **Title: **Added automatically based on the title of your record.

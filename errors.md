@@ -1,5 +1,7 @@
 # Errors and Missing Required Fields
 
+---
+
 There are two icons with exclamation points that will appear to alert you to potential issues with your metadata record.
 
 ![](/assets/small_red.png)The red exclamation point indicates “This record has been modified! Click to save.”
@@ -12,7 +14,7 @@ There are two icons with exclamation points that will appear to alert you to pot
 
 To review errors, click on the orange error icon next to metadata title. This opens a new window with a list of errors and a reference to the section each error appears in. The **Close **button is on the right side of the screen and will return you to you the record or contact edit screen.
 
-> ![](/assets/best_practice_small.png)**Best Practice**: Start at the top of the list, and work downwards, addressing each error. The error list is accessible from any section of the metadata record and will update as you fix errors.
+> ![](/assets/best_practice_small.png)**Best Practice**: Start at the top of the list and work downwards, addressing each error. The error list is accessible from any section of the metadata record and will update as you fix errors.
 
 ![](/assets/small_errors.png)
 

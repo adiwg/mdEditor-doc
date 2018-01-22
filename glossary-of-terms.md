@@ -1,16 +1,18 @@
 # Glossary of Terms
 
+---
+
 * **Auto-Save: **A feature in mdEditor settings that allows information to be automatically saved as it is entered. Consult the [**Settings**](/settings.md) section of this manual for more information.
 
 * **Customization: **The ability afforded by open-source code to edit the code of an application \(in this case mdEditor\) according to the needs of the users.
 
-* **JSON: **javascript object notation, a general purpose format like CSV
+* **JSON: **j_avascript object notation_, a general purpose format like CSV.
 
 * **Keywords: **Words used in an information retrieval system to indicate the content of a document.
 
 * **Metadata:** Metadata is a set of data that describes and gives information about other data.
 
-* **Metadata Repositories: **a server where metadata is published to
+* **Metadata Repositories: **A server where metadata is published to.
 
 * **mdJSON File:** A type of JSON file that is propitary to the Metadata toolkit developed by the Alaska Data Integration Working Group  \(ADIWG\). Learn more at \[[https://adiwg.github.io/mdTools/](https://adiwg.github.io/mdTools/)\]
 

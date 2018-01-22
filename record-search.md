@@ -1,5 +1,7 @@
 # Record Search
 
+---
+
 Clicking the **list icon **\(![](/assets/symbol_list_16.png)\) will display a searchable list of individual objects in the editor region.
 
 ![](/assets/record_list.png)

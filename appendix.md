@@ -1,5 +1,7 @@
 # Appendix:
 
+---
+
 ## Overall Science Catalog System Architecture
 
 ![](/assets/science_catalog_system_architecture.png)

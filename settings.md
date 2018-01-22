@@ -1,5 +1,7 @@
 # Settings \(![](/assets/symbol_cog_16.png)\)
 
+# 
+
 The settings menu allows the configuring of user specific options.
 
 ## General Settings
@@ -46,6 +48,4 @@ The following defaults will be pre-loaded:
 Items can be published to an online repository such as ScienceBase.
 
 In the **Default Parent Identifier**, enter the repository's parent ID. You may also enter the **Default Community **and **Default Organization**.![](/assets/publishing_settings.png)
-
-
 

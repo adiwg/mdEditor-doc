@@ -8,7 +8,7 @@
 
 ---
 
-#### Step One: Logging Into Science Base
+#### Step One: Logging Into ScienceBase
 
 1. Click the **Publish** button from the top menu in mdEditor.
 2. You will be asked to select a _publishing service_. Click on ScienceBase.
@@ -20,7 +20,7 @@
 
 6. Records** that have** **parent IDs** in the metadata record will appear below a thick blue line and will be published under the parent ID in their metadata .
 
-> ![](/assets/NoteSmall.png) Parent-Child refers to how the records are organized and displayed on Science Base; this is different than the Project and Product associations that are embedded within the metadata records.
+> ![](/assets/NoteSmall.png) Parent-Child refers to how the records are organized and displayed on ScienceBase; this is different than the Project and Product associations that are embedded within the metadata records.
 >
 > If you do not want these parent IDs to change,** do not** drag and drop these records in the publishing outline.
 

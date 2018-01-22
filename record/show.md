@@ -1,4 +1,6 @@
-# Record View
+# Record Show
+
+---
 
 Click the **angle-down icon** \(![](/assets/symbol_angle-down_16.png)\) to expand an object group panel and display a list of objects in the sidebar.
 

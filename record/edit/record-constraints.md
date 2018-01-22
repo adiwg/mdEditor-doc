@@ -1,8 +1,8 @@
 # Record Constraints
 
-Puts information about how the record can and cannot be used into the metadata.
-
 ---
+
+Puts information about how the record can and cannot be used into the metadata.
 
 ## **Use limitation**
 

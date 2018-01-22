@@ -1,5 +1,7 @@
 # Record Metadata
 
+---
+
 Record Metadata is the place to enter key information into your record.
 
 * **Metadata Status **is not required but recommended.

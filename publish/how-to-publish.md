@@ -1,5 +1,7 @@
 # How to Publish
 
+---
+
 > ![](/assets/BestPracticeSmall.png)**Best Practice:** always hit_ refresh_ in your browser before each work session \(and periodically throughout the day\) to ensure you are using the most updated version of mdEditor. Always refresh before you access the publishing menu. However, If you start moving items around in the publishing outline \(see below for details\), you may lose this information once you refresh.
 >
 > ![](/assets/NoteSmall.png)**Note: **Currently the  publishing service available through the mdEditor is ScienceBase. In the future, mdEditor will likely be able to work with other databases. Instructions in this manual will use ScienceBase.
@@ -9,7 +11,7 @@
 #### Step One: Logging Into Science Base
 
 1. Click the **Publish** button from the top menu in mdEditor.
-2. You will be asked to select a _publishing service_. Click on Science Base.
+2. You will be asked to select a _publishing service_. Click on ScienceBase.
 3. A login window will appear on the right side of the screen - enter your ScienceBase ID and password, and click **Login**. When you are logged in, the login window will display who you are logged in as. _The current user must have read/write permissions on ScienceBase for any items to be published \(including parent items\)_. You cannot publish until you are logged in.
 4. You will see a list of every valid record in mdEditor in the publishing outline with its ScienceBase Identifier \(if the record already exists on ScienceBase\) and its parent ScienceBase Identifier \(if present in the metadata\). This publishing outline shows records in a parent-child relationship and reflects what you would see when you publish in ScienceBase.
 5. Records **without parent IDs** already in their metadata will appear directly under the ScienceBase header
@@ -28,7 +30,7 @@
 
 #### **How the publishing outline works:**
 
-The publisher looks for the first identifier in a record that matches an existing one in mdEditor and then puts it under that record in the outline. If it doesn't find a matching identifier, it puts the record at the** **root level of the folder that you are uploading to. The root level being the uppermost folder of your organization.
+The publisher looks for the first identifier in a record that matches an existing one in mdEditor, and then puts it under that record in the outline. If it doesn't find a matching identifier, it puts the record at the** **root level of the folder that you are uploading to. The root level being the uppermost folder of your organization.
 
 Items directly below the ScienceBase header will be published under the ScienceBase item identified in your settings as “Default Parent Identifier.” Items below the blue line will be published under the parent ID specified in the metadata.
 
@@ -38,11 +40,11 @@ Items directly below the ScienceBase header will be published under the ScienceB
 
 * Items listed at the root level in the publishing outline don't have a parentID that correspond with a record loaded in mdEditor \(Note: you could have other parent IDs identified in those records, but those records aren't loaded in mdEditor\)
 
--You can drag and drop records to establish the parent-child relationship, eliminating the need to establish the relationship in ScienceBase. This will also allow you to move items around \(e.g., move a product from one project to another\) and have that change be reflected on ScienceBase. Remember, this is only about parent-child relationships on ScienceBase, not about project-product associations.
+You can drag and drop records to establish the parent-child relationship, eliminating the need to establish the relationship in ScienceBase. This will also allow you to move items around \(e.g., move a product from one project to another\) and have that change be reflected on ScienceBase. Remember, this is only about parent-child relationships on ScienceBase, not about project-product associations.
 
 > ![](/assets/NoteSmall.png)
 >
-> -If you move a product under a different project, it will update that product’s parent ID.
+> If you move a product under a different project, it will update that product’s parent ID.
 >
 > -Parent IDs established through the relationships in the publishing outline will overwrite existing parent IDs in the metadata.
 >
@@ -56,7 +58,7 @@ Items directly below the ScienceBase header will be published under the ScienceB
 
 #### Step Two: Moving Records in the Publishing Outline
 
-Before you move records in the publishing outline please select your scenario below and follow the corresponding guidance.
+Before you move records in the publishing outline, please select your scenario below and follow the corresponding guidance.
 
 #### Scenario A
 
@@ -92,19 +94,17 @@ _You** have **existing parent-child relationships on ScienceBase and/or you have
 
    * These new/updated IDs will be injected directly into the mdJSON file in mdEditor. However, these updated IDs will not be included in the mdJSON file that is attached to ScienceBase as part of the publishing process. You would have to publish the record a second time to update the mdJSON file attached on ScienceBase.
 
-3. Upon successfully publishing to ScienceBase, the third column will display a date and time. The record's ScienceBase ID will be displayed in the first column, and the Parent ID will be displayed in the second column. 
+3. Upon successfully publishing to ScienceBase, the third column will display a date and time. The record's ScienceBase ID will be displayed in the first column, and the Parent ID will be displayed in the second column.
 
    If there are any errors during publishing, they will be noted in the third column.
 
-4. Once publishing is done, refresh ScienceBase to ensure everything is showing up how you expected it would show up. 
+4. Once publishing is done, refresh ScienceBase to ensure everything is showing up how you expected it would show up.
 
    * SB items should have an mdJSON and xml file attached
 
    * SB items should be in the location reflected in the mdEditor publishing outline.
 
 5. You can re-publish records as needed \(e.g., after updating or correcting metadata\).
-
-
 
 
 

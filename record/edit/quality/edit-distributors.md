@@ -1,5 +1,7 @@
 # Transfer Options
 
+---
+
 Available fields in transfer options include:
 
 * **Transfer Size**: Describes the size of resource in MB.
@@ -15,8 +17,4 @@ Available fields in transfer options include:
 * **Transfer Frequency**: Describes the frequency that products were transferred.
 
 ![](/assets/Distribution_Transfer_Options_Window.png)
-
-
-
-
 

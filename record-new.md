@@ -1,5 +1,7 @@
 # Record New
 
+---
+
 **To make a new record:**
 
 1. Click the **plus icon \(**![](https://adiwg.gitbooks.io/mdeditor/content/v/0f34b4eb41e0ced01c4c34b14a8fee12e2e03b05/assets/symbol_plus_16.png)\) to add a new record to an object group.

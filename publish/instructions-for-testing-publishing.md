@@ -1,5 +1,7 @@
 # **Instructions for Testing Publishing**
 
+---
+
 For tracking issues, please use the github thread [here](https://github.com/adiwg/mdEditor/issues/128) and sign up for notifications via email.
 
 1. Determine your workflow for testing:
@@ -16,7 +18,7 @@ For tracking issues, please use the github thread [here](https://github.com/adiw
    >
    > **Best Practice**:
    >
-   > _Approach 1_ - Take a simple project and product set, and make a copy of the mdEditor records. In the test version, delete all Science Base IDs \(SBIDs\) and parent IDs. The SBID will either be located in the citation, or if you imported the record from SB, the SBID will be the record identifier. Set default parent identifier as a test folder.
+   > _Approach 1_ - Take a simple project and product set, and make a copy of the mdEditor records. In the test version, delete all ScienceBase IDs \(SBIDs\) and parent IDs. The SBID will either be located in the citation, or if you imported the record from ScienceBase, the SBID will be the record identifier. Set default parent identifier as a test folder.
    >
    > _ Approach 2 _- Publish directly to a real record if you are okay with the risk it presents.
 
@@ -24,7 +26,7 @@ For tracking issues, please use the github thread [here](https://github.com/adiw
 
 3. Select one project with its associated products to test.
 
-4. Before you publish anything, click F12 \( or Cmd + Opt + J on Mac\), to bring up the error console to be able to track errors as they occur \(consult the [Troubleshooting Issues](/publish/troubleshooting-issues.md) section of this manual for more information\).
+4. Before you publish anything, click F12 \( or Cmd + Opt + J on Mac\) to bring up the error console to be able to track errors as they occur \(consult the [Troubleshooting Issues](/publish/troubleshooting-issues.md) section of this manual for more information\).
 
 5. Follow the publishing instructions above for the scenario that applies to you.
 
@@ -39,6 +41,7 @@ For tracking issues, please use the github thread [here](https://github.com/adiw
 10. Make sure any test SBIDs are removed entirely from the record you want to actually publish.
 
 11. Verify that the real records have updated as expected.
+
 12. Proceed with publishing your other records to their real locations.
 
 

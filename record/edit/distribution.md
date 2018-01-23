@@ -11,5 +11,5 @@
 * **Citation: **optional
 * **Scope:** optional
 
-![](/assets/Lineage_Window.png)
+![](/assets/lineage_window.png)
 

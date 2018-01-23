@@ -36,22 +36,18 @@ These buttons are commonly found when editing records and contacts. Please keep 
 
 The most common type of fields include:
 
-*   The **Text **field is used to enter text.
+* The **Text **field is used to enter text.
 
-
-  ![](/assets/text_field.png)
+![](/assets/text_field.png)
 
 * The **Drop Down **menu is used to select items from a list.
 
-
-  ![](/assets/drop_down_menu.png)
+![](/assets/drop_down_menu.png)
 
 * The **Date **selector lets you select a date from a calendar.
 
+![](/assets/date_selector.png)
 
-  ![](/assets/date_selector.png)
-
-* 
 
 
 

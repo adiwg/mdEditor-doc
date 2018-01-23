@@ -2,7 +2,7 @@
 
 ---
 
-Tracking funding in the metadata allows for identification of funding sources, comparison, and aggregation at the network level.
+Tracking funding in the metadata allows for identification of funding sources.
 
 Available fields include:
 
@@ -14,5 +14,5 @@ Available fields include:
 
 ---
 
-![](/assets/Funding_Window.png)
+![](/assets/funding_window.png)
 

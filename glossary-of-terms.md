@@ -1,22 +1,21 @@
-# Glossary of Terms
+# Glossary
 
 ---
 
-* **Auto-Save: **A feature in mdEditor settings that allows information to be automatically saved as it is entered. Consult the [**Settings**](/settings.md) section of this manual for more information.
+* ** Auto-Save**: A feature in mdEditor settings that allows information to be automatically saved as it is entered. Consult the [**Settings**](/settings.md) section of this manual for more information.
+* **Customization**: The ability afforded by open-source code to edit the code of an application \(in this case mdEditor\) according to the needs of the users.
 
-* **Customization: **The ability afforded by open-source code to edit the code of an application \(in this case mdEditor\) according to the needs of the users.
-
-* **JSON: **j_avascript object notation_, a general purpose format like CSV.
+* **JSON: **Javascript Object Notation, a general purpose format like CSV.
 
 * **Keywords: **Words used in an information retrieval system to indicate the content of a document.
 
 * **Metadata:** Metadata is a set of data that describes and gives information about other data.
 
-* **Metadata Repositories: **A server where metadata is published to.
+* **Metadata Repositories: ** A server where metadata is published to.
 
-* **mdJSON File:** A type of JSON file that is propitary to the Metadata toolkit developed by the Alaska Data Integration Working Group  \(ADIWG\). Learn more at \[[https://adiwg.github.io/mdTools/](https://adiwg.github.io/mdTools/)\]
+* **mdJSON File:** A type of JSON file that is propitary to the Metadata toolkit developed by the Alaska Data Integration Working Group  \(ADIWG\), learn more at \[[https://adiwg.github.io/mdTools/](https://adiwg.github.io/mdTools/)\].
 
-* **mdEditor FIle: **A mdJSON file created by mdEditor that contains all of the information contained in mdJSON along with mdEditor settings. This can be exported and shared with collaborators,  imported into another record set, or saved to a local workstation as a backup or archival copy.
+* **mdEditor FIle: **A mdJSON file created by mdEditor that contains all of the information contained in mdJSON, along with mdEditor settings. This can be exported and shared with collaborators,  imported into another record set, or saved to a local workstation as a backup or archival copy.
 
 * **ParentID:** Identifier for a folder on a database where records will be stored upon publishing.
 

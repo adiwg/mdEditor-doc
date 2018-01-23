@@ -4,10 +4,10 @@
 
 **Time Period**: Describes the time period during the allocation of funds. Available fields include:
 
-* **Start and End date:** Refers to when the money was allocated and distributed. The time period can be start _date only, end date only, or_ _start and end date._
-  > ![](/assets/NoteSmall.png) **Note:** If you put in start and end date, it will calculate fiscal year off the end date.
+* **Start and End date:** Refers to when the money was allocated and distributed. The time period can be start _date only, end date only, or_ _start and end date_.
+  > ![](/assets/note_small.png) **Note:** If you put in start and end date, it will calculate fiscal year off the end date.
 * **Fiscal Year**: Select a fiscal year from the drop down menu.  
-  > ![](/assets/NoteSmall.png)**Note**: Fiscal year can be selected independently of start and end date.
+  > ![](/assets/note_small.png)**Note**: Fiscal year can be selected independently of start and end date.
 * **ID**: A unique identifier for the time period.  
 * **Description**: A description of the time period.  
 * **Time Period Names**: A name for the time period.  
@@ -15,5 +15,5 @@
 * **Time Unit**: A unit of time that describes the interval.  
 * **Duration**: Includes: Years; Months; Days; Hours; Minutes; and Seconds.
 
-![](/assets/Time_Period_Window.png)
+![](/assets/time_period_window.png)
 

@@ -3,7 +3,6 @@
 * [Introduction](README.md)
 * [Getting Started](getting-started.md)
 * [Dashboard](dashboard.md)
-* [Right Vertical Menu](right-vertical-menu.md)
 * [Data Management](data-management.md)
   * [File Management](file-management.md)
   * [Export](export.md)
@@ -52,5 +51,4 @@
 * [Contact Show](contact\show.md)
 * [Glossary of Terms](glossary-of-terms.md)
 * [Appendix](appendix.md)
-* [GLOSSARY](GLOSSARY.md)
 

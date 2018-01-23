@@ -49,7 +49,6 @@
   * [Individual Contact](contact/new/individual.md)
   * [Organization Contacts](contact/new/organization.md)
 * [Contact Show](contact\show.md)
-* [Glossary of Terms](glossary-of-terms.md)
-* [Appendix](appendix.md)
 * [GLOSSARY](GLOSSARY.md)
+* [Appendix](appendix.md)
 

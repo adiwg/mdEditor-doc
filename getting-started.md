@@ -15,7 +15,7 @@
 * To add a Project, Product, or any other metadata item, click the plus \(![](/assets/symbol_plus_16.png)\) symbol next to **Metadata Records**. Enter a **Record Title, **pick a **Resource Type **and click **Save. **To learn what fields are available for your type of record, consult the [**Record Edit**](/record\edit.md)** **section of this manual.
 * To add a **Contact**, click the plus \(![](/assets/symbol_plus_16.png)\) symbol next to **Contacts**. To learn what fields are available for contacts, consult the [**Contact New**](/contact\new.md)** **section of this manual.
 
-## Buttons and Fields
+## Buttons, Fields, Menus, and Selectors
 
 #### Buttons
 
@@ -25,12 +25,19 @@ These buttons are commonly found when editing records and contacts. Please keep 
 * ![](blob:https://www.gitbook.com/164608fa-233f-466f-a581-3c775e16861b) The **Add **button allows for the addition of fields to a given section.
 
 * ![](/assets/edit_field_button.png) The **Edit **button allows you to edit fields.
+
 * ![](/assets/ok_button.png) The **OK **button lets you approve changes to a field.
 
 * ![](blob:https://www.gitbook.com/e345445b-dab9-48ee-87d2-36c6d9c853e0) The **Callout **button limits your interaction to the field that you are editing. It sets all other fields in the background, making the field more editable.
+
 * ![](blob:https://www.gitbook.com/94af71d2-4e82-4bf8-bb02-b366e24eb455) The **Collapse/Expand **button allows you to collapse or expand fields.
 
-#### Fields
+#### Fields, Menus, Selectors
 
-The most common fields include:
+The most common type of fields include:
+
+* ![](/assets/text_field.png)  The **Text **field is used to enter text.
+* ![](/assets/drop_down_menu.png)
+
+
 

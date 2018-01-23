@@ -14,8 +14,10 @@
 
 ## Adding Items
 
-* To add a Project, Product, or any other metadata item, click the plus \(![](/assets/symbol_plus_16.png)\) symbol next to **Metadata Records**. Enter a **Record Title, **pick a **Resource Type **and click **Save. **To learn what fields are available for your type of record, consult the [**Record Edit**](/record\edit.md)** **section of this manual.
-* To add a **Contact**, click the plus \(![](/assets/symbol_plus_16.png)\) symbol next to **Contacts**. To learn what fields are available for contacts, consult the [**Contact New**](/contact\new.md)** **section of this manual.
+* To add a Project, Product, or any other metadata item, click the plus \(![](/assets/symbol_plus_16.png)\) symbol next to **Metadata Records**. Enter a **Record Title, **pick a **Resource Type **and click **Save. **
+  * To learn what fields are available for your type of record, consult the [**Record Edit**](/record\edit.md)** **section of this manual.
+* To add a **Contact**, click the plus \(![](/assets/symbol_plus_16.png)\) symbol next to **Contacts**. 
+  * To learn what fields are available for contacts, consult the [**Contact New**](/contact\new.md)** **section of this manual.
 
 ---
 
@@ -35,6 +37,8 @@ These buttons are commonly found when editing records and contacts. Please keep 
 * ![](/assets/callout_button.png) The **Callout **button limits your interaction to the field that you are editing. It sets all other fields in the background, making the field more editable.
 
 * ![](/assets/expand_collapse_button.png) The **Collapse/Expand **button allows you to collapse or expand fields.
+
+---
 
 #### Fields, Menus, Selectors
 

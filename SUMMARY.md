@@ -51,4 +51,5 @@
 * [Contact Show](contact\show.md)
 * [Glossary of Terms](glossary-of-terms.md)
 * [Appendix](appendix.md)
+* [GLOSSARY](GLOSSARY.md)
 

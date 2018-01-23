@@ -21,12 +21,17 @@
 
 These buttons are commonly found when editing records and contacts. Please keep in mind that the color of buttons may differ depending on the field that you are editing.
 
-* ![](/assets/add_button.png) The **Add** button allows for the addition of fields to a given section.
-* ![](/assets/callout_button.png) The **Callout **button** **limits your interaction to the field that you are editing. It sets all other fields in the background, making the field more editable.
-* ![](/assets/delete_button.png) The **Delete **button allows you to delete fields.
-* ![](/assets/edit_field_button.png) The **Edit **button allows you to edit fields.
-* ![](/assets/expand_collapse_button.png) The **Collapse/Expand **button allows you to collapse or expand fields.
-* ![](/assets/ok_button.png) The **OK **button lets you approve changes to a field.
+![](/assets/add_button.png) The **Add** button allows for the addition of fields to a given section.
+
+![](/assets/callout_button.png) The **Callout **button** **limits your interaction to the field that you are editing. It sets all other fields in the background, making the field more editable.
+
+![](/assets/delete_button.png) The **Delete **button allows you to delete fields.
+
+![](/assets/edit_field_button.png) The **Edit **button allows you to edit fields.
+
+![](/assets/expand_collapse_button.png) The **Collapse/Expand **button allows you to collapse or expand fields.
+
+![](/assets/ok_button.png) The **OK **button lets you approve changes to a field.
 
 
 

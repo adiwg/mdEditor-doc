@@ -22,17 +22,15 @@
 These buttons are commonly found when editing records and contacts. Please keep in mind that the color of buttons may differ depending on the field that you are editing.
 
 * ![](blob:https://www.gitbook.com/2b74b9a2-575a-4d4e-82ca-b71d3de77e3c) The **Delete **button allows you to delete fields.
-* ![](/assets/edit_field_button.png) The **Edit **button allows you to edit fields.
 * ![](blob:https://www.gitbook.com/164608fa-233f-466f-a581-3c775e16861b) The **Add **button allows for the addition of fields to a given section.
+
+* ![](/assets/edit_field_button.png) The **Edit **button allows you to edit fields.
 * ![](/assets/ok_button.png) The **OK **button lets you approve changes to a field.
+
 * ![](blob:https://www.gitbook.com/e345445b-dab9-48ee-87d2-36c6d9c853e0) The **Callout **button limits your interaction to the field that you are editing. It sets all other fields in the background, making the field more editable.
 * ![](blob:https://www.gitbook.com/94af71d2-4e82-4bf8-bb02-b366e24eb455) The **Collapse/Expand **button allows you to collapse or expand fields.
 
 #### Fields
 
 The most common fields include:
-
-
-
-
 

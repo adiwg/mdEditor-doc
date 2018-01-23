@@ -10,7 +10,7 @@ The settings menu allows the configuring of user specific options.
 
 ### Auto-Save
 
-The Auto Save option will write all changes to local storage when you exit a data entry field. Changes must be manually saved if the Auto Save feature is turned off.
+The Auto-Save option will write all changes to local storage when you exit a data entry field. Changes must be manually saved if the Auto-Save feature is turned off.
 
 A record that has been modified will be flagged with a red edit icon \(![](/assets/record_modified.png)\).
 

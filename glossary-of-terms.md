@@ -2,9 +2,13 @@
 
 ---
 
-* **Auto-Save: **A feature in mdEditor settings that allows information to be automatically saved as it is entered. Consult the [**Settings**](/settings.md) section of this manual for more information.
+\#\#  Auto-Save
 
-* **Customization: **The ability afforded by open-source code to edit the code of an application \(in this case mdEditor\) according to the needs of the users.
+** **A feature in mdEditor settings that allows information to be automatically saved as it is entered. Consult the [**Settings**](/settings.md) section of this manual for more information.
+
+\#\# Customization
+
+The ability afforded by open-source code to edit the code of an application \(in this case mdEditor\) according to the needs of the users.
 
 * **JSON: **Javascript Object Notation, a general purpose format like CSV.
 

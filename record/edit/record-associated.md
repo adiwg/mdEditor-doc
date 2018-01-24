@@ -27,7 +27,8 @@ Creating Associations is a two part process:
 
 ### Step 2: Fill in Available Fields
 
-* ### ![](/assets/associate.png)Main Fields
+![](/assets/associate.png)Main Fields
+
 * **Association Type**: \(required\) Select the type of association from the drop down. This describes the relationship between items.
 
   > ![](/assets/best_practice_small.png)**Best Practice: **When making associations between items and their parent project, select "parentProject".

@@ -29,5 +29,5 @@ The following fields are available for individual contacts:
 
 ---
 
-
+![](/assets/individual_contact_window.png)
 

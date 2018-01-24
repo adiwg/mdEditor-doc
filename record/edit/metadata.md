@@ -12,6 +12,11 @@ Record Metadata is the place to enter key information into your record.
   * Consult the [**Identifier**](/record/edit/metadata/parent-metadata/identifier.md)** **Section of this manual to learn more about identifiers. 
   * Consult the [**Parent Metadata**](/record/edit/metadata/parent-metadata.md)** **section of this manual to learn how to create parent metadata.
 * **Metadata Repositories **indicate where the metadata should be sent.
+* **Online Resource **can be any online resource that holds metadata information such as a website.
+* **Metadata Maintenance **describes how and by whom the metadata is maintained.
+* **Default Metadata Locale **describes the language, character set, and country of origin of the metadata.
+
+* **Alternate Metadata Reference **lets you add another metadata reference.
 
 ![](/assets/metadata_window.png)
 

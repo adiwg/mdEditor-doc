@@ -38,7 +38,9 @@ From the **Role **drop-down menu, select or enter a roll for your point of conta
 
 ---
 
-#### **Citation**![](/assets/citation.png)
+#### **Citation**
+
+#### ![](/assets/citation.png)
 
 **Citation **is used** **to add record citations. Read the [**Main** **Citation**](/record/edit/main/citation.md)** **section of this manual to learn how to edit citations.
 

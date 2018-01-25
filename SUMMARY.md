@@ -49,6 +49,7 @@
   * [Individual Contact](contact/new/individual.md)
   * [Organization Contacts](contact/new/organization.md)
 * [Contact Show](contact\show.md)
+* [Advanced Users](advanced-users.md)
 * [Glossary](GLOSSARY.md)
 * [Appendix](appendix.md)
 

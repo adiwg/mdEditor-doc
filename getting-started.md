@@ -15,12 +15,14 @@
 ## Adding Items
 
 * To add a _Project_,_ Product,_ or any other metadata item:  
-  1. Click the plus \(![](/assets/symbol_plus_16.png)\) symbol next to **Metadata Records**.   
+  1. Click the plus \(![](/assets/symbol_plus_16.png)\) symbol next to **Metadata Records**.  
   2. Enter a **Record Title**  
   3. Pick a **Resource Type **  
   4. Click **Save. **
 
-  * To learn what fields are available for your type of record, consult the [**Record Edit**](/record\edit.md)** **section of this manual.
+  * To learn what other fields are available for your type of record, consult the [**Record Edit**](/record\edit.md)** **section of this manual.
+
+
 
 * To add a _Contact_:
 
@@ -30,7 +32,7 @@
 
   3. Click **Save**
 
-     * To learn what fields are available for contacts, consult the [**Contact New**](/contact\new.md)** **section of this manual.
+     * To learn what other fields are available for contacts, consult the [**Contact New**](/contact\new.md)** **section of this manual.
 
 ---
 

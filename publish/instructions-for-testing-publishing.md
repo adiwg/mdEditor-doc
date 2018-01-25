@@ -28,8 +28,11 @@ For tracking issues, please use the github thread [here](https://github.com/adiw
 
 4. Follow the publishing instructions above for the scenario that applies to you.
 
-5. Look for any errors in the third column. If you see an error that is 400 and red, it’s a problem that you can address. However, If it’s a 500 level error in red, that is a ScienceBase error that is outside the scope of the mdEditor.  
+5. Look for any errors in the third column. If you see an error that is 400 and red, it’s a problem that you can address. However, If it’s a 500 level error in red, that is a ScienceBase error that is outside the scope of the mdEditor.
+
    > ![](/assets/publishing_error.png)![](/assets/note_small.png)**Note**: Any unsolvable issues can be submitted on the issues page for mdEditor: [https://github.com/adiwg/mdEditor/issues](https://github.com/adiwg/mdEditor/issues). You must have a github account in order to post.
+   >
+   > ![](/assets/note_small.png) **Note**: Advanced users can check errors using the console. Consult the [**Advanced Users**](/advanced-users.md)** **section of this manual to learn more.
 
 6. Verify that your test records have published as expected in your test folder on ScienceBase \(or to the real record if that’s how you are testing\).
 

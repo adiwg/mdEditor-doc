@@ -49,3 +49,6 @@ A USGS collaborative scientific data and information management platform used di
 
 Uniform Resource Identifier is a string of characters used to identify a resource. A URL is a type of URI.
 
+## localStorage
+
+

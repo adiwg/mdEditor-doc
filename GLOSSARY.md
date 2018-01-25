@@ -57,7 +57,8 @@ A USGS collaborative scientific data and information management platform used di
 
 Uniform Resource Identifier is a string of characters used to identify a resource. A URL is a type of URI.
 
-## localStorage
+## localStorage Cache
 
+localStorage Cache allows an application to store data locally, in a user's browser. Storing information on the browser's local storage cache \(instead of a normal file cache\) means that if you use a different browser to access the mdEditor, it will not show the data you've imported from your first browser. It also means that if you clear your browser's cache, it will generally not clear your mdEditor records. However, depending upon your browser settings \(E.g., in Chrome, if the "c_ookies and other site data_" option is checked\), clearing your browser cache may still clear your mdEditor data.
 
 

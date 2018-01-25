@@ -20,8 +20,9 @@
 
    > Files and contact lists will not merge. The new import will overwrite the older version. **Best Practice**: Maintain a master contacts list that is accessible by multiple editors. It is recommend that only one person edit the same project/product at the same time to help with version control.
 
-5. What file format are ScienceBase files that are published from mdEditor?  
-   > ScienceBase files are 19115-2 iso files
+5. What file format are ScienceBase files that are published from mdEditor?
+
+   > ScienceBase files are 19115-2 iso files.
 
 
 

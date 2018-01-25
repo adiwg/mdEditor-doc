@@ -11,6 +11,7 @@ A feature in mdEditor settings that allows information to be automatically saved
 The ability afforded by open-source code to edit the code of an application \(in this case mdEditor\) according to the needs of the users.
 
 ## ISO
+
 International Organization for Standardization
 
 ## JSON
@@ -31,11 +32,14 @@ A server where metadata is published to.
 
 ## mdJSON File
 
-A type of JSON file that is propitary to the Metadata toolkit developed by the Alaska Data Integration Working Group \(ADIWG\), learn more at \[[https://adiwg.github.io/mdTools/](https://www.gitbook.com/book/adiwg/mdeditor/edit#)\].
+A type of JSON file that is proprietary to the Metadata toolkit developed by the Alaska Data Integration Working Group \(ADIWG\), learn more at \[[https://adiwg.github.io/mdTools/](https://www.gitbook.com/book/adiwg/mdeditor/edit#)\].
 
 ## mdEditor File
 
 A mdJSON file created by mdEditor that contains all of the information contained in mdJSON, along with mdEditor settings. This can be exported and shared with collaborators, imported into another record set, or saved to a local workstation as a backup or archival copy.
+
+## mdTranslator
+Open-source Ruby software application for translating between metadata standards. Metadata is input in one of the supported ‘reader’ formats and output in one of the supported ‘writer’ formats. Available as Ruby gem or Command-Line-Interface.
 
 ## ParentID
 
@@ -50,5 +54,6 @@ A USGS collaborative scientific data and information management platform used di
 Uniform Resource Identifier is a string of characters used to identify a resource. A URL is a type of URI.
 
 ## localStorage
+
 
 

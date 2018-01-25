@@ -24,7 +24,7 @@ To add a _Project_,_ Product,_ or any other metadata item:
 
 To add a _Contact_:
 
-1. Click the plus \(![](blob:https://www.gitbook.com/d21a8080-1a6d-4125-b7ae-7fadbd049f6d)\) symbol next to**Contacts**
+1. Click the plus \(![](/assets/symbol_plus_16.png)\) symbol next to**Contacts**
 2. Enter **Name **and **Position Name**
 3. Click **Save**
 4. To learn what other fields are available for contacts, consult the [**Contact New**](https://www.gitbook.com/book/adiwg/mdeditor/edit#) section of this manual.

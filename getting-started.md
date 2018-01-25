@@ -14,23 +14,21 @@
 
 ## Adding Items
 
-* To add a _Project_,_ Product,_ or any other metadata item:  
-  1. Click the plus \(![](/assets/symbol_plus_16.png)\) symbol next to **Metadata Records**.  
-  2. Enter a **Record Title**  
-  3. Pick a **Resource Type **  
-  4. Click **Save.**
+To add a _Project_,_ Product,_ or any other metadata item:  
 
-  * To learn what other fields are available for your type of record, consult the [**Record Edit**](/record\edit.md)** **section of this manual.
+1. Click the plus \(![](/assets/symbol_plus_16.png)\) symbol next to **Metadata Records**.  
+2. Enter a **Record Title**  
+3. Pick a **Resource Type **  
+4. Click **Save**
 
-* To add a _Contact_:
+To learn what other fields are available for your type of record, consult the [**Record Edit**](/record\edit.md)** **section of this manual.
 
-  1. Click the plus \(![](/assets/symbol_plus_16.png)\) symbol next to **Contacts**.
+To add a _Contact_:  
+1. Click the plus \(![](/assets/symbol_plus_16.png)\) symbol next to **Contacts**.  
+2. Enter **Name **and **Position Name**  
+3. Click **Save**
 
-  2. Enter **Name **and **Position Name**
-
-  3. Click **Save**
-
-     * To learn what other fields are available for contacts, consult the [**Contact New**](/contact\new.md)** **section of this manual.
+To learn what other fields are available for contacts, consult the [**Contact New**](/contact\new.md)** **section of this manual.
 
 ---
 
@@ -57,19 +55,13 @@ These buttons are commonly found when editing records and contacts. Please keep 
 
 The most common type of fields include:
 
-
-
 The **Text **field is used to enter text.
 
 ![](/assets/text_field.png)
 
-
-
 The **Drop Down **menu is used to select items from a list.
 
 ![](/assets/drop_down_menu.png)
-
-
 
 The **Date **selector lets you select a date from a calendar.
 

@@ -2,6 +2,10 @@
 
 ISO 19115-2:2009 extends the existing geographic metadata standard by defining the schema required for describing imagery and gridded data. It provides information about the properties of the measuring equipment used to acquire the data, the geometry of the measuring process employed by the equipment, and the production process used to digitize the raw data. This extension deals with metadata needed to describe the derivation of geographic information from raw data, including the properties of the measuring system, and the numerical methods and computational procedures used in the derivation. The metadata required to address coverage data in general is addressed sufficiently in the general part of ISO 19115.  \(International Organization for Standardization \(2009\). ISO 19115-2:2009. Retrieved from: [https://www.iso.org/standard/39229.html](https://www.iso.org/standard/39229.html)\)
 
+##ADIwg
+
+Alaska Data Integration working group
+
 ## Auto-Save
 
 A feature in mdEditor settings that allows information to be automatically saved as it is entered. Consult the Settings section of this manual for more information.

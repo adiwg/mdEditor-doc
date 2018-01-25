@@ -30,9 +30,9 @@ Other available fields include:
 
 * **Metadata Citation: **You may add a metadata citation noting any references pertaining to the association.
 
-> ![](/assets/NoteSmall.png)ScienceBase has something similar called “weblink,” ScienceBase weblinks will be populated here if sbJSON is imported into mdEditor.
+> ![](/assets/note_small.png)ScienceBase has something similar called “weblink,” ScienceBase weblinks will be populated here if sbJSON is imported into mdEditor.
 
 ---
 
-![](https://lh4.googleusercontent.com/0mhE9EAz3X_GfuckZTeWdCEYbOg98ZChD2qULdWaJmmpVEFBIiAaHrrlVthxPocIOPkHMIHGUc8iF6fMbNRxYpnDRHAj-bEP-QTTMLGBIr0BmpGJ5WqG-iBGaRYEBhwxxVoSbslJ)
+![](/assets/documents_window.png)
 

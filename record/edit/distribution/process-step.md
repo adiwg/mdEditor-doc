@@ -2,14 +2,16 @@
 
 ---
 
-**Process Step **allows for documentation of steps taken to build your spatial data.
+**Process Step **allows for documentation of steps taken to build spatial data.
 
-The following are _available and required_:
+The following are _available and required:_
 
 * **Step ID: **\(Auto filled depending on the number of Process Steps added\).
 * **Description**: Add a description of the process step.
 
-The follow fields are _available but optional:_
+
+
+The follow fields are_ available but optional:_
 
 * **Step Sources**: Information about the source data used in the process step.
 * **Step Products**: Information about an intermediate data set.
@@ -31,5 +33,5 @@ The follow fields are _available but optional:_
 
 * **Scope**: Select the type of resource from the drop down menu.
 
-![](/assets/Process_Step_Window.png)
+![](/assets/process_step_window.png)
 

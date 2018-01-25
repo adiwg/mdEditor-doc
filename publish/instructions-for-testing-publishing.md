@@ -8,13 +8,13 @@ For tracking issues, please use the github thread [here](https://github.com/adiw
 
    If You** do not already** have items on ScienceBase. Choose a project and its products to test.
 
-   > ![](/assets/BestPracticeSmall.png)
+   > ![](/assets/best_practice_small.png)
    >
    > **Best Practice**: It's recommended that you export a project and its products into its own mdEditor file. Set default parent identifier as a test folder.
 
    If you** already have** items on ScienceBase, it is harder to test without it affecting your real records.
 
-   > ![](/assets/BestPracticeSmall.png)
+   > ![](/assets/best_practice_small.png)
    >
    > **Best Practice**:
    >
@@ -26,7 +26,7 @@ For tracking issues, please use the github thread [here](https://github.com/adiw
 
 3. Select one project with its associated products to test.
 
-4. Before you publish anything, click F12 \( or Cmd + Opt + J on Mac\) to bring up the error console to be able to track errors as they occur \(consult the [Troubleshooting Issues](/publish/troubleshooting-issues.md) section of this manual for more information\).
+4. Before you publish anything, click F12 \( or Cmd + Opt + J on Mac\) to bring up the error console so that you can track errors as they occur \(consult the [Troubleshooting Issues](/publish/troubleshooting-issues.md) section of this manual for more information\).
 
 5. Follow the publishing instructions above for the scenario that applies to you.
 

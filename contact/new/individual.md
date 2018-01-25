@@ -17,7 +17,7 @@ The following fields are available for individual contacts:
 * **Available Times**: Recommended
 * **Logo**: Optional
 
-  > ![](/assets/NoteSmall.png)** **
+  > ![](/assets/note_small.png)** **
   >
   > * You** **can either select or drop an image to be used as a logo.
   >
@@ -29,5 +29,5 @@ The following fields are available for individual contacts:
 
 ---
 
-
+![](/assets/individual_contact_window.png)
 

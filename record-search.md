@@ -4,7 +4,7 @@
 
 Clicking the **list icon **\(![](/assets/symbol_list_16.png)\) will display a searchable list of individual objects in the editor region.
 
-![](/assets/RecordList.png)
+![](/assets/record_list.png)
 
 Use the **Search **field to search for any string.
 

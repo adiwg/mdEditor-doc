@@ -10,7 +10,7 @@ The mdEditor is a web application that allows users to author and edit metadata 
 
 * A Responsive, two-panel layout allows for display on both desktop and mobile devices.
 * Launched through a web browser, there is no need for users to install software.
-* Metadata is initially stored in the browser local storage cache.
+* Metadata is initially stored in the browser localStorage cache.
 * Metadata can be exported as a text file \(JSON format\) for archiving or sharing.
 * Open source development allows for customization.
 * Defined schema \(mdJSON schema\) allows for validating records.
@@ -34,6 +34,4 @@ The mdEditor is a web application for authoring and editing metadata for both pr
 * Use a built-in keyword thesaurus or create custom keyword lists.
 
 Primary development has been performed by Josh Bradley \(joshua\_bradley@fws.gov\) and Stan Smith \(ssmith@arcticlcc.org\) of the [Arctic Landscape Conservation Cooperative](http://arcticlcc.org/).
-
-
 

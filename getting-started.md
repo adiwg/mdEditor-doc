@@ -22,8 +22,6 @@
 
   * To learn what other fields are available for your type of record, consult the [**Record Edit**](/record\edit.md)** **section of this manual.
 
-
-
 * To add a _Contact_:
 
   1. Click the plus \(![](/assets/symbol_plus_16.png)\) symbol next to **Contacts**.
@@ -59,15 +57,21 @@ These buttons are commonly found when editing records and contacts. Please keep 
 
 The most common type of fields include:
 
-* The **Text **field is used to enter text.
+
+
+The **Text **field is used to enter text.
 
 ![](/assets/text_field.png)
 
-* The **Drop Down **menu is used to select items from a list.
+
+
+The **Drop Down **menu is used to select items from a list.
 
 ![](/assets/drop_down_menu.png)
 
-* The **Date **selector lets you select a date from a calendar.
+
+
+The **Date **selector lets you select a date from a calendar.
 
 ![](/assets/date_selector.png)
 

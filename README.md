@@ -35,26 +35,5 @@ The mdEditor is a web application for authoring and editing metadata for both pr
 
 Primary development has been performed by Josh Bradley \(joshua\_bradley@fws.gov\) and Stan Smith \(ssmith@arcticlcc.org\) of the [Arctic Landscape Conservation Cooperative](http://arcticlcc.org/).
 
----
-
-## Overall Science Catalog System Architecture
-
-_The following diagram describes the science catalog system architecture._
-
-> ![](/assets/note_small.png)Currently the mdEditor is used primarily with ScienceBase, a collaborative scientific data and information management platform developed and run by the USGS and used directly by science teams. The mdEditor can work with other databases, but in this manual, ScienceBase will be used as the primary example of a database.
->
-> For more information, see ScienceBase in the glossary of terms.
-
-![](/assets/science_catalog_system_architecture.png)
-
-* Items are imported from a database \(like ScienceBase\), or created directly in mdEditor.
-* mdJSON files can also be stored in a local repository and then transmitted via a web service to ScienceBase. Alternately, the  local files can be exported to a web accessible folder and then harvested by ScienceBase.
-
-* The mdTranslator converts the mdJSON files into sbJSON \(the ScienceBase JSON format\), and XML.
-
-* Items are exported from ScienceBase to: Data.gov as XML; the LCC Science Catalog website as Projects and Products; or into mdEditor as mdJSON.
-
----
-
 
 

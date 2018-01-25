@@ -12,3 +12,23 @@ Click on the name of the row with errors and it will bring up a window - look at
 
 Look for anything that appears red. If you see an error that is 400 and red, it’s a problem that you can address. However, If it’s a 500 level error in red, that is a ScienceBase error that is outside the scope of the mdEditor.
 
+### Issue Tracking
+
+Any unsolvable issues can be submitted on the issues page for mdEditor: [https://github.com/adiwg/mdEditor/issues ](https://github.com/adiwg/mdEditor/issues)
+
+> ![](/assets/note_small.png)**Note**: You must have a github account in order to post.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

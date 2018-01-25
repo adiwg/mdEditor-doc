@@ -20,15 +20,3 @@ Any unsolvable issues can be submitted on the issues page for mdEditor: [https:/
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-

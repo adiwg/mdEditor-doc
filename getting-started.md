@@ -22,6 +22,8 @@
 
   * To learn what other fields are available for your type of record, consult the [**Record Edit**](/record\edit.md)** **section of this manual.
 
+
+
 * To add a _Contact_:
 
   1. Click the plus \(![](/assets/symbol_plus_16.png)\) symbol next to **Contacts**.
@@ -31,8 +33,6 @@
   3. Click **Save**
 
      * To learn what other fields are available for contacts, consult the [**Contact New**](/contact\new.md)** **section of this manual.
-
-
 
 ---
 
@@ -49,7 +49,7 @@ These buttons are commonly found when editing records and contacts. Please keep 
 
 * ![](/assets/ok_button.png) The **OK **button lets you approve changes to a field.
 
-* ![](/assets/callout_button.png) The **Callout **button limits your interaction to the field that you are editing. It sets all other fields in the background, making the field more editable.
+* ![](/assets/callout_button.png) The **Callout **button limits your interaction to the field that you are editing. It sets all other fields in the background, making it easier to focus on the field you are editing.
 
 * ![](/assets/expand_collapse_button.png) The **Collapse/Expand **button allows you to collapse or expand fields.
 

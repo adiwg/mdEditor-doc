@@ -14,6 +14,10 @@ A feature in mdEditor settings that allows information to be automatically saved
 
 The ability afforded by open-source code to edit the code of an application \(in this case mdEditor\) according to the needs of the users.
 
+## FGDC
+Federal Geographic Data Committee 
+https://www.fgdc.gov/
+
 ## ISO
 
 International Organization for Standardization

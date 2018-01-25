@@ -8,22 +8,22 @@ The settings menu allows the configuring of user specific options.
 
 ![](/assets/general_settings.png)
 
+### mdEditor Version
+
+The mdEditor version notes the current version of mdEditor. Use this when reporting errors. Errors can be reported at [https://github.com/adiwg/mdEditor/issues](https://www.gitbook.com/book/adiwg/mdeditor/edit#). You must have a github account in order to post.
+
 ### Auto-Save
 
-The Auto Save option will write all changes to local storage when you exit a data entry field. Changes must be manually saved if the Auto Save feature is turned off.
+The Auto-Save option will write all changes to local storage when you exit a data entry field. Changes must be manually saved if the Auto-Save feature is turned off.
 
-A record that has been modified will be flagged with a red edit icon \(![](/assets/record_modified.png)\).
-
-A record that has been saved will be identified by a green edit icon \(![](/assets/record_saved.png)\). An incomplete record will not turn green when saved.
-
-> ![](/assets/NoteSmall.png)Auto-Save allows you to save less frequently, but it makes it harder to undo changes that you make to your records. If you stay on the same record, you can cancel changes. But once you leave the record, the record is saved and you can’t cancel the change except by manually editing the record from a different screen \(See [Records Edit](/record\edit.md) for more information\).
+> ![](/assets/note_small.png)Auto-Save allows you to save less frequently, but it makes it harder to undo changes that you make to your records. If you stay on the same record, you can cancel changes. But once you leave the record, the record is saved and you can’t cancel the change except by manually editing the record from a different screen \(See [Records Edit](/record\edit.md) for more information\).
 >
 > ---
 
 ### Clear All Records
 
 All records can be cleared by clicking the **Clear Storage Cache**.  
-![](/assets/Caution.png)** CAUTION! Clearing all records will delete your current set of records. If you wish to retain your records for future use, be sure and make a backup with the **[**export**](/export.md)** function before clearing the cache.  **
+![](/assets/caution.png)** CAUTION! Clearing all records will delete your current set of records. If you wish to retain your records for future use, be sure and make a backup with the **[**export**](/export.md)** function before clearing the cache.  **
 
 ---
 

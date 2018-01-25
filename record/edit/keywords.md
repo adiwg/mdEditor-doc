@@ -8,9 +8,9 @@
 * Select **Custom Thesaurus **or any of the pre-populated thesauruses from the **Pick a thesaurus **drop-down. 
   * \(Consult the [Custom Thesaurus](/record/edit/keywords/custom-keywords.md) section of this manual to learn how to create user definable keywords\)
 
-> ![](/assets/NoteSmall.png)Keywords Edited in the mdEditor will overwrite keywords in ScienceBase
+> ![](/assets/note_small.png)Keywords Edited in the mdEditor will overwrite keywords in ScienceBase
 
-![](https://lh5.googleusercontent.com/KVJ4_feuJ1xYnsRLYYGfRFBOJ_pR76xdlThDJ39GYUFdkyUR-wbODSCKEW637polRHdv4JqotIFxiEPKUZgLo7EGv41XAF63zcx7sqrYLNdWnc1CVhGk7HYzLXcrEY5LoPOA37-c)
+![](/assets/keywords_window.png)
 
 **The following pre-populated thesauruses are available: **
 
@@ -22,17 +22,21 @@
 
 4. ISO Topic Category
 
-5. LCC Deliverable Types
+5. LCC Project Category
 
-6. LCC End User Types
+6. LCC Deliverable Types
 
-> ![](/assets/NoteSmall.png)
+7. LCC End User Types
+
+> ![](/assets/note_small.png)
 >
 > **GCMD \(Global Change Master Directory keywords\)** are built and maintained by NASA.
 >
-> **ISO \(International Organization for Standardization\)** topics were built and maintained by the ISO Technical Committee and are required for the development of ISO metadata.
+> **ISO \(International Organization for Standardization\)** topics were built and maintained by the ISO Technical Committee and are required for the development of ISO metadata. It is recommended that you use at least one of these keywords so metadata remains ISO compliant.
 >
 > **LCC \(Landscape Conservation Cooperatives\) **Keywords are maintained by the national LCCs and required for any LCC metadata.
+>
+> ![](/assets/note_small.png) GCMD keywords are listed by category. It is recommended clicking **Full Path **when editing these keywords to maintain their category.
 
 
 

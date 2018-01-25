@@ -15,5 +15,5 @@ Parent Metadata allows for an association between the current record and its par
 * **Other Details **allows for additional details regarding the citation.
 * **Graphic **allows for the addition of a graphic, such as a logo. Graphics should be smaller than 50kb and recommended size is smaller than 25kb.
 
-![](/assets/Parent_Metadata_Window.png)
+![](/assets/parent_metadata_window.png)
 

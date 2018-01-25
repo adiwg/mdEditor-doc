@@ -8,7 +8,13 @@ You can click the **Import Data **button to import a local file, or simply drag 
 
 Files can also be imported using the **Import from Online URL **functionality.
 
-![](/assets/Import_Window.png)
+### ![](/assets/Import_Window.png)
+
+### Import Settings
+
+In the **Settings **section of the mdEditor, enter [**https://api.sciencebase.gov/sbmd-service/mdjson/**](https://api.sciencebase.gov/sbmd-service/mdjson/) in the default URL field.
+
+Consult the[** Settings**](/settings.md) section of this manual to learn more about setting.
 
 #### After Importing
 

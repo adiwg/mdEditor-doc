@@ -58,9 +58,13 @@ The **Text **field is used to enter text.
 
 ![](/assets/text_field.png)
 
+..
+
 The **Drop Down **menu is used to select items from a list.
 
 ![](/assets/drop_down_menu.png)
+
+..
 
 The **Date **selector lets you select a date from a calendar.
 

@@ -21,7 +21,7 @@ You can click the **Import Data **button to import a local file, or simply drag 
 
 #### Import Settings
 
-![](/assets/note_small.png)** **To import Settings, you should set the import to “Replace.” Generally, it is best practice to set the mode back to “Merge,” once you’ve finished importing the settings.
+> ![](/assets/note_small.png)** **To import Settings, you should set the import to “Replace.” Generally, it is best practice to set the mode back to “Merge,” once you’ve finished importing the settings.
 
 ![](/assets/import_settings.png)
 

@@ -1,8 +1,6 @@
-## 19115-2 iso
+## 
 
-ISO 19115-2:2009 extends the existing geographic metadata standard by defining the schema required for describing imagery and gridded data. It provides information about the properties of the measuring equipment used to acquire the data, the geometry of the measuring process employed by the equipment, and the production process used to digitize the raw data. This extension deals with metadata needed to describe the derivation of geographic information from raw data, including the properties of the measuring system, and the numerical methods and computational procedures used in the derivation. The metadata required to address coverage data in general is addressed sufficiently in the general part of ISO 19115.  \(International Organization for Standardization \(2009\). ISO 19115-2:2009. Retrieved from: [https://www.iso.org/standard/39229.html](https://www.iso.org/standard/39229.html)\)
-
-##ADIwg
+## ADIwg
 
 Alaska Data Integration working group
 
@@ -15,12 +13,21 @@ A feature in mdEditor settings that allows information to be automatically saved
 The ability afforded by open-source code to edit the code of an application \(in this case mdEditor\) according to the needs of the users.
 
 ## FGDC
-Federal Geographic Data Committee 
-https://www.fgdc.gov/
+
+Federal Geographic Data Committee  
+[https://www.fgdc.gov/](https://www.fgdc.gov/)
+
+## localStorage Cache
+
+localStorage Cache allows an application to store data locally, in a user's browser. Storing information on the browser's local storage cache \(instead of a normal file cache\) means that if you use a different browser to access the mdEditor, it will not show the data you've imported from your first browser. It also means that if you clear your browser's cache, it will generally not clear your mdEditor records. However, depending upon your browser settings \(E.g., in Chrome, if the "c_ookies and other site data_" option is checked\), clearing your browser cache may still clear your mdEditor data.
 
 ## ISO
 
 International Organization for Standardization
+
+## ISO 19115-2
+
+ISO 19115-2:2009 extends the existing geographic metadata standard by defining the schema required for describing imagery and gridded data. It provides information about the properties of the measuring equipment used to acquire the data, the geometry of the measuring process employed by the equipment, and the production process used to digitize the raw data. This extension deals with metadata needed to describe the derivation of geographic information from raw data, including the properties of the measuring system, and the numerical methods and computational procedures used in the derivation. The metadata required to address coverage data in general is addressed sufficiently in the general part of ISO 19115.  \(International Organization for Standardization \(2009\). ISO 19115-2:2009. Retrieved from: [https://www.iso.org/standard/39229.html](https://www.iso.org/standard/39229.html)\)
 
 ## JSON
 
@@ -47,6 +54,7 @@ A type of JSON file that is proprietary to the Metadata toolkit developed by the
 A mdJSON file created by mdEditor that contains all of the information contained in mdJSON, along with mdEditor settings. This can be exported and shared with collaborators, imported into another record set, or saved to a local workstation as a backup or archival copy.
 
 ## mdTranslator
+
 Open-source Ruby software application for translating between metadata standards. Metadata is input in one of the supported ‘reader’ formats and output in one of the supported ‘writer’ formats. Available as Ruby gem or Command-Line-Interface.
 
 ## ParentID
@@ -61,8 +69,7 @@ A USGS collaborative scientific data and information management platform used di
 
 Uniform Resource Identifier is a string of characters used to identify a resource. A URL is a type of URI.
 
-## localStorage Cache
 
-localStorage Cache allows an application to store data locally, in a user's browser. Storing information on the browser's local storage cache \(instead of a normal file cache\) means that if you use a different browser to access the mdEditor, it will not show the data you've imported from your first browser. It also means that if you clear your browser's cache, it will generally not clear your mdEditor records. However, depending upon your browser settings \(E.g., in Chrome, if the "c_ookies and other site data_" option is checked\), clearing your browser cache may still clear your mdEditor data.
+
 
 

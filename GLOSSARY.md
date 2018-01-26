@@ -38,7 +38,7 @@ ISO 19110 defines the methodology for cataloguing feature types. It may be used 
 
 ## ISO 19115-1
 
-Defines the schema required for describing geographic information and services by means of metadata. It provides information about the identification, the extent, the quality, the spatial and temporal aspects, the content, the spatial reference, the portrayal, distribution, and other properties of digital geographic data and services. \(International Organization for Standardization \(2014\). **ISO 19115-1:2014**. Retrieved from:\)
+Defines the schema required for describing geographic information and services by means of metadata. It provides information about the identification, the extent, the quality, the spatial and temporal aspects, the content, the spatial reference, the portrayal, distribution, and other properties of digital geographic data and services. \(International Organization for Standardization \(2014\). **ISO 19115-1:2014**. Retrieved from: [https://www.iso.org/standard/53798.html](https://www.iso.org/standard/53798.html)\)
 
 ## ISO 19115-2
 

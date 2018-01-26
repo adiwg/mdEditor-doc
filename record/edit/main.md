@@ -34,7 +34,7 @@ The **Main **tab allows for the creation of primary metadata from scratch. \(i.e
 
 **Point Of Contacts **may be added by clicking the **Add **button.
 
-From the **Role **drop-down menu, select or enter a roll for your point of contact. From the **Contacts **drop-down menu, select a contact from the list of contacts. Learn how to create a contact in the [**Contact New**](/contact\new.md)** **section of this manual.
+From the **Role **drop-down menu, select or enter a roll for your point of contact. From the **Contacts **drop-down menu, select a contact from the list of contacts. You can also type in the Contacts field to narrow the options to select. Learn how to create a contact in the [**Contact New**](/contact\new.md)** **section of this manual.
 
 ---
 

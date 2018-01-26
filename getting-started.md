@@ -4,7 +4,8 @@
 
 ## Opening mdEditor
 
-* mdEditor is currently hosted on the GitHub website and can be opened by following this URL: 
+* mdEditor is currently hosted on the GitHub website and can be opened by following this URL:  
+  [https://www.mdeditor.org/](https://www.mdeditor.org/)
 
 * _Chrome_ is the recommended web browser for using mdEditor. The editor will work in other browsers, but has been fully tested in Chrome.
 

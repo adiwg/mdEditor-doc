@@ -17,15 +17,15 @@ The ability afforded by open-source code to edit the code of an application \(in
 Federal Geographic Data Committee  
 [https://www.fgdc.gov/](https://www.fgdc.gov/)
 
-## localStorage Cache
+## HTML
 
-localStorage Cache allows an application to store data locally, in a user's browser. Storing information on the browser's local storage cache \(instead of a normal file cache\) means that if you use a different browser to access the mdEditor, it will not show the data you've imported from your first browser. It also means that if you clear your browser's cache, it will generally not clear your mdEditor records. However, depending upon your browser settings \(E.g., in Chrome, if the "c_ookies and other site data_" option is checked\), clearing your browser cache may still clear your mdEditor data.
+_HTML _stands for Hyper Text Markup Language. It is the standard markup language for creating Web pages.
 
 ## ISO
 
-International Organization for Standardization - ISO is an independent, non-governmental international organization with a membership of 162 [national standards bodies](https://www.iso.org/members.html).
+International Organization for Standardization - ISO is an independent, non-governmental international organization with a membership of 162 [national standards bodies](https://www.iso.org/members.html).
 
-Through its members, it brings together experts to share knowledge and develop voluntary, consensus-based, market relevant International Standards that support innovation and provide solutions to global challenges.
+Through its members, it brings together experts to share knowledge and develop voluntary, consensus-based, market relevant International Standards that support innovation and provide solutions to global challenges.
 
 ## ISO 19110
 
@@ -42,6 +42,10 @@ Javascript Object Notation, a general purpose format like CSV.
 ## Keywords
 
 Words used in an information retrieval system to indicate the content of a document.
+
+## localStorage Cache
+
+localStorage Cache allows an application to store data locally, in a user's browser. Storing information on the browser's local storage cache \(instead of a normal file cache\) means that if you use a different browser to access the mdEditor, it will not show the data you've imported from your first browser. It also means that if you clear your browser's cache, it will generally not clear your mdEditor records. However, depending upon your browser settings \(E.g., in Chrome, if the "c_ookies and other site data_" option is checked\), clearing your browser cache may still clear your mdEditor data.
 
 ## Metadata
 
@@ -67,6 +71,8 @@ Open-source Ruby software application for translating between metadata standards
 
 Identifier for a folder on a database where records will be stored upon publishing.
 
+## sbJSON
+
 ## ScienceBase
 
 A USGS collaborative scientific data and information management platform used directly by science teams. ScienceBase provides access to aggregated information derived from many data and information domains, including feeds from existing data systems, metadata catalogs, and scientists contributing new and original content. ScienceBase architecture is designed to help science teams and data practitioners centralize their data and information resources to create a foundation needed for their work. ScienceBase, both original software and engineered components, is released as an open source project to promote involvement from the larger scientific programming community both inside and outside the USGS. \(USGS \(2018\). _About ScienceBase._ Retrived from: [https://www.sciencebase.gov/about/content/about-sciencebase](https://www.sciencebase.gov/about/content/about-sciencebase)\).
@@ -74,6 +80,4 @@ A USGS collaborative scientific data and information management platform used di
 ## URI
 
 Uniform Resource Identifier is a string of characters used to identify a resource. A URL is a type of URI.
-
-ISO 19115-2, ISO 19110, HTML, or sbJSON
 

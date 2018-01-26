@@ -17,9 +17,9 @@ The ability afforded by open-source code to edit the code of an application \(in
 Federal Geographic Data Committee  
 [https://www.fgdc.gov/](https://www.fgdc.gov/)
 
-## CSDGM
+## FGDC CSDGM
 
-Content Standard for Digital Geospatial Metadata  
+ Federal Geographic Data Committee’s Content Standard for Digital Geospatial Metadata - FGDC-STD-001-1998 Includes Biological Data Profile  
 [https://www.fgdc.gov/metadata/csdgm/](https://www.fgdc.gov/metadata/csdgm/)
 
 ## HTML
@@ -34,6 +34,8 @@ Through its members, it brings together experts to share knowledge and develop v
 
 ## ISO 19110
 
+International Standards Organization Geographic Information - Feature Catalogue 19110:2005
+
 ISO 19110 defines the methodology for cataloguing feature types. It may be used as a basis for defining the universe of discourse being modelled in a particular application, or to standardize general aspects of real world features being modelled in more than one application. \(International Organization for Standardization \(2016\). **ISO 19110:2016**. Retrieved from: [https://www.iso.org/standard/57303.html](https://www.iso.org/standard/57303.html)\)
 
 ## ISO 19115-1
@@ -41,6 +43,8 @@ ISO 19110 defines the methodology for cataloguing feature types. It may be used 
 Defines the schema required for describing geographic information and services by means of metadata. It provides information about the identification, the extent, the quality, the spatial and temporal aspects, the content, the spatial reference, the portrayal, distribution, and other properties of digital geographic data and services. \(International Organization for Standardization \(2014\). **ISO 19115-1:2014**. Retrieved from: [https://www.iso.org/standard/53798.html](https://www.iso.org/standard/53798.html)\)
 
 ## ISO 19115-2
+
+International Standards Organization Geographic Information - Metadata 19115-2:2009
 
 Extends the existing geographic metadata standard by defining the schema required for describing imagery and gridded data. It provides information about the properties of the measuring equipment used to acquire the data, the geometry of the measuring process employed by the equipment, and the production process used to digitize the raw data. This extension deals with metadata needed to describe the derivation of geographic information from raw data, including the properties of the measuring system, and the numerical methods and computational procedures used in the derivation. The metadata required to address coverage data in general is addressed sufficiently in the general part of ISO 19115.  \(International Organization for Standardization \(2009\). ISO 19115-2:2009. Retrieved from: [https://www.iso.org/standard/39229.html](https://www.iso.org/standard/39229.html)\)
 
@@ -90,7 +94,7 @@ Identifier for a folder on a database where records will be stored upon publishi
 
 ## sbJSON
 
-The format used to define the attributes of ScienceBase items.
+U.S. Geological Survey’s standard for documenting records ingested into ScienceBase Catalog. The format used to define the attributes of ScienceBase items.
 
 ## ScienceBase
 

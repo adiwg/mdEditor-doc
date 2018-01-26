@@ -2,7 +2,7 @@
 
 ---
 
-The **Associated** section is used to connect items with each other.
+The **Associated** section is used to connect items with each other. This feature should be used when items are related. I.E. Products are often the result of projects, and projects often have sub projects. All of these can be linked together by means of association.
 
 > ![](/assets/note_small.png)In ScienceBase **Associated Records **are referred to as** Item Associations**
 
@@ -26,6 +26,8 @@ Creating Associations is a two part process:
 ---
 
 ### Step 2: Fill in Available Fields
+
+![](/assets/note_small.png) **Note: **If you selected a record, \(as described in the previous step\), the only field that is necessary is association type.
 
 ![](/assets/associate.png)Main Fields
 

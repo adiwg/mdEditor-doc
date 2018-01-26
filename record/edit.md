@@ -6,9 +6,20 @@ Edit functionality is only visible when viewing a metadata record. Click the Edi
 
 ---
 
+### Profile
+
+![](/assets/profile_drop_down.png)
+
+The profile drop-down menu limits the number of available tabs depending on which profile you select. mdEditor defaults to the **Full **profile which includes all tabs. Other available profiles include:
+
+* **Basic-**Limits the tabs to: Main; Metadata; Keywords; Extent; and Distribution
+* **lccProduct**-Limits the tabs to: Main; Metadata; Keywords; Extent; Spatial; Lineage; Distribution; Constraints; Associated; and Documents.
+* **lccProject**-Limits the tabs to: Main; Metadata; Keywords; Extent; Associated; Documents; and Funding.
+* **publication**: Limits the tabs to: Main; Metadata; Keywords; Extent; Distribution; Associated; and Documents.
+
 ### Navigation When Editing Records
 
-![](/assets/high_level.png)
+#### ![](/assets/high_level.png)
 
 * When editing a Metadata record, navigation **breadcrumbs** appear in light blue on top of the form. These can be used to navigate. 
 * The **sub-menu navigation bar** is located below the breadcrumbs.  These change depending on what function is in use.

@@ -19,7 +19,7 @@ Federal Geographic Data Committee
 
 ## HTML
 
-_HTML _stands for Hyper Text Markup Language. It is the standard markup language for creating Web pages.
+\_HTML \_stands for Hyper Text Markup Language. It is the standard markup language for creating Web pages.
 
 ## ISO
 
@@ -47,6 +47,26 @@ Words used in an information retrieval system to indicate the content of a docum
 
 localStorage Cache allows an application to store data locally, in a user's browser. Storing information on the browser's local storage cache \(instead of a normal file cache\) means that if you use a different browser to access the mdEditor, it will not show the data you've imported from your first browser. It also means that if you clear your browser's cache, it will generally not clear your mdEditor records. However, depending upon your browser settings \(E.g., in Chrome, if the "c_ookies and other site data_" option is checked\), clearing your browser cache may still clear your mdEditor data.
 
+## mdEditor 
+
+Web application for authoring and editing metadata, for both projects and datasets.
+
+## mdEditor File
+
+A mdJSON file created by mdEditor that contains all of the information contained in mdJSON, along with mdEditor settings. This can be exported and shared with collaborators, imported into another record set, or saved to a local workstation as a backup or archival copy.
+
+## mdJSON
+
+ADIwg standard for encoding project and data metadata, based on JavaScript Object Notation \(JSON\).
+
+## mdJSON File
+
+An mdJSON file that is proprietary to the Metadata toolkit developed by the Alaska Data Integration Working Group \(ADIWG\), learn more at \[[https://adiwg.github.io/mdTools/](https://www.gitbook.com/book/adiwg/mdeditor/edit#)\].
+
+## mdTranslator
+
+Open-source Ruby software application for translating between metadata standards. Metadata is input in one of the supported ‘reader’ formats and output in one of the supported ‘writer’ formats. Available as Ruby gem or Command-Line-Interface.
+
 ## Metadata
 
 Metadata is a set of data that describes and gives information about other data.
@@ -55,23 +75,13 @@ Metadata is a set of data that describes and gives information about other data.
 
 A server where metadata is published to.
 
-## mdJSON File
-
-A type of JSON file that is proprietary to the Metadata toolkit developed by the Alaska Data Integration Working Group \(ADIWG\), learn more at \[[https://adiwg.github.io/mdTools/](https://www.gitbook.com/book/adiwg/mdeditor/edit#)\].
-
-## mdEditor File
-
-A mdJSON file created by mdEditor that contains all of the information contained in mdJSON, along with mdEditor settings. This can be exported and shared with collaborators, imported into another record set, or saved to a local workstation as a backup or archival copy.
-
-## mdTranslator
-
-Open-source Ruby software application for translating between metadata standards. Metadata is input in one of the supported ‘reader’ formats and output in one of the supported ‘writer’ formats. Available as Ruby gem or Command-Line-Interface.
-
 ## ParentID
 
 Identifier for a folder on a database where records will be stored upon publishing.
 
 ## sbJSON
+
+The format used to define the attributes of ScienceBase items.
 
 ## ScienceBase
 

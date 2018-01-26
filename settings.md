@@ -8,6 +8,10 @@ The settings menu allows the configuring of user specific options.
 
 ![](/assets/general_settings.png)
 
+### mdEditor Version
+
+The mdEditor version notes the current version of mdEditor. Use this when reporting errors. Errors can be reported at [https://github.com/adiwg/mdEditor/issues](https://www.gitbook.com/book/adiwg/mdeditor/edit#). You must have a github account in order to post.
+
 ### Auto-Save
 
 The Auto-Save option will write all changes to local storage when you exit a data entry field. Changes must be manually saved if the Auto-Save feature is turned off.

@@ -24,7 +24,7 @@ The export function will allow the contents of the current metadata recordset to
 
 * Clicking the **Include Settings **switch will also export mdEditor settings. Consult the [Settings](/settings.md) section of this manual to learn about settings.
 
-> ![](/assets/note_small.png)If you need to switch browsers for mdEditor, or want to send your setting to someone else, you can export them.
+> ![](/assets/note_small.png)If you need to switch browsers for mdEditor, or want to send your settings to someone else, you can export them.
 
 ---
 

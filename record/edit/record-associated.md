@@ -29,7 +29,7 @@ Creating Associations is a two part process:
 
 > ![](/assets/note_small.png) **Note: **If you selected a record, \(as described in the previous step\), the only field that is necessary is association type.
 
-![](/assets/associate.png)Main Fields
+### ![](/assets/associate.png)Main Fields:
 
 * **Association Type**: \(required\) Select the type of association from the drop down. This describes the relationship between items.
 

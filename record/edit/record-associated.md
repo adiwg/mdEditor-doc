@@ -27,7 +27,7 @@ Creating Associations is a two part process:
 
 ### Step 2: Fill in Available Fields
 
-![](/assets/note_small.png) **Note: **If you selected a record, \(as described in the previous step\), the only field that is necessary is association type.
+> ![](/assets/note_small.png) **Note: **If you selected a record, \(as described in the previous step\), the only field that is necessary is association type.
 
 ![](/assets/associate.png)Main Fields
 

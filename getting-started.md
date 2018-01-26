@@ -31,7 +31,7 @@ To add a _Contact_:
 
 ---
 
-## Buttons, Fields, Menus, and Selectors
+## Buttons, Icons, Menus, and Selectors.
 
 #### Buttons
 
@@ -47,6 +47,14 @@ These buttons are commonly found when editing records and contacts. Please keep 
 * ![](/assets/callout_button.png) The **Callout **button limits your interaction to the field that you are editing. It sets all other fields in the background, making it easier to focus on the field you are editing.
 
 * ![](/assets/expand_collapse_button.png) The **Collapse/Expand **button allows you to collapse or expand fields.
+
+---
+
+#### Icons
+
+* A record that has been modified will be flagged with a red edit icon. The red icon is only visible when Auto Save is turned off \(![](/assets/record_modified.png)\).
+* The green icon indicates green that a record meets the minimum mdEditor file requirements and is a "valid" record \(![](/assets/record_saved.png)\).
+* The orange icon indicates that a record has been saved but is missing a required field \(![](/assets/record_incomplete.png)\).
 
 ---
 

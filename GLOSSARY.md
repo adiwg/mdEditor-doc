@@ -17,9 +17,14 @@ The ability afforded by open-source code to edit the code of an application \(in
 Federal Geographic Data Committee  
 [https://www.fgdc.gov/](https://www.fgdc.gov/)
 
+## CSDGM
+
+Content Standard for Digital Geospatial Metadata  
+[https://www.fgdc.gov/metadata/csdgm/](https://www.fgdc.gov/metadata/csdgm/)
+
 ## HTML
 
-\_HTML \_stands for Hyper Text Markup Language. It is the standard markup language for creating Web pages.
+HTML stands for Hyper Text Markup Language. It is the standard markup language for creating Web pages.
 
 ## ISO
 
@@ -47,7 +52,7 @@ Words used in an information retrieval system to indicate the content of a docum
 
 localStorage Cache allows an application to store data locally, in a user's browser. Storing information on the browser's local storage cache \(instead of a normal file cache\) means that if you use a different browser to access the mdEditor, it will not show the data you've imported from your first browser. It also means that if you clear your browser's cache, it will generally not clear your mdEditor records. However, depending upon your browser settings \(E.g., in Chrome, if the "c_ookies and other site data_" option is checked\), clearing your browser cache may still clear your mdEditor data.
 
-## mdEditor 
+## mdEditor
 
 Web application for authoring and editing metadata, for both projects and datasets.
 

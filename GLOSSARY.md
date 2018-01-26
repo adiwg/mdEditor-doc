@@ -23,7 +23,9 @@ localStorage Cache allows an application to store data locally, in a user's brow
 
 ## ISO
 
-International Organization for Standardization
+International Organization for Standardization - ISO is an independent, non-governmental international organization with a membership of 162 [national standards bodies](https://www.iso.org/members.html).
+
+Through its members, it brings together experts to share knowledge and develop voluntary, consensus-based, market relevant International Standards that support innovation and provide solutions to global challenges.
 
 ## ISO 19110
 
@@ -73,5 +75,5 @@ A USGS collaborative scientific data and information management platform used di
 
 Uniform Resource Identifier is a string of characters used to identify a resource. A URL is a type of URI.
 
-ISO 19115-2, ISO 19110, HTML, or sbJSON 
+ISO 19115-2, ISO 19110, HTML, or sbJSON
 

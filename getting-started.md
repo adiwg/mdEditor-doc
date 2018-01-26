@@ -4,7 +4,7 @@
 
 ## Opening mdEditor
 
-* mdEditor is currently hosted on the GitHub website and can be opened by following this URL: [https://jlblcc.github.io/mdEditor/\#/dashboard](https://jlblcc.github.io/mdEditor/#/dashboard)
+* mdEditor is currently hosted on the GitHub website and can be opened by following this URL: 
 
 * _Chrome_ is the recommended web browser for using mdEditor. The editor will work in other browsers, but has been fully tested in Chrome.
 

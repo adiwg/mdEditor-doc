@@ -27,7 +27,7 @@ International Organization for Standardization
 
 ## ISO 19110
 
-ISO 19110 defines the methodology for cataloguing feature types. It may be used as a basis for defining the universe of discourse being modelled in a particular application, or to standardize general aspects of real world features being modelled in more than one application. \(International Organization for Standardization \(2016\). **ISO 19110:2016**. Retrieved from: 
+ISO 19110 defines the methodology for cataloguing feature types. It may be used as a basis for defining the universe of discourse being modelled in a particular application, or to standardize general aspects of real world features being modelled in more than one application. \(International Organization for Standardization \(2016\). **ISO 19110:2016**. Retrieved from: [https://www.iso.org/standard/57303.html](https://www.iso.org/standard/57303.html)\)
 
 ## ISO 19115-2
 
@@ -73,7 +73,5 @@ A USGS collaborative scientific data and information management platform used di
 
 Uniform Resource Identifier is a string of characters used to identify a resource. A URL is a type of URI.
 
-
-
-ISO 19115-2, ISO 19110, HTML, or sbJSON
+ISO 19115-2, ISO 19110, HTML, or sbJSON 
 

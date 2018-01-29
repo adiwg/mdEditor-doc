@@ -41,5 +41,3 @@ mdEditor.json files can be exported and imported via mdEditor's built in **Expor
 
 
 
-
-

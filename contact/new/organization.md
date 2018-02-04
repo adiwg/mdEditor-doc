@@ -31,5 +31,3 @@ The following fields are available for Organization contacts:
 
 ![](/assets/organization_contact_page.png)
 
-
-

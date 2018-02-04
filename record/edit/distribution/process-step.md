@@ -9,8 +9,6 @@ The following are _available and required:_
 * **Step ID: **\(Auto filled depending on the number of Process Steps added\).
 * **Description**: Add a description of the process step.
 
-
-
 The follow fields are_ available but optional:_
 
 * **Step Sources**: Information about the source data used in the process step.

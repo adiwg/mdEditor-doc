@@ -1,5 +1,7 @@
 # Citation
 
+Citation allows you to add references to people and/or organizations that participated in the creation of your item, as well as online locations where your item or information about your item is stored.
+
 ---
 
 The following fields are available in citation:

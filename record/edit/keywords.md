@@ -8,7 +8,7 @@
 * Select **Custom Thesaurus **or any of the pre-populated thesauruses from the **Pick a thesaurus **drop-down. 
   * \(Consult the [Custom Thesaurus](/record/edit/keywords/custom-keywords.md) section of this manual to learn how to create user definable keywords\)
 
-> ![](/assets/Note_BlackOutline.png)Keywords Edited in the mdEditor will overwrite keywords in ScienceBase
+> ![](/assets/note_small.png)Keywords Edited in the mdEditor will overwrite keywords in ScienceBase
 
 ![](/assets/keywords_window.png)
 
@@ -28,7 +28,7 @@
 
 7. LCC End User Types
 
-> ![](/assets/Note_BlackOutline_75.png)
+> ![](/assets/note_small.png)
 >
 > **GCMD \(Global Change Master Directory keywords\)** are built and maintained by NASA.
 >
@@ -36,7 +36,7 @@
 >
 > **LCC \(Landscape Conservation Cooperatives\) **Keywords are maintained by the national LCCs and required for any LCC metadata.
 >
-> ![](/assets/Note_BlackOutline_50.png) GCMD keywords are listed by category. It is recommended clicking **Full Path **when editing these keywords to maintain their category.
+> ![](/assets/note_small.png) GCMD keywords are listed by category. It is recommended clicking **Full Path **when editing these keywords to maintain their category.
 
 
 

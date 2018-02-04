@@ -12,12 +12,12 @@ While viewing records, there are three options available in the Action Menu \(on
 
 ![](/assets/right_vertical_menu_view.png)
 
-**Copy**: The copy button makes a duplicate of a record or contact.
+**Copy**: The copy button makes a duplicate of a record.
 
 * > ![](/assets/note_small.png) Making a copy will generate a new ID for the copied record and be named “Copy of …”. All the other info will remain the same including associations. The “metadata identifier” is NOT copied but any identifiers in the main citation WILL be copied.
-* **Delete**: The delete button will completely delete the record or contact.
+* **Delete**: The delete button will completely delete the record.
 
-  > ![](/assets/best_practice_small.png)**Best Practice**: Make a backup of your record or contact before deleting. Consult the [**Export**](/export.md)** **section of this manual to learn how to make a backup.
+  > ![](/assets/best_practice_small.png)**Best Practice**: Make a backup of your record before deleting. Consult the [**Export**](/export.md)** **section of this manual to learn how to make a backup.
 
 * **Edit **button. This button will allow you to begin editing your item.
 

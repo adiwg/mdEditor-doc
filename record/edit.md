@@ -47,3 +47,25 @@ Certain fields are required in order to meet ISO metadata requirements. Required
 
 The number inside the icons tracks how many entries you have entered in that particular section.
 
+## Record Edit Action Menu
+
+While editing records, there are four options available in the Action Menu \(on the right side of the editor region\).
+
+![](/assets/right_vertical_menu_edit.png)
+
+Editing options include:
+
+* **Save**: Used to save changes. 
+  > ![](/assets/note_small.png) Save can only be used if auto-save is turned off and a change has been made. Consult the [**Settings**](/settings.md)** **section of this manual for more information.
+* **Cancel**: Used to undo changes that have not yet been saved.
+
+* **Copy**: The copy button makes a duplicate of a record or contact.
+
+  > ![](/assets/note_small.png) Making a copy will generate a new ID for the copied record and be named “Copy of …”. All the other info will remain the same including associations. The “metadata identifier” is NOT copied but any identifiers in the main citation WILL be copied.
+
+* **Delete**: The delete button will completely delete the record or contact.
+
+  > ![](/assets/best_practice_small.png)**Best Practice**: Make a backup of your record or contact before deleting. Consult the [**Export**](/export.md)** **section of this manual to learn how to make a backup.
+
+
+

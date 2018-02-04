@@ -8,7 +8,7 @@
   * [Export](export.md)
   * [Import](import.md)
     * [ScienceBase Import](import/sciencebase-import.md)
-  * [Copying Records Best Practice](file-management/copy-records.md)
+  * [Copying Records](file-management/copy-records.md)
 * [Translate](translate.md)
 * [Publish](publish.md)
   * [Requirements for Publishing](publish/requirements-for-publishing.md)

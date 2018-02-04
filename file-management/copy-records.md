@@ -1,6 +1,6 @@
 # Copying Records
 
-The **Copy** button is located in right vertical menu. It makes a duplicate of metadata record. Consult the [**Getting Started**](/getting-started.md) section of this manual for more information on the **Vertical Menu**.
+The **Copy** button is located in action menu. It makes a duplicate of metadata record. Consult the** **[**Record Show**](/record\show.md) section of this manual for more information on the using with the **Action Menu**.
 
 ![](/assets/copy_button.png)
 

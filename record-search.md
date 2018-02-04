@@ -6,13 +6,11 @@ Clicking the **list icon **\(![](/assets/symbol_list_16.png)\) will display a se
 
 ![](/assets/record_list.png)
 
-Use the **Search **field to search for any string.
+* Use the **Search **field to search for any string.
+* Use the **Title **field to search by title.
+* Use the **Resource Type **drop-down to search for **Projects **or **Products**.
+* Use the **ID **field to search by project or product ID.
+* The **Actions **buttons give users the ability to **Show**, **Edit**, **Delete**, or **Preview JSON**.
 
-Use the **Title **field to search by title.
 
-Use the **Resource Type **drop-down to search for **Projects **or **Products**.
-
-Use the **ID **field to search by project or product ID.
-
-The **Actions **buttons give users the ability to **Show**, **Edit**, **Delete**, or **Preview JSON**.
 

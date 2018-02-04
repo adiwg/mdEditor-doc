@@ -6,7 +6,7 @@ The following fields are available for Organization contacts:
 
 * **Organization name**: Required
 * **Contact Type**: Recommended
-  > ![](/assets/best_practice_small.png)**Best Practice**: If you are unsure of an organization type, select the type that best represents project’s interaction individuals.
+  > ![](/assets/best_practice_small.png) If you are unsure of an organization type, select the type that best represents the project’s interaction individuals. These individuals are typically contacts that are included in a project or product.
 * **Member of Organization**: Recommended
 * **Phone**: Recommended
 * **Email address**: Required
@@ -19,7 +19,7 @@ The following fields are available for Organization contacts:
 
   > ![](/assets/note_small.png)
   >
-  > **Note:** You can either select or drop an image that will be used for a logo.  
+  > You can either select or drop an image that will be used for a logo.  
   >   
   > Images loaded into mdEditor must be smaller than 50kb \(recommended size is smaller than 25kb\). If a larger image is necessary, link to it rather than loading it into the mdEditor.  
   >   
@@ -29,7 +29,7 @@ The following fields are available for Organization contacts:
 
 * **Available Times**: Recommended
 
+---
+
 ![](/assets/organization_contact_page.png)
-
-
 

@@ -12,7 +12,7 @@ The **Main **tab allows for the creation of primary metadata from scratch. \(i.e
 
 ---
 
-#### **Default Locale**
+### **Default Locale**
 
 ![](/assets/default_locale.png)
 
@@ -20,7 +20,7 @@ The **Main **tab allows for the creation of primary metadata from scratch. \(i.e
 
 ---
 
-#### **Resource Types**
+### **Resource Types**
 
 ![](/assets/resource_types.png)
 
@@ -28,7 +28,7 @@ The **Main **tab allows for the creation of primary metadata from scratch. \(i.e
 
 ---
 
-#### **Point of Contacts **
+### **Point of Contacts **
 
 ![](/assets/point_of_contacts.png)
 
@@ -38,15 +38,15 @@ From the **Role **drop-down menu, select or enter a roll for your point of conta
 
 ---
 
-#### **Citation**
+### **Citation**
 
 #### ![](/assets/citation.png)
 
-**Citation **is used** **to add record citations. Read the [**Main** **Citation**](/record/edit/main/citation.md)** **section of this manual to learn how to edit citations.
+**Citation **is used** **to add record citations. Read the [**Main** **Citation**](/record/edit/main/citation.md)** **section of this manual to learn more about citations and how to edit them.
 
 ---
 
-#### **Description**
+### **Description**
 
 ![](/assets/description.png)
 
@@ -54,7 +54,7 @@ From the **Role **drop-down menu, select or enter a roll for your point of conta
 
 ---
 
-#### **Time Period**
+### **Time Period**
 
 ![](/assets/time_period.png)
 
@@ -66,7 +66,7 @@ From the **Role **drop-down menu, select or enter a roll for your point of conta
 
 ---
 
-#### **Graphic Overview**
+### **Graphic Overview**
 
 ![](/assets/graphic_overview.png)
 
@@ -74,7 +74,7 @@ From the **Role **drop-down menu, select or enter a roll for your point of conta
 
 ---
 
-#### **Credits**
+### **Credits**
 
 ![](/assets/credits_screenshot.png)
 

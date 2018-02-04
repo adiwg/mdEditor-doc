@@ -10,11 +10,11 @@
 
 2. If I have a product on ScienceBase already, one or more intermediate organizing folders, and then make an association to a project in mdEditor, will the product record go back to the same place?
 
-   > It will go back to the exact same place as long as you don't change the parent ID in the metadata record itself or drag it around in the publishing outline.
+   > It will go back to the exact same place as long as you don't change the Parent ID in the metadata record itself or drag it around in the publishing outline.
 
 3. Do I need to use mdEditor for updating items once I have uploaded to ScienceBase.
 
-   > Once you use mdEditor for editing items, you have to keep using mdEditor. If you go back to DEPTH or ScienceBase directly to edit items, your edits will not be reflected in the attached mdJSON, so your edits will be lost \(overwritten\) the next time you publish from mdEditor.
+   > Once you use mdEditor for editing items, you have to keep using mdEditor. If you go back to DEPTH or ScienceBase directly to edit items, your edits will not be reflected in the attached mdJSON file, so your edits will be lost \(overwritten\) the next time you publish from mdEditor.
 
 4. What happens if a user works on files remotely, or more than one person works on the same project/product? Will these merge?
 

@@ -14,7 +14,9 @@ The export function will allow the contents of the current metadata recordset to
 
 ---
 
-### **Export Options**
+## Export Action Menu
+
+While importing data, there are four options available in the Action Menu \(on the right side of the export data window\).
 
 * **Export All:** will export everything currently loaded in mdEditor into a single file. Exports an mdEditor JSON file.
 

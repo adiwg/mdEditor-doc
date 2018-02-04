@@ -1,7 +1,5 @@
 # Advanced Users
 
-
-
 ## Troubleshooting Issues
 
 ---
@@ -22,6 +20,7 @@ Any unsolvable issues can be submitted on the issues page for mdEditor: [https:/
 
 > ![](/assets/note_small.png)**Note**: You must have a github account in order to post.
 
-
-
 ## 
+
+
+

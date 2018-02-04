@@ -60,7 +60,7 @@ From the **Role **drop-down menu, select or enter a roll for your point of conta
 
 **Time Period** refers to project start and end date, or the date that the product was applicable \(e.g., time that a map is valid, date of publication, date of presentation\)
 
-> ![](/assets/BestPractice_BlackOutline.png)**Best Practice:** For each project, add a start and end date.
+> ![](/assets/best_practice_small.png)**Best Practice:** For each project, add a start and end date.
 >
 > ![](/assets/note_small.png)**Time Period** isn’t required but if you choose to enter something in time period, you have to enter a date.
 

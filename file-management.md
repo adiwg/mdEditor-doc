@@ -4,9 +4,13 @@
 
 mdEditor.json files can be exported and imported via mdEditor's built in **Export** and **Import **functionality \(described in the [Export](/export.md) and [Import](/import.md) section of this manual\).
 
-## File Management Notes and Best Practices
+### File Management Notes and Best Practices
 
-### ![](/assets/best_practice_small.png)General Workflow:
+---
+
+#### General Workflow:
+
+#### ![](/assets/best_practice_small.png)
 
 * **Best practice: Work on project-by-project basis.**
 
@@ -23,7 +27,11 @@ mdEditor.json files can be exported and imported via mdEditor's built in **Expor
 
 * **Best Practice:** Maintain an “Export All” JSON file each time you finish a work session in mdEditor \(or switch browsers, URLs, etc.\).
 
-### ![](/assets/best_practice_small.png)![](/assets/note_small.png)Exporting:
+---
+
+### Exporting:
+
+### ![](/assets/best_practice_small.png)![](/assets/note_small.png)
 
 * **Note: **The only way to backup your records is by using the [Export](/export.md) functionality.
 
@@ -31,7 +39,11 @@ mdEditor.json files can be exported and imported via mdEditor's built in **Expor
 
 * **Best Practice**: It is recommended that you use the [Export](/export.md) functionality frequently to a local computer folder of your choosing. It is particularly important that you export your records for backup before using mdEditor's **Clear Storage Cache **functionality \(clearing the storage cache will delete any records or data you have entered into the mdEditor\). Consult the [Settings](/settings.md) section of this manual to learn more.
 
-### ![](/assets/best_practice_small.png)mdEditor Contacts:
+---
+
+### mdEditor Contacts:
+
+### ![](/assets/best_practice_small.png)
 
 * **Best Practice**: Export all contacts together \(unless you’re comfortable knowing exactly which contacts are used in your record set\), otherwise if you load a project and the contacts aren’t loaded in mdEditor, you can’t inject the contacts back into the metadata record.
 * **Best Practice**: Save mdEditor contacts at the end of every work session, load before each work session and ensure they are up-to-date. Then load the project/product record you want to work on.

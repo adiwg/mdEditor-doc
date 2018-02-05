@@ -30,7 +30,7 @@ Other available fields include:
 
 * **Metadata Citation: **You may add a metadata citation noting any references pertaining to the document.
 
-> ![](/assets/note_small.png)ScienceBase has something similar called “weblink,” ScienceBase weblinks will be populated here if sbJSON is imported into mdEditor.
+> ![](/assets/note_small.png)ScienceBase has something similar to documents called “weblink,” ScienceBase weblinks will be populated here if sbJSON is imported into mdEditor.
 
 ---
 

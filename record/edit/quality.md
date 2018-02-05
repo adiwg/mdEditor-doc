@@ -14,7 +14,7 @@
 
 ---
 
-## Editing Distributors for Distribution
+### Editing Distributors for Distribution
 
 ![](/assets/editing_distributors_for_distribution_window.png)
 

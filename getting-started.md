@@ -2,7 +2,7 @@
 
 ---
 
-## Opening mdEditor
+### Opening mdEditor
 
 * mdEditor is currently hosted on the GitHub website and can be opened by following this URL:  
   [**https://www.mdeditor.org/**](https://www.mdeditor.org/)
@@ -13,7 +13,7 @@
 
 ---
 
-## Adding Items
+### Adding Items
 
 To add a _Project_,_ Product,_ or any other metadata item:
 
@@ -32,9 +32,9 @@ To add a _Contact_:
 
 ---
 
-## Buttons, Icons, Menus, and Selectors.
+### Buttons, Icons, Menus, and Selectors.
 
-#### Buttons
+#### **Buttons**
 
 These buttons are commonly found when editing records and contacts. Please keep in mind that the color of the buttons may differ depending on the field that you are editing.
 

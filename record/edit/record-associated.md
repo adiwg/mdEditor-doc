@@ -29,7 +29,7 @@ Creating Associations is a two part process:
 
 > ![](/assets/note_small.png) **Note: **If you selected a record \(as described in the previous step\), the only field that is necessary is association type.
 
-![](/assets/associate.png)Main 
+![](/assets/associate.png)Main
 
 * **Association Type**: \(required\) Select the type of association from the drop down. This describes the relationship between items.
 
@@ -49,7 +49,7 @@ Creating Associations is a two part process:
 
   * **Edition**: An edition number of the association.
 
-  * **Presentation Form**: Select or enter a presentation form.
+  * **Presentation Form**: Select or enter a presentation form. This describes the type of associated item \(I.E. audio, database, diagram, document, image, map, model, multimedia, etc.\).
 
 ### **Other available fields include:**
 

@@ -2,7 +2,7 @@
 
 ---
 
-Parent Metadata allows for an association between the current record and its parent record
+Parent Metadata allows for an association between the current record and its parent record.
 
 * **Title **is required.
 * **Alternate Title **allows for an additional title of the resource.

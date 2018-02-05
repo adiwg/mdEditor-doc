@@ -8,7 +8,9 @@ Click on the contact that you would like to view. A summary of the metadata for 
 
 ![](/assets/contact_show.png)
 
-## Contact Show Action Menu
+---
+
+### Contact Action Menu
 
 While viewing contacts, there are three options available in the Action Menu \(on the right side of the editor region\).
 
@@ -23,8 +25,4 @@ While viewing contacts, there are three options available in the Action Menu \(o
 > ![](/assets/best_practice_small.png)**Best Practice**: Make a backup of your contact\(s\) before deleting. Consult the [**Export**](/export.md)** **section of this manual to learn how to make a backup.
 
 **Edit **button. This button will allow you to begin editing your contact.
-
-
-
-
 

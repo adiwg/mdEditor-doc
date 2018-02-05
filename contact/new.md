@@ -2,7 +2,7 @@
 
 ---
 
-## Create a New Contact
+### Create a New Contact
 
 1. Click the plus \(![](/assets/symbol_plus_16.png)\) sign by **Contacts**.
 2. Specify if the contact is an **Individual** or an **Organization.**
@@ -12,7 +12,7 @@ Consult the [Individual Contact](/contact/new/individual.md) section of this man
 
 Consult the [Organization Contact](/contact/new/organization.md) section of this manual to learn about fields that are specific to organizations.
 
-## Contact New Action Menu
+### Contact New Action Menu
 
 While editing contacts, there are four options available in the Action Menu \(on the right side of the editor region\).
 

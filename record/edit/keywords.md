@@ -4,15 +4,17 @@
 
 **Keywords **allow for the addition of keywords via selectable thesauruses.
 
-* Click “+ Add Thesaurus” on the right to add the different thesauruses.
-* Select **Custom Thesaurus **or any of the pre-populated thesauruses from the **Pick a thesaurus **drop-down. 
-  * Consult the [Custom Thesaurus](/record/edit/keywords/custom-keywords.md) section of this manual to learn how to create user definable keywords
+1. Click “+ Add Thesaurus” on the right to add the different thesauruses.
+2. Select **Custom Thesaurus **or any of the pre-populated thesauruses from the **Pick a thesaurus **drop-down. 
+   * Consult the [Custom Thesaurus](/record/edit/keywords/custom-keywords.md) section of this manual to learn how to create user definable keywords
 
 > ![](/assets/note_small.png)Keywords Edited in the mdEditor will overwrite keywords in ScienceBase
 
-![](/assets/keywords_window.png)
+---
 
-**The following pre-populated thesauruses are available: **
+### Available Thesauruses 
+
+The following pre-populated thesauruses are available: 
 
 1. GCMD Science Keywords
 
@@ -37,6 +39,8 @@
 > **LCC \(Landscape Conservation Cooperatives\) **Keywords are maintained by the national LCCs and required for any LCC metadata.
 
 
+
+![](/assets/keywords_window.png)
 
 
 

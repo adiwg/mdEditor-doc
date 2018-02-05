@@ -12,6 +12,8 @@ Consult the [Individual Contact](/contact/new/individual.md) section of this man
 
 Consult the [Organization Contact](/contact/new/organization.md) section of this manual to learn about fields that are specific to organizations.
 
+---
+
 ### New Contact Action Menu
 
 While editing contacts, there are four options available in the Action Menu \(on the right side of the editor region\).

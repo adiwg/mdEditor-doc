@@ -12,7 +12,7 @@ Available fields include:
   * **Alternate Titles**: An alternate title of the document.  
   * **Dates**: A date that the document was created.  
   * **Edition**: An edition number of the document.  
-  * **Presentation Form**: Select or enter a presentation form.
+  * **Presentation Form**: Select or enter a presentation form. This describes the type of associated item \(I.E. audio, database, diagram, document, image, map, model, multimedia, etc.\).
 
 Other available fields include:
 

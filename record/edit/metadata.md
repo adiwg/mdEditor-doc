@@ -1,8 +1,10 @@
 # Record Metadata
 
+Record Metadata allows you to describe your record's metadata, including descriptions of the process of metadata creation, contributors of creation of the metadata, and metadata repositories.
+
 ---
 
-Record Metadata is the place to enter key information into your record.
+
 
 * **Metadata Status **is not required but recommended.
 * **Dates **are** **not required but recommended. Enter a correction date or date of the last update.

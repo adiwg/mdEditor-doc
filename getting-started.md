@@ -9,7 +9,7 @@
 
 * _Chrome_ is the recommended web browser for using mdEditor. The editor will work in other browsers, but has been fully tested in Chrome.
 
-> ![](/assets/note_small.png)Currently, when you open mdEditor, you will see an _Update Alert_ that the application is under development. This is normal and will remain as such until the production version is ready.
+> ![](/assets/note_small.png)Currently when you open mdEditor, you will see an _Update Alert_ that the application is under development. This is normal and will remain as such until the production version is ready.
 
 ---
 
@@ -25,7 +25,7 @@ To add a _Project_,_ Product,_ or any other metadata item:
 
 To add a _Contact_:
 
-1. Click the plus \(![](/assets/symbol_plus_16.png)\) symbol next to**Contacts**
+1. Click the plus \(![](/assets/symbol_plus_16.png)\) symbol next to **Contacts**
 2. Enter **Name **and **Position Name**
 3. Click **Save**
 4. To learn what other fields are available for contacts, consult the [**Contact New**](https://www.gitbook.com/book/adiwg/mdeditor/edit#) section of this manual.

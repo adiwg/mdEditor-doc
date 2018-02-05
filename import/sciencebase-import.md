@@ -6,7 +6,7 @@ The Import function will allow the contents files from ScienceBase to be incorpo
 
 > ![](/assets/note_small.png)Currently the mdEditor is used primarily with ScienceBase, a collaborative scientific data and information management platform developed and run by the USGS and used directly by science teams. The mdEditor can work with other databases, but in this manual, ScienceBase will be used as the primary example of a database.
 
-# Method 1:
+### Method 1:
 
 1. **Copy the ScienceBase ID \(SBID\)** from an existing ScienceBase item 
    -The SBID is the string of letters/numbers at the end of the item’s ScienceBase URL \(e.g. [https://www.sciencebase.gov/catalog/item/\*\*5947e765e4b062508e34424a\*\*\](https://www.sciencebase.gov/catalog/item/**5947e765e4b062508e34424a**%29\)
@@ -26,7 +26,7 @@ The Import function will allow the contents files from ScienceBase to be incorpo
 
 ---
 
-## Method 2
+### Method 2
 
 Use this method for items where no mdJSON already exists, may or may not have ScienceBase Project facet.
 

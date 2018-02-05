@@ -10,11 +10,11 @@ The Import function will allow the contents of an mdEditor or [mdJSON file](http
 2. Review what was imported. Click the “preview JSON” buttons to sort between multiple entries of the same contact, and decide which version to keep \(If there is more than one copy of a record/contact, choose the record or contact with the most complete information\). 
 3. Select the records and contacts you want to import, and then click the Import Data button on the right side of the screen. 
 
-![](/assets/import_data.png) 
+![](/assets/import_data.png)
 
 ---
 
-## Import Action Menu
+### Import Action Menu
 
 While importing data, there are three options available in the Action Menu \(on the right side of the import data window\).
 

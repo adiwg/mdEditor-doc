@@ -6,8 +6,6 @@ mdEditor.json files can be exported and imported via mdEditor's built in **Expor
 
 ### File Management Notes and Best Practices
 
----
-
 #### General Workflow:
 
 #### ![](/assets/best_practice_small.png)

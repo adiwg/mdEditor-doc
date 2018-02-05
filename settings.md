@@ -15,6 +15,8 @@ The settings menu allows for the configuring of user specific options.
 **Clear All Records: **All records can be cleared by clicking the **Clear Storage Cache**.  
 ![](/assets/caution.png)** CAUTION! Clearing all records will delete your current set of records. If you wish to retain your records for future use, be sure and make a backup with the **[**export**](/export.md)** function before clearing the cache.  **
 
+
+
 ![](/assets/general_settings.png)
 
 ---
@@ -39,5 +41,5 @@ The following defaults will be pre-loaded:
 
 Items can be published to an online repository such as ScienceBase.
 
-In the **Default Parent Identifier **\(parent folder's location on a database\), enter the repository's Parent ID. You may also enter the **Default Community **and **Default Organization**.![](/assets/publishing_settings.png)
+In the **Default Parent Identifier **\(the parent folder's location on a database\), enter the repository's Parent ID. You may also enter the **Default Community **and **Default Organization**.![](/assets/publishing_settings.png)
 

@@ -17,7 +17,7 @@ Federal Geographic Data Committee
 
 ## FGDC CSDGM
 
- Federal Geographic Data Committee’s Content Standard for Digital Geospatial Metadata - FGDC-STD-001-1998 Includes Biological Data Profile  
+Federal Geographic Data Committee’s Content Standard for Digital Geospatial Metadata - FGDC-STD-001-1998 \(Includes Biological Data Profile\)  
 [https://www.fgdc.gov/metadata/csdgm/](https://www.fgdc.gov/metadata/csdgm/)
 
 ## HTML

@@ -4,7 +4,7 @@
 
 Puts information into the metadata about how the project or product can and cannot be used.
 
-## **Use limitations**
+### **Use limitations**
 
 Identify concerns over how people should or should not use the product.
 
@@ -14,7 +14,7 @@ Identify concerns over how people should or should not use the product.
 
 ---
 
-## **Legal**
+### **Legal**
 
 * **Access Constraints: **Access constraints are applied to assure the protection of privacy or intellectual property, and any special restrictions or limitations on obtaining the resource.
 * **Use constraint**s: How the product should be used.
@@ -24,7 +24,7 @@ Identify concerns over how people should or should not use the product.
 
 ---
 
-## **Security Constraints**
+### **Security Constraints**
 
 ** **A place to describe constraints or restrictions pertaining to security of the resource.  Choose classification from the drop-down menu.
 

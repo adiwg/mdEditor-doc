@@ -4,12 +4,12 @@
 
 ### Overview
 
-The mdEditor is a web application that allows users to author and edit metadata for projects, datasets, maps, images, and documents. That metadata can then be exported, translated into other metadata formats, or published to a database. The primary design goal was to develop an application that would allow users to create and use archival quality metadata without the need for an extensive knowledge of metadata standards.
+The mdEditor is a web application that allows you to author and edit metadata for projects, datasets, maps, images, and documents. That metadata can then be exported, translated into other metadata formats, or published to a database. The primary design goal was to develop an application that would allow you to create and use archival quality metadata without the need for an extensive knowledge of metadata standards.
 
 ### Features
 
 * A Responsive, two-panel layout allows for display on both desktop and mobile devices.
-* Launched through a web browser, there is no need for users to install software.
+* Launched through a web browser, there is no need for you to install software.
 * Metadata is initially stored in the browser localStorage cache.
 * Metadata can be exported as a text file \(JSON format\) for archiving or sharing.
 * Open source development allows for customization of the mdEditor.

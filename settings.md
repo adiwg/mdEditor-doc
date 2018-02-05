@@ -4,7 +4,7 @@
 
 The settings menu allows for the configuring of user specific options.
 
-### General Settings: 
+### General Settings:
 
 **mdEditor Version:  **The mdEditor version notes the current version of mdEditor. Use this when reporting errors. Errors can be reported at [https://github.com/adiwg/mdEditor/issues](https://www.gitbook.com/book/adiwg/mdeditor/edit#). You must have a github account in order to post.
 
@@ -39,5 +39,5 @@ The following defaults will be pre-loaded:
 
 Items can be published to an online repository such as ScienceBase.
 
-In the **Default Parent Identifier**, enter the repository's Parent ID. You may also enter the **Default Community **and **Default Organization**.![](/assets/publishing_settings.png)
+In the **Default Parent Identifier **\(parent folder's location on a database\), enter the repository's Parent ID. You may also enter the **Default Community **and **Default Organization**.![](/assets/publishing_settings.png)
 

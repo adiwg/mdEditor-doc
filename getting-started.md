@@ -36,7 +36,7 @@ To add a _Contact_:
 
 #### Buttons
 
-These buttons are commonly found when editing records and contacts. Please keep in mind that the color of buttons may differ depending on the field that you are editing.
+These buttons are commonly found when editing records and contacts. Please keep in mind that the color of the buttons may differ depending on the field that you are editing.
 
 * ![](/assets/delete_button.png) The **Delete **button allows you to delete fields.
 * ![](/assets/add_button.png) The **Add **button allows for the addition of fields to a given section.
@@ -53,29 +53,29 @@ These buttons are commonly found when editing records and contacts. Please keep 
 
 #### Icons
 
-* A record that has been modified will be flagged with a red edit icon. The red icon is only visible when Auto Save is turned off \(![](/assets/record_modified.png)\).
-* The green icon indicates green that a record meets the minimum mdEditor file requirements and is a "valid" record \(![](/assets/record_saved.png)\).
+* A record that has been modified will be flagged with a red edit icon. The red icon is only visible when Auto-Save is turned off \(![](/assets/record_modified.png)\).
+* The green icon indicates that a record meets the minimum mdEditor file requirements and is a "valid" record \(![](/assets/record_saved.png)\).
 * The orange icon indicates that a record has been saved but is missing a required field \(![](/assets/missing_required_field_icon.png)\).
 
 ---
 
 #### Fields, Menus, Selectors
 
-The most common type of fields include:
+Common types of fields used in the mdEditor:
 
-The **Text **field is used to enter text.
+**Text Field:** Lets you enter text.
 
 ![](/assets/text_field.png)
 
 ..
 
-The **Drop Down **menu is used to select items from a list.
+**Drop Down Menu:** Lets you select items from a list.
 
 ![](/assets/drop_down_menu.png)
 
 ..
 
-The **Date **selector lets you select a date from a calendar.
+**Date Selector: **Lets you select a date from a calendar.
 
 ![](/assets/date_selector.png)
 

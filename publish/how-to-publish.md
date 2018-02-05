@@ -77,27 +77,23 @@ _You** do have **existing parent-child relationships on ScienceBase and/or you h
 * If your products are housed in a “Products” folder on ScienceBase \(or other intermediate folders between the project item and the products\), then your products **will not** be nested under projects in the publishing outline. 
   * The parent ID for those products is the “Products” folder \(which would not have a record in mdEditor\). If this is your situation, do not change  the structure in the publishing outline and publish as is \(i.e., with every item organized at the root level in the outline\).
 
-###  
-
 ---
 
 ### Step Three: Submitting for Publishing
 
-1. To select a record to publish, click on it and it will turn green \(click again to un-select it\).
+1. To select a record to publish, click on it and it will turn green.
 
-   * You cannot publish a record without a parent ID.
+   * **Note:** You cannot publish a record without a Parent ID.
      * Sending a non-existent parent ID to ScienceBase will return an error.
-     * If records contain parent IDs in the metadata, you can choose to publish products without publishing their parent projects.
+     * If records contain Parent IDs in the metadata, you can choose to publish products without publishing their parent projects.
 
-2. mdEditor publishes sequentially, starting with the top record \(it will publish the project first, then the products nested below it\).
+2. mdEditor publishes sequentially, starting with the top record. It will publish the project first, then the products nested below it.
 
-   * If you are publishing to your _default parent identifier_ or you have changed any project-product relationships in the publishing outline, you will see the updated parent IDs appear in the outline as publishing occurs \(if you’re publishing to the existing locations on ScienceBase, the IDs won’t change\).
+   * If you are publishing to your D_efault Parent Identifier_ or you have changed any project-product relationships in the publishing outline, you will see the updated Parent IDs appear in the outline as publishing occurs \(if you’re publishing to the existing locations on ScienceBase, the IDs won’t change\).
 
    * These new/updated IDs will be injected directly into the mdJSON file in mdEditor. However, these updated IDs will not be included in the mdJSON file that is attached to ScienceBase as part of the publishing process. You would have to publish the record a second time to update the mdJSON file attached on ScienceBase.
 
-3. Upon successfully publishing to ScienceBase, the third column will display a date and time. The record's ScienceBase ID will be displayed in the first column, and the Parent ID will be displayed in the second column.
-
-   If there are any errors during publishing, they will be noted in the third column.
+3. Upon successfully publishing to ScienceBase, the third column will display a date and time. The record's ScienceBase ID will be displayed in the first column, and the Parent ID will be displayed in the second column. If there are any errors during publishing, they will be noted in the third column.
 
 4. Once publishing is done, refresh ScienceBase to ensure everything is showing up how you expected it would show up.
 

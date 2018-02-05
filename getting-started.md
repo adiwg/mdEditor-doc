@@ -38,24 +38,27 @@ To add a _Contact_:
 
 These buttons are commonly found when editing records and contacts. Please keep in mind that the color of the buttons may differ depending on the field that you are editing.
 
-* ![](/assets/delete_button.png) The **Delete **button allows you to delete fields.
-* ![](/assets/add_button.png) The **Add **button allows for the addition of fields to a given section.
+![](/assets/delete_button.png) The **Delete **button allows you to delete fields.
 
-* ![](/assets/edit_field_button.png) The **Edit **button allows you to edit fields.
+![](/assets/add_button.png) The **Add **button allows for the addition of fields to a given section.
 
-* ![](/assets/ok_button.png) The **OK **button lets you approve changes to a field.
+![](/assets/edit_field_button.png) The **Edit **button allows you to edit fields.
 
-* ![](/assets/callout_button.png) The **Callout **button limits your interaction to the field that you are editing. It sets all other fields in the background, making it easier to focus on the field you are editing.
+![](/assets/ok_button.png) The **OK **button lets you approve changes to a field.
 
-* ![](/assets/expand_collapse_button.png) The **Collapse/Expand **button allows you to collapse or expand fields.
+![](/assets/callout_button.png) The **Callout **button limits your interaction to the field that you are editing. It sets all other fields in the background, making it easier to focus on the field you are editing.
+
+![](/assets/expand_collapse_button.png) The **Collapse/Expand **button allows you to collapse or expand fields.
 
 ---
 
 #### Icons
 
-* A record that has been modified will be flagged with a red edit icon. The red icon is only visible when Auto-Save is turned off \(![](/assets/record_modified.png)\).
-* The green icon indicates that a record meets the minimum mdEditor file requirements and is a "valid" record \(![](/assets/record_saved.png)\).
-* The orange icon indicates that a record has been saved but is missing a required field \(![](/assets/missing_required_field_icon.png)\).
+ ![](/assets/record_modified.png) A record that has been modified will be flagged with a red edit icon. The red icon is only visible when Auto-Save is turned off
+
+![](/assets/record_saved.png) The green icon indicates that a record meets the minimum mdEditor file requirements and is a "valid" record 
+
+ ![](/assets/missing_required_field_icon.png) The orange icon indicates that a record has been saved but is missing a required field
 
 ---
 

@@ -6,7 +6,7 @@ The following fields are available for Organization contacts:
 
 * **Organization name**: Required
 * **Contact Type**: Recommended
-  > ![](/assets/best_practice_small.png)**Best Practice**: If you are unsure of an organization type, select the type that best represents the project’s interaction individuals.
+  > ![](/assets/best_practice_small.png)**Best Practice**: If you are unsure of an organization type, select the type that best represents the project’s interaction individuals. These individuals are typically contacts that are included in a project or product.
 * **Member of Organization**: Recommended
 * **Phone**: Recommended
 * **Email address**: Required

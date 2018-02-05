@@ -4,7 +4,9 @@
 
 Click the **angle-down icon** \(![](/assets/symbol_angle-down_16.png)\) to expand the contact group panel and display a list of contacts in the sidebar.
 
-Click on the contact that you would like to view.
+Click on the contact that you would like to view. A summary of the metadata for that contact will be displayed. All metadata can be reviewed by clicking the Edit button.
+
+![](/assets/contact_show.png)
 
 ## Contact Show Action Menu
 

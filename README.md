@@ -12,8 +12,8 @@ The mdEditor is a web application that allows users to author and edit metadata 
 * Launched through a web browser, there is no need for users to install software.
 * Metadata is initially stored in the browser localStorage cache.
 * Metadata can be exported as a text file \(JSON format\) for archiving or sharing.
-* Open source development allows for customization.
-* Defined schema \(mdJSON schema\) allows for validating records.
+* Open source development allows for customization of the mdEditor.
+* Defined schema \(mdJSON schema\) allows for the ability to validate records.
 * Can be used in conjunction with an associated [mdTranslator](https://github.com/adiwg/mdTranslator) application to create ISO and FGDC compliant metadata records.
 
 ---

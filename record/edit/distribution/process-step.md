@@ -6,8 +6,8 @@
 
 The following are _available and required:_
 
-* **Step ID: **\(Auto filled depending on the number of Process Steps added\).
-* **Description**: Add a description of the process step.
+* **Step ID: **The Step ID allows you to identify a particular set of steps taken to build your spatial data \(Auto filled depending on the number of Process Steps added\).
+* **Description**: Add a description of the steps taken to build your spatial data.
 
 The follow fields are_ available but optional:_
 

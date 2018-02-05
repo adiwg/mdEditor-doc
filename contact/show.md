@@ -16,12 +16,15 @@ While viewing contacts, there are three options available in the Action Menu \(o
 
 **Copy**: The copy button makes a duplicate of a contact.
 
-* > ![](/assets/note_small.png) Making a copy will generate a new ID for the copied contact and be named “Copy of …”. All the other info will remain the same.
-* **Delete**: The delete button will completely delete the contact.
+> ![](/assets/note_small.png) Making a copy will generate a new ID for the copied contact and be named “Copy of …”. All the other info will remain the same.
 
-  > ![](/assets/best_practice_small.png)**Best Practice**: Make a backup of your contact\(s\) before deleting. Consult the [**Export**](/export.md)** **section of this manual to learn how to make a backup.
+**Delete**: The delete button will completely delete the contact.
 
-* **Edit **button. This button will allow you to begin editing your contact.
+> ![](/assets/best_practice_small.png)**Best Practice**: Make a backup of your contact\(s\) before deleting. Consult the [**Export**](/export.md)** **section of this manual to learn how to make a backup.
+
+**Edit **button. This button will allow you to begin editing your contact.
+
+
 
 
 

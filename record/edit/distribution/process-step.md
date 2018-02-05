@@ -2,7 +2,7 @@
 
 ---
 
-**Process Step **allows for documentation of steps taken to build spatial data.
+**Process Step **allows for documentation of the steps taken to build spatial data.
 
 The following are _available and required:_
 

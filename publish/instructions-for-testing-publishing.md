@@ -6,21 +6,17 @@ For tracking issues, please use the github thread [here](https://github.com/adiw
 
 1. Determine your workflow for testing:
 
-   If You** do not already** have items on ScienceBase. Choose a project and its products to test.
+   If You** DO NOT **already have items on ScienceBase. Choose a project \(and its related products\) to test.
 
    > ![](/assets/best_practice_small.png)
    >
-   > **Best Practice**: It's recommended that you export a project and its products into its own mdEditor file. Set default parent identifier as a test folder.
+   > **Best Practice**: It's recommended that you export a project and its products into its own mdEditor file. Set the default parent identifier as a test folder.
 
-   If you** already have** items on ScienceBase, it is harder to test without it affecting your real records.
+   If you **DO **already have items on ScienceBase, chose one of the following approaches. Note that it will be harder to test without it affecting your real records.
 
-   > ![](/assets/best_practice_small.png)
+   > _**Approach 1**_** -** Take a simple project and product set, and make a copy of the mdEditor records. In the test version, delete all ScienceBase IDs \(SBIDs\) and parent IDs. The SBID will either be located in the citation, or if you imported the record from ScienceBase, the SBID will be the record identifier. Set default parent identifier as a test folder.
    >
-   > **Best Practice**:
-   >
-   > _Approach 1_ - Take a simple project and product set, and make a copy of the mdEditor records. In the test version, delete all ScienceBase IDs \(SBIDs\) and parent IDs. The SBID will either be located in the citation, or if you imported the record from ScienceBase, the SBID will be the record identifier. Set default parent identifier as a test folder.
-   >
-   > _ Approach 2 _- Publish directly to a real record if you are okay with the risk it presents.
+   > _**Approach 2** _- Publish directly to a real record if you are okay with the risk it presents.
 
 2. Set your** Default Parent Identifier **in Settings for a test folder.
 
@@ -42,7 +38,7 @@ For tracking issues, please use the github thread [here](https://github.com/adiw
 
 9. Using the record you just tested, proceed with publishing to the real location on ScienceBase.
 
-10. Make sure any test SBIDs are removed entirely from the record you want to actually publish.
+10. Make sure any test ScienceBase IDs are removed entirely from the record you want to actually publish.
 
 11. Verify that the real records have updated as expected.
 

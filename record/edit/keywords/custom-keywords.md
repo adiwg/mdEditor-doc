@@ -5,9 +5,9 @@
 mdEditor allows for the creation of user-created, custom thesauruses.
 
 > ![](/assets/best_practice_small.png)  
-> **Best Practice**: Use a custom thesaurus when a pre-populated thesaurus does not offer necessary keywords.
+> **Best Practice**: Use a custom thesaurus only when a pre-populated thesaurus does not offer necessary keywords.
 
-## Available fields
+### Available fields
 
 * **Title**: Required.
 * **Date**: Optional.

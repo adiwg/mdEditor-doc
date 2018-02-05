@@ -2,14 +2,12 @@
 
 ---
 
-**Process Step **allows for documentation of steps taken to build spatial data.
+**Process Step **allows for documentation of the steps taken to build spatial data.
 
 The following are _available and required:_
 
 * **Step ID: **\(Auto filled depending on the number of Process Steps added\).
 * **Description**: Add a description of the process step.
-
-
 
 The follow fields are_ available but optional:_
 

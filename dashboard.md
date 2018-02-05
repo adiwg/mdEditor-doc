@@ -2,9 +2,9 @@
 
 ---
 
-## Overview
+### Overview
 
-The mdEditor application is designed using a two-pane layout. The left _**sidebar**_ \(1\) provides the primary navigation showing a list of **Metadata Records**, **Contacts** and **Data Dictionaries**. The right pane displays a context-sensitive _**main menu **_\(2\) at the top, a primary _**editor region **_\(3\) below that displays and allows for the editing of a selected object and a** **_**status bar **_\(4\) at the very bottom of the display.
+mdEditor is designed using a two-pane layout. The left _**sidebar**_ \(1\) is used to navigate the application and can be used to access  **Metadata Records**, **Contacts** and **Data Dictionaries**. The right pane displays a context-sensitive _**main menu **_\(2\) at the top, a primary _**editor region **_\(3\) below that displays and allows for the editing of a selected object, and a** **_**status bar **_\(4\) at the very bottom of the display.
 
 ![](/assets/mdEditor_areas.png)
 
@@ -12,7 +12,7 @@ The mdEditor application is designed using a two-pane layout. The left _**sideba
 
 ### Basic Navigation
 
-### Sidebar
+#### Sidebar
 
 The left sidebar displays the various components of the current metadata record set. The components are arranged by type in a series of expandable panels that group the metadata, contact, and data dictionary records.
 
@@ -28,13 +28,13 @@ The left sidebar displays the various components of the current metadata record 
 
 ![](/assets/symbol_angle-up_16.png) Select the **angle-up icon **to collapse a group panel and to hide all associated records.
 
-### Main menu
+#### Main menu
 
-The main menu contains several standard menu items that apply to areas of the mdEditor, and content-specific menu items that will vary depending upon the type of record that is active.
+The main menu contains several standard menu items that apply to areas of the mdEditor, in addition to content-specific menu items that will vary depending upon the type of record that is active.
 
 #### Standard menu items
 
-![](/assets/symbol_dashboard_16.png) **Dashboard**. Return to main dashboard.
+![](/assets/symbol_dashboard_16.png) **Dashboard**. Return to the main dashboard.
 
 ![](/assets/symbol_sign-out_16.png) **Export**. Export the metadata record set in mdJSON format. The mdJSON file can be used to share your metadata with others or to provide a backup. [See Export](/export.md).
 
@@ -42,11 +42,11 @@ The main menu contains several standard menu items that apply to areas of the md
 
 ![](/assets/symbol_cog_16.png) **Settings**. Customize the editor settings. [See Settings](/settings.md).
 
-### Editor region
+#### Editor region
 
-The editor region will display information based on the type of object that is currently selected. Selecting a **list icon** \(![](/assets/symbol_list_16.png)\)will display all of the records contained in the associated object \(metadata, contacts or dictionaries\) in the editor region. Selecting a record will display record specific information and allow the record to be edited.
+The editor region will display information based on the type of object that is currently selected. Selecting a **list icon** \(![](/assets/symbol_list_16.png)\) will display all of the records contained in the associated object \(metadata, contacts or dictionaries\) in the editor region. Selecting a record will display record-specific information and allow the record to be edited.
 
-### Status Bar
+#### Status Bar
 
-The status bar displays various informational messages, such as whether the [Auto Save](/settings.md) feature is on or off.
+The status bar displays various informational messages, such as whether the [Auto-Save](/settings.md) feature is on or off.
 

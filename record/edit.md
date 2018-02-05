@@ -17,11 +17,13 @@ The profile drop-down menu limits the number of available tabs depending on whic
 * **lccProject - **Limits the tabs to: Main; Metadata; Keywords; Extent; Associated; Documents; and Funding.
 * **publication - **Limits the tabs to: Main; Metadata; Keywords; Extent; Distribution; Associated; and Documents.
 
+---
+
 ### Navigation When Editing Records
 
 When editing a Metadata record, navigation **breadcrumbs** appear in light blue on top of the form. These can be used to navigate.
 
- The **sub-menu navigation bar** is located below the breadcrumbs.  These change depending on what function is in use. 
+The **sub-menu navigation bar** is located below the breadcrumbs.  These change depending on what function is in use.
 
 * If you hover over the items, there will be a short description of what each section is.
 
@@ -30,6 +32,8 @@ When editing a Metadata record, navigation **breadcrumbs** appear in light blue 
 The** Spotlight Tool** is a blue box with a white circle at the right of each section.  It grays everything out except the panel you’re working on to help focus on that particular section
 
 ![](/assets/spotlight_tool.png)
+
+---
 
 ---
 
@@ -48,6 +52,8 @@ Certain fields are required in order to meet ISO metadata requirements. Required
 ![](/assets/blue_number.png)A blue circle with a number means that a field has been filled out.
 
 The number inside the icons tracks how many entries you have entered in that particular section.
+
+---
 
 ## Edit Action Menu
 

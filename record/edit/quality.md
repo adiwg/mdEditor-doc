@@ -12,6 +12,8 @@ Click **Add Distribution Section **and then **Edit** **Distributors **to begin a
 
 ### Editing Distributors for Distribution
 
+Available fields include:
+
 * **Contacts **are required and can be selected from the list of contacts.
   * Consult the [**Contacts**](/contacts.md)** **section of this manual to learn how to add contacts.
 * **Role **is required and can be added or selected from dropdown menu.

@@ -23,7 +23,7 @@ mdEditor.json files can be exported and imported via mdEditor's built in **Expor
 
 * **Best Practice**: Leave your contacts in mdEditor all the time so they’re always available.
 
-* **Best Practice**: Set up a metadata directory so you can always find metadata files.
+* **Best Practice**: Set up a metadata directory so you can always find metadata files. This directory will typically be a folder on your local machine that is easily found and accessible.
 
 * **Best Practice:** Maintain an “Export All” JSON file each time you finish a work session in mdEditor \(or switch browsers, URLs, etc.\).
 

@@ -8,7 +8,7 @@ The mdEditor allows you to  publish records to an online platform. The current o
 
 ## Before You Begin
 
-> ![](/assets/note_small.png)Please read through ALL instructions before you begin the publishing proecess. After you understand how the publishing function works, please read the[** testing instructions**](/publish/instructions-for-testing-publishing.md) and proceed with testing a record before you try to publish any of your real records.
+> ![](/assets/note_small.png)Please read through ALL instructions before you begin the publishing process. After you understand how the publishing function works, please read the[** testing instructions**](/publish/instructions-for-testing-publishing.md) and proceed with testing a record before you try to publish any of your real records.
 
 ---
 

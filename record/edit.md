@@ -8,36 +8,38 @@ Edit functionality is only visible when viewing a metadata record. Click the Edi
 
 ### Profile
 
-![](/assets/profile_drop_down.png)
-
 The profile drop-down menu limits the number of available tabs depending on which profile you select. mdEditor defaults to the **Full **profile which includes all tabs. Other available profiles include:
 
-* **Basic-**Limits the tabs to: Main; Metadata; Keywords; Extent; and Distribution
-* **lccProduct**-Limits the tabs to: Main; Metadata; Keywords; Extent; Spatial; Lineage; Distribution; Constraints; Associated; and Documents.
-* **lccProject**-Limits the tabs to: Main; Metadata; Keywords; Extent; Associated; Documents; and Funding.
-* **publication**: Limits the tabs to: Main; Metadata; Keywords; Extent; Distribution; Associated; and Documents.
+![](/assets/profile_drop_down.png)
+
+* **Basic - **Limits the tabs to: Main; Metadata; Keywords; Extent; and Distribution
+* **lccProduct - **Limits the tabs to: Main; Metadata; Keywords; Extent; Spatial; Lineage; Distribution; Constraints; Associated; and Documents.
+* **lccProject - **Limits the tabs to: Main; Metadata; Keywords; Extent; Associated; Documents; and Funding.
+* **publication - **Limits the tabs to: Main; Metadata; Keywords; Extent; Distribution; Associated; and Documents.
 
 ### Navigation When Editing Records
 
+When editing a Metadata record, navigation **breadcrumbs** appear in light blue on top of the form. These can be used to navigate.
+
+ The **sub-menu navigation bar** is located below the breadcrumbs.  These change depending on what function is in use. 
+
+* If you hover over the items, there will be a short description of what each section is.
+
 #### ![](/assets/high_level.png)
 
-* When editing a Metadata record, navigation **breadcrumbs** appear in light blue on top of the form. These can be used to navigate. 
-* The **sub-menu navigation bar** is located below the breadcrumbs.  These change depending on what function is in use.
-  * If you hover over the items, there will be a short description of what each section is.
+The** Spotlight Tool** is a blue box with a white circle at the right of each section.  It grays everything out except the panel you’re working on to help focus on that particular section
 
 ![](/assets/spotlight_tool.png)
-
-* The** Spotlight Tool** is a blue box with a white circle at the right of each section.  It grays everything out except the panel you’re working on to help focus on that particular section
 
 ---
 
 ### **Required Fields**
 
-![](/assets/required_field_icons_annotated.png)
-
 Certain fields are required in order to meet ISO metadata requirements. Required fields are noted by the following.
 
-![](/assets/red_asterisk.png)A red asterisk means that this is required.
+![](/assets/required_field_icons_annotated.png)
+
+![](/assets/red_asterisk.png)A red asterisk means that this field is required.
 
 ![](/assets/red_number.png)A red number in a circle is also noting that this is a required field.
 
@@ -47,7 +49,7 @@ Certain fields are required in order to meet ISO metadata requirements. Required
 
 The number inside the icons tracks how many entries you have entered in that particular section.
 
-## Record Edit Action Menu
+## Edit Action Menu
 
 While editing records, there are four options available in the Action Menu \(on the right side of the editor region\).
 

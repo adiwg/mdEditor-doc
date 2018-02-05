@@ -2,7 +2,7 @@
 
 ---
 
-Puts information about how the record can and cannot be used into the metadata.
+Puts information into the metadata about how the project or product can and cannot be used.
 
 ## **Use limitations**
 

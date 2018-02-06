@@ -12,10 +12,9 @@ The settings menu allows for the configuring of user specific options.
 
 > ![](/assets/note_small.png)Auto-Save allows you to save less frequently, but it makes it harder to undo changes that you make to your records. If you stay on the same record, you can cancel changes. But once you leave the record, the record is saved and you can’t cancel the change except by manually editing the record from a different screen \(See [Records Edit](/record\edit.md) for more information\).
 
-**Clear All Records: **All records can be cleared by clicking the **Clear Storage Cache**.  
-![](/assets/caution.png)** CAUTION! Clearing all records will delete your current set of records. If you wish to retain your records for future use, be sure and make a backup with the **[**export**](/export.md)** function before clearing the cache.  **
+**Clear All Records: **All records can be cleared by clicking the **Clear Storage Cache**.
 
-
+> ![](/assets/caution.png)** CAUTION! Clearing all records will delete your current set of records. If you wish to retain your records for future use, be sure and make a backup with the **[**export**](/export.md)** function before clearing the cache.  **
 
 ![](/assets/general_settings.png)
 

@@ -14,10 +14,10 @@ Making a copy will generate a new ID for the copied record and will be named “
 
 **Making a copy of a record can be used to: **
 
-* start a new product metadata record
-* populate multiple products faster \(e.g., multiple workshop reports, a poster based on a publication\)
+* Start a new product metadata record
+* Populate multiple products faster \(e.g., multiple workshop reports, a poster based on a publication\)
 
-* create a 'template record' for a project that can be used as a starting place for each full metadata record
+* Create a 'template record' for a project that can be used as a starting place for each full metadata record
 
 > ![](/assets/note_small.png)Before saving, carefully review all information in your copied record to ensure that all 'copied information' is still relevant to the record, particularly any identifiers.
 

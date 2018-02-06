@@ -6,7 +6,7 @@ Contacts are individuals or organizations that can be referenced by other contac
 
 ### General notes on Contacts
 
-> ![](/assets/best_practice_small.png)
+> ![](/assets/note_small.png)![](/assets/best_practice_small.png)
 >
 > **Best practice**: It is safest to export all contacts whenever you export a project/product. \(Consult the [Export](/export.md) section of this manual to learn more.\)
 >
@@ -14,8 +14,6 @@ Contacts are individuals or organizations that can be referenced by other contac
 >
 > **Best Practice: **Always spell out acronyms when creating contacts
 
-> ![](/assets/note_small.png)
->
 > **Note: **When you edit a contact, the information will also update the metadata records that include that contact, and the edited contact will update to ScienceBase when you publish the records**.**
 >
 > **Note: **Copying contacts will change the ID and the name \(the name will be “Copy of ….”\) but all the other information will be the same.

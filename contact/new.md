@@ -32,7 +32,7 @@ Editing options include:
 
 * **Delete**: The delete button will completely delete the contact.
 
-  > ![](/assets/best_practice_small.png)**Best Practice**: Make a backup of your contact\(s\) before deleting. Consult the [**Export**](/export.md)** **section of this manual to learn how to make a backup.
+  > ![](/assets/best_practice_small.png)Make a backup of your contact\(s\) before deleting. Consult the [**Export**](/export.md)** **section of this manual to learn how to make a backup.
 
 
 

@@ -35,3 +35,4 @@ The mdEditor is a web application for authoring and editing metadata for both pr
 
 Primary development has been performed by Josh Bradley \(joshua\_bradley@fws.gov\) and Stan Smith \(ssmith@arcticlcc.org\) of the [Arctic Landscape Conservation Cooperative](http://arcticlcc.org/).
 
+{% include "https://raw.githubusercontent.com/adiwg/mdEditor/develop/README.md" %}

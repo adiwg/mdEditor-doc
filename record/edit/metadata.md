@@ -10,7 +10,7 @@ Record Metadata allows you to describe your record's metadata, including a descr
   * Consult the [**Contacts**](/contacts.md)** **section of this manual to learn how to add contacts.
 * **Identifier **is automatically created by mdEditor.
   * Consult the [**Identifier**](/record/edit/metadata/parent-metadata/identifier.md)** **Section of this manual to learn more about identifiers. 
-  * Consult the [**Parent Metadata**](/record/edit/metadata/parent-metadata.md)** **section of this manual to learn how to create parent metadata.
+* **Parent Metadata** is used to define the folder on a database where your item will be published to. Items added to the parent folder are considered children \(or child items\) of that folder. the [**Parent Metadata**](/record/edit/metadata/parent-metadata.md)** **section of this manual to learn how to create parent metadata.
 * **Metadata Repositories **indicate where the metadata should be sent.
 * **Online Resource **can be any online resource that holds metadata information such as a website.
 * **Metadata Maintenance **describes how and by whom the metadata is maintained.

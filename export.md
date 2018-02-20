@@ -18,7 +18,7 @@ The export function will allow the contents of the current metadata recordset to
 
 ### Export Action Menu
 
-While importing data, there are four options available in the Action Menu \(on the right side of the export data window\).
+While exporting data, there are four options available in the Action Menu \(on the right side of the export data window\).
 
 ![](/assets/export_data_action_menu.png)
 

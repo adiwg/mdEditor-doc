@@ -7,7 +7,7 @@ The export function will allow the contents of the current metadata recordset to
 > ![](/assets/note_small.png) ![](/assets/best_practice_small.png)
 >
 > **Note:** mdJSON files can be uploaded and translated to other formats via the mdTranslator application while mdEditor files are exclusive to the mdEditor application and retain all mdEditor information, including settings.
-
+>
 > **Best Practice**: For a complete backup, use the **Export All **button. This exports an mdEditor file containing all records and contacts.
 >
 > **Best Practice:** Click** Export All** each time you finish a work session in mdEditor \(or switch browsers, URLs, etc.\).
@@ -19,6 +19,8 @@ The export function will allow the contents of the current metadata recordset to
 ### Export Action Menu
 
 While importing data, there are four options available in the Action Menu \(on the right side of the export data window\).
+
+![](/assets/export_data_action_menu.png)
 
 * **Export All:** will export everything currently loaded in mdEditor into a single file. Exports an mdEditor JSON file.
 

@@ -1,7 +1,7 @@
 # Summary
 
-* [Introduction](README.md)
 * [Getting Started](getting-started.md)
+  * [Introduction](README.md)
 * [Dashboard](dashboard.md)
 * [Data Management](data-management.md)
   * [File Management](file-management.md)
@@ -52,4 +52,6 @@
 * [Advanced Users](advanced-users.md)
 * [Glossary](GLOSSARY.md)
 * [Appendix](appendix.md)
+
+
 

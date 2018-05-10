@@ -2,7 +2,7 @@
 
 ---
 
-{% include "./sampleText.md" %}
+{% include "sampleText.md" %}
 
 ### Opening mdEditor
 

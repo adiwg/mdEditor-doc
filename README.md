@@ -1,5 +1,4 @@
 # mdEditor User Manual
-
 ---
 
 ### Overview

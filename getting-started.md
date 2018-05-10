@@ -2,8 +2,6 @@
 
 ---
 
-{% include "sampleText.md" %}
-
 ### Opening mdEditor
 
 * mdEditor is currently hosted on the GitHub website and can be opened by following this URL:  

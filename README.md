@@ -1,36 +1,18 @@
 # mdEditor User Manual
 ---
+### Metadata Editor (mdEditor)
+mdEditor (metadata Editor) is an application that assists users in authoring and editing metadata for research projects, datasets, maps, images, and other documents. The main goal of mdEditor is to hide much of technical complexity involved in creating archival quality metadata records in standards published by ISO (International Standards Organization) and FGDC (Federal Geographic Data Committee.
 
-### Overview
+With mdEditor you can published metadata in any or all of its supported standards without specific knowledge of the standard.  mdEditor edits and saves all your metadata on your personal computer so there are no user IDs, passwords, or fees.  And your information is always private and secure. All that is required is an internet connection to load the most current version of mdEditor into your favorite internet browser to begin authoring and publishing metadata. 
 
-The mdEditor is a web application that allows you to author and edit metadata for projects, datasets, maps, images, and documents. That metadata can then be exported, translated into other metadata formats, or published to a database. The primary design goal was to develop an application that would allow you to create and use archival quality metadata without the need for an extensive knowledge of metadata standards.
-
-### Features
-
-* A Responsive, two-panel layout allows for display on both desktop and mobile devices.
-* Launched through a web browser, there is no need for you to install software.
-* Metadata is initially stored in the browser localStorage cache.
-* Metadata can be exported as a text file \(JSON format\) for archiving or sharing.
-* Open source development allows for customization of the mdEditor.
-* Defined schema \(mdJSON schema\) allows for the ability to validate records.
-* Can be used in conjunction with an associated [mdTranslator](https://github.com/adiwg/mdTranslator) application to create ISO and FGDC compliant metadata records.
+mdEditor works hard to conceal the complexity of computer software and metadata standards to allow metadata authors to focus on their metadata content. Even with the assistance of mdEditor, archival quality metadata requires metadata authors to know their projects and datasets thoroughly and take the time necessary to describe them adequately. We hope you find that mdEditor will ease that task. And once entered mdEditor can generate metadata in the standard of your choice with a single button click. Have fun!
 
 ---
+### Who should read this manual
+The 'mdEditor User Manual' is intended to be a companion to scientists, researchers, and their assistants as they develop metadata with the assistance of mdEditor. This manual will discuss HOW to use mdEditor. Topics generally cover things such as workflow and how-to perform certain tasks within mdEditor. 
 
-### Background
+mdEditor is just one tool in the larger ADIwg Metadata Toolkit. Information on local implementation, customization, and extension will not be covered in this manual. For information on the Metadata Toolkit pleaser refer to [mdBook](https://legacy.gitbook.com/book/adiwg/mdbook/details). 
 
-The mdEditor is an extension of a project initiated by the [Alaska Data Integration Working Group](http://www.adiwg.org/about/) \(ADIwg\) to adopt a set of project-level metadata fields for use by [member organizations](http://www.adiwg.org/about/#contributing-organizations). This editor is one of several integrated ADIwg projects, which include an ADIwg developed [mdJSON Schema](https://github.com/adiwg/mdJson-schemas) \(which forms the underlying data structure for metadata records\), and a [variety of tools](http://mdtools.adiwg.org/#popup-welcome) that allow the mdJSON data file to be validated against the mdJSON schema, and converted to other formats.
-
-The mdEditor is a web application for authoring and editing metadata for both projects and datasets. It interfaces with the mdTranslator to convert mdJSON to other metadata formats.
-
-**mdEditor has the ability to:**
-
-* Create mdJSON files which are compatible with the mdTranslator.
-* Manage multiple records at once.
-* Re-use metadata records, contacts, and dictionaries.
-* Support spatial extents \(which can be imported or drawn using the editor\).
-* Import/Export managing record "sets" on the local filesystem.
-* Use a built-in keyword thesaurus or create custom keyword lists.
-
-Primary development has been performed by Josh Bradley \(joshua\_bradley@fws.gov\) and Stan Smith \(ssmith@arcticlcc.org\) of the [Arctic Landscape Conservation Cooperative](http://arcticlcc.org/).
-
+---
+### New to mdEditor or metadata authoring?
+If you are new to mdEditor and/or metadata authoring we strongly suggest you read the [Getting Started](getting-started.md) section of this manual. The 'Getting Started' section will provide you with an orientation to help your understanding of how mdEditor is managing your metadata and metadata components and has a tutorial to walk you through one possible workflow.  

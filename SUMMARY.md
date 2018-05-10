@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](introduction.md)
+* [Preface](README.md)
 * [Getting Started](getting-started.md)
   * [Before We Begin](before-we-begin.md)
 * [Dashboard](dashboard.md)

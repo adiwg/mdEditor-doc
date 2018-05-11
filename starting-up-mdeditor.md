@@ -2,6 +2,7 @@
 ---
 Now that you know about the mdJson format of mdEditor records and mdEditor <br> manages its files on your computer, let's start up mdEditor.  
 
-> #### type::info
->
-> My message
+<div>
+Text is here
+</div>
+And more text is here

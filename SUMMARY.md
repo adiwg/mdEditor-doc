@@ -3,6 +3,8 @@
 * [Preface](README.md)
 * [Getting Started](getting-started.md)
   * [Before We Begin](before-we-begin.md)
+  * [Starting the mdEditor](starting-the-mdeditor.md)
+  * [Create a Simple Metadata Record](simple-metadata-record.md)
 * [Dashboard](dashboard.md)
 * [Data Management](data-management.md)
   * [File Management](file-management.md)

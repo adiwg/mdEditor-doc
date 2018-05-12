@@ -5,7 +5,7 @@ Now that you know about the mdJson format of mdEditor records and mdEditor manag
 My note ![](assets/note_small.png) Text here too
 
 <div>
-    <img src="assets/note_small.png">
+    <img src="assets/note_small.png" style="height: 12px;">
 </div> 
 
 And more text is here

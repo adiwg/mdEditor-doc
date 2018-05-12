@@ -1,11 +1,9 @@
-### Starting Up mdEditor
+# Starting Up mdEditor
 ---
-Now that you know about the mdJson format of mdEditor records and mdEditor manages its files on your computer, let's start up mdEditor.  
+Now that you have learned about the mdJson format of mdEditor records and how mdEditor manages its files on your computer, let's start up mdEditor. Oh, if you don't know about those things it might be best to back up and read [Before We Begin](before-we-begin.md) *before we begin*.
 
-My note ![](assets/note_small.png) Text here too
+---
+### Open an Internet Browser
 
-<div>
-    <img src="assets/note_small.png" style="height: 12px;">
-</div> 
+![](smaller-note.png) Text here too 
 
-And more text is here

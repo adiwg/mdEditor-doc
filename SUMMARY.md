@@ -5,6 +5,7 @@
   * [Before We Begin](before-we-begin.md)
   * [Starting up mdEditor](starting-up-mdeditor.md)
   * [Create a Metadata Record](simple-metadata-record.md)
+    * [Add New Record](add-new-record.md)
 * [Dashboard](dashboard.md)
 * [Data Management](data-management.md)
   * [File Management](file-management.md)

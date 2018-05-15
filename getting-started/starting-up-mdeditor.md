@@ -16,7 +16,7 @@ You should now see the Dashboard of mdEditor.  This is the starting point in mdE
  
 ![](/assets/dashboard.png)
 
-Notice that the left sidebar lists the metadata records, contacts, and data dictionaries currently loaded into yo![](assets/homeScreen.png)ur browser cache.  These will be *your* records and so will be different from those pictured in the screen shot.  
+Notice that the left sidebar lists the metadata records, contacts, and data dictionaries currently loaded into your browser cache.  These will be *your* records and so will be different from those pictured in the screen shot.  
 
 As a shortcut, the next time you connect to mdEditor you can save a step and bypass the mdEditor home page by going directly to the mdEditor Dashboard at [https://go.mdeditor.org](https://go.mdeditor.org).  
 

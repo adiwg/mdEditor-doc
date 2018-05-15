@@ -1,11 +1,11 @@
 # Summary
 
 * [Preface](README.md)
-* [Getting Started](getting-started.md)
-  * [Before We Begin](before-we-begin.md)
-  * [Starting up mdEditor](starting-up-mdeditor.md)
-  * [Create a Metadata Record](simple-metadata-record.md)
-    * [Add New Record](add-new-record.md)
+* [Getting Started](getting-started/getting-started.md)
+  * [Before We Begin](getting-started/before-we-begin.md)
+  * [Starting up mdEditor](getting-started/starting-up-mdeditor.md)
+  * [Create a Metadata Record](getting-started/simple-metadata-record.md)
+    * [Add New Record](getting-started/add-new-record.md)
 * [Dashboard](dashboard.md)
 * [Data Management](data-management.md)
   * [File Management](file-management.md)

@@ -31,3 +31,5 @@ Enter a Resource Type and Resource Name.
 ```
 Click the Save button.
 ```
+
+Wow! Now there's a lot more on the screen. Let's get oriented before entering more metadata content...

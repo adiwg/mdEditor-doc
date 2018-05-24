@@ -1,3 +1,10 @@
 {
-    "plugins": ["hints"]
+  "plugins": ["hints","styles-sass"],
+  "styles": {
+    "website": "styles/website.scss",
+    "ebook": "styles/ebook.scss",
+    "pdf": "styles/pdf.scss",
+    "mobi": "styles/mobi.scss",
+    "epub": "styles/epub.scss"
+  }
 }

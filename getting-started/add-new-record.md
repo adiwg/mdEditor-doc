@@ -31,11 +31,11 @@
   Important info: this note needs to be highlighted
   {% endhint %}
   
-  {% hint style='warning' %}
+  {% hint style='working' %}
   Important info: this note needs to be highlighted
   {% endhint %}
   
-  {% hint style='success' %}
+  {% hint style='tip' %}
   Important info: this note needs to be highlighted
   {% endhint %}
 

@@ -1,4 +1,4 @@
-### Creating a Simple Metadata Record
+# Creating a Simple Metadata Record
 ---
 In this section we will step through creating a simple metadata record.  Admittedly too simple to serve as a meaningful metadata record in the real world, but just enough to give you an idea of how mdEditor works before examining any one its features in detail.  So open your browser and load mdEditor so you can see the Dashboard.  See [Starting up mdEditor](starting-up-mdeditor.md) if you missed out on how to do this.  
 

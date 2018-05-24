@@ -22,7 +22,7 @@
 
 #### ![](/assets/publish_screenshot_2.png)
 
-> #### ![](blob:https://www.gitbook.com/59e59dcc-7f45-4247-8473-64dd79505baf)
+> #### ![](https://www.gitbook.com/59e59dcc-7f45-4247-8473-64dd79505baf)
 >
 > **Note:** Parent-Child refers to how the records are organized and displayed on ScienceBase; this is different than the Project and Product associations that are embedded within the metadata records.
 >

@@ -24,7 +24,7 @@
   Enter your Record Title.
   ```
   {% hint style='info' %}
-  Important info: this note needs to be highlighted
+  Important info: this note needs  to be highlighted
   {% endhint %}
 
   > ![](/assets/smaller-note.png) Notice the record title appears in the left menu-bar as you type the name in the edit panel.  The left menu-bar is where you will find and gain access to this record when want to continue editing.

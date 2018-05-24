@@ -27,6 +27,18 @@
   Important info: this note needs to be highlighted
   {% endhint %}
 
+  {% hint style='danger' %}
+  Important info: this note needs to be highlighted
+  {% endhint %}
+  
+  {% hint style='warning' %}
+  Important info: this note needs to be highlighted
+  {% endhint %}
+  
+  {% hint style='success' %}
+  Important info: this note needs to be highlighted
+  {% endhint %}
+
   > ![](/assets/smaller-note.png) Notice the record title appears in the left menu-bar as you type the name in the edit panel.  The left menu-bar is where you will find and gain access to this record when want to continue editing.
 
 1. Resource Types (required) - Choose a resource type for the main resource described by this metadata record.  You may optionally provide a name for the resource.

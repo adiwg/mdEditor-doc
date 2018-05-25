@@ -36,13 +36,15 @@
   Enter a Resource Type and Resource Name.
   {% endhint %}
 
-  > ![](/assets/smaller-note.png) Notice the Resource Type block as a ' + Add Resource Type' button.  Click this button to enter another resource type in cases when the resource has been represented in multiple formats such as 'tabularDataset' and 'map'.
+  {% hint style='info' %}
+  Notice the Resource Type block as a ' + Add Resource Type' button.  Click this button to enter another resource type in cases when the resource has been represented in multiple formats such as 'tabularDataset' and 'map'.
+  {% endhint %}
 
 1. We are ready to save the metadata record.  The 'Save' button at the bottom of the panel should have become active and turned a darker shade of green.
 
-  ```
-  Click the Save button.
-  ```
+  {% hint style='working' %}
+    Click the Save button.
+  {% endhint %}
 
 Wow! Now there's a lot more stuff on the screen. Let's spend a few minutes getting oriented before we enter more content into our new metadata record.
 

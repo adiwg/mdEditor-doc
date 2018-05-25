@@ -5,11 +5,11 @@
 1. ### Create a New Record
 Click the plus <i class="fa fa-plus"></i> button on the left menu-bar next to 'Metadata Records' to create a new metadata record.  The same behavior applies to 'Contacts' and 'Dictionaries' which we will create later.  For now just add a new metadata record.
 
-  ![](/assets/get-started/getStarted-addRecord.png "Adding a new record")
+  ![Add Record](/assets/get-started/getStarted-addRecord.png "Adding a new record.")
 
   You should see something like this ...
 
-  ![](/assets/get-started/getStarted-newRecord.png)
+  ![New Record](/assets/get-started/getStarted-newRecord.png "The newly created, unsaved record.")
 
   The 'Create New Record' panel collects the minimal information mdEditor requires to place an new metadata record in browser cache and find it again.  This minimal information is, of course, not sufficient to meet the minimum of any metadata standard, but just enough that you and mdEditor can find it for editing.
 

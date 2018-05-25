@@ -1,8 +1,11 @@
 # Add a New Metadata Record
 
 ---
+<div class="list-todo">
 
-1. Click the plus <i class="fa fa-plus"></i> button on the left menu-bar next to 'Metadata Records' to create a new metadata record.  The same behavior applies to 'Contacts' and 'Dictionaries' which we will create later.  For now just add a new metadata record.
+1. ###Create a New Record
+Click the plus <i class="fa fa-plus"></i> button 
+on the left menu-bar next to 'Metadata Records' to create a new metadata record.  The same behavior applies to 'Contacts' and 'Dictionaries' which we will create later.  For now just add a new metadata record.
 
   ![](/assets/get-started/getStarted-addRecord.png "Adding a new record")
 
@@ -12,7 +15,7 @@
 
   The 'Create New Record' panel collects the minimal information mdEditor requires to place an new metadata record in browser cache and find it again.  This minimal information is, of course, not sufficient to meet the minimum of any metadata standard, but just enough that you and mdEditor can find it for editing.
 
-1. ### Record ID (required)
+1. ### Record ID <i class="fa fa-star required"></i>
   Notice that mdEditor has filled in a Record ID for you.  By default mdEditor assigns a [UUID](https://tools.ietf.org/html/rfc4122) (Universally Unique Identifier) as the Record ID.  You may change this identifier if you like; but it must be unique among the all your metadata records otherwise there may be some confusion with record links later on when using more advanced mdEditor feature.  If you have a reliable record identification system, use it, otherwise best to keep the UUID.
 
   {% hint style='working' %}
@@ -45,6 +48,8 @@
   {% hint style='working' %}
   Click the Save button.
   {% endhint %}
+
+</div>
 
 Wow! Now there's a lot more stuff on the screen. Let's spend a few minutes getting oriented before we enter more content into our new metadata record.
 

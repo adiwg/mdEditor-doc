@@ -19,7 +19,7 @@
   Let's leave the Record ID as the UUID for now, it can always change it later if you choose.
   {% endhint %}
 
-1. ###Record Title (required)
+1. ###Record Title <i class="fa fa-star required"></i>
   This is the name you assign to the main resource described by this metadata record.  In addition to becoming part of your metadata record, the name will be used in the left menu-bar to identify your record .
 
   {% hint style='working' %}

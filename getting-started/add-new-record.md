@@ -43,7 +43,7 @@
 1. We are ready to save the metadata record.  The 'Save' button at the bottom of the panel should have become active and turned a darker shade of green.
 
   {% hint style='working' %}
-    Click the Save button.
+  Click the Save button.
   {% endhint %}
 
 Wow! Now there's a lot more stuff on the screen. Let's spend a few minutes getting oriented before we enter more content into our new metadata record.

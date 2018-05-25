@@ -31,7 +31,8 @@ Click the plus <i class="fa fa-plus"></i> button on the left menu-bar next to 'M
   Notice the record title appears in the left menu-bar as you type the name in the edit panel.  The left menu-bar is where you will find and gain access to this record when want to continue editing.
   {% endhint %}
 
-1. Resource Types (required) - Choose a resource type for the main resource described by this metadata record.  You may optionally provide a name for the resource.
+1. ###Resource Types <i class="fa fa-star required"></i>
+Choose a resource type for the main resource described by this metadata record.  You may optionally provide a name for the resource.
 
   {% hint style='working' %}
   Enter a Resource Type and Resource Name.
@@ -41,7 +42,8 @@ Click the plus <i class="fa fa-plus"></i> button on the left menu-bar next to 'M
   Notice the Resource Type block as a ' + Add Resource Type' button.  Click this button to enter another resource type in cases when the resource has been represented in multiple formats such as 'tabularDataset' and 'map'.
   {% endhint %}
 
-1. We are ready to save the metadata record.  The 'Save' button at the bottom of the panel should have become active and turned a darker shade of green.
+1. ###Save the Record 
+We are ready to save the metadata record.  The 'Save' button at the bottom of the panel should have become active and turned a darker shade of green.
 
   {% hint style='working' %}
   Click the Save button.

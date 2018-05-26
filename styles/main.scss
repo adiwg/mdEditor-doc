@@ -1,3 +1,4 @@
+@import 'buttons';
 $brand-primary: darken(#428bca, 6.5%); // #337ab7
 $brand-success: #5cb85c;
 $brand-info: #5bc0de;
@@ -12,8 +13,8 @@ $glossary-text: #444;
 
 .book .markdown-section {
   .glossary-term {
-    border-bottom: 1px lighten($glossary-text, 50) dotted;
-    color: $glossary-text;
+    //border-bottom: 1px lighten($glossary-text, 50) dotted;
+    color: inherit; //$glossary-text;
     cursor: help;
     font-style: italic;
     text-decoration: none;
@@ -29,9 +30,37 @@ $glossary-text: #444;
   .required {
     color: $brand-danger;
   }
-}
 
-.hints-icon .fa {
-  font-size: 1.5em;
-  vertical-align: middle;
+  .hints-icon .fa {
+    font-size: 1.5em;
+    vertical-align: middle;
+  }
+
+  figure {
+    margin: 1.5em 0;
+    padding: 10px 0;
+    text-align: center;
+  }
+
+  figcaption {
+    clear: left;
+    color: $gray;
+    font-size: 80%;
+    font-style: italic;
+    line-height: 1.5em;
+    margin: 0.75em 0;
+    text-align: center;
+  }
+
+  .list-tasks > ol > li {
+    font-size: 1.5em;
+
+    & > * {
+      font-size: 1.6rem;
+    }
+
+    & > h3 {
+      font-size: inherit;
+    }
+  }
 }

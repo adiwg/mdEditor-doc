@@ -1,10 +1,30 @@
 {
-  "plugins": ["hints","styles-sass"],
+  "plugins": ["hints", "styles-sass", "regexplace"],
   "styles": {
     "website": "styles/website.scss",
     "ebook": "styles/ebook.scss",
     "pdf": "styles/pdf.scss",
     "mobi": "styles/mobi.scss",
     "epub": "styles/epub.scss"
+  },
+  "pluginsConfig": {
+    "regexplace": {
+      "substitutes": [{
+          "pattern": "<img (.*)alt=\"([^\"]*)\"(.*) {0,1}\/{0,1}> {0,}{caption([^\\}]*)}",
+          "flags": "g",
+          "substitute": "<figure id=\"fig_PAGE_LEVEL_._INDEX_\"><img $1alt=\"$2\" $4$3><figcaption><span>Image _INDEX_: </span>$2</figcaption></figure>"
+        },
+        {
+          "pattern": "<!-- tasks -->",
+          "flags": "g",
+          "substitute": "<div class=\"list-tasks\">"
+        },
+        {
+          "pattern": "<!-- endtasks -->",
+          "flags": "g",
+          "substitute": "</div>"
+        }
+      ]
+    }
   }
 }

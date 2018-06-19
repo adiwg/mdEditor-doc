@@ -10,4 +10,4 @@ Notice that there are three blocks at the top of the Dashboard labeled 'Records'
 
 The left menu-bar provides the same information but persists throughout our editing and provides us with a means to add new objects and reopen existing ones for editing.  
 
-Ready to start? 
+Ready to start?

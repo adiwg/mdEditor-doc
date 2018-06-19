@@ -6,7 +6,7 @@
   * [Starting up mdEditor](getting-started/starting-up-mdeditor.md)
   * [Create a Metadata Record](getting-started/simple-metadata-record.md)
     * [Add New Record](getting-started/add-new-record.md)
-    * [Main Edit Window](getting-started/main-edit-window.md)
+    * [Metadata Edit View](getting-started/metadata-edit-view.md)
 * [Dashboard](dashboard.md)
 * [Data Management](data-management.md)
   * [File Management](file-management.md)
@@ -57,4 +57,3 @@
 * [Advanced Users](advanced-users.md)
 * [Glossary](GLOSSARY.md)
 * [Appendix](appendix.md)
-

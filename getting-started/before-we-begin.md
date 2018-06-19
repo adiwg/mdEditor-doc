@@ -20,7 +20,6 @@ It was necessary for us to create a the new metadata standard because we chose t
 
 ## How does my metadata get translated?
 
-We call the process of converting [mdJ](https://mdtools.adiwg.org)SON into another metadata data standard 'translation'.  To assist you in translating [mdJ](https://mdtools.adiwg.org)SON into ISO or other metadata standards, mdEditor provides a 'Translate' feature, 'mdTranslator'.  The mdTranslator is a publicly hosted web service which seamlessly integrates with mdEditor.  Ask mdEditor to translate your metadata record into ISO 19115-2 metadata for instance, and it will connect with mdTranslator, forward your [mdJ](https://mdtools.adiwg.org)SON metadata record, wait for, and catch the returned ISO metadata record.  And all in one step for you!
+We call the process of converting [mdJ](https://mdtools.adiwg.org)SON into another metadata data standard 'translation'.  To assist you in translating [mdJ](https://mdtools.adiwg.org)SON into ISO or other metadata standards, mdEditor provides a 'Translate' feature, 'mdTranslator'.  The mdTranslator is a publicly hosted web service which seamlessly integrates with mdEditor.  Ask mdEditor to translate your metadata record into ISO 19115-2 metadata for instance, and it will connect with mdTranslator, forward your [mdJSON](https://mdtools.adiwg.org) metadata record, wait for, and catch the returned ISO metadata record.  And all in one step for you!
 
 OK, let's start this thing up!
-

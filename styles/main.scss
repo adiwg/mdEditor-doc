@@ -40,6 +40,15 @@ $glossary-text: #444;
     margin: 1.5em 0;
     padding: 10px 0;
     text-align: center;
+
+    &.screenshot {
+      padding-left: 10px;
+      padding-right: 10px;
+    }
+
+    img.border {
+      border: 1px solid $brand-info;
+    }
   }
 
   figcaption {

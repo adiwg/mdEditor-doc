@@ -144,7 +144,7 @@ The following software is required:
 
 #### Requirements for annotated screenshots
   1. Use LibreOffice Draw to create the annotations
-    * A template is avaiable here `/assets/documentation-guide/callouts-template.odg`
+    * A template is available here `/assets/documentation-guide/callouts-template.odg`
     * Each screenshot should be placed on a new page
     * Whenever possible place annotations in callouts *outside* of the image or
     in a way that  does not cover user interface elements
@@ -178,7 +178,7 @@ Applying the `{caption}` to a image will also indent the image from the surround
 
 #### Bookmarlet for Screenshots
 
-Use this bookmarlet: <a href="javascript:(function(){var windowObjectReference;var strWindowFeatures='menubar=no,location=yes,resizable=yes,scrollbars=yes,status=no,width=1200,height=1200';windowObjectReference=window.open(window.location.href,'Plain Jane',strWindowFeatures);})();">Plain Window</a>. Drag the link to your bookmarks bar or create a bookmark with the code below. Clicking the bookmark will open the current webpage in a plain window that is 1200px wide. RE-size to needed height and tkae a screenshot. More about bookmarlets here: https://www.wikipedia.org/wiki/Bookmarklet.
+Use this bookmarlet: <a href="javascript:(function(){var windowObjectReference;var strWindowFeatures='menubar=no,location=yes,resizable=yes,scrollbars=yes,status=no,width=1200,height=1200';windowObjectReference=window.open(window.location.href,'Plain Jane',strWindowFeatures);})();">Plain Window</a>. Drag the link to your bookmarks bar or create a bookmark with the code below. Clicking the bookmark will open the current webpage in a plain window that is 1200px wide. Re-size to needed height and take a screenshot. More about bookmarlets here: https://www.wikipedia.org/wiki/Bookmarklet.
 
 ```javascript
 javascript:(function(){var windowObjectReference;var strWindowFeatures='menubar=no,location=yes,resizable=yes,scrollbars=yes,status=no,width=1200,height=1200';windowObjectReference=window.open(window.location.href,'Plain Window',strWindowFeatures);})();

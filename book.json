@@ -1,5 +1,5 @@
 {
-  "plugins": ["hints", "styles-sass", "regexplace"],
+  "plugins": ["hints", "styles-sass", "regexplace", "code"],
   "styles": {
     "website": "styles/website.scss",
     "ebook": "styles/ebook.scss",
@@ -8,6 +8,12 @@
     "epub": "styles/epub.scss"
   },
   "pluginsConfig": {
+    "hints": {
+        "info": "fa fa-info-circle",
+        "tip": "fa fa-lightbulb-o",
+        "danger": "fa fa-exclamation-circle",
+        "working": "fa fa-wrench"
+    },
     "regexplace": {
       "substitutes": [{
           "pattern": "<img (.*)alt=\"([^\"]*)\"(.*) {0,1}\/{0,1}> {0,}{caption([^\\}]*)}",

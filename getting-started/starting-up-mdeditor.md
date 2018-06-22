@@ -6,21 +6,26 @@ Now that you have learned about the [mdJSON](https://mdtools.adiwg.org) format u
 
 ---
 
-### 1. Open an Internet Browser
+<!-- tasks -->
 
-You may use the recent version of most any internet browser that supports [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) such as [Chrome](https://www.google.com/chrome/), [FireFox](https://www.mozilla.org/en-US/firefox/), [Safari](https://www.apple.com/safari/), [Opera](https://www.opera.com/), or [Edge](https://www.microsoft.com/en-us/windows/microsoft-edge).  Although we have only thoroughly tested mdEditor with Chrome at this time we don't think your should have a problem with any of the others.
+1. ## Open an Internet Browser
 
-### 2. Browse to mdEditor home page
+    You may use the recent version of most any internet browser that supports [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) such as [Chrome](https://www.google.com/chrome/), [FireFox](https://www.mozilla.org/en-US/firefox/), [Safari](https://www.apple.com/safari/), [Opera](https://www.opera.com/), or [Edge](https://www.microsoft.com/en-us/windows/microsoft-edge).  Although we have only thoroughly tested mdEditor with Chrome at this time we don't think your should have a problem with any of the others.
 
-Open your browser and point it to [https://www.mdEditor.org](https://www.mdEditor.org). This will bring you to the mdEditor home page shown below. The home page offers a brief orientation to mdEditor as well as links to important supporting resources and other propaganda; and most importantly, a link to load mdEditor.  Click the big green button labeled <span class="btn btn-success">Try mdEditor now</span>.
+1. ## Browse to mdEditor home page
 
-![The mdEditor homepage.](/assets/get-started/homepage.png){caption class=border}
+    Open your browser and point it to [https://www.mdEditor.org](https://www.mdEditor.org). This will bring you to the mdEditor home page shown below. The home page offers a brief orientation to mdEditor as well as links to important supporting resources and other propaganda; and most importantly, a link to load mdEditor.  Click the big green button labeled <span class="btn btn-success">Try mdEditor now</span>.
 
-### 3. Open mdEditor
+    ![The mdEditor homepage.](/assets/get-started/homepage.png){caption class=border}
 
-You should now see the Dashboard of mdEditor.  This is the starting point in mdEditor for launching all tasks.  This is where you will start from each time you launch mdEditor.  What you actually see could look differently depending on your choice of browser and device.  Since mdEditor is smart enough to reconfigure the display based on available visual space, it will appear quiet differently on your mobile device than on your large work place monitor.  However, don't take this as a recommendation to edit metadata from your mobile phone.
+1. ## Open mdEditor
 
-![The dashboard view.](/assets/get-started/dashboard.png){caption class=border}
+    You should now see the Dashboard of mdEditor.  This is the starting point in mdEditor for launching all tasks.  This is where you will start from each time you launch mdEditor.  What you actually see could look differently depending on your choice of browser and device.  Since mdEditor is smart enough to reconfigure the display based on available visual space, it will appear quiet differently on your mobile device than on your large work place monitor.  However, don't take this as a recommendation to edit metadata from your mobile phone.
+
+    ![The dashboard view.](/assets/get-started/dashboard.png){caption class=border}
+
+<!-- endtasks -->
+
 
 Notice that the left sidebar lists the metadata records, contacts, and data dictionaries currently loaded into your browser cache.  These will be _your_ records and so will be different from those pictured in the screen shot.
 

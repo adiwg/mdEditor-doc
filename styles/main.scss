@@ -11,6 +11,14 @@ $gray-light: lighten(#000, 46.7%); // #777
 $gray-lighter: lighten(#000, 93.5%); // #eee
 $glossary-text: #444;
 
+@mixin headings($from: 1, $to: 6) {
+  @for $i from $from through $to {
+    h#{$i} {
+      @content
+    }
+  }
+}
+
 .book .markdown-section {
   .glossary-term {
     //border-bottom: 1px lighten($glossary-text, 50) dotted;
@@ -68,8 +76,10 @@ $glossary-text: #444;
       font-size: 1.6rem;
     }
 
-    & > h3 {
-      font-size: inherit;
+    & > {
+      @include headings(1,6) {
+        font-size: inherit;
+      }
     }
   }
 }

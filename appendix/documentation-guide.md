@@ -11,6 +11,13 @@
 	- [Setup Environment](#setup-environment)
 	- [Contributing using GitHub](#contributing-using-github)
 - [Style Guide](#style-guide)
+	- [Headings](#headings)
+	- [Lists](#lists)
+		- [Ordered lists](#ordered-lists)
+		- [List headings](#list-headings)
+	- [Icons](#icons)
+	- [Buttons](#buttons)
+	- [Hints](#hints)
 	- [Screenshots](#screenshots)
 		- [Types of screenshots](#types-of-screenshots)
 		- [Requirements for all screenshots](#requirements-for-all-screenshots)
@@ -56,26 +63,28 @@ The following is required:
 
 1. Install `gitbook-cli` using npm:
 
-    ```
+    ```bash
     $ npm install gitbook-cli -g
     ```
 
 1. Clone the mdEditor GitBook:
 
-    ```
+    ```bash
     $ git clone git@github.com:adiwg/mdEditor-doc.git
     ```
     or
-    ```
+    ```bash
     $ git clone https://github.com/adiwg/mdEditor-doc.git
     ```
 1. Setup GitBook
-    ```
+
+    ```bash
     $ cd mdEditor-doc
     $ gitbook install
     ```
 1. Start the local GitBook server
-    ```
+
+    ```bash
     $ gitbook serve
     ```
 1. Open a browser to: http://localhost:4000
@@ -106,6 +115,189 @@ This section covers styling conventions required for this documentations. Some o
 the conventions rely on plug-ins that enhance the native GitBook Markdown functionality.
 In some instances, the effects of the plugins are not displayed until after the
 book has been generated.
+
+### Headings
+
+Please use headings to define page sections. Heading levels should appear
+sequentially without gaps (don't skip heading levels). Headings should start at
+Level 1 for the page title. Headings should not be used purely to define font
+styles - if absolutely necessary, use CSS for that. Following this convention
+will make it possible to parse the markdown  programmatically, e.g. to
+dynamically create a table of contents.
+
+### Lists
+
+#### Ordered lists
+
+Ordered lists are processed irrespective of the actual number assigned to each list item.
+For Example:
+
+```
+1. first
+2. second
+3. third
+```
+
+{% hint style='plain' %}
+1. first
+2. second
+3. third
+{% endhint %}
+
+is rendered the same as:
+```
+1. first
+12. twelfth
+30. thirtieth
+```
+
+{% hint style='plain' %}
+1. first
+12. twelfth
+30. thirtieth
+{% endhint %}
+
+Therefore, one recommended convention is to use `1.` for every item in an ordered
+list. This makes it easier to insert or remove items from the list, at the
+expense of slightly less readable Markdown. If you choose to sequentially order
+the list items, you **must** make sure the numbers are sequential to avoid confusion.
+
+#### List headings
+
+Headings may be use in lists. However, special handling is required to ensure
+bullets for ordered lists are styled appropriately.
+
+The `tasks` tag is available for styling "task lists". For simplicity, all of the various heading levels are styled the same.
+
+```markdown
+Example without task tag
+
+1. ## Level 2
+1. ### Level 3
+1. ###### Level 6
+```
+
+{% hint style='plain' %}
+
+Example without task tag
+
+1. ## Level 2
+1. ### Level 3
+1. ###### Level 6
+
+{% endhint %}
+
+
+```
+Example with task tag
+
+<!-- tasks -->
+1. ## Level 2
+1. ### Level 3
+1. ###### Level 6
+<!-- endtasks -->
+```
+
+{% hint style='plain' %}
+
+Example with task tag
+
+<!-- tasks -->
+1. ## Level 2
+1. ### Level 3
+1. ###### Level 6
+<!-- endtasks -->
+
+{% endhint %}
+
+### Icons
+
+[FontAwesome](https://fontawesome.com/v4.7.0/icons/) icons are available. Use an
+`<i>` tag to render the chosen icon.
+
+```
+<i class="fa fa-smile-o"> </i> Happy Birthday <i class="fa fa-birthday-cake"></i>
+```
+
+{% hint style='plain' %}
+
+<i class="fa fa-smile-o"> </i> Happy Birthday <i class="fa fa-birthday-cake"></i>
+
+{% endhint %}
+
+### Buttons
+
+[Bootstrap 3](https://getbootstrap.com/docs/3.3/css/#buttons) style buttons are supported. Use a `<span>` tag since these are
+for documentation only. Icons may be combined with buttons.
+
+<span class="btn btn-default">Default</span>
+<span class="btn btn-primary">Primary</span>
+<span class="btn btn-success"><i class="fa fa-check"></i> Success</span>
+<span class="btn btn-info btn-xs">Info Extra - Small</span>
+<span class="btn btn-warning btn-sm">Warning - Small</span>
+<span class="btn btn-danger btn-lg">Danger - Large</span>
+<span class="btn btn-link">Link</span>
+
+```html
+<!-- Standard button -->
+<span class="btn btn-default">Default</span>
+
+<!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
+<span class="btn btn-primary">Primary</span>
+
+<!-- Indicates a successful or positive action -->
+<span class="btn btn-success"><i class="fa fa-check"></i> Success</span>
+
+<!-- Contextual button for informational alert messages -->
+<span class="btn btn-info btn-xs">Info Extra - Small</span>
+
+<!-- Indicates caution should be taken with this action -->
+<span class="btn btn-warning btn-sm">Warning - Small</span>
+
+<!-- Indicates a dangerous or potentially negative action -->
+<span class="btn btn-danger btn-lg">Danger - Large</span>
+
+<!-- Deemphasize a button by making it look like a link while maintaining button behavior -->
+<span class="btn btn-link">Link</span>
+```
+
+### Hints
+
+Styled hint blocks are supported.
+
+```markdown
+{% hint style='info' %}
+Important info: this note needs to be highlighted
+{% endhint %}
+```
+
+There are five supported variations.
+
+- `info` (default)
+- `tip`
+- `danger`
+- `working`
+- `plain`
+
+{% hint style='info' %}
+Info: this note needs to be highlighted.
+{% endhint %}
+
+{% hint style='tip' %}
+Tip: 20% is customary.
+{% endhint %}
+
+{% hint style='danger' %}
+Danger: this is going to blow up!
+{% endhint %}
+
+{% hint style='working' %}
+Working: for the man every night and day...
+{% endhint %}
+
+{% hint style='plain' %}
+Plain: booooooorrrrring.
+{% endhint %}
 
 ### Screenshots
 

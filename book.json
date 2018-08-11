@@ -1,5 +1,5 @@
 {
-  "plugins": ["hints", "styles-sass", "regexplace", "code"],
+  "plugins": ["hints", "styles-sass-fix", "regexplace", "code"],
   "styles": {
     "website": "styles/website.scss",
     "ebook": "styles/ebook.scss",

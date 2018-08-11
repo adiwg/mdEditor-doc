@@ -337,16 +337,19 @@ The following software is required:
 #### Requirements for annotated screenshots
   1. Use LibreOffice Draw to create the annotations
     * A template is available here `/assets/documentation-guide/callouts-template.odg`
-    * Each screenshot should be placed on a new page
-    * Whenever possible place annotations in callouts *outside* of the image or
-    in a way that  does not cover user interface elements
-    * Name the page using the name of the PNG file
-    * Export the screenshot to PNG
-      * only export the
-      * compression level 6
-      * 1200 pixels wide
-  1. All annotated screenshots for a section should be stored in a single `.odg` file.
-  1. Save the LibreOffice Draw file (.odg) in the directory with the screenshots
+    * Each screenshot should be placed on a new page 
+    * Whenever possible place annotations in callouts *outside* of the image or in a way that  does not cover user interface elements
+    * Export only the image by 
+      * selecting all content on the LibreOffice Draw page using cntl-A
+      * choose 'Export ...' from the file menu
+      * select 'PNG' from the 'Format' drop-down selection list
+      * check the 'Selection' box on the Export window
+      * click the 'Save' button
+      * set the pixels width to 1200
+      * choose a compression level  of 6
+      * click the 'OK' button
+  1. All annotated screenshots for a section should be stored on separate pages in a single `.odg` file.
+  1. Save the LibreOffice Draw file (.odg) in the same directory as the screenshots
 
   ![Creating screenshots using LibreOffice Draw](/assets/documentation-guide/libreoffice-screenshot.gif){caption class=border}
 

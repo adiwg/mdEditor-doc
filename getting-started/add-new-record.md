@@ -10,7 +10,7 @@ Click the plus  <span class="btn btn-sm btn-primary"><i class="fa fa-plus"></i><
   ![Adding a new record](/assets/get-started/add-record.png){caption}
 
   You should see something like this ...
-
+  
   ![The newly created, unsaved record](/assets/get-started/new-record.png){caption}
 
   The 'Create New Record' form collects the minimal information mdEditor requires to save a new metadata record.  This minimal information is, of course, not sufficient to meet the minimum of any metadata standard, but just enough that you and mdEditor can find it for editing.

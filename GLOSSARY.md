@@ -6,6 +6,9 @@ Alaska Data Integration working group
 
 A feature in mdEditor settings that allows information to be automatically saved as it is entered. Consult the Settings section of this manual for more information.
 
+## Browser Cache
+A temporary storage area in memory or on disk that holds the most recently downloaded Web pages.  mdEditor exploits this non-volatile memory facility of browsers to cache metadata records while they are being edited.  
+
 ## Customization
 
 The ability afforded by open-source code to edit the code of an application \(in this case mdEditor\) according to the needs of the users.

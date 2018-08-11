@@ -15,4 +15,7 @@ _book
 *.mobi
 *.pdf
 
+# IDE output
+.idea/
+
 .~lock*

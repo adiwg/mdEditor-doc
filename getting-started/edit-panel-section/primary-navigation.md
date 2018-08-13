@@ -1,23 +1,33 @@
 # Primary Navigation Bar
 ---
-The Primary Navigation Bar displays buttons that will navigate you away from the Editing Panel (or whichever panel you happen to be on at the time) to other facilities of mdEditor. These buttons are located in top-most navigation bar which has been outlined by the yellow rectangle below.
+The Primary Navigation Bar displays buttons that navigate you away from the Edit View (or whichever view you happen to be on at the time) to other facilities within mdEditor. These buttons are located in top-most navigation bar which has been outlined by the yellow rectangle below.
 
 ![The Primary Navigation Bar](/assets/get-started/primary-nav.png){caption}
 
-### Dashboard
-The Dashboard Panel is the home panel of mdEditor.  It was the first panel you saw when you started up the editor.  It displays a note about mdEditor and a few statistics for the records currently loaded into the browser cache.  
+### <i class="fa fa-tachometer"></i> Dashboard
+The Dashboard View is the initial view when starting mdEditor.  It displays relevant notes about mdEditor's status and a few statistics for the metadata records you currently have loaded in browser cache.  
 
-### Export & Import
-The Export and Import facilities help you manage moving metadata records between browser cache and your local storage.
+### <i class="fa fa-sign-out"></i>Export 
+The Export facility helps you move the metadata records you have been editing from browser cache to your local and networked storage devices for long-term backup and storage.
 
-### Publish
-The Publish facility can transmit your metadata record directly to a supported metadata repository handling all interface actions for you.  
+### <i class="fa fa-sign-in"></i> Import 
+The Import facility helps you load metadata records from your local and networked storage into browser cache for editing with mdEditor.
 
-### Translate
-The Translate facility interfaces with the mdTranslator.  It will send your mdEditor metadata record to mdTranslator, request translation to the metadata format of your choice, and capture the output for you to save to your local storage. 
+### <i class="fa fa-share-square-o"></i> Publish
+The Publish facility can transmit your metadata record directly to a supported metadata repository handling most or all interface actions for you.  
+
+### <i class="fa fa-retweet"></i> Translate
+The Translate facility interfaces with the publicly hosted mdTranslator.  It will send the selected metadata record to the translator, request translation into the metadata format of your choice, and capture the output for you to be viewed and saved to your local storage. 
 
 ### Profile
-Profile is the exception, it does not navigate away from the Editing Panel.  Instead Profile modifies the behavior of the Editing Panel by setting which panel elements are displayed and whether or not they are required.  Custom profiles can be written to meet the requirements of an organization or the specifications of a particular resource type.
+Profile is the exception, it does not navigate away from the Edit View. Profile instead modifies the behavior of the Editing Window by setting which panels and elements are displayed and whether or not they are required.  
 
-### Settings <i class="fa fa-cog"></i>
-The settings button will take you to the Settings Panel which hold options that can modify the default behavior of mdEditor.
+{% hint style='tip' %}
+  Custom profiles can be written to meet the requirements of an organization or the specifications of a particular resource type.
+{% endhint %}
+
+
+### <i class="fa fa-cog"></i> Settings 
+The settings button will take you to the Settings View which hold options that modify the default behavior of mdEditor.
+
+ 

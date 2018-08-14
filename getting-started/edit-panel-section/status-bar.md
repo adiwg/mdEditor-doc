@@ -1,0 +1,3 @@
+# Status Bar
+---
+The Status Bar ...

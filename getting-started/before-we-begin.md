@@ -10,7 +10,7 @@ Because mdEditor is a web application \(runs in your internet browser\) you may 
 
 mdEditor exploits a feature in modern browsers to manage your data called browser cache.  Think of the browser cache as a temporary working space for your metadata.  Although we are calling browser cache _temporary_ it is not cleared unless you specifically request it to be cleared.  This can be done similar to the process you use to clear your browser history.
 
-For more permanent storage of metadata records after they have be polished to your satisfaction, mdEditor provides two facilities appropriately named 'Export' and 'Import'.  Export moves metadata from browser cache to a folder/file of your specification on your hard-drive or SSD.  Import does the opposite, moves metadata records from your hard-drive or SSD back into browser cache for mdEditor to have access.  Of course these folder/file locations may be a network server or another networked storage device if you desire.
+For more permanent storage of your metadata records after they have been polished to your satisfaction, mdEditor provides two facilities appropriately named 'Export' and 'Import'.  Export moves metadata from browser cache to a local storage folder/file of your specification on your hard-drive or SSD.  Import does the opposite, moves metadata records from your hard-drive or SSD back into browser cache for mdEditor to have access.  Of course these local storage locations may be a network server or another networked storage device if you desire.
 
 ## What format is my metadata?
 

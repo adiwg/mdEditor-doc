@@ -1,6 +1,6 @@
 # Primary Navigation Bar
 ---
-The Primary Navigation Bar displays buttons that navigate you away from the Edit View (or whichever view you happen to be on at the time) to other facilities within mdEditor. These buttons are located in top-most navigation bar which has been outlined by the yellow rectangle below.
+The Primary Navigation button bar displays buttons that navigate you away from the Edit View (or whichever view you happen to be on at the time) to other facilities within mdEditor. These buttons are located in top-most navigation bar which has been outlined by the yellow rectangle below.
 
 ![The Primary Navigation Bar](/assets/get-started/primary-nav.png){caption}
 
@@ -20,7 +20,11 @@ The Publish facility can transmit your metadata record directly to a supported m
 The Translate facility interfaces with the publicly hosted mdTranslator.  It will send the selected metadata record to the translator, request translation into the metadata format of your choice, and capture the output for you to be viewed and saved to your local storage. 
 
 ### Profile
-Profile is the exception, it does not navigate away from the Edit View. Profile instead modifies the behavior of the Editing Window by setting which panels and elements are displayed and whether or not they are required.  
+Profile is the exception, it does not navigate away from the Edit View. Profile instead modifies the behavior of the Editing Window by setting which panels and elements are displayed and whether or not they are required. 
+
+{% hint style='info' %}
+  The default Profile is 'full'.  When the 'full' profile is selected ALL panels and elements are exposed for editing.  Requirements for elements is set by the mdJson schema - which is the minimum information required for a valid metadata record.
+{% endhint %} 
 
 {% hint style='tip' %}
   Custom profiles can be written to meet the requirements of an organization or the specifications of a particular resource type.

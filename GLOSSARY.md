@@ -57,9 +57,9 @@ Javascript Object Notation, a general purpose format like CSV.
 
 Words used in an information retrieval system to indicate the content of a document.
 
-## localStorage Cache
+## Local Storage 
 
-localStorage Cache allows an application to store data locally, in a user's browser. Storing information on the browser's local storage cache \(instead of a normal file cache\) means that if you use a different browser to access the mdEditor, it will not show the data you've imported from your first browser. It also means that if you clear your browser's cache, it will generally not clear your mdEditor records. However, depending upon your browser settings \(E.g., in Chrome, if the "c_ookies and other site data_" option is checked\), clearing your browser cache may still clear your mdEditor data.
+Local Storage is the user's standard storage system of directories, files, and folders.  Local Storage may be on a user's hard drive or SSD (Solid State Device).  In this document the term Local Storage is also meant to include any network storage accessible by the user.  
 
 ## mdEditor
 
@@ -80,6 +80,10 @@ An mdJSON file that is proprietary to the Metadata toolkit developed by the Alas
 ## mdTranslator
 
 Open-source Ruby software application for translating between metadata standards. Metadata is input in one of the supported ‘reader’ formats and output in one of the supported ‘writer’ formats. Available as Ruby gem or Command-Line-Interface.
+
+## Memory
+
+Memory refers to the volatile high-speed RAM (Random Access Memory) that is the temporary working storage for all computer applications and data.  Once a unit of work is complete it must be moved to a non-volatile storage area such as browser cache or local storage to be saved for later access.  Once an application is closed its memory space is cleared to be used by other applications. 
 
 ## Metadata
 

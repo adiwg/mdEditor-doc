@@ -42,5 +42,5 @@ Click the list icon to display a list of all objects of the associated type.  Th
 ### <i class="fa fa-plus"></i> Add New Object>
 Click the plus icon to create a new object of the associated type.
 
-### <strong class="fa fa-angle-up"></strong> Expand & Collapse List
+### <span><strong class="fa fa-angle-down"> <strong class="fa fa-angle-up"></span> Expand & Collapse List
 Click an up arrow icon <strong class="fa fa-angle-up"></strong> to collapse an open object list.  Or click the down arrow icon <i class="fa fa-angle-down"></i> on a collapsed list to reveal its contents. 

@@ -10,7 +10,7 @@ To assist with quickly exposing the section of the page you need the Fast Scroll
 The buttons in the Fast Scrolling section of the Secondary Sidebar are given the names of the panels in the Edit Window.  Clicking on a Fast Scroll button will move the respective panel to the top of the window giving you immediate access.  Scrolling the window manually will highlight the Fast Scroll button for the Edit Window's top-most panel visually identifying the window's scroll state. 
 
 {% hint style='tip' %}
-  Browser scrolling behavior will always present a full page if possible.  Therefore, when a Fast Scroll button near the end of the list is clicked (e.g. 'Graphic Overview' in the above image) it will be the top of the page unless there is enough information below the clicked panel to fill the remainder of the page.
+  Browser scrolling behavior always presents a full page if possible.  Therefore, when a Fast Scroll button near the end of the list is clicked (e.g. 'Graphic Overview' in the above image) the panel will scroll to the top of the page only if there is enough information below the panel to fill the remainder of the page.
 {% endhint %} 
 
 {% hint style='working' %}

@@ -12,6 +12,10 @@ mdEditor exploits a feature in modern browsers to manage your data called browse
 
 For more permanent storage of your metadata records after they have been polished to your satisfaction, mdEditor provides two facilities appropriately named 'Export' and 'Import'.  Export moves metadata from browser cache to a local storage folder/file of your specification on your hard-drive or SSD.  Import does the opposite, moves metadata records from your hard-drive or SSD back into browser cache for mdEditor to have access.  Of course these local storage locations may be a network server or another networked storage device if you desire.
 
+{% hint style='tip' %}
+  Because browser cache is a property of the *browser* if you change browsers (e.g. from Chrome to Microsoft Edge) you will likely not have access to your metadata record since each browser manages its separate cache.  Don't worry.  Records can be exported to local storage and then imported to the new browser.
+{% endhint %}
+
 ## What format is my metadata?
 
 mdEditor saves metadata in a format we call '[mdJSON](https://mdtools.adiwg.org)'.  This is a metadata format we designed specifically for mdEditor although its features make it applicable to other uses as well.  First, [mdJSON](https://mdtools.adiwg.org) is written in JavaScript Object Notation \([JSON](https://www.json.org)\) format.  JSON is the native data structure for JavaScript, and thus of internet browsers, and is how all browsers move data across the internet and process it internally.  It is also has broad support among programming languages, and can be read by humans with little difficulty all making it a natural choice.

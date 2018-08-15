@@ -7,6 +7,6 @@ Let's begin by describing the plethora of buttons and informational icons on the
 
 ![The Status Bar](/assets/get-started/edit-window-icons.png){caption}
 
-The first thing to note is that in general informational icons appear on the left of the Editing Window following the name of the Edit Panel.  Buttons appear on the right side of the Edit Panel.  Both pertain to the contents of their respective panel only.  
+Notice that in general informational icons appear on the left of the Editing Window and follow the name of the Edit Panel.  Buttons appear on the right side of the Edit Panel.  Both the icons and buttons pertain only to the contents of their respective panel.  
 
-Let's divide the work up and discuss informational icons and buttons separately on the next few pages.  
+Let's divide the introduction of these icons and buttons up and discuss them on the next few pages.  

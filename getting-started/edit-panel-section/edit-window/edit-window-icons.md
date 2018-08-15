@@ -1,26 +1,44 @@
 # Editing Window Icons
 ---
 
+![Edit Window Icons](/assets/get-started/edit-window-title.png){caption}
+
 ### <i class="fa fa-asterisk required"></i> Panel has Required Elements
 
-The big red asterisk after a panel name means that one or more or its elements are required to meet the standard for a minimal, valid metadata record - or contact or dictionary depending on which record type is being edited.  
+The red asterisk after a panel name indicates that one or more or its elements is required in order to meet the minimal standard for a valid metadata record - or contact or dictionary depending on which record type you are being edited.  
 
-{% hint style='info' %}
-  The red asterisk is also used at the element level to identify which panel elements are required.  
+{% hint style='tip' %}
+  The red asterisk is also used with elements to identify which of the panel's elements are required.  
 {% endhint %}
 
-  Many Edit Window panels allow multiple instances of a panel's data type such as multiple 'Points of Contact' or multiple 'Graphic Overviews'.  These array panels are easily identified by two characteristics; they each have an 'Add' button on the right side of the panel title bar to insert a new item, and a number inscribed by in colored circle immediately after the panel name. This number is the number of items found for the panel type, and the color of the circle indicates how requirements have been satisfied.  The next three icons explain.
+Many Edit Window panels permit multiple instances of a panel's data.   'Points of Contact' and 'Credits' are some obvious examples of repeating objects found in the Edit Window's 'Main' section.  These array type panels are easily identified by two characteristics; first they each have an 'Add' button on the right side of the panel title bar to insert new items; and second, a number inscribed in colored circle following the panel name showing the number of items currently entered. The color of the circle provides information about the optionality of the items.  The next three icons explain this significance.
 
 ### ![](/assets/bullets/count-red.png) Item Required - none found 
 
+The red circle indicates that at least one item for this panel is required and none have yet been entered.  
+
 ### ![](/assets/bullets/count-orange.png) Item Optional - none found 
+
+The orange circle indicates that items for this panel are optional and none have yet been entered.
 
 ### ![](/assets/bullets/count-blue.png) n Items Found
 
-### ![](/assets/bullets/isolation-dot.png) Isolate Panel
+The blue circle indicates that at least one item has been entered.  The number of items entered is displayed inside the circle.  
+
+{% hint style='info' %}
+  Once an item has been added to an array panel the red or orange circle will change to blue and the inscribed number will be greater than zero, so the optionality of the panel's items is no longer obvious. 
+{% endhint %}
+
+At the top of each Edit Window section there is a title line indicating what is being edited.  For example, in the image above the title is "Editing *My First Metadata Record*".  Following this title several icons my be present.  These are identified below.
 
 ### ![](/assets/bullets/bang-red.png) Record Not Saved
 
+An exclamation mark inscribed in a red circle indicates the record has unsaved changes.  The icon also acts as 'Save' button.  Clicking the icon will 'Save' your data to browser cache.
+
 ### ![](/assets/bullets/bang-orange.png) Record Has Error(s)
 
+An exclamation mark inscribed in an orange circle indicates the record has detectable errors.  Clicking the icon will display a list of the detected errors.  
+
 ### <span><strong class="fa fa-angle-down"> <strong class="fa fa-angle-up"></span> Expand & Collapse Panel
+
+Click an up arrow icon <strong class="fa fa-angle-up"></strong> to collapse an open panel.  Or click the down arrow icon <i class="fa fa-angle-down"></i> on a collapsed panel to reveal its contents. 

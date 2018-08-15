@@ -17,6 +17,7 @@
             * [Metadata Editing Window](getting-started/edit-panel-section/edit-window.md)
                 * [Editing Window Icons](getting-started/edit-panel-section/edit-window/edit-window-icons.md)
                 * [Editing Window Buttons](getting-started/edit-panel-section/edit-window/edit-window-buttons.md)
+        * [Entering Metadata](getting-started/entering-metadata.md)
 * [Glossary](GLOSSARY.md)
 * [Appendix](appendix.md)
     * [mdToolkit](appendix/mdToolkit.md)

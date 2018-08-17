@@ -23,7 +23,7 @@ The Translate facility interfaces with the publicly hosted mdTranslator.  It wil
 Profile is the exception, it does not navigate away from the Edit View. Profile instead modifies the behavior of the Editing Window by setting which panels and elements are displayed and whether or not they are required. 
 
 {% hint style='info' %}
-  The default Profile is 'full'.  When the 'full' profile is selected ALL panels and elements are exposed for editing.  Requirements for elements is set by the mdJson schema - which is the minimum information required for a valid metadata record.
+  The default Profile is 'full'.  When the 'full' profile is selected ALL panels and elements are exposed for editing.  Requirements for elements is set by the mdJSON schema - which is the minimum information required for a valid metadata record.
 {% endhint %} 
 
 {% hint style='tip' %}

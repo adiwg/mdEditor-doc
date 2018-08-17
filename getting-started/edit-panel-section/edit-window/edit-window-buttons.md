@@ -21,7 +21,6 @@ There are a few things to take notice of on the 'Citation' Edit Window above.
 
   * The Edit Window title has changed to indicate you are now editing a citation. 
   * The Fast Scroll buttons have changes to reflect the panels on the Citation Edit Window rather than the 'Main' Edit Window.
-  * The Citation 'Title' is the same as the metadata record title.  Yes, these two are the identical and will be kept in sync.  Changing one will always change the other.
   * There is new button in the 'Record Management' section of the 'Secondary Sidebar', "Back to Main".  
 
 {% hint style='working' %}
@@ -44,4 +43,4 @@ Some panels, and even some objects, have an 'Isolation' icon.  Clicking this ico
 
 ![Isonated Basic Information Panel](/assets/get-started/edit-window-isolate-panel.png){caption}
 
-OK!  I think that's enough orientation to the sections, buttons, and icons on the mdEditor windows.  Let's return to filling in our minimal metadata record with data.  
+OK!  That's probably enough orienting to the sections, buttons, and icons of mdEditor get some actual work done.  So let's return to filling in our minimal metadata record.  

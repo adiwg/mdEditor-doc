@@ -11,22 +11,22 @@ The red asterisk after a panel name indicates that one or more or its elements i
   The red asterisk is also used with elements to identify which of the panel's elements are required.  
 {% endhint %}
 
-Many Edit Window panels permit multiple instances of a panel's data.   'Points of Contact' and 'Credits' are some obvious examples of repeating objects found in the Edit Window's 'Main' section.  These array type panels are easily identified by two characteristics; first they each have an 'Add' button on the right side of the panel title bar to insert new items; and second, a number inscribed in colored circle following the panel name showing the number of items currently entered. The color of the circle provides information about the optionality of the items.  The next three icons explain this significance.
+Many Edit Window panels permit multiple instances of a panel's data.   'Points of Contact' and 'Credits' are some obvious examples of repeating objects found in the Edit Window's 'Main' section.  These array type panels are easily identified by two characteristics; first they each have an 'Add' button on the right side of the panel title bar to insert new objects; and second, a number inscribed in colored circle following the panel name showing the number of objects currently entered. The color of the circle provides information about the optionality of the items.  The next three icons explain this significance.
 
-### ![](/assets/bullets/count-red.png) Item Required - none found 
+### ![](/assets/bullets/count-red.png) Object Required - none found 
 
-The red circle indicates that at least one item for this panel is required and none have yet been entered.  
+The red circle indicates that at least one object for this panel is required and none have yet been entered.  
 
-### ![](/assets/bullets/count-orange.png) Item Optional - none found 
+### ![](/assets/bullets/count-orange.png) Object Optional - none found 
 
-The orange circle indicates that items for this panel are optional and none have yet been entered.
+The orange circle indicates that objects for this panel are optional and none have yet been entered.
 
-### ![](/assets/bullets/count-blue.png) n Items Found
+### ![](/assets/bullets/count-blue.png) n Objects Found
 
-The blue circle indicates that at least one item has been entered.  The number of items entered is displayed inside the circle.  
+The blue circle indicates that at least one object has been entered.  The number of objects entered is displayed inside the circle.  
 
 {% hint style='info' %}
-  Once an item has been added to an array panel the red or orange circle will change to blue and the inscribed number will be greater than zero, so the optionality of the panel's items is no longer obvious. 
+  Once an object has been added to an array panel the red or orange circle will change to blue and the inscribed number will be greater than zero, so the optionality of the panel's objects is no longer obvious. 
 {% endhint %}
 
 At the top of each Edit Window section there is a title line indicating what is being edited.  For example, in the image above the title is "Editing *My First Metadata Record*".  Following this title several icons my be present.  These are identified below.

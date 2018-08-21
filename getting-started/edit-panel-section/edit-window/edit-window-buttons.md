@@ -1,15 +1,15 @@
 # Editing Window Buttons
 ---
 
-### <strong class="btn btn-info btn-xs"> <i class="fa fa-plus"></i> Add</strong> Add New Item
+### <strong class="btn btn-info btn-xs"> <i class="fa fa-plus"></i> Add</strong> Add New Object
 
 Clicking the 'Add' button on a panel's title bar will add a new instance to the panel.  The new instance can then be edited as needed.
 
-### <strong class="btn btn-warning btn-xs"> <i class="fa fa-pencil"></i> Edit</strong> Edit Item
+### <strong class="btn btn-warning btn-xs"> <i class="fa fa-pencil"></i> Edit</strong> Edit Object
 
-The 'Edit' button appears on panel title bars and panel items when there is too much information to present in the current window without creating clutter.  
+The 'Edit' button appears on panel title bars and panel objects when there is too much information to present in the current window without creating clutter.  
 
-When the 'Edit' button appears on a panel title bar, clicking it will take you to a new Edit Window where the item can be edited.  There will always be a 'Return' button to bring you back to where you initiated the edit request.  
+When the 'Edit' button appears on a panel title bar, clicking it will take you to a new Edit Window where the object can be edited.  There will always be a 'Return' button to bring you back to where you initiated the edit request.  
 
 {% hint style='working' %}
   On the Edit Window's 'Main' section click the 'Edit' button on the Citation panel's title bar.  You should see the Citation Edit Window pictured below.
@@ -27,11 +27,11 @@ There are a few things to take notice of on the 'Citation' Edit Window above.
   Click the "Back to Main" button now to return to the 'Main' Edit Window. 
 {% endhint %} 
 
-When the 'Edit' button appears next to a panel item, clicking it will expand it for editing.  After editing, click the <strong class="btn btn-info btn-xs"> <i class="fa fa-check"></i> OK</strong> button to hide the item's detail and restore the Edit Window.
+When the 'Edit' button appears next to a panel object, clicking it will expand it for editing.  After editing, click the <strong class="btn btn-info btn-xs"> <i class="fa fa-check"></i> OK</strong> button to hide the object's detail and restore the Edit Window.
 
-### <strong class="btn btn-danger btn-xs"> <i class="fa fa-times"></i> Delete</strong> Delete Item
+### <strong class="btn btn-danger btn-xs"> <i class="fa fa-times"></i> Delete</strong> Delete Object
 
-The 'Delete' button will not be found on panel title bars, but is attached to the items of array type panels.  'Delete' will remove the item from the array.  
+The 'Delete' button will not be found on panel title bars, but is attached to the objects of array type panels.  'Delete' will remove the object from the array.  
 
 {% hint style='danger' %}
   There is no conformation prior to the actual delete like there is when deleting the entire record.  Delete is immediate and not reversible if AutoSave is 'On'.  If AutoSave is 'Off' the 'Cancel' button will be active and the record can be restored to the last 'Save' point. 

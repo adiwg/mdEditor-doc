@@ -1,7 +1,7 @@
 # Entering Points of Contact 
 ---
 
-As your trained eye can now see, 'Points Of Contact' is another array panel containing point of contact objects.  So, let's add our first 'Point Of Contact'.
+As your trained eye can now see, 'Points Of Contact' is another array panel containing 'Point of Contact' objects.  So, let's add our first 'Point Of Contact'.
 
 {% hint style='working' %}
   Add a 'Point Of Contact'
@@ -24,11 +24,11 @@ As your trained eye can now see, 'Points Of Contact' is another array panel cont
 
 'Contacts' is a multi-select control that allows you select one or more contacts from a list of contacts you currently have loaded into browser cache. 
 
-Wait!  We haven't defined any contacts yet.  We can't complete the 'Point Of Contact' requirement until we first defined a contact or two.  This is a situation you will likely find occurring rather frequently while entering and editing real metadata, so we made sure you would get some experience during this exercise.  You can thank us later. 
+Wait!  We haven't defined any contacts yet.  We can't complete the 'Point Of Contact' requirement until we first defined a contact or two.  This is a situation you will likely encounter rather frequently while entering and editing real metadata, so we made sure you would get the chance to practice during this exercise.  You can thank us later. 
 
 {% hint style='working' %}
   Create a contact on the fly.
-  * Save your work.  If AutoSave is 'Off' click the <span class="btn btn-success btn-sm"> <i class="fa fa-floppy-o"></i> Save</span> button in the 'Record Management' section of the 'Secondary Sidebar'.  If AutoSave is 'On' no need to do anything here.
+  * Save your work.  If you have AutoSave set to 'Off' then click the <span class="btn btn-success btn-sm"> <i class="fa fa-floppy-o"></i> Save</span> button in the 'Record Management' section of the 'Secondary Sidebar'.  If AutoSave is 'On' your record is already saved.
   * Click the plus sign (+) next to 'Contacts' in the 'Primary Sidebar' to create a new contact. 
-  * Continue to the next page to complete the 'Contact' record.
+  * Continue to the next page to complete adding the new 'Contact' record.
 {% endhint %}

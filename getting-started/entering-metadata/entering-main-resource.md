@@ -32,6 +32,10 @@ The two elements of the 'Resource Type' are now created and ready for you to edi
   Enter 'Type' of 'tabularDataset'
 {% endhint %}
 
+{% hint style='tip' %}
+  Notice that when you assigned the 'Resource Type' the icon preceding the record name in the 'Primary Sidebar' changes.  In this instance it changes to a table or grid to represent a tabular dataset.  Most 'Resource Type' are assigned an icon; although some may require a little imagination to visualize the association.  The icons are provided to help jog your mind when scanning a long list of records or contacts you may not have worked with in a while.  
+{% endhint %}
+
 ### Name 
 'Name' is an optional element that provide a name for resource referred to by 'Type'.  
 
@@ -40,7 +44,7 @@ The two elements of the 'Resource Type' are now created and ready for you to edi
 {% endhint %}
 
 {% hint style='tip' %}
-  'Name' is optional and a little redundant if only one resource type is created for the metadata record.  If only one resource is described by this metadata record the 'Resource Type Name' would likely overlap with the 'Record Title'('Citation Title').  However if multiple resources are defined by this metadata record 'Resource Type Name' could become helpful.
+  'Name' is optional and a little redundant if only one resource type is described by the metadata record.  In such cases the metadata record 'Resource Type Name' would likely overlap with the 'Record Title'('Citation Title').  However, when a resource is prepared in multiple forms or multiple resources are defined by the metadata record, 'Resource Type Name' can be helpful.
 {% endhint %}
 
 {% hint style='working' %}

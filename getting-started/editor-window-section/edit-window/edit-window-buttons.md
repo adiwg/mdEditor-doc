@@ -15,7 +15,7 @@ When the 'Edit' button appears on a panel title bar, clicking it will take you t
   On the Edit Window's 'Main' section click the 'Edit' button on the Citation panel's title bar.  You should see the Citation Edit Window pictured below.
 {% endhint %} 
 
-![Citation Edit Window](/assets/get-started/edit-window-citation.png){caption}
+![Edit Window Buttons](/assets/get-started/edit-window-buttons.png){caption}
 
 There are a few things to take notice of on the 'Citation' Edit Window above.
 

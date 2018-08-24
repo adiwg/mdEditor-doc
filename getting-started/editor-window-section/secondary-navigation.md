@@ -1,6 +1,6 @@
 # Secondary Navigation Bar
 ---
-The Secondary Navigation button bar provides the ability to jump between major sections of the Edit Window.  The currently active edit section will be highlighted orange in the button bar.  Notice that in the image below 'Main' is highlighted as this is the active section in the Edit Window.  
+The Secondary Navigation bar buttons allow you to jump between major sections of the Edit Window.  The currently active edit section will be highlighted orange in the button bar.  Notice that in the image below 'Main' is highlighted as this is the active section in the Edit Window.  
 
 ![The Secondary Navigation Bar](/assets/get-started/secondary-nav.png){caption}
 

@@ -32,6 +32,7 @@
                 * [Entering Metadata Contact](getting-started/entering-metadata/entering-metadata-contact.md)
                 * [Entering Time Periods](getting-started/entering-metadata/entering-main-datetime.md)
                 * [Using The Date-Time Picker](getting-started/entering-metadata/entering-datetime-picker.md)
+    * [Export a Metadata Record](getting-started/export-import/export-data.md)
 * [Glossary](GLOSSARY.md)
 * [Appendix](appendix.md)
     * [mdToolkit](appendix/mdToolkit.md)

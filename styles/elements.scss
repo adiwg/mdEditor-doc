@@ -15,9 +15,9 @@
 }
 
 .md-section {
-  border-bottom: 1px solid;
+  border-bottom: 1px dashed;
   border-color: darken($brand-warning, 10);
-  border-top: 1px solid;
+  border-top: 1px dashed;
   color: $section-text;
   padding: 1px 4px;
   font-size: smaller;
@@ -28,6 +28,7 @@
   font-size: 1.1em;
   font-variant: small-caps;
   padding: 1px 4px;
+  font-size: smaller;
 }
 
 .md-element {

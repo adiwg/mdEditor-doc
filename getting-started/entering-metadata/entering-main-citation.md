@@ -1,48 +1,48 @@
 # Entering Citations 
 ---
 
-The 'Citation' we are editing in this step is the citation for the principle subject of this metadata record, a.k.a. the Main Resource.   
-
-{% hint style='info' %}
-  A full metadata record can have scores of citations representing many different contexts.  Therefor, expect to see 'Citation' appear in many places throughout mdEditor.  With that in mind, the mdEditor's design moved entry and editing of citations to a separate window that could be shared with all instances of citation editing.  
-{% endhint %}
-
-{% hint style='working' %}
-  Position the mdEditor window to edit the 'Citation' for 'My First Metadata Record'.
-{% endhint %}
+The <span class="md-panel">Citation</span> we are editing in this step is the citation for the primary subject of this metadata record, a.k.a. the 'main resource'.   
 
 ![Editing Window - Main - Main Resource Citation](/assets/get-started/edit-window-main-citation-1.png){caption}
 
-As you can see, something is different. The 'Citation' panel does not show any editable elements.  Instead the panel provides a view of some the more informative citation elements.  To edit the citation's content we just need to click the <strong class="btn btn-success btn-xs"> <i class="fa fa-pencil"> </i> Edit</strong> button on the panel title bar or the one at the bottom of the 'Citation' panel.  
+As you can see, something is different with this panel. The <span class="md-panel">Citation</span> panel does not have any editable element controls.  Instead the panel is showing us a view of some the citation's elements.  Why is this?
+
+A full metadata record can have many citations each representing a <span class="md-panel">Citation</span> for a different context.  Therefore, you can expect to see <span class="md-panel">Citation</span> panels appear throughout mdEditor.  With that in mind, mdEditor's design moved the editing of all citations off to a separate <span class="md-section">Citation</span> section. 
+
+To edit the <span class="md-panel">Citation</span> content we just need to click the <strong class="btn btn-success btn-xs"> <i class="fa fa-pencil"> </i> Edit</strong> button on the <span class="md-window">Panel Title Bar</span> or the one at the bottom of the <span class="md-panel">Citation</span> panel. 
 
 {% hint style='info' %}
-  'Citation' has only one required element, 'Title'.  Since the main resource citation title is used as the metadata record title and that has already been defined, technically there are no missing citation elements.  However, 'Citation' is so widely used we will jump in and edit a non-required element or two just for practice.
+  <span class="md-panel">Citation</span> has only one required element in mdJSON, <span class="md-element">title</span>.  Since the main resource <span class="md-panel">Citation</span> <span class="md-element">title</span> is also the metadata record <span class="md-element">title</span> and that has already been defined, technically there are no missing <span class="md-panel">Citation</span> elements.  We could skip editing <span class="md-panel">Citation</span> and still meet minimal requirements; however <span class="md-panel">Citation</span> is so widely used throughout mdEditor let's jump in and edit a non-required element.
 {% endhint %}  
 
 {% hint style='working' %}
-  Edit the Main Resource Citation
-  * Click either <strong class="btn btn-success btn-xs"> <i class="fa fa-pencil"> </i> Edit</strong> button on the 'Citation' panel.
+  Edit the main resource <span class="md-panel">Citation</span>
+  * Click either the <strong class="btn btn-success btn-xs"> <i class="fa fa-pencil"> </i> Edit</strong> button on the <span class="md-window">Panel Title Bar</span> or the one at the bottom of the panel.
 {% endhint %}
 
 ![Editing Window - Citation](/assets/get-started/edit-window-main-citation-2.png){caption}
 
-You are now looking at the 'Citation' Editing Window as shown in the image above.  Notice the 'Edit Window' title has changed from "Editing *My First Metadata Record*" to "Editing Citation"; also the path on the 'Breadcrumb Bar' confirms that you have navigated to the 'Citation' branch of the 'Main' Editing Window.  From earlier steps in this exercise you are familiar with the array control type used by the 'Alternate Titles' element, so let's just enter a few 'Alternate Titles' at this time.
+You should now be looking at the <span class="md-section">Citation</span> edit window as shown in the above image.  Notice the <span class="md-window">Edit Window</span> title has changed from "Editing *My First Metadata Record*" to "Editing Citation"; also the path on the <span class="md-window">Breadcrumb Bar</span> confirms that you have navigated to the <span class="md-section">Citation</span> branch of the <span class="md-section">Main</span> <span class="md-window">Edit Window</span>.  
+
+From working with <span class="md-panel">Resource Types</span> earlier in this exercise you are already familiar with the array-panel control used for entering <span class="md-element">alternate title</span> elements, so let's enter a few <span class="md-element">alternate titles</span> now.
 
 {% hint style='working' %}
-  Enter 'Alternate Titles'
+  Enter <span class="md-element">alternate titles</span>
   * Click either <strong class="btn btn-info btn-xs"> <i class="fa fa-plus"> </i> Alternate Title</strong> button
-  * Enter an 'Alternate Title', I entered "First Alternate"
-  * Enter a second 'Alternate Title'
-  * Click the <strong class="btn btn-primary btn-xs"><i class="fa fa-arrow-left"> </i> Back to Main</strong> button in the 'Secondary Sidebar' when you have finish entering 'Alternate Titles'.  This ends editing of the 'Citation' and, as expected, returns you to the 'Main' Editing Window.
+  * Enter an <span class="md-element">alternate title</span>, I entered "First Alternate"
+  * Enter a second <span class="md-element">alternate title</span>
+  * Click the <strong class="btn btn-primary btn-xs"><i class="fa fa-arrow-left"> </i> Back to Main</strong> button in the <span class="md-window">Secondary Sidebar</span> when you have finish entering your <span class="md-element">alternate titles</span>.  
 {% endhint %}
+
+Clicking <strong class="btn btn-primary btn-xs"><i class="fa fa-arrow-left"> </i> Back to Main</strong> ends editing of the <span class="md-panel">Citation</span> object and, as expected, returns you to <span class="md-window">Edit Window</span> <span class="md-section">Main</span>.
 
 {% hint style='tip' %}
-  There are ways other than clicking <strong class="btn btn-primary btn-xs"><i class="fa fa-arrow-left"> </i> Back to Main</strong> to return to the 'Main' Editing Window. 
-  * Click 'Main' in the 'Breadcrumb' path.
+  There are several other ways to return to <span class="md-window">Edit Window</span> <span class="md-section">Main</span>. 
+  * Click <span class="md-section">Main</span> in the <span class="md-window">Breadcrumb Bar</span> path.
   * Click the browser's "back" button (you may also need to refresh the window before seeing your changes).
-  * Click the <strong class="btn btn-warning btn-xs"> <i class="fa fa-pencil"> </i></strong> button for 'My First Metadata Record' in the 'Primary Sidebar'.
+  * Click the <strong class="btn btn-warning btn-xs"> <i class="fa fa-pencil"> </i></strong> button for 'My First Metadata Record' in the <span class="md-window">Primary Sidebar</span>.
    
-  All three of these methods - as well as the <strong class="btn btn-primary btn-xs"><i class="fa fa-arrow-left"> </i> Back to Main</strong> button - will preserve your entries as you navigate away from the 'Citation' Editing Window.
+  All three of these methods, as well as the <strong class="btn btn-primary btn-xs"><i class="fa fa-arrow-left"> </i> Back to Main</strong> button, will preserve your entries as you navigate away from the <span class="md-window">Edit Window</span> <span class="md-section">Citation</span> section.
 {% endhint %}
 
-So let's see what happened "back in Main"...
+So let's see what happened "back in <span class="md-section">Main</span>"...

@@ -17,15 +17,15 @@ But what if the month you seek is not in the current year?  Notice that the 'Mon
 
 Need to jump even farther back or ahead in time?  Click the 'Year' button and range of years is displayed and the 'Year' button becomes a 'Year-Range' button.  
 
-### <i class="fa fa-clock-o"></i> Time Picker
+### <i class="fa fa-clock-o"> </i> Time Picker
 
-If you want to enter a time along with the date, click the <i class="fa fa-clock"></i> at the bottom of the date-time control.  Refer to the section below on the Time Picker how this control works.
+If you want to enter a time along with the date, click the <i class="fa fa-clock"> </i> at the bottom of the date-time control.  Refer to the section below on the Time Picker how this control works.
 
 {% hint style='info' %}
-  The <i class="fa fa-clock-o"></i> will only appear on elements that support both a date and time.  Some only allow for a date.  
+  The <i class="fa fa-clock-o"> </i> will only appear on elements that support both a date and time.  Some only allow for a date.  
 {% endhint %}
 
-### <i class="fa fa-trash"></i> Clear Date and Time
+### <i class="fa fa-trash"> </i> Clear Date and Time
 
 This button will clear both the date and time.
 
@@ -33,7 +33,7 @@ This button will clear both the date and time.
 
 ![Editing Window - Time Picker](/assets/get-started/edit-window-time-picker.png){caption}
 
-### <i class="fa fa-calendar"></i> Return to Calendar
+### <i class="fa fa-calendar"> </i> Return to Calendar
 
 Return to the calendar control.  The time displayed on the time control will be attached to the date, even if none of the time buttons were touched.  
 
@@ -44,7 +44,7 @@ Numbers representing the hours, minutes, and seconds are highlighted inside the 
 ### <span><strong class="fa fa-angle-up"> <strong class="fa fa-angle-down"></span> Increase / Decrease
 These up and down arrow increment and decrement the hours, minutes, and seconds by one.  
 
-### <i class="fa fa-trash"></i> Clear Date and Time
+### <i class="fa fa-trash"> </i> Clear Date and Time
 
 This button will clear both the date and time, not just the time.
 

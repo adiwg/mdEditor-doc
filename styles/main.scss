@@ -1,4 +1,3 @@
-@import 'buttons';
 $brand-primary: darken(#428bca, 6.5%); // #337ab7
 $brand-success: #5cb85c;
 $brand-info: #5bc0de;
@@ -10,6 +9,12 @@ $gray: lighten(#000, 33.5%); // #555
 $gray-light: lighten(#000, 46.7%); // #777
 $gray-lighter: lighten(#000, 93.5%); // #eee
 $glossary-text: #444;
+$section-text: #ff4500;
+$midnight: #191970;
+$panel-back: #e3e3e3;
+
+@import 'buttons';
+@import 'elements';
 
 @mixin headings($from: 1, $to: 6) {
   @for $i from $from through $to {

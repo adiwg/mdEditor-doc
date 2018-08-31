@@ -1,11 +1,11 @@
 # Edit Window's 'Main' Section
 ---
 
-Using the coded icons for the 'Main' section of the Edit Window we find we need to visit the following panels: 
-  * Basic Information <i class="fa fa-asterisk required"></i>
-  * Resource Types ![](/assets/bullets/count-red.png)
-  * Point Of Contacts ![](/assets/bullets/count-red.png)
-  * Citation <i class="fa fa-asterisk required"></i>
-  * Description <i class="fa fa-asterisk required"></i>
+Simply observing the coded icons on the <span class="md-window">Edit Window</span> <span class="md-section">Main</span> section we find we need to visit the following panels: 
+  * <span class="md-panel">Basic Information</span> <i class="fa fa-asterisk required"> </i>
+  * <span class="md-panel">Resource Types</span> ![](/assets/bullets/count-red.png)
+  * <span class="md-panel">Point Of Contacts</span> ![](/assets/bullets/count-red.png)
+  * <span class="md-panel">Citation</span> <i class="fa fa-asterisk required"> </i>
+  * <span class="md-panel">Description</span> <i class="fa fa-asterisk required"> </i>
   
 Let's look at each in turn...

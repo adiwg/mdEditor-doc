@@ -10,7 +10,7 @@ The 'Metadata Contact' element is the last required mdJSON element for a minimal
 
 ![Editing Window - Metadata - Metadata Contact](/assets/get-started/edit-window-metadata-contact.png){caption}
 
-### Metadata Contacts  <i class="fa fa-asterisk required" title="Required"></i>
+### Metadata Contacts  <i class="fa fa-asterisk required" title="Required"> </i>
 
 No surprise, 'Metadata Contacts' are people and organizations to contact when there are questions about the metadata.  Since we have entered contacts before, let's enter this one with minimal guidance ...
 

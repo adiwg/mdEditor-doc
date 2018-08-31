@@ -1,6 +1,5 @@
 # Exporting Metadata and Contacts
-
----
+DO NOT EDIT
 
 Text ...
 

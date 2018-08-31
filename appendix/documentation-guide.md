@@ -18,6 +18,7 @@
 	- [Icons](#icons)
 	- [Buttons](#buttons)
 	- [Hints](#hints)
+	- [User Interface Elements](#user-interface-elements)
 	- [Screenshots](#screenshots)
 		- [Types of screenshots](#types-of-screenshots)
 		- [Requirements for all screenshots](#requirements-for-all-screenshots)
@@ -216,12 +217,12 @@ Example with task tag
 `<i>` tag to render the chosen icon.
 
 ```
-<i class="fa fa-smile-o"> </i> Happy Birthday <i class="fa fa-birthday-cake"></i>
+<i class="fa fa-smile-o"> </i> Happy Birthday <i class="fa fa-birthday-cake"> </i>
 ```
 
 {% hint style='plain' %}
 
-<i class="fa fa-smile-o"> </i> Happy Birthday <i class="fa fa-birthday-cake"></i>
+<i class="fa fa-smile-o"> </i> Happy Birthday <i class="fa fa-birthday-cake"> </i>
 
 {% endhint %}
 
@@ -232,7 +233,7 @@ for documentation only. Icons may be combined with buttons.
 
 <span class="btn btn-default">Default</span>
 <span class="btn btn-primary">Primary</span>
-<span class="btn btn-success"><i class="fa fa-check"></i> Success</span>
+<span class="btn btn-success"><i class="fa fa-check"> </i> Success</span>
 <span class="btn btn-info btn-xs">Info Extra - Small</span>
 <span class="btn btn-warning btn-sm">Warning - Small</span>
 <span class="btn btn-danger btn-lg">Danger - Large</span>
@@ -246,7 +247,7 @@ for documentation only. Icons may be combined with buttons.
 <span class="btn btn-primary">Primary</span>
 
 <!-- Indicates a successful or positive action -->
-<span class="btn btn-success"><i class="fa fa-check"></i> Success</span>
+<span class="btn btn-success"><i class="fa fa-check"> </i> Success</span>
 
 <!-- Contextual button for informational alert messages -->
 <span class="btn btn-info btn-xs">Info Extra - Small</span>
@@ -299,6 +300,20 @@ Working: for the man every night and day...
 Plain: booooooorrrrring.
 {% endhint %}
 
+### User Interface Elements
+ The following classes may be used to highlight text that refers to elements of
+the user interface:
+ ```html
+<span class="md-window">window</span>
+<span class="md-section">section</span>
+<span class="md-panel">panel</span>
+<span class="md-element">element</span>
+```
+<span class="md-window">Window Part</span>
+<span class="md-section">Edit Window Section</span>
+<span class="md-panel">Panel Name</span>
+<span class="md-element">panel element</span>
+
 ### Screenshots
 
 {% hint style='info' %}
@@ -337,9 +352,9 @@ The following software is required:
 #### Requirements for annotated screenshots
   1. Use LibreOffice Draw to create the annotations
     * A template is available here `/assets/documentation-guide/callouts-template.odg`
-    * Each screenshot should be placed on a new page 
+    * Each screenshot should be placed on a new page
     * Whenever possible place annotations in callouts *outside* of the image or in a way that  does not cover user interface elements
-    * Export only the image by 
+    * Export only the image by
       * selecting all content on the LibreOffice Draw page using cntl-A
       * choose 'Export ...' from the file menu
       * select 'PNG' from the 'Format' drop-down selection list

@@ -1,34 +1,38 @@
-# Entering Points of Contact 
+# Entering Points Of Contact 
 ---
 
-As your trained eye can now see, 'Points Of Contact' is another array panel containing 'Point of Contact' objects.  So, let's add our first 'Point Of Contact'.
+As your trained eye can now see, <span class="md-panel">Points Of Contact</span> is another array-panel containing <span class="md-panel">Point Of Contact</span> objects.  So, let's add our first Point Of Contact.
 
 {% hint style='working' %}
-  Add a 'Point Of Contact'
-  * Click the <strong class="btn btn-info btn-xs"> <i class="fa fa-plus"></i> Add</strong> button to 'Add' a new object to the array.
+  Add a Point Of Contact
+  * Click the <strong class="btn btn-info btn-xs"> <i class="fa fa-plus"> </i> Add</strong> button to 'Add' a new object to the array.
 {% endhint %}
 
-![Editing Window - Main - Points of Contact](/assets/get-started/edit-window-main-poc-1.png){caption}
+![Editing Window - Main - Points Of Contact](/assets/get-started/edit-window-main-poc-1.png){caption}
 
-'Point Of Contact' has two elements, 'Role' and 'Contacts'.  Both are required. 
+<span class="md-panel">Point Of Contact</span> has two elements, <span class="md-element">role</span> and <span class="md-element">contacts</span>.  Both are required. 
 
 {% hint style='info' %}
-  Contacts throughout mdJSON, and therefor mdEditor, are treated as responsible parties.  Meaning each contact is assigned to a role within the context of the metadata entry.  In words specific to this example, each contact assigned as a 'Point Of Contact' is attached to a 'Role' that describes his/her area of responsibility as a point of contact.  For instance one person or organization may be assigned to act as the point of contact for issues concerning administration ('administrator') while another is to field inquires about funding ('funder').
+  Contacts throughout mdJSON, and therefor mdEditor, are referenced as 'responsibilities'.  A responsibility combines a role with one or more persons or organizations and a context.  In this instance the **context** is a "Point Of Contact for the resource", the **contact** is the persons or organizations to contact, and the **role** defines the boundaries of their responsibility.  Example, "contact John and Mary for information about funding".
 {% endhint %}
 
-### Role <i class="fa fa-asterisk required" title="Required"></i>
+### Role <i class="fa fa-asterisk required" title="Required"> </i>
 
-'Role' describes the specific area of responsibility within the context of point of contact.  The control allows you to select from a list of predefined roles or to add a custom role of your own.  
+<span class="md-element">role</span> describes the specific area of responsibility for contact(s).  The control allows you to select from a list of predefined roles or to add a custom role of your own.  
 
-### Contacts <i class="fa fa-asterisk required" title="Required"></i>
+### Contacts <i class="fa fa-asterisk required" title="Required"> </i>
 
-'Contacts' is a multi-select control that allows you select one or more contacts from a list of contacts you currently have loaded into browser cache. 
+<span class="md-element">contacts</span> is a multi-select control that allows you select one or more contacts you currently have loaded in browser cache. 
 
-Wait!  We haven't defined any contacts yet.  We can't complete the 'Point Of Contact' requirement until we first defined a contact or two.  This is a situation you will likely encounter rather frequently while entering and editing real metadata, so we made sure you would get the chance to practice during this exercise.  You can thank us later. 
+---
+
+But Wait!  We haven't defined any contacts yet!  We can't complete the <span class="md-panel">Points Of Contact</span> requirement until we first defined a contact or two.  
+
+This is a situation you will likely encounter rather frequently while entering and editing real metadata, so we made sure you would get the chance to practice this during the exercise.  You can thank us later. 
 
 {% hint style='working' %}
   Create a contact on the fly.
-  * Save your work.  If you have AutoSave set to 'Off' then click the <span class="btn btn-success btn-sm"> <i class="fa fa-floppy-o"></i> Save</span> button in the 'Record Management' section of the 'Secondary Sidebar'.  If AutoSave is 'On' your record is already saved.
-  * Click the plus sign (+) next to 'Contacts' in the 'Primary Sidebar' to create a new contact. 
-  * Continue to the next page to complete adding the new 'Contact' record.
+  * Save your work.  If you have AutoSave set to 'Off' click the <span class="btn btn-success btn-sm"> <i class="fa fa-floppy-o"> </i> Save</span> button in <span class="md-window">Record Management</span> block of the <span class="md-window">Secondary Sidebar</span>.  If AutoSave is 'On', your record is already saved.
+  * Click the plus sign (+) next to Contacts in the <span class="md-window">Primary Sidebar</span> to create a new contact. 
+  * Continue to the next page to complete adding the new Contact record.
 {% endhint %}

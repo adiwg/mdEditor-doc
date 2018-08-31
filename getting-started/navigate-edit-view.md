@@ -4,4 +4,8 @@ Your newly created metadata record should appear very similar to the following s
 
 ![The Edit View of a metadata record](/assets/get-started/orientation-main-window.png){caption}
 
-Since there are quite a few new symbols and buttons to employ while navigating the mdEditor's Edit View, let's divide the window into major sections and take a look at each of these separately to help with your orientation.
+Since there are quite a few buttons and icons in mdEditor to help make the metadata editing process as quick and clean as possible, let's divide the window up into parts and take a look at each of these separately.  
+
+{% hint style='tip' %}
+  Throughout this documentation window parts will be formatted as <span class="md-window">WindowPart</span>.
+{% endhint %}

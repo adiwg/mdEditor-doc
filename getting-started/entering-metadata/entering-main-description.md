@@ -5,7 +5,7 @@ The 'Description' panel, like the 'Basic Information' panel, is a collection of 
 
 ![Editing Window - Main - Description Elements](/assets/get-started/edit-window-main-description-1.png){caption}
 
-### Abstract  <i class="fa fa-asterisk required" title="Required"></i>
+### Abstract  <i class="fa fa-asterisk required" title="Required"> </i>
 
 Abstract is brief narrative describing the content of the main resource whether it be data, journal article, or project.
 

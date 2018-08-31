@@ -10,12 +10,12 @@
 ![Editing Window - Main - Time Period](/assets/get-started/edit-window-main-time-1.png){caption}
 
 {% hint style='info' %}
-  Notice that there are required elements on the 'Time Period' panel that we have not entered and yet there are no errors telling us our metadata record is incomplete.  Also notice that there is no <i class="fa fa-asterisk required" title="Required"></i> on the panel title bar following the panel's title.  What's up? 
+  Notice that there are required elements on the 'Time Period' panel that we have not entered and yet there are no errors telling us our metadata record is incomplete.  Also notice that there is no <i class="fa fa-asterisk required" title="Required"> </i> on the panel title bar following the panel's title.  What's up? 
   
-  When a <i class="fa fa-asterisk required" title="Required"></i> is on the panel title bar, it means that one or more elements of the panel are *always* required for a valid record.  When the red asterisk is absent from the panel title bar, the panel's required elements are only required when the panel's object is included in the metadata record.  In this instance, a 'Time Period' object is not required for a valid metadata record; however, if a 'Time Period' is included, 'Dates' then become required. 
+  When a <i class="fa fa-asterisk required" title="Required"> </i> is on the panel title bar, it means that one or more elements of the panel are *always* required for a valid record.  When the red asterisk is absent from the panel title bar, the panel's required elements are only required when the panel's object is included in the metadata record.  In this instance, a 'Time Period' object is not required for a valid metadata record; however, if a 'Time Period' is included, 'Dates' then become required. 
 {% endhint %}
 
-### Dates  <i class="fa fa-asterisk required" title="Required"></i>
+### Dates  <i class="fa fa-asterisk required" title="Required"> </i>
 
 The resource 'Time Period' specifies a date-time range for the data resource or project described by the metadata record.  The 'Time Period' must have a starting date, ending date, or both; but only one is required.  
 
@@ -32,7 +32,7 @@ Continue the exercise by adding an optional 'Description' element to the 'Time P
 
 {% hint style='working' %}
   Enter the 'Time Period' 'Start Date'
-  * Click the calendar <span class="btn btn-default btn-xs"> <i class="fa fa-calendar"></i></span> button on the 'Start Date' control
+  * Click the calendar <span class="btn btn-default btn-xs"> <i class="fa fa-calendar"> </i></span> button on the 'Start Date' control
   * Choose the desired date. 
 {% endhint %}
 

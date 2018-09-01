@@ -1,4 +1,5 @@
 # mdEditor User Manual
+##### Edition 2018-08-31
 ---
 ### Metadata Editor (mdEditor)
 mdEditor (metadata Editor) is an application that assists users in authoring and editing metadata for research projects, datasets, maps, images, and other documents. The main goal of mdEditor is to hide much of technical complexity involved in creating archival quality metadata records in standards published by ISO (International Standards Organization) and FGDC (Federal Geographic Data Committee.

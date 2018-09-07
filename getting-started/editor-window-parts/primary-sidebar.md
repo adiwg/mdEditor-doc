@@ -4,7 +4,7 @@
 ![The Primary Sidebar](/assets/get-started/primary-sidebar.png){caption}
 
 ### Show/Hide
-Toward the top of the <span class="md-window">Primary Sidebar</span> is the mdEditor logo.  Clicking on the logo will hide or show the <span class="md-window">Primary Sidebar</span> reversing its current state.  This may be helpful to gain more screen real estate while working from smaller devices.
+Toward the top of the <span class="md-window">Primary Sidebar</span> is the mdEditor logo.  Clicking on the logo will hide or show the <span class="md-window">Primary Sidebar</span>.  This may be helpful to gain more screen real estate while working from smaller devices.
 
 ![The Primary Sidebar Collapsed](/assets/get-started/primary-sidebar-collapse.png){caption}
 
@@ -29,7 +29,7 @@ Click on the pencil icon next to any object name to edit the object.  The color 
 {% endhint %} 
 
 {% hint style='tip' %}
-  When 'AutoSave' is turned on you will not see objects in red since all entries are automatically saved
+  When 'AutoSave' is turned on you will not see objects in red since all entries are automatically saved.
 {% endhint %}
   
 ### <i class="fa fa-list"> </i> Open Dashboard

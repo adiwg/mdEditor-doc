@@ -35,7 +35,7 @@ There are a few things to take notice of on the above window.
 
 Some panels, and even some sub-panels (panels within panels), have an 'Isolation' button.  Clicking this will visually isolate the panel and all its elements from the surrounding data by dimming information not in scope.  To return to normal viewing of the <span class="md-window">Edit Window</span> click on the 'Isolation' button again, or click anywhere off the isolated panel.  In the example below the <span class="md-panel">Basic Information</span> panel has been isolated.  Notice also that <span class="md-panel">Default Locale</span> is a sub-panel that can be isolated should you choose.  
 
-![Isonated Basic Information Panel](/assets/get-started/edit-window-isolate-panel.png){caption}
+![Isolated Basic Information Panel](/assets/get-started/edit-window-isolate-panel.png){caption}
 
 ---
 

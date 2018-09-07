@@ -1,7 +1,7 @@
 # Resume Entering Points Of Contact 
 ---
 
-Now that we have created a few contacts, let's pick up where we left off editing "My First Metadata Record".  The first order of business will be to get mdEditor refocused on <span class="md-panel">Points Of Contact</span> panel on the <span class="md-window">Edit Window</span> <span class="md-section">Main</span> section.
+Now that we have created a few contacts, let's pick up where we left off editing "My First Metadata Record".  The first order of business will be to get mdEditor refocused on the <span class="md-panel">Points Of Contact</span> panel on the <span class="md-window">Edit Window</span> <span class="md-section">Main</span> section.
 
 {% hint style='working' %}
   Open 'My First Metadata Record' to <span class="md-panel">Points Of Contact</span>
@@ -26,7 +26,7 @@ Your mdEditor screen should look very similar to the following:
   * Click in the <span class="md-element">contacts</span> selector and choose the individual contact you created in the previous step.
 {% endhint %}
 
-The metadata requirement for <span class="md-panel">Point Of Contact</span> been fulfilled.  But let's add a second <span class="md-panel">Point Of Contact</span> object to observe how these array-panels work.
+The metadata requirement for <span class="md-panel">Point Of Contact</span> has been fulfilled.  But let's add a second <span class="md-panel">Point Of Contact</span> object to observe how these array-panels work.
 
 {% hint style='working' %}
   Add a second <span class="md-panel">Point Of Contact</span> object

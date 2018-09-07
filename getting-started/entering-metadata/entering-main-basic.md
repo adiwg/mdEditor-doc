@@ -9,7 +9,7 @@ As it turns out, all of the <span class="md-panel">Basic Information</span> elem
 
 ### Record ID <i class="fa fa-asterisk required" title="Required"> </i>
 
-Let's skip editing the <span class="md-element">record id</span> for the moment.  It's value was assigned automatically when we created the record and we passed over an opportunity to change it at that time.  For this exercise, it's enough that there *is* a <span class="md-element">record id</span>.
+Let's skip editing the <span class="md-element">record id</span> for the moment.  Its value was assigned automatically when we created the record and we passed over an opportunity to change it at that time.  For this exercise, it's enough that there *is* a <span class="md-element">record id</span>.
 
 {% hint style='danger' %}
   Use caution whenever changing any <span class="md-element">record id</span>!  In mdJSON records are related to each other through their IDs.  If any associations have be made between records, such as attaching contacts to records, changing an ID could cause the associations to be broken.
@@ -19,7 +19,7 @@ Let's skip editing the <span class="md-element">record id</span> for the moment.
 
 <span class="md-element">title</span> was also entered when the new record was created.  We can, however, unlike <span class="md-element">record id</span>, change the <span class="md-element">title</span> without risk of breaking anything.  Change it now if you like.  Or leave it as is, I did. 
 {% hint style='working' %}
-   * Change the record title.
+   Change the record title.
 {% endhint %}
 
 {% hint style='info' %}
@@ -39,17 +39,17 @@ The <span class="md-element">status</span> element identifies the current status
   * Choose 'complete' from the <span class="md-element">status</span> control's list. 
   * Now add 'final' from the <span class="md-element">status</span> control's list.  Both tags will show in the control's display.
   * After deciding these sound a bit redundant, click the 'x' on 'final' tag to drop it from the list. 
-  * Add another status item not in the list.  Type 'releaseHold' in the status field and press enter.  A 'releaseHold' tag will appear along side the 'completed' tag.
+  * Add another status item not in the list.  Type 'releaseHold' in the status field and press enter.  A 'releaseHold' tag will appear alongside the 'completed' tag.
   * drop the 'releaseHold' tag also.
 {% endhint %}
 
 ### Default Locale <i class="fa fa-asterisk required" title="Required"> </i>
 
-Notice that <span class="md-panel">Default Locale</span> is actually a sub-panel, yes a panel in a panel!  This is another technique used throughout mdEditor.  <span class="md-panel">Default Locale</span> refers to the language, country, and encoding system of the metadata's resource.  Each of the elements (<span class="md-element">language</span>, <span class="md-element">country</span>, <span class="md-element">encoding system</span>) is supported by a standard drop-down selection list which allows one value to be selected.  As with <span class="md-element">status</span> above, you can enter your own value if needed.  
+Notice that <span class="md-panel">Default Locale</span> is actually a sub-panel, yes a panel in a panel!  This is another technique used throughout mdEditor.  <span class="md-panel">Default Locale</span> refers to the language, country, and encoding system of the metadata's resource.  Each of the elements (<span class="md-element">language</span>, <span class="md-element">country</span>, <span class="md-element">encoding system</span>) is supported by a standard drop-down selection list that allows one value to be selected.  As with <span class="md-element">status</span> above, you can enter your own value if needed.  
 
 For these three elements there are literally hundreds of values in the lists making it rather awkward to find what you need.  Further, the values themselves are short ISO standard codes whose meaning may not be immediately obvious.  Therefore, we attached descriptions to each item which are accessible by hovering over the dark-gray question mark ![](/assets/bullets/question-dark.png) next to the list item.  
 
-The standard drop-down controls also supports a search feature.  Click in the control and a search box will appear at the top of the list. Start typing what you are looking for and the list automatically refines to include only items that match you entry.  If nothing matches your search criteria just click 'Enter' and your custom entry will be accepted.
+The standard drop-down controls also support a search feature.  Click in the control and a search box will appear at the top of the list. Start typing what you are looking for and the list automatically refines to include only items that match you entry.  If nothing matches your search criteria just click 'Enter' and your custom entry will be accepted.
 
 {% hint style='working' %}
   Change the country from 'United States' to 'Canada'.

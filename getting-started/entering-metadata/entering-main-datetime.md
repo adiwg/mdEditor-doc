@@ -1,5 +1,5 @@
 # Entering Time Periods 
----
+DO NOT EDIT
 
 {% hint style='working' %}
   Navigate to the <span class="md-window">Edit Window</span> <span class="md-section">Main</span>

@@ -11,7 +11,7 @@ Let's run another translation on "My First Metadata Record".  This time choose t
 
 ![Translate Record Window with Warnings](/assets/get-started/translate-mdjson-3.png){caption}
 
-This time things do not go quite so well.  A 'Translation Warning' panel has popped up along with the expected 'Result' panel.  You are being warned that although you have met the requirements for a minimal mdJSON record, there are still one or more additional requirements needed to generate a valid ISO 19115-2 record.  
+This time things do not go quite so well.  A 'Translation Warning' panel has popped up along with the expected <span class="md-panel">Result</span> panel.  You are being warned that although you have met the requirements for a minimal mdJSON record, there are still one or more additional requirements needed to generate a valid ISO 19115-2 record.  
 
 No problem.  The messages informs us that we are missing a date for the main resource citation.  Let's break the message down by parts before we add the date.
 
@@ -35,7 +35,7 @@ Context tells us the offending citation is the "main resource citation".  Which 
 
 ---
 
-Let's add the missing date and try again.  
+Let's add the missing date.  
 
 {% hint style='working' %}
   Enter a main resource citation date.
@@ -48,13 +48,41 @@ Let's add the missing date and try again.
   * Save you edit if 'AutoSave' is not 'On'
 {% endhint %}
 
-Now let's go back and try the translation to ISO one more time ...
+With our citation date entered let's go back and try the translation to ISO one more time ...
 
 {% hint style='working' %}
-  Translate "My First Metadata Record" to ISO 19115-2
+  Translate "My First Metadata Record" to 'ISO 19115-2'
   * Click 'Translate' on the <span class="md-window">Primary Navigation Bar</span>
   * Choose 'ISO 11915-2' from the <span class="md-element">choose format</span> control
   * Click the <span class="btn btn-primary btn-sm"> <i class="fa fa-retweet"> </i> Translate</span> button.
 {% endhint %}
 
 Worked for me!  How about you?
+
+With a valid ISO 19115-2 record in <span class="md-panel">Result</span> preview panel let's export the metadata ISO record so it can be sent to a clearinghouse, repository, or publisher or our choice.  
+
+{% hint style='working' %}
+  Save the ISO 19115-2 metadata record.
+  * Click the <span class="btn btn-success btn-sm"> <i class="fa fa-floppy-o"> </i> Save Result</span> button.
+  * Check your computer's 'Downloads' folder for the metadata record.
+  * Move the file to a safe location on your computer.
+  * Rename the file if you like.
+{% endhint %}
+
+{% hint style='info' %}
+  The downloaded metadata file will have a filename format of {recordName}_{date}.{ext}.  As an example, the file I downloaded was named "My First Metadata Record_20180907.xml".
+{% endhint %}
+
+---
+
+{% hint style='working' %}
+  Extra Credit!
+  * Translate "My First Metadata Record" to 'FGDC CSDGM'
+{% endhint %}
+
+Now there are a lot of missing elements!  FGDC has more required elements than either mdJSON or ISO.  But we don't need to add all those missing elements for this exercise.  Let's just move on to 'Exporting Records'.
+
+{% hint style='info' %}
+  Each standard format has it's own set of requirements.  Getting your record ready for one standard will not guarantee it is ready for another.  Thankfully mdTranslator can sort that out for you by pointing out any missing required elements.
+{% endhint %}
+   

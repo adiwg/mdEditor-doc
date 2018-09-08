@@ -22,22 +22,22 @@ As you can see there are few controls on this page since translating from mdJSON
 {% endhint %}
 
 {% hint style='info' %}
-  Translation may take a minute or two.  The mdTranslator is hosted on a site that swaps mdTranslator out when not being actively used.  If it was swapped out you may need to wait while mdTranslator is loaded again before it runs your task. 
+  Translation may take a minute or two.  The mdTranslator is hosted by a website that swaps mdTranslator out of memory when it is not being actively used.  If it was swapped out you may need to wait while mdTranslator is loaded again before it runs your task. 
 {% endhint %}
 
 That's about all there is to it!
 
-When you click <span class="btn btn-primary btn-sm"> <i class="fa fa-retweet"> </i> Translate</span> button, the mdJSON record being edited in mdEditor (the record in memory) will be packaged up and set to mdTranslator for translation into into the format you requested, in this case 'HTML'.  The 'Translate Record' window will then wait for a response from mdTranslator and display the result in a small Result Preview panel as shown in the image below. 
+When you click <span class="btn btn-primary btn-sm"> <i class="fa fa-retweet"> </i> Translate</span> button, the mdJSON record being edited in mdEditor (the record in memory) will be packaged up and set to mdTranslator for translation into into the format you requested, in this case 'HTML'.  The 'Translate Record' window will then wait for a response from mdTranslator and display the result in a small <span class="md-panel">Result</span> preview panel as shown in the image below. 
 
 ![Translate Record Window - Preview Window](/assets/get-started/translate-mdjson-2.png){caption}
 
-The result preview panel is pretty small for viewing your record comfortably.  You can expand this window to fill the screen by clicking the expand window button in the upper-right corner of the Result Preview panel. 
+The <span class="md-panel">Result</span> preview panel is pretty small for viewing your record comfortably.  You can expand this into a full window by clicking the expand window button in the upper-right corner of the <span class="md-panel">Result</span> preview panel. 
 
 {% hint style='working' %}
-  Expand the result preview panel to full size.
-  * Click the expand window button in the upper-right corner of the Result Preview panel.
+  Expand the <span class="md-panel">Result</span> preview panel to full size.
+  * Click the expand window button in the upper-right corner of the <span class="md-panel">Result</span> preview panel.
   * Search the window for all the metadata you entered. 
-  * Shrink the Result window by clicking the expand window button again.
+  * Shrink the <span class="md-window">Result</span> window by clicking the expand window button again.
 {% endhint %} 
 
 {% hint style='tip' %}

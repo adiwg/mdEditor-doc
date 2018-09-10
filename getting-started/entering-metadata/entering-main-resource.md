@@ -3,9 +3,9 @@
 
 ![Editing Window - Main - Resource Types](/assets/get-started/edit-window-main-resource-1.png){caption}
 
-As you can see, not all panels have the isolation capability.  In general, this feature was not added to panels with few elements and <span class="md-panel">Resource Types</span> has only a single element.  
+As you can see, not all panels have the isolation capability.  In general, this feature was not added to panels with just a few elements. <span class="md-panel">Resource Types</span> has only a single element.  
 
-However, this single element is an *object* which has several elements of its own.  This is our first encounter with an *array-panel*; a panel that supports multiple objects of the same type.  So to get started we naturally need to 'Add' an object.
+However, this single element is an *object* that has several elements of its own.  This is our first encounter with an *array-panel*; a panel that supports multiple objects of the same type.  So to get started, we need to 'Add' an object.
 
 {% hint style='working' %}
   Add a <span class="md-panel">Resource Type</span> object to the array.

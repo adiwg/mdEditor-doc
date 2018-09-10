@@ -54,6 +54,6 @@ Each contact is assigned a unique ID.  This is the ID used to link this contact 
 
 ![Create New Contact Window](/assets/get-started/new-contact-ind-2.png){caption}
 
-After clicking <strong><span class="btn btn-success btn-sm"> <i class="fa fa-floppy-o"> </i> Save</span></strong> you are transferred to the mdEditor window for contact records.  Notice that the individual contact your just enter is colored green in the <span class="md-window">Primary Sidebar</span>.  This is because the record is clean!  There are no additional required elements.  To be sure, there are still a lot of contact elements that can be entered to further define our contact, but what we have is sufficient to return to editing our metadata record.  
+After clicking <strong><span class="btn btn-success btn-sm"> <i class="fa fa-floppy-o"> </i> Save</span></strong> you are transferred to the mdEditor window for contact records.  Notice that the individual contact you just entered is colored green in the <span class="md-window">Primary Sidebar</span>.  This is because the record is clean!  There are no additional required elements.  To be sure, there are still a lot of contact elements that can be entered to further define our contact, but what we have is sufficient to return to editing our metadata record.  
 
-Although we could return to entering metadata, let's add another contact first just so we have at least two.  This time we will make an 'Organization' contact. 
+Although we could return to entering metadata, let's add another contact first.  This time we will make an 'Organization' contact. 

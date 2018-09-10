@@ -19,11 +19,11 @@ Click the plus  <span class="btn btn-sm btn-primary"><i class="fa fa-plus"> </i>
   Notice that mdEditor has filled in a Record ID for you.  By default mdEditor assigns a [UUID](https://tools.ietf.org/html/rfc4122) (Universally Unique Identifier) as the Record ID.
 
   {% hint style='info' %}
-  You may change the record identifier later if you like; but it must be unique among all your metadata records otherwise there may be some confusion later on when using more advanced mdEditor features or publishing the metadata.  If you have a reliable record identification system, use it, otherwise best to keep the UUID.
+  You may change the record identifier later if you like, but it must be unique among all your metadata records otherwise there may be some confusion later on when using more advanced mdEditor features or publishing the metadata.  If you have a reliable record identification system, use it, otherwise best to keep the UUID.
   {% endhint %}
 
 1. ## Record Title <i class="fa fa-star required" title="Required"> </i>
-    This is the name you assign to the main resource described by this metadata record.  In addition to becoming part of your metadata record, the name will be used in the left side-bar to identify your record .
+    This is the name you assign to the main resource described by this metadata record.  In addition to becoming part of your metadata record, the name will be used in the left side-bar to identify your record.
 
   {% hint style='working' %}
   Enter your Record Title.

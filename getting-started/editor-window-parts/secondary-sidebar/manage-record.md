@@ -20,7 +20,7 @@ The 'Save' button will copy the active record in memory into browser cache.
 The 'Cancel' button will undo all changes made to your active metadata record since the last 'Save', i.e. will reload the active record from browser cache into memory replacing any changes made since it was last saved.  
 
 {% hint style='info' %}
-  If the AutoSave option is set to 'On' the 'Cancel' button will be deactivated.  This is because all changes were automatically saved to browser cache for you, the record in memory and the browser cache are identical.
+  If the AutoSave option is set to 'On' the 'Cancel' button will be deactivated.  This is because all changes were automatically saved to browser cache for you; the record in memory and the browser cache are identical.
 {% endhint %} 
 
 ### <span class="btn btn-info btn-sm"> <i class="fa fa-copy"> </i> Copy</span> Copy Record
@@ -38,4 +38,4 @@ Clicking 'Copy' will make a copy of the active record be it metadata, contact, o
 
 ### <span class="btn btn-danger btn-sm"> <i class="fa fa-times"> </i> Delete</span> Delete Record
 
-Delete will delete the active record from memory and browser cache, there is no 'Undo' for the delete function.  Clicking 'Delete' will change the button to <span class="btn btn-danger btn-sm"> <i class="fa fa-question"> </i> Confirm</span> to give you a chance to reconsider or recover from an errant click.
+Delete will delete the active record from memory and browser cache.   Clicking 'Delete' will change the button to <span class="btn btn-danger btn-sm"> <i class="fa fa-question"> </i> Confirm</span> to give you a chance to reconsider or recover from an errant click. There is no 'Undo' for the delete function.

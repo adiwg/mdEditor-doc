@@ -1,7 +1,7 @@
 # Entering Citations 
 ---
 
-The <span class="md-panel">Citation</span> we are editing in this step is the citation for the primary subject of this metadata record, a.k.a. the 'main resource'.   
+The <span class="md-panel">Citation</span> we are editing in this step is the citation for the primary subject of this metadata record, aka the 'main resource'.   
 
 ![Editing Window - Main - Main Resource Citation](/assets/get-started/edit-window-main-citation-1.png){caption}
 

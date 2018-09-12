@@ -6,7 +6,7 @@ Before we actually begin entering and editing metadata in mdEditor, let's spend 
 
 ## Where is my metadata?
 
-Because mdEditor is a web application \(runs in your internet browser\) you may quite naturally assume your data is being processed and saved in some far away cloud.  It is not.  All your data is being processed and stored on _your_ computer.  mdEditor is deployed as a web application primarily to avoid deployment and installation issues.  Each time you open your browser to mdEditor you are guaranteed to load the most recent version of the software -- you are always up-to-date.
+Because mdEditor is a web application (runs in your internet browser) you may quite naturally assume your data is being processed and saved in some far away cloud.  It is not.  All your data is being processed and stored on _your_ computer.  mdEditor is deployed as a web application primarily to avoid deployment and installation issues.  Each time you open your browser to mdEditor you are guaranteed to load the most recent version of the software -- you are always up-to-date.
 
 mdEditor exploits a feature in modern browsers to manage your data called browser cache.  Think of the browser cache as a temporary working space for your metadata.  Although we are calling browser cache _temporary_ it is not cleared unless you specifically request it to be cleared.  This can be done similar to the process you use to clear your browser history.
 
@@ -18,9 +18,9 @@ For more permanent storage of your metadata records after they have been polishe
 
 ## What format is my metadata?
 
-mdEditor saves metadata in a format we call '[mdJSON](https://mdtools.adiwg.org)'.  This is a metadata format we designed specifically for the Alaska Data Integration Working Group Metadata Toolkit ([ADIwg Metadata Toolkit](http://www.adiwg.org)) although its features make it attractive to other uses as well.  First, mdJSON is written in JavaScript Object Notation \([JSON](https://www.json.org)\) format.  JSON is the native data structure for JavaScript, and thus of internet browsers, and is how all browsers move data across the internet and process it internally.  It is also has broad support among programming languages, and can be read by humans with little difficulty, all making it a natural choice.
+mdEditor saves metadata in a format we call '[mdJSON](https://mdtools.adiwg.org)'.  This is a metadata format we designed specifically for the Alaska Data Integration Working Group Metadata Toolkit ([ADIwg Metadata Toolkit](http://www.adiwg.org)) although its features make it attractive to other uses as well.  First, mdJSON is written in JavaScript Object Notation ([JSON](https://www.json.org)) format.  JSON is the native data structure for JavaScript, and thus of internet browsers, and is how all browsers move data across the internet and process it internally.  It is also has broad support among programming languages, and can be read by humans with little difficulty, all making it a natural choice.
 
-It was necessary for us to create a new metadata standard because we chose to support output to multiple national and international standards.  No existing standard possessed the breadth of elements necessary to encompass all the standards we currently support and others that will be added in the future.  mdJSON is also extensible \(generally without breaking existing records\) and will be extended over time as additional output formats are supported.
+It was necessary for us to create a new metadata standard because we chose to support output to multiple national and international standards.  No existing standard possessed the breadth of elements necessary to encompass all the standards we currently support and others that will be added in the future.  mdJSON is also extensible (generally without breaking existing records) and will be extended over time as additional output formats are supported.
 
 ## How does my metadata get translated?
 

@@ -17,7 +17,7 @@ As you can see there are few controls on this page since translating from mdJSON
 
 {% hint style='working' %}
   Translate "My First Metadata Record" to HTML
-  * Choose 'HTML' from the <span class="md-element">choose format</span> control
+  * Choose 'HTML' from the <span class="md-element">Choose Format</span> control
   * Click the <span class="btn btn-primary btn-sm"> <i class="fa fa-retweet"> </i> Translate</span> button.
 {% endhint %}
 

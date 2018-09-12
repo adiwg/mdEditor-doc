@@ -2,7 +2,7 @@
 .md-section,
 .md-window,
 .md-element {
-  font-family: "Lucida Console", "Lucida Sans Typewriter", monaco, "Bitstream Vera Sans Mono", monospace;
+  font-family: arial, "Lucida Console", "Lucida Sans Typewriter", monaco, "Bitstream Vera Sans Mono", monospace;
   font-variant: normal;
   padding: 2px 4px;
 }
@@ -34,6 +34,7 @@
 .md-element {
   background-color: lighten($brand-success, 41);
   border-radius: 3px;
-  font-style: italic;
+  color: black;
+  font-weight: bold;
   font-size: smaller;
 }

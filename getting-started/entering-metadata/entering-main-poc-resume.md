@@ -22,8 +22,8 @@ Your mdEditor screen should look very similar to the following:
 
 {% hint style='working' %}
   Edit the new <span class="md-panel">Point Of Contact</span>
-  * Click in the <span class="md-element">role</span> selector control and choose 'administrator'.
-  * Click in the <span class="md-element">contacts</span> selector and choose the individual contact you created in the previous step.
+  * Click in the <span class="md-element">Role</span> selector control and choose 'administrator'.
+  * Click in the <span class="md-element">Contacts</span> selector and choose the individual contact you created in the previous step.
 {% endhint %}
 
 The metadata requirement for <span class="md-panel">Point Of Contact</span> has been fulfilled.  But let's add a second <span class="md-panel">Point Of Contact</span> object to observe how these array-panels work.
@@ -31,8 +31,8 @@ The metadata requirement for <span class="md-panel">Point Of Contact</span> has 
 {% hint style='working' %}
   Add a second <span class="md-panel">Point Of Contact</span> object
   * Click the <strong class="btn btn-info btn-xs"> <i class="fa fa-plus"> </i> Add</strong> button
-  * Click in the <span class="md-element">role</span> selector control and choose 'funder'
-  * Click in the <span class="md-element">contacts</span> selector and choose the organization contact created in the previous step 
+  * Click in the <span class="md-element">Role</span> selector control and choose 'funder'
+  * Click in the <span class="md-element">Contacts</span> selector and choose the organization contact created in the previous step 
 {% endhint %}
 
 ![Editing Window - Main - Points Of Contact with two objects](/assets/get-started/edit-window-main-poc-3.png){caption}

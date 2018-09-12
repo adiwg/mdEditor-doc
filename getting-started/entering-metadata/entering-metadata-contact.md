@@ -16,7 +16,7 @@ No surprise, <span class="md-panel">Metadata Contacts</span> are people and orga
 
 {% hint style='working' %}
   Enter a <span class="md-panel">Metadata Contacts</span>
-  * Enter a <span class="md-element">role</span> for the <span class="md-panel">Metadata Contacts</span>
+  * Enter a <span class="md-element">Role</span> for the <span class="md-panel">Metadata Contacts</span>
   * Choose a contact
 {% endhint %}
 

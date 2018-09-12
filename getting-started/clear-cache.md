@@ -13,7 +13,7 @@ Time to clear browser cache ...
 
 {% hint style='working' %}
   Open the <span class="md-window">Settings Window</span>.
-  * Click the <i class="fa fa-cog"> </i> 'Settings' button in the <span class="md-window">Primary Navigation Bar</span>.
+  * Click the <i class="fa fa-cog"> </i> "Settings" button in the <span class="md-window">Primary Navigation Bar</span>.
 {% endhint %}
 
 ![Settings Window](/assets/get-started/settings-clear-cache.png){caption}
@@ -24,7 +24,7 @@ Time to clear browser cache ...
   * Confirm the delete of ALL records.
 {% endhint %}
 
-mdEditor will reset and when it restarts there will be no 'Metadata Records', 'Contacts', or 'Dictionaries' found in browser cache.  This is verified by no records being indexed in the <span class="md-window">Primary Sidebar</span>.  Browser cache is empty.
+mdEditor will reset and when it restarts there will be no "Metadata Records", "Contacts", or "Dictionaries" found in browser cache.  This is verified by no records being indexed in the <span class="md-window">Primary Sidebar</span>.  Browser cache is empty.
 
 {% hint style='info' %}
   Browser cache can also be emptied by functions build into every browser.  Where this function is found is browser dependent.  It is generally grouped with other tools that clear browser history and cookies.  Make it a practice of saving your metadata records to local storage regularly to avoid unintended loss.  

@@ -9,7 +9,7 @@ Now that our very minimal metadata record can be translated into a valid, but eq
  
 {% hint style='working' %}
   Open the <span class="md-window">Export Window</span>.
-  * Click 'Export' on the <span class="md-window">Primary Navigation Bar</span>.
+  * Click "Export" on the <span class="md-window">Primary Navigation Bar</span>.
 {% endhint %}
 
 ![Export Window](/assets/get-started/export-record-1.png){caption}

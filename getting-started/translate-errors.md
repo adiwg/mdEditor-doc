@@ -5,7 +5,7 @@ Let's run another translation on "My First Metadata Record".  This time choose t
 
 {% hint style='working' %}
   Translate "My First Metadata Record" to ISO 19115-2
-  * Choose 'ISO 11915-2' from the <span class="md-element">choose format</span> control
+  * Choose 'ISO 11915-2' from the <span class="md-element">Choose Format</span> control
   * Click the <span class="btn btn-primary btn-sm"> <i class="fa fa-retweet"> </i> Translate</span> button.
 {% endhint %}
 
@@ -53,7 +53,7 @@ With our citation date entered let's go back and try the translation to ISO one 
 {% hint style='working' %}
   Translate "My First Metadata Record" to 'ISO 19115-2'
   * Click 'Translate' on the <span class="md-window">Primary Navigation Bar</span>
-  * Choose 'ISO 11915-2' from the <span class="md-element">choose format</span> control
+  * Choose 'ISO 11915-2' from the <span class="md-element">Choose Format</span> control
   * Click the <span class="btn btn-primary btn-sm"> <i class="fa fa-retweet"> </i> Translate</span> button.
 {% endhint %}
 

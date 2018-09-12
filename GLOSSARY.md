@@ -11,7 +11,7 @@ A temporary storage area in memory or on disk that holds the most recently downl
 
 ## Customization
 
-The ability afforded by open-source code to edit the code of an application \(in this case mdEditor\) according to the needs of the users.
+The ability afforded by open-source code to edit the code of an application (in this case mdEditor) according to the needs of the users.
 
 ## FGDC
 
@@ -20,7 +20,7 @@ Federal Geographic Data Committee
 
 ## FGDC CSDGM
 
-Federal Geographic Data Committee’s Content Standard for Digital Geospatial Metadata - FGDC-STD-001-1998 \(Includes Biological Data Profile\)  
+Federal Geographic Data Committee’s Content Standard for Digital Geospatial Metadata - FGDC-STD-001-1998 (Includes Biological Data Profile)  
 [https://www.fgdc.gov/metadata/csdgm/](https://www.fgdc.gov/metadata/csdgm/)
 
 ## HTML
@@ -37,17 +37,17 @@ Through its members, it brings together experts to share knowledge and develop v
 
 International Standards Organization Geographic Information - Feature Catalogue 19110:2005
 
-ISO 19110 defines the methodology for cataloguing feature types. It may be used as a basis for defining the universe of discourse being modelled in a particular application, or to standardize general aspects of real world features being modelled in more than one application. \(International Organization for Standardization \(2016\). **ISO 19110:2016**. Retrieved from: [https://www.iso.org/standard/57303.html](https://www.iso.org/standard/57303.html)\)
+ISO 19110 defines the methodology for cataloguing feature types. It may be used as a basis for defining the universe of discourse being modelled in a particular application, or to standardize general aspects of real world features being modelled in more than one application. (International Organization for Standardization (2016). **ISO 19110:2016**. Retrieved from: [https://www.iso.org/standard/57303.html](https://www.iso.org/standard/57303.html))
 
 ## ISO 19115-1
 
-Defines the schema required for describing geographic information and services by means of metadata. It provides information about the identification, the extent, the quality, the spatial and temporal aspects, the content, the spatial reference, the portrayal, distribution, and other properties of digital geographic data and services. \(International Organization for Standardization \(2014\). **ISO 19115-1:2014**. Retrieved from: [https://www.iso.org/standard/53798.html](https://www.iso.org/standard/53798.html)\)
+Defines the schema required for describing geographic information and services by means of metadata. It provides information about the identification, the extent, the quality, the spatial and temporal aspects, the content, the spatial reference, the portrayal, distribution, and other properties of digital geographic data and services. (International Organization for Standardization (2014). **ISO 19115-1:2014**. Retrieved from: [https://www.iso.org/standard/53798.html](https://www.iso.org/standard/53798.html))
 
 ## ISO 19115-2
 
 International Standards Organization Geographic Information - Metadata 19115-2:2009
 
-Extends the existing geographic metadata standard by defining the schema required for describing imagery and gridded data. It provides information about the properties of the measuring equipment used to acquire the data, the geometry of the measuring process employed by the equipment, and the production process used to digitize the raw data. This extension deals with metadata needed to describe the derivation of geographic information from raw data, including the properties of the measuring system, and the numerical methods and computational procedures used in the derivation. The metadata required to address coverage data in general is addressed sufficiently in the general part of ISO 19115.  \(International Organization for Standardization \(2009\). ISO 19115-2:2009. Retrieved from: [https://www.iso.org/standard/39229.html](https://www.iso.org/standard/39229.html)\)
+Extends the existing geographic metadata standard by defining the schema required for describing imagery and gridded data. It provides information about the properties of the measuring equipment used to acquire the data, the geometry of the measuring process employed by the equipment, and the production process used to digitize the raw data. This extension deals with metadata needed to describe the derivation of geographic information from raw data, including the properties of the measuring system, and the numerical methods and computational procedures used in the derivation. The metadata required to address coverage data in general is addressed sufficiently in the general part of ISO 19115.  (International Organization for Standardization (2009). ISO 19115-2:2009. Retrieved from: [https://www.iso.org/standard/39229.html](https://www.iso.org/standard/39229.html))
 
 ## JSON
 
@@ -71,11 +71,11 @@ A mdJSON file created by mdEditor that contains all of the information contained
 
 ## mdJSON
 
-ADIwg standard for encoding project and data metadata, based on JavaScript Object Notation \(JSON\).
+ADIwg standard for encoding project and data metadata, based on JavaScript Object Notation (JSON).
 
 ## mdJSON File
 
-An mdJSON file that is proprietary to the Metadata toolkit developed by the Alaska Data Integration Working Group \(ADIWG\), learn more at \[[https://adiwg.github.io/mdTools/](https://www.gitbook.com/book/adiwg/mdeditor/edit#)\].
+An mdJSON file that is proprietary to the Metadata toolkit developed by the Alaska Data Integration Working Group (ADIWG), learn more at \[[https://adiwg.github.io/mdTools/](https://www.gitbook.com/book/adiwg/mdeditor/edit#)\].
 
 ## mdTranslator
 
@@ -103,7 +103,7 @@ U.S. Geological Survey’s standard for documenting records ingested into Scienc
 
 ## ScienceBase
 
-A USGS collaborative scientific data and information management platform used directly by science teams. ScienceBase provides access to aggregated information derived from many data and information domains, including feeds from existing data systems, metadata catalogs, and scientists contributing new and original content. ScienceBase architecture is designed to help science teams and data practitioners centralize their data and information resources to create a foundation needed for their work. ScienceBase, both original software and engineered components, is released as an open source project to promote involvement from the larger scientific programming community both inside and outside the USGS. \(USGS \(2018\). _About ScienceBase._ Retrived from: [https://www.sciencebase.gov/about/content/about-sciencebase](https://www.sciencebase.gov/about/content/about-sciencebase)\).
+A USGS collaborative scientific data and information management platform used directly by science teams. ScienceBase provides access to aggregated information derived from many data and information domains, including feeds from existing data systems, metadata catalogs, and scientists contributing new and original content. ScienceBase architecture is designed to help science teams and data practitioners centralize their data and information resources to create a foundation needed for their work. ScienceBase, both original software and engineered components, is released as an open source project to promote involvement from the larger scientific programming community both inside and outside the USGS. (USGS (2018). _About ScienceBase._ Retrived from: [https://www.sciencebase.gov/about/content/about-sciencebase](https://www.sciencebase.gov/about/content/about-sciencebase)).
 
 ## URI
 

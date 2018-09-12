@@ -10,7 +10,7 @@ As your trained eye can now see, <span class="md-panel">Points Of Contact</span>
 
 ![Editing Window - Main - Points Of Contact](/assets/get-started/edit-window-main-poc-1.png){caption}
 
-<span class="md-panel">Point Of Contact</span> has two elements, <span class="md-element">role</span> and <span class="md-element">contacts</span>.  Both are required. 
+<span class="md-panel">Point Of Contact</span> has two elements, <span class="md-element">Role</span> and <span class="md-element">Contacts</span>.  Both are required. 
 
 {% hint style='info' %}
   Contacts throughout mdJSON, and therefore mdEditor, are referenced as 'responsibilities'.  A responsibility combines a role with one or more persons or organizations and a context.  In this instance the **context** is a "Point Of Contact for the resource", the **contact** is the persons or organizations to contact, and the **role** defines the boundaries of their responsibility.  Example, "contact John and Mary for information about funding".
@@ -18,11 +18,11 @@ As your trained eye can now see, <span class="md-panel">Points Of Contact</span>
 
 ### Role <i class="fa fa-asterisk required" title="Required"> </i>
 
-<span class="md-element">role</span> describes the specific area of responsibility for contact(s).  The control allows you to select from a list of predefined roles or to add a custom role of your own.  
+<span class="md-element">Role</span> describes the specific area of responsibility for contact(s).  The control allows you to select from a list of predefined roles or to add a custom role of your own.  
 
 ### Contacts <i class="fa fa-asterisk required" title="Required"> </i>
 
-<span class="md-element">contacts</span> is a multi-select control that allows you select one or more contacts you currently have loaded in mdEditor. 
+<span class="md-element">Contacts</span> is a multi-select control that allows you select one or more contacts you currently have loaded in mdEditor. 
 
 ---
 

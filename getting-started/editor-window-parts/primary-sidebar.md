@@ -29,7 +29,7 @@ Click on the pencil icon next to any object name to edit the object.  The color 
 {% endhint %} 
 
 {% hint style='tip' %}
-  When 'AutoSave' is turned on you will not see objects in red since all entries are automatically saved.
+  When "AutoSave" is turned on you will not see objects in red since all entries are automatically saved.
 {% endhint %}
   
 ### <i class="fa fa-list"> </i> Open Dashboard

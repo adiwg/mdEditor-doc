@@ -8,7 +8,7 @@
 The red asterisk after a panel name indicates that one or more or its elements is required in order to meet the minimal standard for a valid metadata record - or contact or dictionary depending on which record type you are being edited.  
 
 {% hint style='tip' %}
-  The red asterisk is also used within elements to identify which of the panel's elements are required.  
+  The red asterisk is also used within panels to identify the specific elements that are required.  
 {% endhint %}
 
 Many <span class="md-window">Edit Window</span> panels permit multiple instances of a panel's data.  These instances will be referred to as objects throughout the documentation.  <span class="md-panel">Points Of Contact</span> and <span class="md-panel">Credits</span> are some of the more obvious examples of repeating objects found in the <span class="md-window">Edit Window's</span> <span class="md-section">Main</span> section.  These array type panels are easily identified by two characteristics; first they each have a <strong class="btn btn-info btn-xs"> <i class="fa fa-plus"> </i> Add</strong> button on the right side of the panel title bar for inserting new objects; and second, they have a colored circle with an inscribed number following the panel name indication how may objects have been entered. The color of the circle provides information about the optionality of the objects.  The next three icons explain this significance.
@@ -21,7 +21,7 @@ The red circle indicates that at least one object for this panel is required and
 
 The orange circle indicates that objects for this panel are optional and none have yet been entered.
 
-### ![](/assets/bullets/count-blue.png) n Objects Found
+### ![](/assets/bullets/count-blue.png) Number of Objects Found
 
 The blue circle indicates that at least one object has been entered.  The number of objects entered is displayed inside the circle.  
 

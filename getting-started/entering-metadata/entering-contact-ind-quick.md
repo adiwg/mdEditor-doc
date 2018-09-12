@@ -9,7 +9,7 @@ If you haven't already done so, click the plus sign next to Contacts on the <spa
   In mdJSON, contacts are maintained separately from metadata records and dictionaries.  No information about a contact is ever entered in a metadata record.  This important feature allows contacts to be reused multiple times within a single metadata record or across multiple metadata records without the necessity of reentering his/her data each time the contact is referenced.  Or worse yet, trying to remember all the places a contact's data needs to edited when information changes.  Whenever a contact is needed for a metadata or dictionary record you will simply select the appropriate contact(s) from a list and mdEditor and mdTranslator will gather up all the pertinent information from the contact record for you, simple!  
 {% endhint %}
 
-The 'Create New Contact' window has three standard text controls and something new.  On this window <span class="md-element">Contact Type</span> is entered via a switch control ![](/assets/bullets/switch-left.png).  Clicking the control will move the switch indicator to the right ![](/assets/bullets/switch-right.png) and change <span class="md-element">contact type</span> from 'Individual' to 'Organization'.  Click it again and the original state is restored.  
+The "Create New Contact" window has three standard text controls and something new.  On this window <span class="md-element">Contact Type</span> is entered via a switch control ![](/assets/bullets/switch-left.png).  Clicking the control will move the switch indicator to the right ![](/assets/bullets/switch-right.png) and change <span class="md-element">contact type</span> from "Individual" to "Organization".  Click it again and the original state is restored.  
 
 {% hint style='working' %}
   * Click the switch control to change <span class="md-element">Contact Type</span> to 'Organization'
@@ -17,12 +17,12 @@ The 'Create New Contact' window has three standard text controls and something n
 {% endhint %} 
 
 {% hint style='tip' %}
-  Notice that when you change the <span class="md-element">Contact Type</span> from 'Individual' to 'Organization' the icon in the <span class="md-window">Primary Sidebar</span> changes from a single person <i class="fa fa-user"> </i> to a group <i class="fa fa-users"> </i>.  
+  Notice that when you change the <span class="md-element">Contact Type</span> from "Individual" to "Organization" the icon in the <span class="md-window">Primary Sidebar</span> changes from a single person <i class="fa fa-user"> </i> to a group <i class="fa fa-users"> </i>.  
 {% endhint %}
 
 ## Individual Contact
 
-An 'Individual' contact record collects pertinent contact information for a person including as name, address, phone numbers, email addresses, etc.  There are three required elements: <span class="md-element">Contact ID</span>, <span class="md-element">Name</span>, and <span class="md-element">position name</span>.
+An "Individual" contact record collects pertinent contact information for a person including as name, address, phone numbers, email addresses, etc.  There are three required elements: <span class="md-element">Contact ID</span>, <span class="md-element">Name</span>, and <span class="md-element">position name</span>.
 
 ### Contact ID <i class="fa fa-asterisk required" title="Required"> </i>
 
@@ -42,7 +42,7 @@ Each contact is assigned a unique ID.  This is the ID used to link this contact 
 
 {% hint style='working' %}
   Create an 'Individual' contact record
-  * Enter 'CID001' as the <span class="md-element">Contact ID</span>
+  * Enter "CID001" as the <span class="md-element">Contact ID</span>
   * Enter your name in <span class="md-element">Name</span>
   * Enter your position or title in <span class="md-element">Position Name</span>
   * Click <strong><span class="btn btn-success btn-sm"> <i class="fa fa-floppy-o"> </i> Save</span></strong>.
@@ -56,4 +56,4 @@ Each contact is assigned a unique ID.  This is the ID used to link this contact 
 
 After clicking <strong><span class="btn btn-success btn-sm"> <i class="fa fa-floppy-o"> </i> Save</span></strong> you are transferred to the mdEditor window for contact records.  Notice that the individual contact you just entered is colored green in the <span class="md-window">Primary Sidebar</span>.  This is because the record is clean!  There are no additional required elements.  To be sure, there are still a lot of contact elements that can be entered to further define our contact, but what we have is sufficient to return to editing our metadata record.  
 
-Although we could return to entering metadata, let's add another contact first.  This time we will make an 'Organization' contact. 
+Although we could return to entering metadata, let's add another contact first.  This time we will make an "Organization" contact. 

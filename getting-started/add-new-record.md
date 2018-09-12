@@ -44,7 +44,7 @@ Choose a resource type for the main resource described by this metadata record. 
 {% endhint %}
 
 {% hint style='info' %}
-  Notice the Resource Type block has a <span class="btn btn-info btn-sm"><i class="fa fa-plus"> </i> Add Resource Type</span> button.  Click this button to enter another resource type in cases where the resource is in multiple formats such as 'tabularDataset' and 'map'.
+  Notice the Resource Type block has a <span class="btn btn-info btn-sm"><i class="fa fa-plus"> </i> Add Resource Type</span> button.  Click this button to enter another resource type in cases where the resource is in multiple formats such as "tabularDataset" and "map".
 {% endhint %}
 
 ---

@@ -36,11 +36,11 @@ The <span class="md-element">Status</span> element identifies the current status
 
 {% hint style='working' %}
   Enter a status for metadata resource
-  * Choose 'complete' from the <span class="md-element">Status</span> control's list. 
-  * Now add 'final' from the <span class="md-element">Status</span> control's list.  Both tags will show in the control's display.
-  * After deciding these sound a bit redundant, click the 'x' on 'final' tag to drop it from the list. 
-  * Add another status item not in the list.  Type 'releaseHold' in the status field and press enter.  A 'releaseHold' tag will appear alongside the 'completed' tag.
-  * drop the 'releaseHold' tag also.
+  * Choose "complete" from the <span class="md-element">Status</span> control's list. 
+  * Now add "final" from the <span class="md-element">Status</span> control's list.  Both tags will show in the control's display.
+  * After deciding these sound a bit redundant, click the "x" on "final" tag to drop it from the list. 
+  * Add another status item not in the list.  Type "releaseHold" in the status field and press enter.  A "releaseHold" tag will appear alongside the 'completed' tag.
+  * drop the "releaseHold" tag also.
 {% endhint %}
 
 ### Default Locale <i class="fa fa-asterisk required" title="Required"> </i>
@@ -54,8 +54,8 @@ The standard drop-down controls also support a search feature.  Click in the con
 {% hint style='working' %}
   Change the country from 'United States' to 'Canada'.
   * Click in the country control
-  * Type 'ca'
+  * Type "ca"
   * Hover over the question mark to next to 'CAN' to confirm it is indeed the code for Canada
-  * Press 'Enter'
-  * You can leave the leave the 'Language' and 'Character Set' as they are or change them if you like.
+  * Press "Enter"
+  * You can leave the leave the "Language" and "Character Set" as they are or change them if you like.
 {% endhint %}

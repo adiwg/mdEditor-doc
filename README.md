@@ -4,13 +4,13 @@
 
 ---
 
-### Metadata Editor (mdEditor)
+### Metadata Editor \(mdEditor\)
 
-mdEditor (metadata Editor) is an application that assists users in authoring and editing metadata for research projects, datasets, maps, images, and other documents. The main goal of mdEditor is to hide much of the technical complexity involved in creating archival quality metadata records in standards published by ISO (International Standards Organization) and FGDC (Federal Geographic Data Committee).
+mdEditor \(metadata Editor\) is an application that assists users in authoring and editing metadata for research projects, datasets, maps, images, and other documents. The main goal of mdEditor is to hide much of the technical complexity involved in creating &gt;archival quality metadata records ~~in~~ that follow the standards published by ISO \(International Standards Organization\) and FGDC \(Federal Geographic Data Committee\).
 
-With mdEditor you can published metadata in any or all of the supported standards without specific knowledge of the standard.  mdEditor edits and saves all your metadata on your personal computer so there are no user IDs, passwords, logins, or fees. And your information is always private and secure. All you need to begin authoring and publishing metadata is an internet connection to load the most current version of mdEditor into your favorite internet browser.
+&gt;With mdEditor you can publish~~ed~~ metadata in any or all of the supported standards without specific knowledge of the standard.  mdEditor edits and saves all your metadata on your personal computer so there are no user IDs, passwords, logins, or fees. And your information is always private and secure. All you need to begin authoring and publishing metadata is an internet connection to load the most current version of mdEditor into your favorite internet browser.
 
-mdEditor works hard to conceal the complexity of computer software and metadata standards to allow metadata authors to focus on their metadata content. Even with the assistance of mdEditor, writing archival quality metadata is a difficult task that the requires metadata authors to know their projects and datasets thoroughly and take the time necessary to describe them adequately. We hope you find that mdEditor eases that task considerably. And once your content is entered, mdEditor can generate metadata in the standard of your choice with a single button click. Have fun!
+mdEditor works hard to conceal the complexity of computer software and metadata standards to allow metadata authors to &gt;focus on their metadata content. Even with the assistance of mdEditor, writing archival quality metadata is a challenging &gt;~~difficult~~ task that the requires metadata authors to know their projects and datasets thoroughly and take the time necessary to describe them adequately. We hope you find that mdEditor eases that task considerably. And once your content is entered, mdEditor can generate metadata in the standard of your choice with a single button click. Have fun!
 
 ---
 
@@ -24,5 +24,5 @@ mdEditor is just one tool in the larger ADIwg Metadata Toolkit. Information on l
 
 ### New to mdEditor or metadata authoring?
 
-If you are new to mdEditor and/or metadata authoring we strongly suggest you read the [Getting Started](getting-started.md) section of this manual. The "Getting Started" section will provide you with an orientation to help your understanding of how mdEditor can be used to edit and manage your metadata and contains a tutorial that will walks you through one possible workflow.
+If you are new to mdEditor and/or metadata authoring we strongly suggest you read the [Getting Started](getting-started.md) section of this manual. The "Getting Started" section will provide you with an orientation to help your understanding of how mdEditor can be used to edit &gt;and manage your metadata and contains a tutorial that will walk~~s~~ you through one possible workflow.
 

@@ -6,7 +6,7 @@ Before we actually begin entering and editing metadata in mdEditor, let's spend 
 
 ## Where is my metadata?
 
-Because mdEditor is a web application (runs in your internet browser) you may quite naturally assume your data is being processed and saved in some far away cloud.  It is not.  All your data is being processed and stored on _your_ computer.  mdEditor is deployed as a web application primarily to avoid deployment and installation issues.  Each time you open your browser to mdEditor you are guaranteed to load the most recent version of the software -- you are always up-to-date.
+Because mdEditor runs in your internet browser you may quite naturally assume your data is being processed and saved in some far away cloud.  It is not.  All your data is being processed and stored on _your_ computer.  mdEditor is deployed as a web application primarily to avoid deployment and installation issues.  Each time you open your browser to mdEditor you are guaranteed to load the most recent version of the software -- you are always up-to-date.
 
 mdEditor exploits a feature in modern internet browsers called browser cache.  Think of the browser cache as a temporary workspace for your metadata that is accessible to the mdEditor application.  Although we call browser cache _temporary_ it is not cleared unless it is specifically requested it to be cleared.  This can be done similar to the process you use to clear your browser history.
 

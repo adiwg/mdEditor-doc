@@ -26,6 +26,8 @@ Click on the pencil icon next to any object name to edit the object.  The color 
   * Green indicates the record is saved and contains no schema errors.
   * Orange indicates the record contains some schema errors.  
   * Red indicates the record's data has not been saved.
+  
+  Note that all the above colors will be a shade darker for a record currently being edited than for the other records in the <span class="md-window">Primary Sidebar</span>.
 {% endhint %} 
 
 {% hint style='tip' %}

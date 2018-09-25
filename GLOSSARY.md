@@ -101,6 +101,10 @@ A set of data that describes and gives information about other data.
 
 A server where metadata is published.
 
+## Record
+
+In mdJSON records can be one of three types; metadata record, contact, or dictionary.  All records that have been loaded into browser cache can be accessed from the <span class="md-window">Primary Sidebar</span>.    
+
 ## sbJSON
 
 U.S. Geological Survey’s standard for documenting records ingested into ScienceBase Catalog. The format used to define the attributes of ScienceBase items.

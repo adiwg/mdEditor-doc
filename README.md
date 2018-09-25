@@ -4,9 +4,9 @@
 
 ---
 
-### Metadata Editor \(mdEditor\)
+### Metadata Editor (mdEditor)
 
-mdEditor \(metadata Editor\) is an application that assists users in authoring and editing metadata for research projects, datasets, maps, images, and other documents. The main goal of mdEditor is to hide much of the technical complexity involved in creating archival quality metadata records that follow the standards published by ISO \(International Standards Organization\) and FGDC \(Federal Geographic Data Committee\).
+mdEditor (metadata Editor) is an application that assists users in authoring and editing metadata for research projects, datasets, maps, images, and other documents. The main goal of mdEditor is to hide much of the technical complexity involved in creating archival quality metadata records that follow the standards published by ISO (International Standards Organization) and FGDC (Federal Geographic Data Committee).
 
 With mdEditor you can publish metadata in any or all of the supported standards without specific knowledge of the standard.  mdEditor edits and saves all your metadata on your personal computer so there are no user IDs, passwords, logins, or fees. And your information is always private and secure. All you need to begin authoring and publishing metadata is an internet connection to load the most current version of mdEditor into your favorite internet browser.
 

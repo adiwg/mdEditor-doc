@@ -12,10 +12,10 @@ Toward the top of the <span class="md-window">Primary Sidebar</span> is the mdEd
 Clicking on the question mark icon will display help appropriate to the current page.  The help window will also provide a link back to the corresponding page in this document. 
 
 ### Object Overview
-Clicking on the object name, in this case a record, will change to an overview of the object's data.  Data cannot be edited from this read-only view.  
+Clicking on an object name, in this case a record, will change the display in the edit window to an overview of the object's data.  Data cannot be edited from this read-only view.  
 
 {% hint style='info' %}
-  In the above image the record name and icon are colored orange because the record contains schema errors.  This is to be expected since we just created the record.  In this case the record is missing a point-of-contact, citation, and other required elements.  To enter this missing information we use the edit mode as described in the next paragraph.
+  In "Image 1" above the record name and icon are colored orange because the record contains schema errors.  This is to be expected since we just created the record.  In this case the record is missing a point-of-contact, citation, and other required elements.  To enter this missing information we use the edit mode as described in the next paragraph.
 {% endhint %}
 
 

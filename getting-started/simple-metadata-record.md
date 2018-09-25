@@ -2,7 +2,7 @@
 
 ---
 
-In this section we will step through creating a simple metadata record.  Admittedly far too simple to serve as a meaningful metadata record in the real world, but just enough to give you an idea of how mdEditor works before examining any one of its features in detail. So open your browser and load mdEditor so you can see the Dashboard. See [Starting up mdEditor](starting-up-mdeditor.md) if you missed out on how to do this.
+In this section we will step through creating a simple metadata record.  Admittedly our record will be far too simple to serve as a meaningful metadata record in the real world, but will contain enough hands-on experience to give you and idea of how mdEditor works. Later on we'll examine the features of mdEditor in more detail. For now, open your browser and load mdEditor so you can see the Dashboard. See [Starting up mdEditor](starting-up-mdeditor.md) if you missed out hon how to do this.
 
 You should see something like this ...
 

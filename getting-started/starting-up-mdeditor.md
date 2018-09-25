@@ -34,7 +34,7 @@ This will bring you to the mdEditor home page shown below. The home page offers 
   * Click the big green button labeled <span class="btn btn-success">Try mdEditor now</span>.
 {% endhint %}
 
-You should now see the Dashboard of mdEditor.  This is the starting point in mdEditor for launching all tasks.  This is where you will start from each time you launch mdEditor.  What you actually see could look differently depending on your choice of browser and device.  Since mdEditor is smart enough to reconfigure the display based on available visual space, it will appear quite differently on your mobile device than on your large work place monitor.  However, don't take this as a recommendation to edit metadata from your mobile phone.
+You should now see the Dashboard of mdEditor, the starting point for accessing all tasks, and where you will begin each time you launch mdEditor. What you actually see could vary depending on your choice of browser and device. Since mdEditor is smart enough to reconfigure the display based on available visual space, it will look quite different on your mobile device from the way it appears on your large work-place monitor. However, don't take this as a recommendation to attempt editing metadata from your iPhone!
 
 ![The dashboard view.](/assets/get-started/dashboard.png){caption class=border}
 

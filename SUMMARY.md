@@ -45,6 +45,7 @@
                 * [Basic Information Panel](reference/edit-window/metadata-sections/main-panels/basic-info-panel.md) 
                 * [Default Locale Panel](reference/edit-window/metadata-sections/main-panels/locale-panel.md) 
                 * [Resource Types Panel](reference/edit-window/metadata-sections/main-panels/resource-type-panel.md) 
+                * [Points of Contact Panel](reference/edit-window/metadata-sections/main-panels/poc-panel.md) 
             * [Metadata Section](reference/edit-window/metadata-sections/metadata-section.md)      
         * [Contact Records](reference/edit-window/contact-record.md)      
         * [Dictionary Records](reference/edit-window/dictionary-record.md)

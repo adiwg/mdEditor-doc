@@ -9,10 +9,8 @@ The <span class="md-section">Main</span> section of the <span class="md-window">
 
  * [<span class="md-panel" style="font-size: larger">Resource Types</span>](main-panels/resource-type-panel.md)
 
- * [<span class="md-panel" style="font-size: larger">Points of Contact</span>](main-panels/resource-type-panel.md)
+ * [<span class="md-panel" style="font-size: larger">Points of Contact</span>](main-panels/poc-panel.md)
 
-
-<span class="md-panel" style="font-size: larger">Points of Contact</span>
 
 <span class="md-panel" style="font-size: larger">Citation</span>
 

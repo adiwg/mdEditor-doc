@@ -25,7 +25,7 @@ You may use the recent version of any internet browser that supports [HTML5](htt
   * [https://www.mdEditor.org](https://www.mdEditor.org)
 {% endhint %}
 
-This will bring you to the mdEditor home page shown below. The home page offers a brief orientation to mdEditor as well as links to important supporting resources and other propaganda - scrolled below the image, and most importantly, a link to load mdEditor.
+This will bring you to the mdEditor home page shown below. The home page offers a brief orientation to mdEditor as well as links to important supporting resources and other propaganda - scroll below the image - and most importantly, a link to load mdEditor.
 
 ![The mdEditor homepage.](/assets/get-started/homepage.png){caption class=border}
 

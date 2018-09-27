@@ -5,7 +5,7 @@
 ![The Primary Navigation Bar](/assets/get-started/primary-nav.png){caption}
 
 {% hint style='info' %}
-  Not all <span class="md-window">Primary Navigation Bar</span> button are available from every window.  For instance "Translate" is not available from the "Dashboard".  If a button seems missing, don't panic, look around, you're likely just in the wrong place!
+  Not all <span class="md-window">Primary Navigation Bar</span> buttons are available from every window.  For instance "Translate" is not available from the "Dashboard".  If a button seems missing, don't panic, look around, you're likely just in the wrong place!
 {% endhint %}
 
 ### <i class="fa fa-tachometer"> </i> Dashboard

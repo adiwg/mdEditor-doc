@@ -69,6 +69,10 @@ Words used in an information retrieval system to indicate the content of a docum
 
 The user's standard storage system of directories, files, and folders.  Local Storage may be on a user's hard drive or SSD (Solid State Device).  In this document the term Local Storage is also meant to include any network storage accessible by the user.
 
+## Markdown
+
+Markdown is a lightweight markup language with plain text formatting syntax. It is designed so that it can be converted to HTML and many other formats using a tool by the same name.
+
 ## mdEditor
 
 Web application for authoring and editing metadata, for both projects and datasets.

@@ -12,28 +12,28 @@ You should see something like this ...
   
 ![The newly created, unsaved record](/assets/get-started/new-record.png){caption}
 
-The "Create New Record" form collects the minimal information mdEditor requires to save a new metadata record.  This minimal information is, of course, not sufficient to meet the minimum of any metadata standard, but just enough that you and mdEditor can find it for editing.
+The "Create New Record" form collects the minimal information mdEditor requires to save a new metadata record.  This minimal information is, of course, not sufficient to meet the minimum of any metadata standard, but just enough that you and mdEditor can find the record for editing.
 
 {% hint style='info' %}
-This same behavior applies to "Contacts" and "Dictionaries" which we will discuss later.  For now just add a new metadata record.
+> "Contacts" and "Dictionaries" are added in a similar manner.  We'll discuss these items later;  for now, just add a new metadata record.
 {% endhint %}
 
 #### Record ID <i class="fa fa-asterisk required" title="Required"> </i>
 Notice that mdEditor has filled in a Record ID for you.  By default mdEditor assigns a [UUID](https://tools.ietf.org/html/rfc4122) (Universally Unique Identifier) as the Record ID.
 
 {% hint style='info' %}
-  You may change the record identifier later if you like, but it must be unique among all your metadata records otherwise there may be some confusion later on when using more advanced mdEditor features or publishing the metadata.  If you have a reliable record identification system, use it, otherwise best to keep the UUID.
+  You may change the Record ID later if you like, but it must be unique among all your metadata records otherwise there may be some confusion later on when using more advanced mdEditor features or publishing the metadata.  If you have a reliable record identification system, use it, otherwise best to keep the UUID.
 {% endhint %}
 
 #### Record Title <i class="fa fa-asterisk required" title="Required"> </i>
-This is the name you assign to the main resource described by this metadata record.  In addition to becoming part of your metadata record, the name will be used in the left side-bar to identify your record.
+> This is the title you assign to the resource described by this metadata record.  In addition to becoming part of your metadata record, the title will be used in the left side-bar to identify your record.
 
 {% hint style='working' %}
   Enter your Record Title.
 {% endhint %}
 
 {% hint style='info' %}
-  Notice the record title appears in the left side-bar as you type the name in the edit panel.  The left side-bar is where you may find and gain access to this record when you want to continue editing.
+> Notice the record title appears in the left side-bar as you type the title in the edit panel.  When you want to access the record later, you'll do that from the left side-bar.
 {% endhint %}
 
 #### Resource Types <i class="fa fa-asterisk required" title="Required"> </i>

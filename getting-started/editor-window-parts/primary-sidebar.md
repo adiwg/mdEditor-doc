@@ -35,13 +35,13 @@ Click on the pencil icon next to any object name to edit the object.  The color 
 {% endhint %}
   
 ### <i class="fa fa-list"> </i> Open Dashboard
-Click the list icon to display a list of all objects of the associated type.  This dashboard will provide you the ability to apply certain actions such as show, edit, delete, and preview to any of the listed options.  
+> Click the list icon to display a dashboard with a list of all objects of the associated type.  This dashboard will allow you to Show, Edit, Delete, Preview, or review errors for any of the objects listed.  
 
 {% hint style='tip' %}
   The dashboard can be particularly helpful when you have more objects than can be displayed in the Primary Sidebar or when you want to apply an action to more than one object at a time.
 {% endhint %}
 
-### <i class="fa fa-plus"> </i> Add New Object>
+### <i class="fa fa-plus"> </i> Add New Object
 Click the plus icon to create a new object of the associated type.
 
 ### <span><strong class="fa fa-angle-down"> <strong class="fa fa-angle-up"></span> Expand & Collapse List

@@ -12,7 +12,7 @@ The <span class="md-window">Record Management</span> buttons provide a means of 
 The 'Save' button will copy the active record in memory into browser cache. 
 
 {% hint style='info' %}
-  If the AutoSave option is set to 'On' the 'Save' button will be deactivated.  This is because all changes are automatically saved to browser cache for you, there is nothing to save!  This is the default mode and can be overridden on the 'Settings' panel.
+  If the AutoSave option is set to 'On' the 'Save' button will be deactivated.  This is because all changes are automatically saved to browser cache for you, so there is nothing else to save!  This is the default mode and can be overridden on the 'Settings' panel.
 {% endhint %} 
 
 ### <span class="btn btn-warning btn-sm"> <i class="fa fa-undo"> </i> Cancel</span> Cancel Unsaved Changes
@@ -33,7 +33,7 @@ Clicking 'Copy' will make a copy of the active record be it metadata, contact, o
   * Click 'Save' - you are now editing the copied record.
   * Click 'Delete' - we don't need to save this record.
   * Click 'Confirm' - to complete the delete
-  * This is the Dashboard for Metadata Records.  Click 'Edit' to return to editing 'My First Metadata Record'.
+  * The Dashboard for Metadata Records is displayed.  Click 'Edit' to return to editing 'My First Metadata Record'.
 {% endhint %}
 
 ### <span class="btn btn-danger btn-sm"> <i class="fa fa-times"> </i> Delete</span> Delete Record

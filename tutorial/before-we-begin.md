@@ -8,7 +8,7 @@ Before we actually begin entering and editing metadata in mdEditor, let's spend 
 
 Because mdEditor runs in your internet browser you may quite naturally assume your data is being processed and saved in some far away cloud.  It is not.  All your data is being processed and stored on _your_ computer.  mdEditor is deployed as a web application primarily to avoid deployment and installation issues.  Each time you open your browser to mdEditor you are guaranteed to load the most recent version of the software -- you are always up-to-date.
 
-> mdEditor exploits a feature in modern internet browsers called browser cache.  Think of the browser cache as a temporary workspace for your metadata that is accessible to the mdEditor application.  Although we call browser cache _temporary_ it is not cleared unless it is specifically requested to be cleared.  The process used to clear the browser cache is similar to the process you use to clear your browser history.
+mdEditor exploits a feature in modern internet browsers called browser cache.  Think of the browser cache as a temporary workspace for your metadata that is accessible to browser applications like mdEditor.  Although we call browser cache _temporary_ it is not cleared unless it is specifically requested to be cleared.  The process used to clear the browser cache is very similar to the process you use to clear your browser history and the two are generally co-located.
 
 For more permanent storage of your metadata records after they have been polished to your satisfaction, mdEditor provides two facilities appropriately named 'Export' and 'Import'.  Export moves metadata from browser cache to a local storage folder/file of your specification on your hard-drive or SSD.  Import does the opposite, moves metadata records from your hard-drive or SSD back into browser cache for mdEditor to have access.  Of course these local storage locations may be a network server or another networked storage device if you desire.
 
@@ -25,5 +25,3 @@ It was necessary for us to create the new mdJSON metadata standard because we ne
 ## How does my metadata get translated?
 
 We call the process of converting mdJSON into another metadata standard 'translation'.  To assist you in translating mdJSON into ISO or other metadata standards, mdEditor provides a translate feature, 'mdTranslator'.  mdTranslator is another tool in the ADIwg Metadata Toolkit that resides as a publicly hosted web service seamlessly integrated with mdEditor.  Ask mdEditor to translate your metadata record into ISO 19115-2 format, for instance, and it will connect with mdTranslator, forward your mdJSON metadata record, wait for, and catch the returned ISO metadata record.  And all in one step for you!
-
-OK, let's start this thing up!

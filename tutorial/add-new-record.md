@@ -15,7 +15,7 @@ You should see something like this ...
 The "Create New Record" form collects the minimal information mdEditor requires to save a new metadata record.  This minimal information is, of course, not sufficient to meet the minimum of any metadata standard, but just enough that you and mdEditor can find the record for editing.
 
 {% hint style='info' %}
-> "Contacts" and "Dictionaries" are added in a similar manner.  We'll discuss these items later;  for now, just add a new metadata record.
+"Contacts" and "Dictionaries" are added in a similar manner.  We'll discuss these items later; for now, just add a new metadata record.
 {% endhint %}
 
 #### Record ID <i class="fa fa-asterisk required" title="Required"> </i>
@@ -26,18 +26,18 @@ Notice that mdEditor has filled in a Record ID for you.  By default mdEditor ass
 {% endhint %}
 
 #### Record Title <i class="fa fa-asterisk required" title="Required"> </i>
-> This is the title you assign to the resource described by this metadata record.  In addition to becoming part of your metadata record, the title will be used in the left side-bar to identify your record.
+Here is where you will assign a title that will describe the main resource of this metadata record.  In addition to becoming part of your metadata record, this title will also be used in the left side-bar to identify and access your record.
 
 {% hint style='working' %}
   Enter your Record Title.
 {% endhint %}
 
 {% hint style='info' %}
-> Notice the record title appears in the left side-bar as you type the title in the edit panel.  When you want to access the record later, you'll do that from the left side-bar.
+Notice the record title appears in the left side-bar as you type the title in the edit panel.  When you want to access the record in the future, you'll do that from the left side-bar.
 {% endhint %}
 
 #### Resource Types <i class="fa fa-asterisk required" title="Required"> </i>
-Choose a resource type for the main resource described by this metadata record.  You may optionally provide a name for the resource.
+Choose a resource type for the main resource described by this metadata record.  Resource type describes the broad category of the main resource, e.g. "dataset", "project", "software", or "sciencePaper".  The select control will provide these and other resource types for you to choose from.   You may optionally provide a name for the resource.
 
 {% hint style='working' %}
   Enter a Resource Type and Resource Name.

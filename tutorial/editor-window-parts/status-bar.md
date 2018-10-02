@@ -5,7 +5,7 @@ The <span class="md-window">Status Bar</span> is always present at the bottom of
 
 ![The Status Bar](/assets/get-started/status-bar.png){caption}
 
-### Issue Reporting and Tracking <span class="btn btn-warning btn-xs"> <i class="fa fa-github"> </i> Report Issue</span> 
+### <span class="btn btn-warning btn-xs"> <i class="fa fa-github"> </i> Report Issue</span> Issue Reporting and Tracking 
 
 Issue you encounter while using mdEditor can be reported and tracked using the 'Report Issue' button.  This will open to a page of known mdEditor issues and provide a means of posting to an existing issue or creating a new issue if warranted. 
 

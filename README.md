@@ -21,8 +21,3 @@ The "mdEditor User Manual" is intended to be a companion to scientists, research
 mdEditor is just one tool in the larger ADIwg Metadata Toolkit. Information on local implementations, customization, and extensions will not be covered in this manual. For information on the Metadata Toolkit please refer to [mdBook](https://legacy.gitbook.com/book/adiwg/mdbook/details).
 
 ---
-
-### New to mdEditor or metadata authoring?
-
-If you are new to mdEditor and/or metadata authoring we strongly suggest you read the [Getting Started](getting-started.md) section of this manual. The "Getting Started" section will provide you with an orientation to help your understanding of how mdEditor can be used to edit and manage your metadata and contains a tutorial that will walk you through one possible workflow.
-

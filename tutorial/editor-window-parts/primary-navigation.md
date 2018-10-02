@@ -1,6 +1,6 @@
 # Primary Navigation Bar
 ---
-> The <span class="md-window">Primary Navigation Bar</span> is the top-most navigation bar, which has been outlined with a yellow rectangle in the image below.  This bar contains buttons that navigate you away from the Edit View (or whichever view you happen to be on at the time) to other facilities within mdEditor. 
+The <span class="md-window">Primary Navigation Bar</span> is the top-most navigation bar, which has been outlined with a yellow rectangle in the image below.  This bar contains buttons that navigate you away from the Edit View (or whichever view you happen to be on at the time) to other facilities within mdEditor. 
 
 ![The Primary Navigation Bar](/assets/get-started/primary-nav.png){caption}
 
@@ -33,7 +33,6 @@ Profile is the exception that does not navigate away from the Edit View. Profile
 {% hint style='tip' %}
   Custom profiles can be written to meet the requirements of an organization or the specifications of a particular resource type.
 {% endhint %}
-
 
 ### <i class="fa fa-cog"> </i> Settings 
 The settings button will take you to the Settings View, where you'll find options that modify the default behavior of mdEditor.

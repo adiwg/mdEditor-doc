@@ -9,4 +9,4 @@ Let's begin by describing the plethora of buttons and informational icons on the
 
 Notice that in general, information icons appear on the left hand side of <span class="md-window">Panel Title Bars</span> following the panel title.  Buttons appear on the right side of the <span class="md-window">Panel Title Bar</span>.  Both the icons and buttons pertain only to the contents of their respective panels.  
 
-Let's divide the introduction of icons and buttons up and discuss each separately over the next few pages.  
+Let's divide up the introduction of icons and buttons and discuss each separately over the next few pages.  

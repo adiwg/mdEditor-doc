@@ -3,7 +3,7 @@
 
 In this image of the <span class="md-window">Edit Window</span> <span class="md-section">Main</span> section all the panels have been collapsed.  I have done this to make our discussion easier to follow, but it's not necessary for you to do this in completing the exercise.    
 
-![Editing Window - Main Section](/assets/get-started/edit-window-main-collapsed.png){caption}
+![Edit Window - Main Section](/assets/get-started/edit-window-main-collapsed.png){caption}
 
 There are several ways to find the required elements on any <span class="md-window">Edit Window</span> section.  Remember the icons on the <span class="md-window">Panel Title Bars</span>?  The icons remind us we need to visit each panel with a red asterisk <i class="fa fa-asterisk required"> </i> to fill in the panel's required elements; and that we need to add at least one object to panels with a red zero ![](/assets/bullets/count-red.png).  
 

@@ -3,7 +3,7 @@
 
 The <span class="md-panel">Citation</span> we are editing in this step is the citation for the primary subject of this metadata record, aka the 'main resource'.   
 
-![Editing Window - Main - Main Resource Citation](/assets/get-started/edit-window-main-citation-1.png){caption}
+![Edit Window - Main - Main Resource Citation](/assets/get-started/edit-window-main-citation-1.png){caption}
 
 As you can see, something is different with this panel. The <span class="md-panel">Citation</span> panel does not have any editable element controls.  Instead the panel is showing us a view of some the citation's elements.  Why is this?
 
@@ -20,7 +20,7 @@ To edit the <span class="md-panel">Citation</span> object we just need to click 
   * Click either the <strong class="btn btn-success btn-xs"> <i class="fa fa-pencil"> </i> Edit</strong> button on the <span class="md-window">Panel Title Bar</span> or the one at the bottom of the panel.
 {% endhint %}
 
-![Editing Window - Citation](/assets/get-started/edit-window-main-citation-2.png){caption}
+![Edit Window - Citation](/assets/get-started/edit-window-main-citation-2.png){caption}
 
 You should now be looking at the <span class="md-section">Citation</span> edit window as shown in the above image.  Notice the <span class="md-window">Edit Window</span> title has changed from "Editing *My First Metadata Record*" to "Editing Citation"; also the path on the <span class="md-window">Breadcrumb Bar</span> confirms that you have navigated to the <span class="md-section">Citation</span> branch of the <span class="md-section">Main</span> <span class="md-window">Edit Window</span>.  
 

@@ -13,9 +13,9 @@ These buttons decrement or increment the month by one.
 
 If you need to jump backwards or forwards by more than a few months, click the "Month" button.  The control will display buttons for all the months of the current year.  Click the desired month.
 
-But what if you need the month to be in a different year?  Notice that the "Month" button has now became a "Year" button.  The same rules will apply.  You can increment or decrement the year by one before selecting the correct year.  
+But what if you need the month to be in a different year?  Notice that the "Month" button has now become a "Year" button.  The same rules will apply.  You can increment or decrement the year by one before selecting the correct year.  
 
-Need to jump even farther back or ahead in time?  Click the "Year" button and range of years is displayed and the "Year" button becomes a "Year-Range" button.  
+Need to jump even farther back or ahead in time?  Click the "Year" button and a range of years is displayed and the "Year" button becomes a "Year-Range" button.  
 
 ### <i class="fa fa-clock-o"> </i> Time Picker
 

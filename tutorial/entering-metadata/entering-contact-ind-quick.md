@@ -6,14 +6,14 @@ If you haven't already done so, click the plus sign next to Contacts on the <spa
 ![Create New Contact Window](/assets/get-started/new-contact-ind-1.png){caption}
 
 {% hint style='info' %}
-  In mdJSON, contacts are maintained separately from metadata records and dictionaries.  No information about a contact is ever entered in a metadata record.  This important feature allows contacts to be reused multiple times within a single metadata record or across multiple metadata records without the necessity of reentering the contact's information each time the contact is referenced.  Or worse yet, trying to remember all the places a contact's data needs to edited when information changes.  Whenever a contact is needed for a metadata or dictionary record you will simply select the appropriate contact(s) from a list and mdEditor and mdTranslator will gather up all the pertinent information from the contact record for you - simple!  
+  In mdJSON, contacts are maintained separately from metadata records and dictionaries.  No information about a contact is ever entered in a metadata record.  This important feature allows contacts to be reused multiple times within a single metadata record or across multiple metadata records without the necessity of reentering the contact's information each time the contact is referenced.  Or worse yet, trying to remember all the places a contact's data needs to be edited when information changes.  Whenever a contact is needed for a metadata or dictionary record you will simply select the appropriate contact(s) from a list and mdEditor and mdTranslator will gather up all the pertinent information from the contact record for you - simple!  
 {% endhint %}
 
 The "Create New Contact" window has three standard text controls and something new.  On this window <span class="md-element">Contact Type</span> is entered via a switch control ![](/assets/bullets/switch-left.png).  Clicking the control will move the switch indicator to the right ![](/assets/bullets/switch-right.png) and change <span class="md-element">contact type</span> from "Individual" to "Organization".  Click it again and the original state is restored.  
 
 {% hint style='working' %}
-  * Click the switch control to change <span class="md-element">Contact Type</span> to 'Organization'
-  * Click the control again to change <span class="md-element">Contact Type</span> back to 'Individual'
+  * Click the switch control to change <span class="md-element">Contact Type</span> to "Organization"
+  * Click the control again to change <span class="md-element">Contact Type</span> back to "Individual"
 {% endhint %} 
 
 {% hint style='tip' %}

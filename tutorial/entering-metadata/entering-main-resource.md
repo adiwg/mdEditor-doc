@@ -33,7 +33,7 @@ A <span class="md-panel">Resource Type</span> object with its two elements was c
 {% endhint %}
 
 {% hint style='tip' %}
-  Notice that when you assign or change the resource <span class="md-element">Type</span>, the icon preceding the record name in the <span class="md-window">Primary Sidebar</span> also changes.  In this instance it changes to a table or grid <i class="fa fa-table"> </i> to represent a tabular dataset.  Most resource types are assigned an icon; although some may require a little imagination to visualize the association.  The icons are provided to help jog your mind when scanning lists of records or contacts you may not have seen in a while.  
+  Notice that when you assign or change the resource <span class="md-element">Type</span>, the icon preceding the record name in the <span class="md-window">Primary Sidebar</span> also changes.  In this instance it changes to a table or grid <i class="fa fa-table"> </i> to represent a tabular dataset.  Most resource types are assigned an icon although some may require a little imagination to visualize the association.  The icons are provided to help jog your mind when scanning lists of records or contacts you may not have seen in a while.  
 {% endhint %}
 
 ### Name 

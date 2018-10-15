@@ -5,7 +5,7 @@ The <span class="md-panel">Metadata Contact</span> is our last requirement for a
 
 {% hint style='working' %}
   Change the <span class="md-window">Edit Window</span> to the <span class="md-section">Metadata</span> section.
-  * Click 'Metadata' on the <span class="md-window">Secondary Navigation Bar</span>
+  * Click "Metadata" on the <span class="md-window">Secondary Navigation Bar</span>
 {% endhint %}
 
 ![Editing Window - Metadata - Metadata Contact](/assets/get-started/edit-window-metadata-contact.png){caption}
@@ -24,4 +24,4 @@ No surprise, <span class="md-panel">Metadata Contacts</span> are people and orga
   Verify that your metadata record is no longer missing any required elements.  The ![](/assets/bullets/bang-orange.png) following the <span class="md-window">Edit Window</span> title, "Editing Metadata Information", should have been removed and the record title, "My First Metadata Record" in the <span class="md-window">Primary Sidebar</span> should now be green.   
 {% endhint %}
 
-Although all the required elements are entered, there is one more control worth discussing before closing out the topic of basic editing; the date-time control.  Let's look at that next - and last ...
+Although all the required elements are entered, there is one more control worth discussing before closing out the topic of basic editing: the date-time control.  Let's look at that next - and last ...

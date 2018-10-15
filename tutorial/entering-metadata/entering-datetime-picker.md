@@ -45,7 +45,7 @@ Numbers inside the dashed rectangle represent the hours, minutes, and seconds.  
 
 ### <span><strong class="fa fa-angle-up"> <strong class="fa fa-angle-down"></span> Increase / Decrease
 
-These up and down arrow increment and decrement the hours, minutes, and seconds by one.  
+These up and down arrows increment and decrement the hours, minutes, and seconds by one.  
 
 ### <i class="fa fa-trash"> </i> Clear Date and Time
 
@@ -59,7 +59,7 @@ This button will clear both the date and time, not just the time.
 {% endhint %}
 
 {% hint style='tip' %}
-  Entering an <span class="md-element">End Date</span> which occurs before the <span class="md-element">Start dDate</span> will be flagged as an error by mdEditor.  
+  Entering an <span class="md-element">End Date</span> that occurs before the <span class="md-element">Start dDate</span> will be flagged as an error by mdEditor.  
 {% endhint %}
 
 We will cover the other elements of the <span class="md-panel">Time Period</span> object in a later section.  For now, we can rejoice in that we have completed our minimal mdJSON metadata record, and learned quite a bit about how mdEditor functions in the process.  Now it's time to see some of what we can do with it!

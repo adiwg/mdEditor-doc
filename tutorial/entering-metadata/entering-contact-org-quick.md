@@ -2,9 +2,9 @@
 ---
 
 {% hint style='working' %}
-  Add an "Organization" contact
+  Add an "Organization" contact:
   * Click the "Add New Contact" button (the plus sign to the right of "Contacts" on the <span class="md-window">Primary Sidebar</span>)
-  * Click the <span class="md-element">Contact Type</span> switch to make this an 'Organization' contact
+  * Click the <span class="md-element">Contact Type</span> switch to make this an "Organization" contact
 {% endhint %}
 
 ![Create New Contact Window](/assets/get-started/new-contact-org-1.png){caption}

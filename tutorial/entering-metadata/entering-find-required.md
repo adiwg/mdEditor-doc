@@ -5,9 +5,9 @@ In this image of the <span class="md-window">Edit Window</span> <span class="md-
 
 ![Edit Window - Main Section](/assets/get-started/edit-window-main-collapsed.png){caption}
 
-There are several ways to find the required elements on any <span class="md-window">Edit Window</span> section.  Remember the icons on the <span class="md-window">Panel Title Bars</span>?  The icons remind us we need to visit each panel with a red asterisk <i class="fa fa-asterisk required"> </i> to fill in the panel's required elements; and that we need to add at least one object to panels with a red zero ![](/assets/bullets/count-red.png).  
+There are several ways to find the required elements on any <span class="md-window">Edit Window</span> section.  Remember the icons on the <span class="md-window">Panel Title Bars</span>?  The icons remind us we need to visit each panel with a red asterisk <i class="fa fa-asterisk required"> </i> to fill in the panel's required elements and that we need to add at least one object to panels with a red zero ![](/assets/bullets/count-red.png).  
 
-Alternatively, we can click the orange exclamation mark ![](/assets/bullets/bang-orange.png) next to the windows's title to get a list of all detected missing and erroneous mdJSON elements.  
+Alternatively, we can click the orange exclamation mark ![](/assets/bullets/bang-orange.png) next to the window's title to get a list of all missing and erroneous mdJSON elements as detected by mdEditor.  
 
 ![mdJSON Record Error List](/assets/get-started/error-report.png){caption}
 

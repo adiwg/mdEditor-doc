@@ -1,11 +1,11 @@
 # Resume Entering Points Of Contact 
 ---
 
-Now that we have created a few contacts, let's pick up where we left off editing "My First Metadata Record".  The first order of business will be to get mdEditor refocused on the <span class="md-panel">Points Of Contact</span> panel on the <span class="md-window">Edit Window</span> <span class="md-section">Main</span> section.
+Now that we have created a few contacts, let's pick up where we left off editing "My First Metadata Record."  The first order of business will be to get mdEditor refocused on the <span class="md-panel">Points Of Contact</span> panel on the <span class="md-window">Edit Window</span> <span class="md-section">Main</span> section.
 
 {% hint style='working' %}
-  Open 'My First Metadata Record' to <span class="md-panel">Points Of Contact</span>
-  * Click the <strong class="btn btn-warning btn-xs"> <i class="fa fa-pencil"> </i></strong> button for 'My First Metadata Record'
+  Open "My First Metadata Record" to <span class="md-panel">Points Of Contact</span>
+  * Click the <strong class="btn btn-warning btn-xs"> <i class="fa fa-pencil"> </i></strong> button for "My First Metadata Record"
   * Click <span class="md-panel">Points Of Contact</span> button in the <span class="md-window">Secondary Sidebar</span> <span class="md-window">Fast Scrolling</span> menu to move the panel to the top of the window.
 {% endhint %}
 
@@ -22,7 +22,7 @@ Your mdEditor screen should look very similar to the following:
 
 {% hint style='working' %}
   Edit the new <span class="md-panel">Point Of Contact</span>
-  * Click in the <span class="md-element">Role</span> selector control and choose 'administrator'.
+  * Click in the <span class="md-element">Role</span> selector control and choose "administrator."
   * Click in the <span class="md-element">Contacts</span> selector and choose the individual contact you created in the previous step.
 {% endhint %}
 
@@ -45,4 +45,4 @@ The metadata requirement for <span class="md-panel">Point Of Contact</span> has 
   The object count can also be found in the panel's content space.  Each panel object is preceded by a number that represents its position in the array.  Note that the position number starts with zero rather than one.  It's a computer thing.   
 {% endhint %}
 
-OK, on to 'Citation' ...
+OK, on to "Citation" ...

@@ -17,7 +17,7 @@ Now that our very minimal metadata record can be translated into a valid, but eq
 The <span class="md-window">Export Window</span> is showing two panels; one for <span class="md-panel">Metadata Records</span> and a second for <span class="md-panel">Contacts</span>.  
 
 {% hint style='info' %}
-  If we had defined a 'Dictionary' there would also be a <span class="md-panel">Dictionaries</span> panel on the <span class="md-window">Export Window</span>.  Instead a banner is displayed proclaiming "No Dictionaries Found". 
+  If we had defined a "Dictionary" there would also be a <span class="md-panel">Dictionaries</span> panel on the <span class="md-window">Export Window</span>.  Instead a banner is displayed proclaiming "No Dictionaries Found." 
 {% endhint %}
 
 ### Selecting Records for Export
@@ -38,7 +38,7 @@ A checkbox in the panel's label row - identified as "Check All Items" in the scr
 
 ### <strong class="btn btn-primary btn-xs"> <i class="fa fa-sign-out"> </i> Export All</strong> Export All Items
 
-The 'Easy Button'.  Export all items in the <span class="md-panel">Metadata Records</span>, <span class="md-panel">Contacts</span>, and <span class="md-panel">Dictionaries</span> panels, checked or not.
+The "Easy Button."  Export all items in the <span class="md-panel">Metadata Records</span>, <span class="md-panel">Contacts</span>, and <span class="md-panel">Dictionaries</span> panels, checked or not.
 
 ### <strong class="btn btn-info btn-xs"> <i class="fa fa-check-square-o"> </i> Export Selected</strong> Export Selected Items
 
@@ -51,10 +51,10 @@ Export all **Checked** items in the <span class="md-panel">Metadata Records</spa
   * Click the <strong class="btn btn-primary btn-xs"> <i class="fa fa-sign-out"> </i> Export All</strong> button.
 {% endhint %}
 
-No questions asked!  mdEditor just exported all the records we created.  If you missed it, a file was just dropped into the 'Downloads' folder on your hard drive.  
+No questions asked!  mdEditor just exported all the records we created.  If you missed it, a file was just dropped into the "Downloads" folder on your hard drive.  
 
 {% hint style='info' %}
-  The file was given a name using a format of "mdeditor-{date}-{time}.json".  For example, my file was named "mdeditor-20180907-150907"; date being September 7, 2018 and time 1:09:07 pm. 
+  The file was given a name using a format of "mdeditor-{date}-{time}.json".  For example, my file was named "mdeditor-20180907-150907.json"; the date being September 7, 2018 and time 1:09:07 pm. 
 {% endhint %} 
 
 It's now up to you.  Move the download file to a safe location and give it proper name.  

@@ -2,9 +2,9 @@
 ---
 
 {% hint style='working' %}
-  Add an "Organization" contact
+  Add an "Organization" contact:
   * Click the "Add New Contact" button (the plus sign to the right of "Contacts" on the <span class="md-window">Primary Sidebar</span>)
-  * Click the <span class="md-element">Contact Type</span> switch to make this an 'Organization' contact
+  * Click the <span class="md-element">Contact Type</span> switch to make this an "Organization" contact
 {% endhint %}
 
 ![Create New Contact Window](/assets/get-started/new-contact-org-1.png){caption}
@@ -15,7 +15,7 @@ The "Organization" contact record collects pertinent contact information for an 
 
 ### Contact ID <i class="fa fa-asterisk required" title="Required"> </i>
 
-Each contact is assigned a unique ID.  This is the ID used to link this contact with one of more of your metadata and dictionary records.  When you create a new contact record a UUID is assigned to <span class="md-element">Contact ID</span> automatically.  However, if you prefer to use your own system for contact IDs, this would be the best time and place to change the ID. 
+Each contact is assigned a unique ID.  This is the ID used to link this contact with one or more of your metadata and dictionary records.  When you create a new contact record a UUID is assigned to <span class="md-element">Contact ID</span> automatically.  However, if you prefer to use your own system for contact IDs, this would be the best time and place to change the ID. 
 
 ### Name <i class="fa fa-asterisk required" title="Required"> </i>
 

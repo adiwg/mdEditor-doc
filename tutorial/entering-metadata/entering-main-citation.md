@@ -1,9 +1,9 @@
 # Entering Citations 
 ---
 
-The <span class="md-panel">Citation</span> we are editing in this step is the citation for the primary subject of this metadata record, aka the 'main resource'.   
+The <span class="md-panel">Citation</span> we are editing in this step is the citation for the primary subject of this metadata record, aka the "main resource."   
 
-![Editing Window - Main - Main Resource Citation](/assets/get-started/edit-window-main-citation-1.png){caption}
+![Edit Window - Main - Main Resource Citation](/assets/get-started/edit-window-main-citation-1.png){caption}
 
 As you can see, something is different with this panel. The <span class="md-panel">Citation</span> panel does not have any editable element controls.  Instead the panel is showing us a view of some the citation's elements.  Why is this?
 
@@ -20,7 +20,7 @@ To edit the <span class="md-panel">Citation</span> object we just need to click 
   * Click either the <strong class="btn btn-success btn-xs"> <i class="fa fa-pencil"> </i> Edit</strong> button on the <span class="md-window">Panel Title Bar</span> or the one at the bottom of the panel.
 {% endhint %}
 
-![Editing Window - Citation](/assets/get-started/edit-window-main-citation-2.png){caption}
+![Edit Window - Citation](/assets/get-started/edit-window-main-citation-2.png){caption}
 
 You should now be looking at the <span class="md-section">Citation</span> edit window as shown in the above image.  Notice the <span class="md-window">Edit Window</span> title has changed from "Editing *My First Metadata Record*" to "Editing Citation"; also the path on the <span class="md-window">Breadcrumb Bar</span> confirms that you have navigated to the <span class="md-section">Citation</span> branch of the <span class="md-section">Main</span> <span class="md-window">Edit Window</span>.  
 
@@ -29,7 +29,7 @@ From working with <span class="md-panel">Resource Types</span> earlier in this e
 {% hint style='working' %}
   Enter <span class="md-element">Alternate Titles</span>
   * Click either <strong class="btn btn-info btn-xs"> <i class="fa fa-plus"> </i> Alternate Title</strong> button
-  * Enter an <span class="md-element">Alternate Title</span>, I entered "First Alternate"
+  * Enter an <span class="md-element">Alternate Title</span>. I entered "First Alternate."
   * Enter a second <span class="md-element">Alternate Title</span>
   * Click the <strong class="btn btn-primary btn-xs"><i class="fa fa-arrow-left"> </i> Back to Main</strong> button in the <span class="md-window">Secondary Sidebar</span> when you have finish entering your <span class="md-element">Alternate Titles</span>.  
 {% endhint %}
@@ -40,7 +40,7 @@ Clicking <strong class="btn btn-primary btn-xs"><i class="fa fa-arrow-left"> </i
   There are several other ways to return to <span class="md-window">Edit Window</span> <span class="md-section">Main</span>. 
   * Click <span class="md-section">Main</span> in the <span class="md-window">Breadcrumb Bar</span> path.
   * Click the browser's "back" button (you may also need to refresh the window before seeing your changes).
-  * Click the <strong class="btn btn-warning btn-xs"> <i class="fa fa-pencil"> </i></strong> button for 'My First Metadata Record' in the <span class="md-window">Primary Sidebar</span>.
+  * Click the <strong class="btn btn-warning btn-xs"> <i class="fa fa-pencil"> </i></strong> button for "My First Metadata Record" in the <span class="md-window">Primary Sidebar</span>.
    
   All three of these methods, as well as the <strong class="btn btn-primary btn-xs"><i class="fa fa-arrow-left"> </i> Back to Main</strong> button, will preserve your entries as you navigate away from the <span class="md-window">Edit Window</span> <span class="md-section">Citation</span> section.
 {% endhint %}

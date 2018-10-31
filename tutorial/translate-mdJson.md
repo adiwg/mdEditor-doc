@@ -13,7 +13,7 @@ Now that we have entered our minimal mdJSON metadata record let's see how easy i
   You can verify which metadata record will be translated by checking the name of the record in the <span class="md-window">Breadcrumb</span> path.
 {% endhint %}
 
-As you can see there are few controls on this page since translating from mdJSON to other formats is pretty straight forward.  Let's try it now. 
+As you can see there are few controls on this page since translating from mdJSON to other formats is pretty straightforward.  Let's try it now. 
 
 {% hint style='working' %}
   Translate "My First Metadata Record" to HTML
@@ -27,7 +27,7 @@ As you can see there are few controls on this page since translating from mdJSON
 
 That's about all there is to it!
 
-When you click <span class="btn btn-primary btn-sm"> <i class="fa fa-retweet"> </i> Translate</span> button, the mdJSON record being edited in mdEditor (the record in memory) will be packaged up and set to mdTranslator for translation into into the format you requested, in this case "HTML".  The "Translate Record" window will then wait for a response from mdTranslator and display the result in a small <span class="md-panel">Result</span> preview panel as shown in the image below. 
+When you click <span class="btn btn-primary btn-sm"> <i class="fa fa-retweet"> </i> Translate</span> button, the mdJSON record being edited in mdEditor (the record in memory) will be packaged up and sent to mdTranslator for translation into the format you requested, in this case "HTML".  The "Translate Record" window will then wait for a response from mdTranslator and display the result in a small <span class="md-panel">Result</span> preview panel as shown in the image below. 
 
 ![Translate Record Window - Preview Window](/assets/get-started/translate-mdjson-2.png){caption}
 

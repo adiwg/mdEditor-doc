@@ -1,6 +1,6 @@
 # mdEditor User Manual
 
-##### Edition 2018-09-25
+##### Edition 2018-10-30
 
 ---
 

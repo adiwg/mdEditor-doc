@@ -2,7 +2,7 @@
 
 ---
 
-Before we actually begin entering and editing metadata in mdEditor, let's spend a few moments discussing the architecture of mdEditor so we have an understanding of how and where our metadata is being managed.
+Before we actually begin entering and editing metadata in mdEditor, let's spend a few moments discussing the architecture of mdEditor so you have an understanding of how and where your metadata is being managed.
 
 ## Where is my metadata?
 

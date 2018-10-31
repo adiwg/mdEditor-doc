@@ -3,15 +3,15 @@
 
 {% hint style='working' %}
   Open the <span class="md-window">Import Window</span>.
-  * Click 'Import' on the <span class="md-window">Primary Navigation Bar</span>.
+  * Click "Import" on the <span class="md-window">Primary Navigation Bar</span>.
 {% endhint %}
 
 ![Import Window - Home Page](/assets/get-started/import-record-1.png){caption}
 
-The absence of records showing in the <span class="md-window">Primary Sidebar</span> confirms that there are no records loaded in browser cache.  However, before proceeding with *this* exercise be sure the browser cache is clear so your experience will parallel this dialog.  
+The absence of records showing in the <span class="md-window">Primary Sidebar</span> confirms that there are no records loaded in browser cache.  However, before proceeding with this exercise be sure the browser cache is clear so your experience will parallel this dialog.  
 
 {% hint style='info' %}
-  It is not a requirement that browser cache be empty before importing metadata records, an empty cache will just make this exercise simpler.  mdEditor does allow you to import and merge multiple metadata record files to create a set or collection of metadata records that match your organizational needs. 
+  It is not a requirement that browser cache be empty before importing metadata records; an empty cache will just make this exercise simpler.  mdEditor does allow you to import and merge multiple metadata record files to create a set or collection of metadata records that match your organizational needs. 
 {% endhint %}
 
 ---

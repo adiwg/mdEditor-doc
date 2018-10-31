@@ -12,7 +12,7 @@ Clicking the 'Add' button on a <span class="md-window">Panel Title Bar</span> wi
 
 An 'Edit' button will appear on <span class="md-window">Panel Title Bars</span> and panel objects when the panel object contains more elements than can be presented without creating clutter.  
 
-Clicking the 'Edit' button will navigate you to a new window where the object can be edited.  There will always be a 'Return' button to bring you back to where you initiated the edit.  As an example of how this works, let's look at the <span class="md-panel">Citation</span>
+> Clicking the 'Edit' button will navigate you to a new window where the object can be edited.  In the new window, a button to bring you back to where you initiated the edit will appear at the bottom of the Record Management area.  As an example of how this works, let's look at the <span class="md-panel">Citation</span>.
 
 {% hint style='working' %}
   Edit the <span class="md-panel">Citation</span> 
@@ -39,7 +39,7 @@ Some panels, and even some sub-panels (panels within panels), have an 'Isolation
 
 ---
 
-Above we discussed that clicking the <strong class="btn btn-info btn-xs"> <i class="fa fa-plus"> </i> Add</strong> button will add another object to a panel.  Below is an example of an array-type panel with two objects added.  To manage each object independently several buttons are associated at the object level.
+Above we discussed that clicking the <strong class="btn btn-info btn-xs"> <i class="fa fa-plus"> </i> Add</strong> button will add another object to a panel.  Below is an example of an array-type panel with two objects added.  To manage each object independently, several buttons are available at the object level.
 
 ![Array Panel with Multiple Objects](/assets/get-started/edit-window-array-panel.png){caption}
 
@@ -52,7 +52,7 @@ When an 'Edit' button appears next to a panel object, clicking it will expand th
 The 'Delete' button will remove the object from the array.  
 
 {% hint style='danger' %}
-  There is no conformation step prior to the delete action like there is when deleting an entire record.  Delete will be immediate and is not reversible when AutoSave is 'On'.  If AutoSave is 'Off' the <strong class="btn btn-warning btn-xs"> <i class="fa fa-undo"> </i> Cancel</strong> button will be active and the record can be restored to the last 'Save' point. 
+  There is no confirmation step prior to the delete action like there is when deleting an entire record.  Delete will be immediate and is not reversible when AutoSave is 'On'.  If AutoSave is 'Off' the <strong class="btn btn-warning btn-xs"> <i class="fa fa-undo"> </i> Cancel</strong> button will be active and the record can be restored to the last 'Save' point. 
 {% endhint %}
 
-OK!  That's probably enough orientation to the <span class="md-window">Edit Window's</span>sections, buttons and icons.  Time to get some actual work done.  So let's return to filling in our minimal metadata record.  
+Okay!  That's probably enough orientation to the <span class="md-window">Edit Window's</span>sections, buttons and icons.  Time to get some actual work done.  So let's return to filling in our minimal metadata record.  

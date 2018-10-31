@@ -13,9 +13,9 @@ These buttons decrement or increment the month by one.
 
 If you need to jump backwards or forwards by more than a few months, click the "Month" button.  The control will display buttons for all the months of the current year.  Click the desired month.
 
-But what if you need the month to be in a different year?  Notice that the "Month" button has now became a "Year" button.  The same rules will apply.  You can increment or decrement the year by one before selecting the correct year.  
+But what if you need the month to be in a different year?  Notice that the "Month" button has now become a "Year" button.  The same rules will apply.  You can increment or decrement the year by one before selecting the correct year.  
 
-Need to jump even farther back or ahead in time?  Click the "Year" button and range of years is displayed and the "Year" button becomes a "Year-Range" button.  
+Need to jump even farther back or ahead in time?  Click the "Year" button and a range of years is displayed and the "Year" button becomes a "Year-Range" button.  
 
 ### <i class="fa fa-clock-o"> </i> Time Picker
 
@@ -45,7 +45,7 @@ Numbers inside the dashed rectangle represent the hours, minutes, and seconds.  
 
 ### <span><strong class="fa fa-angle-up"> <strong class="fa fa-angle-down"></span> Increase / Decrease
 
-These up and down arrow increment and decrement the hours, minutes, and seconds by one.  
+These up and down arrows increment and decrement the hours, minutes, and seconds by one.  
 
 ### <i class="fa fa-trash"> </i> Clear Date and Time
 
@@ -59,7 +59,7 @@ This button will clear both the date and time, not just the time.
 {% endhint %}
 
 {% hint style='tip' %}
-  Entering an <span class="md-element">End Date</span> which occurs before the <span class="md-element">Start dDate</span> will be flagged as an error by mdEditor.  
+  Entering an <span class="md-element">End Date</span> that occurs before the <span class="md-element">Start dDate</span> will be flagged as an error by mdEditor.  
 {% endhint %}
 
 We will cover the other elements of the <span class="md-panel">Time Period</span> object in a later section.  For now, we can rejoice in that we have completed our minimal mdJSON metadata record, and learned quite a bit about how mdEditor functions in the process.  Now it's time to see some of what we can do with it!

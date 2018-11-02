@@ -1,4 +1,4 @@
-# Navigating the Edit View
+# Tutorial: Navigating the Edit View
 ---
 Your newly created metadata record should appear very similar to the following screen image; without all the text balloons of course...
 

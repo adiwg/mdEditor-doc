@@ -1,4 +1,4 @@
-# Metadata Editing Window
+# Tutorial: Metadata Edit Window
 ---
 
 And finally, the **big kahuna**, the <span class="md-window">Edit Window</span>!  The <span class="md-window">Edit Window</span> is where all metadata entry and editing takes place.  While the buttons and controls described to this point deal primarily with records, the <span class="md-window">Edit Window</span> gets down to working with individual metadata elements.  

@@ -1,4 +1,4 @@
-# Add a Quick Individual Contact 
+# Tutorial: Add a Quick Individual Contact 
 ---
 
 If you haven't already done so, click the plus sign next to Contacts on the <span class="md-window">Primary Sidebar</span> to create a new contact.  Your screen should look similar to the image below.

@@ -1,4 +1,4 @@
-# Starting Up mdEditor
+# Tutorial: Starting Up mdEditor
 
 ---
 

@@ -1,4 +1,4 @@
-# Status Bar
+# Tutorial: Status Bar
 ---
 
 The <span class="md-window">Status Bar</span> is always present at the bottom of the mdEditor window.  There are only a few items on the <span class="md-window">Status Bar</span> at present which are discussed below.

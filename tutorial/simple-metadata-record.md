@@ -1,4 +1,4 @@
-# Creating a Simple Metadata Record
+# Tutorial: Creating a Simple Metadata Record
 
 ---
 

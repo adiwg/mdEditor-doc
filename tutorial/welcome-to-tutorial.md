@@ -1,4 +1,4 @@
-# Welcome to the mdEditor Tutorial
+# Tutorial: Welcome to the mdEditor Tutorial
 
 ---
 

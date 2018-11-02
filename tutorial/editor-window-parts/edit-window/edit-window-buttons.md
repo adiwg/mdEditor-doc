@@ -1,8 +1,13 @@
-# Editing Window Buttons
+# Tutorial: Edit Window Buttons
 ---
 
 ![Edit Window Buttons](/assets/get-started/edit-window-buttons.png){caption}
 
+### ![](/assets/bullets/isolation-dot.png) Isolate Panel
+
+Some panels, and even sub-panels (panels within panels), have an 'Isolate' button.  Clicking this will visually isolate the panel and all its elements from the surrounding data by dimming information not in scope making it easier to focus on relevant content.  When you are ready to return a normal view of the <span class="md-window">Edit Window</span>, click on the 'Isolate' button once again, or click simply click anywhere off the isolated panel.  In the example below the <span class="md-panel">Basic Information</span> panel has been isolated.  Notice also that <span class="md-panel">Default Locale</span> is a sub-panel which can be further isolated should you choose.  
+
+![Isolated Basic Information Panel](/assets/get-started/edit-window-isolate-panel.png){caption}
 
 ### <strong class="btn btn-info btn-xs"> <i class="fa fa-plus"> </i> Add</strong> Add New Object
 
@@ -10,9 +15,9 @@ Clicking the 'Add' button on a <span class="md-window">Panel Title Bar</span> wi
 
 ### <strong class="btn btn-success btn-xs"> <i class="fa fa-pencil"> </i> Edit</strong> Edit Object
 
-An 'Edit' button will appear on <span class="md-window">Panel Title Bars</span> and panel objects when the panel object contains more elements than can be presented without creating clutter.  
+An 'Edit' button will appear on <span class="md-window">Panel Title Bars</span> of panel objects when the object contains more elements than can be presented in the current window without creating clutter.  
 
-> Clicking the 'Edit' button will navigate you to a new window where the object can be edited.  In the new window, a button to bring you back to where you initiated the edit will appear at the bottom of the Record Management area.  As an example of how this works, let's look at the <span class="md-panel">Citation</span>.
+Clicking the 'Edit' button will navigate you to a new window where the object can be edited on it's own.  After making your edits, click the <strong class="btn btn-info btn-xs"> <i class="fa fa-check"> </i> OK</strong> button to bring you back to where you initiated the edit. The 'OK' button may appear at the top, bottom, or both of the object edit window.  As an example of how this works, let's look at the <span class="md-panel">Citation</span>.
 
 {% hint style='working' %}
   Edit the <span class="md-panel">Citation</span> 
@@ -31,15 +36,9 @@ There are a few things to take notice of on the above window.
   Click the <strong class="btn btn-primary btn-xs"><i class="fa fa-arrow-left"> </i> Back to Main</strong> button now to return to the <span class="md-window">Edit Window</span> <span class="md-section">Main</span> section. 
 {% endhint %} 
 
-### ![](/assets/bullets/isolation-dot.png) Isolate Panel
-
-Some panels, and even some sub-panels (panels within panels), have an 'Isolation' button.  Clicking this will visually isolate the panel and all its elements from the surrounding data by dimming information not in scope.  To return to normal viewing of the <span class="md-window">Edit Window</span> click on the 'Isolation' button again, or click anywhere off the isolated panel.  In the example below the <span class="md-panel">Basic Information</span> panel has been isolated.  Notice also that <span class="md-panel">Default Locale</span> is a sub-panel that can be isolated should you choose.  
-
-![Isolated Basic Information Panel](/assets/get-started/edit-window-isolate-panel.png){caption}
-
 ---
 
-Above we discussed that clicking the <strong class="btn btn-info btn-xs"> <i class="fa fa-plus"> </i> Add</strong> button will add another object to a panel.  Below is an example of an array-type panel with two objects added.  To manage each object independently, several buttons are available at the object level.
+Above we discussed that clicking the <strong class="btn btn-info btn-xs"> <i class="fa fa-plus"> </i> Add</strong> button will add another object to a panel.  Below is an example of an array-type panel with a second object added.  To manage the objects independently, several buttons are added to each object.
 
 ![Array Panel with Multiple Objects](/assets/get-started/edit-window-array-panel.png){caption}
 

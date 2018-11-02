@@ -1,4 +1,4 @@
-# Edit Window "Main" Section
+# Tutorial: Edit Window "Main" Section
 ---
 
 Simply by observing the coded icons on the <span class="md-window">Edit Window</span> <span class="md-section">Main</span> section we find we need to visit the following panels: 

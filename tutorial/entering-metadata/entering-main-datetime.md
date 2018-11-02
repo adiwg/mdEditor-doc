@@ -1,4 +1,4 @@
-# Entering Time Periods 
+# Tutorial: Entering Time Periods 
 DO NOT EDIT
 
 {% hint style='working' %}
@@ -7,7 +7,7 @@ DO NOT EDIT
   * Open the <span class="md-panel">Time Period</span> panel
 {% endhint %}
 
-![Editing Window - Main - Time Period](/assets/get-started/edit-window-main-time-1.png){caption}
+![Edit Window - Main - Time Period](/assets/get-started/edit-window-main-time-1.png){caption}
 
 {% hint style='info' %}
   Notice that there are required elements on the <span class="md-panel">Time Period</span> panel that we have not entered and yet there are no errors telling us our metadata record is incomplete.  Also notice that there is no <i class="fa fa-asterisk required" title="Required"> </i> on the <span class="md-window">Panel Title Bar</span> following the panel's title.  What's up? 
@@ -17,7 +17,7 @@ DO NOT EDIT
 
 ### Dates  <i class="fa fa-asterisk required" title="Required"> </i>
 
-> The main resource <span class="md-panel">Time Period</span> specifies a date-time range for the data resource or project described by the metadata record.  The <span class="md-panel">Time Period</span> must have either a <span class="md-element">Start Date</span>, or an <span class="md-element">End Date</span>, or both; but only one date is required.  
+The main resource <span class="md-panel">Time Period</span> specifies a date-time range for the data resource or project described by the metadata record.  The <span class="md-panel">Time Period</span> must have a <span class="md-element">Start Date</span>, <span class="md-element">End Date</span>, or both.  
 
 Continue the exercise by first entering the optional <span class="md-element">Description</span> element to <span class="md-panel">Time Period</span>.
 
@@ -27,7 +27,7 @@ Continue the exercise by first entering the optional <span class="md-element">De
 {% endhint %}
 
 {% hint style='info' %}
-  Typing the <span class="md-element">Description</span> - or any other element - in the <span class="md-panel">Time Period</span> panel caused mdEditor to create a new <span class="md-panel">Time Period</span> object.  Validation took place immediately.  Notice the ![](/assets/bullets/bang-orange.png) has returned to the window title and the record name in the <span class="md-window">Primary Sidebar</span> is once again orange.  We once again detecting missing required elements.  
+  Typing the <span class="md-element">Description</span> - or any other element - in the <span class="md-panel">Time Period</span> panel caused mdEditor to create a new <span class="md-panel">Time Period</span> object.  Validation took place immediately.  Notice the ![](/assets/bullets/bang-orange.png) has returned to the window title and the record name in the <span class="md-window">Primary Sidebar</span> is once again orange indicating missing elements are required.  
 {% endhint %}
 
 {% hint style='working' %}

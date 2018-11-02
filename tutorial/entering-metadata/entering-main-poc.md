@@ -1,4 +1,4 @@
-# Entering Points Of Contact 
+# Tutorial: Entering Points Of Contact 
 ---
 
 As your trained eye can now see, <span class="md-panel">Points Of Contact</span> is another array-panel containing <span class="md-panel">Point Of Contact</span> objects.  So, let's add our first Point Of Contact.
@@ -8,12 +8,12 @@ As your trained eye can now see, <span class="md-panel">Points Of Contact</span>
   * Click the <strong class="btn btn-info btn-xs"> <i class="fa fa-plus"> </i> Add</strong> button to "Add" a new object to the array.
 {% endhint %}
 
-![Editing Window - Main - Points Of Contact](/assets/get-started/edit-window-main-poc-1.png){caption}
+![Edit Window - Main - Points Of Contact](/assets/get-started/edit-window-main-poc-1.png){caption}
 
 <span class="md-panel">Point Of Contact</span> has two elements, <span class="md-element">Role</span> and <span class="md-element">Contacts</span>.  Both are required. 
 
 {% hint style='info' %}
-  Contacts throughout mdJSON, and therefore mdEditor, are referenced as "responsibilities".  A responsibility combines a role with one or more persons or organizations and a context.  In this instance, the **context** is a "Point Of Contact for the resource," the **contact** is the person or organization to contact, and the **role** defines the boundaries of their responsibility.  Example, "contact John and Mary for information about funding."
+  Throughout mdEditor, and its underlying mdJson files, contacts are assigned via "responsibilities".  A responsibility associates a functional <span class="md-element">Role</span> with one or more individual and/or organization <span class="md-element">Contacts</span>.  In our current context, "Point Of Contact", a person or organization (contact) is designated as the point-of-contact for a particular topic (role).  Example, "Contact John or Mary (contacts) for information about the project's funding (role)."
 {% endhint %}
 
 ### Role <i class="fa fa-asterisk required" title="Required"> </i>

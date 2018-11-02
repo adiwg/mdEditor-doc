@@ -1,4 +1,4 @@
-# Resume Entering Points Of Contact 
+# Tutorial: Resume Entering Points Of Contact 
 ---
 
 Now that we have created a few contacts, let's pick up where we left off editing "My First Metadata Record."  The first order of business will be to get mdEditor refocused on the <span class="md-panel">Points Of Contact</span> panel on the <span class="md-window">Edit Window</span> <span class="md-section">Main</span> section.
@@ -18,7 +18,7 @@ Now add a new <span class="md-panel">Point Of Contact</span> object.
 
 Your mdEditor screen should look very similar to the following:
 
-![Editing Window - Main - Points Of Contact](/assets/get-started/edit-window-main-poc-2.png){caption}
+![Edit Window - Main - Points Of Contact](/assets/get-started/edit-window-main-poc-2.png){caption}
 
 {% hint style='working' %}
   Edit the new <span class="md-panel">Point Of Contact</span>

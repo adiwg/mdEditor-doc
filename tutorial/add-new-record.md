@@ -1,4 +1,4 @@
-# Add a New Metadata Record
+# Tutorial: Add a New Metadata Record
 ---
 
 ![Adding a new record](/assets/get-started/add-record.png){caption}

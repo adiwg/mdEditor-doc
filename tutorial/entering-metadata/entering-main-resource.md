@@ -1,4 +1,4 @@
-# Entering Resource Types 
+# Tutorial: Entering Resource Types 
 ---
 
 ![Edit Window - Main - Resource Types](/assets/get-started/edit-window-main-resource-1.png){caption}
@@ -15,7 +15,7 @@ However, this single element is an *object* that has several elements of its own
 A <span class="md-panel">Resource Type</span> object with its two elements was created and is ready for you to edit.  Notice that the first of these, <span class="md-element">Type</span> is required and the second, <span class="md-element">Name</span> is optional.  
 
 {% hint style='info' %}
-  Notice that the control for the <span class="md-element">Type</span> element uses a ![](/assets/bullets/bang-red.png) to indicate the element is required rather than the red asterisk used by mdEditor.  This is a feature of the control software library used by mdEditor and not something we can easily change.  Sorry for any confusion. 
+  Notice that the dropdown selection control for the <span class="md-element">Type</span> element uses a ![](/assets/bullets/bang-red.png) to indicate the element is required rather than the typical red asterisk used elsewhere.  This is a consequence of a software library used by mdEditor and not something we can easily change.  Sorry for any confusion. 
 {% endhint %}
 
 {% hint style='tip' %}
@@ -44,7 +44,7 @@ A <span class="md-panel">Resource Type</span> object with its two elements was c
 {% endhint %}
 
 {% hint style='tip' %}
-  <span class="md-element">Name</span> is optional and may seem a little redundant if only one resource type is described by the metadata record.  In such cases the metadata record <span class="md-element">Name</span> might overlap with the <span class="md-panel">Citation</span> <span class="md-element">Title</span>.  However, when a resource is prepared in multiple formats or multiple resources are combined under a single metadata record, <span class="md-element">Name</span> can be helpful.
+  <span class="md-element">Name</span> is optional and may seem redundant when only one resource type is being defined for the metadata record.  However, when a data resource is prepared in multiple formats or multiple resources are combined under a single metadata record, the resource type <span class="md-element">Name</span> can be helpful.
 {% endhint %}
 
 {% hint style='working' %}

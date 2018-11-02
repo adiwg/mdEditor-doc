@@ -1,4 +1,4 @@
-# Editing Window Icons
+# Tutorial: Edit Window Icons
 ---
 
 ![Edit Window Icons](/assets/get-started/edit-window-icons.png){caption}
@@ -11,7 +11,7 @@ The red asterisk after a panel name indicates that one or more of its elements i
   The red asterisk is also used within panels to identify the specific elements that are required.  
 {% endhint %}
 
-> Many <span class="md-window">Edit Window</span> panels permit multiple instances of a panel's data.  These instances will be referred to as objects throughout the documentation.  <span class="md-panel">Points Of Contact</span> and <span class="md-panel">Credits</span> are some of the more obvious examples of repeating objects found in the <span class="md-window">Edit Window's</span> <span class="md-section">Main</span> section.  These array-type panels are easily identified by two characteristics; first, for inserting new objects  they each have a <strong class="btn btn-info btn-xs"> <i class="fa fa-plus"> </i> Add</strong> button on the right side of the panel title bar; and second, following the panel name they have a colored circle with an inscribed number, indicating how may objects have been entered. The color of the circle provides information about the optionality of the objects.  The three colors are explained below.
+Many <span class="md-window">Edit Window</span> panels permit multiple instances of a panel's data.  These instances will be referred to as "objects" throughout the documentation.  <span class="md-panel">Points Of Contact</span> and <span class="md-panel">Credits</span> are examples of repeating objects found in the <span class="md-window">Edit Window's</span> <span class="md-section">Main</span> section.  These array-type panels are easily identified by two characteristics: first, for inserting new objects they have an <strong class="btn btn-info btn-xs"> <i class="fa fa-plus"> </i> Add</strong> button on the right side of the panel title bar; and second, following the panel name they have a colored circle with an inscribed number indicating how many objects have been entered. The color of the circle provides information about the optionality of the objects.  The colors and their meaning are explained below.
 
 ### ![](/assets/bullets/count-red.png) Object Required - none found 
 

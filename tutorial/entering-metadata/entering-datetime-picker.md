@@ -1,9 +1,9 @@
-# Entering Dates and Times 
+# Tutorial: Entering Dates and Times 
 ---
 
 ## Date Picker
 
-![Editing Window - Date Picker](/assets/get-started/edit-window-date-picker.png){caption}
+![Edit Window - Date Picker](/assets/get-started/edit-window-date-picker.png){caption}
 
 ### <span><strong class="fa fa-angle-double-left"> <strong class="fa fa-angle-double-right"></span> Previous Month / Next Month
 
@@ -33,7 +33,7 @@ This button will clear both the date and time.
 
 ## Time Picker
 
-![Editing Window - Time Picker](/assets/get-started/edit-window-time-picker.png){caption}
+![Edit Window - Time Picker](/assets/get-started/edit-window-time-picker.png){caption}
 
 ### <i class="fa fa-calendar"> </i> Return to Calendar
 
@@ -63,3 +63,7 @@ This button will clear both the date and time, not just the time.
 {% endhint %}
 
 We will cover the other elements of the <span class="md-panel">Time Period</span> object in a later section.  For now, we can rejoice in that we have completed our minimal mdJSON metadata record, and learned quite a bit about how mdEditor functions in the process.  Now it's time to see some of what we can do with it!
+
+{% hint style='info' %}
+  Date and time may be entered manually in a year, month, day, hour, minute, second string. Most delimiters are accepted by the control.  e.g. Entering "2014-03-15 10:45" is the 10:45 a.m. on ides of March for 2014 as is "2014 03 15 10 45".
+{% endhint %}

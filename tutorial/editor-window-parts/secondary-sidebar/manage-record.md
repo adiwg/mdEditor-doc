@@ -1,4 +1,4 @@
-# Record Management
+# Tutorial: Record Management
 ---
 
 The <span class="md-window">Record Management</span> buttons provide a means of managing the movement of your currently active record between memory and browser cache.  

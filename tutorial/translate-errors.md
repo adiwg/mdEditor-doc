@@ -1,4 +1,4 @@
-# Handling Translation Errors
+# Tutorial: Handling Translation Errors
 ---
 
 Let's run another translation on "My First Metadata Record".  This time choose to the output format as "ISO 19115-2."

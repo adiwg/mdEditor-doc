@@ -6,4 +6,5 @@ DO NOT EDIT
 
 ![Locale Panel](/assets/reference/edit-objects/locale-default.png) 
 {% include "../edit-objects/locale-obj.md" %}
+
 ---

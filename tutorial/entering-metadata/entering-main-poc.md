@@ -8,7 +8,7 @@ As your trained eye can now see, <span class="md-panel">Points Of Contact</span>
   * Click the <strong class="btn btn-info btn-xs"> <i class="fa fa-plus"> </i> Add</strong> button to "Add" a new object to the array.
 {% endhint %}
 
-![Edit Window - Main - Points Of Contact](/assets/get-started/edit-window-main-poc-1.png){caption}
+![Edit Window - Main - Points Of Contact](/assets/tutorial/edit-window-main-poc-1.png){caption}
 
 <span class="md-panel">Point Of Contact</span> has two elements, <span class="md-element">Role</span> and <span class="md-element">Contacts</span>.  Both are required. 
 

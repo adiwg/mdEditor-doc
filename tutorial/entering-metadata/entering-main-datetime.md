@@ -7,7 +7,7 @@ DO NOT EDIT
   * Open the <span class="md-panel">Time Period</span> panel
 {% endhint %}
 
-![Edit Window - Main - Time Period](/assets/get-started/edit-window-main-time-1.png){caption}
+![Edit Window - Main - Time Period](/assets/tutorial/edit-window-main-time-1.png){caption}
 
 {% hint style='info' %}
   Notice that there are required elements on the <span class="md-panel">Time Period</span> panel that we have not entered and yet there are no errors telling us our metadata record is incomplete.  Also notice that there is no <i class="fa fa-asterisk required" title="Required"> </i> on the <span class="md-window">Panel Title Bar</span> following the panel's title.  What's up? 

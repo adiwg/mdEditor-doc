@@ -8,7 +8,7 @@ The <span class="md-panel">Metadata Contact</span> is our last requirement for a
   * Click "Metadata" on the <span class="md-window">Secondary Navigation Bar</span>
 {% endhint %}
 
-![Edit Window - Metadata - Metadata Contact](/assets/get-started/edit-window-metadata-contact.png){caption}
+![Edit Window - Metadata - Metadata Contact](/assets/tutorial/edit-window-metadata-contact.png){caption}
 
 ### Metadata Contacts  <i class="fa fa-asterisk required" title="Required"> </i>
 

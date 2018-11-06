@@ -3,7 +3,7 @@
 
 Now that we have entered our minimal mdJSON metadata record let's see how easy it is to translate the record into other metadata formats.  With mdEditor open on the metadata record you wish to translate - in this example "My First Metadata Record" -  click the "Translate" button in the <span class="md-window">Primary Navigation Bar</span>.  This will take you to the Translate Record window show below.
 
-![Translate Record Window](/assets/get-started/translate-mdjson-1.png){caption}
+![Translate Record Window](/assets/tutorial/translate-mdjson-1.png){caption}
 
 {% hint style='info' %}
   The "Translate" button on the <span class="md-window">Primary Navigation Bar</span> is only accessible when you have a metadata record open in mdEditor; and the open record is the one that will be translated. 
@@ -29,7 +29,7 @@ That's about all there is to it!
 
 When you click <span class="btn btn-primary btn-sm"> <i class="fa fa-retweet"> </i> Translate</span> button, the mdJSON record being edited in mdEditor (the record in memory) will be packaged up and sent to mdTranslator for translation into the format you requested, in this case "HTML".  The "Translate Record" window will then wait for a response from mdTranslator and display the result in a small <span class="md-panel">Result</span> preview panel as shown in the image below. 
 
-![Translate Record Window - Preview Window](/assets/get-started/translate-mdjson-2.png){caption}
+![Translate Record Window - Preview Window](/assets/tutorial/translate-mdjson-2.png){caption}
 
 The <span class="md-panel">Result</span> preview panel is pretty small for viewing your record comfortably.  You can expand this into a full window by clicking the expand window button in the upper-right corner of the <span class="md-panel">Result</span> preview panel. 
 

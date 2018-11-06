@@ -2,7 +2,7 @@
 ---
 The <span class="md-window">Primary Navigation Bar</span> is the top-most navigation bar, which has been outlined with a yellow rectangle in the image below.  This bar contains buttons that navigate you away from the Edit View (or whichever view you happen to be on at the time) to other facilities within mdEditor. 
 
-![The Primary Navigation Bar](/assets/get-started/primary-nav.png){caption}
+![The Primary Navigation Bar](/assets/tutorial/primary-nav.png){caption}
 
 {% hint style='info' %}
   Not all <span class="md-window">Primary Navigation Bar</span> buttons are available from every window.  For instance "Translate" is not available from the "Dashboard".  If a button seems missing, don't panic, look around, you're likely just in the wrong place!

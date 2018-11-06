@@ -3,7 +3,7 @@
 
 The <span class="md-window">Status Bar</span> is always present at the bottom of the mdEditor window.  There are only a few items on the <span class="md-window">Status Bar</span> at present which are discussed below.
 
-![The Status Bar](/assets/get-started/status-bar.png){caption}
+![The Status Bar](/assets/tutorial/status-bar.png){caption}
 
 ### <span class="btn btn-warning btn-xs"> <i class="fa fa-github"> </i> Report Issue</span> Issue Reporting and Tracking 
 

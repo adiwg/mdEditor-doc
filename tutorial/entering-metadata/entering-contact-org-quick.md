@@ -7,7 +7,7 @@
   * Click the <span class="md-element">Contact Type</span> switch to make this an "Organization" contact
 {% endhint %}
 
-![Create New Contact Window](/assets/get-started/new-contact-org-1.png){caption}
+![Create New Contact Window](/assets/tutorial/new-contact-org-1.png){caption}
 
 ## Organization Contact
 
@@ -28,6 +28,6 @@ Each contact is assigned a unique ID.  This is the ID used to link this contact 
   * Click <strong><span class="btn btn-success btn-sm"> <i class="fa fa-floppy-o"> </i> Save</span></strong>.
 {% endhint %}
 
-![Create New Contact Window](/assets/get-started/new-contact-org-2.png){caption}
+![Create New Contact Window](/assets/tutorial/new-contact-org-2.png){caption}
 
 As we saw when adding the individual contact record in the previous exercise, our organization contact is valid after adding just the two elements.  We can return later to fill in the optional information about this contact, but for now let's get back to editing our metadata record.  

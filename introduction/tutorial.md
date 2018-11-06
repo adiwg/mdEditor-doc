@@ -6,5 +6,9 @@ If you are new to mdEditor and/or metadata authoring we strongly suggest you inv
 
 Once the tutorial is behind you, the "Reference" section of this documentation is available to provide detailed information about many of mdEditor's features.
 
+{% hint style='danger' %}
+  Information presented in the Tutorial is generally NOT repeated in the Reference section of this documentation.  Please take the time pick up mdEditor basics from the Tutorial before referring to the Reference section for specifics.
+{% endhint %}
+
 Take the [mdEditor Tutorial](../tutorial/welcome-to-tutorial.md) now!
 

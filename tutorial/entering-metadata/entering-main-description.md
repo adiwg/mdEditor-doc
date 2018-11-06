@@ -3,7 +3,7 @@
 
 The <span class="md-panel">Description</span> panel, like the <span class="md-panel">Basic Information</span> panel, is a collection of elements.  The only required element for <span class="md-panel">Description</span> is <span class="md-element">Abstract</span>, so let's write or copy in our abstract.   
 
-![Edit Window - Main - Description Elements](/assets/get-started/edit-window-main-description-1.png){caption}
+![Edit Window - Main - Description Elements](/assets/tutorial/edit-window-main-description-1.png){caption}
 
 ### Abstract  <i class="fa fa-asterisk required" title="Required"> </i>
 
@@ -15,7 +15,7 @@ The <span class="md-panel">Description</span> panel, like the <span class="md-pa
   * Experiment with the text formatting options.
 {% endhint %}
 
-![Edit Window - Main - Description Elements](/assets/get-started/edit-window-main-description-2.png){caption}
+![Edit Window - Main - Description Elements](/assets/tutorial/edit-window-main-description-2.png){caption}
 
 As you can see, mdEditor has a pretty sweet text editor integrated into the application.  The editor supports many standard text formatting options and includes spell check, help, full-screen, and preview modes.  It will do pretty much anything but write your abstract for you! Sorry about that.  
 

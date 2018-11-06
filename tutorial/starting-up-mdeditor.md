@@ -27,7 +27,7 @@ You may use the recent version of any internet browser that supports [HTML5](htt
 
 This will bring you to the mdEditor home page shown below. The home page offers a brief orientation to mdEditor as well as links to important supporting resources and other propaganda - scroll below the image - and most importantly, a link to load mdEditor.
 
-![The mdEditor homepage.](/assets/get-started/homepage.png){caption class=border}
+![The mdEditor homepage.](/assets/tutorial/homepage.png){caption class=border}
 
 {% hint style='working' %}
   Open mdEditor.
@@ -36,7 +36,7 @@ This will bring you to the mdEditor home page shown below. The home page offers 
 
 You should now see the Dashboard of mdEditor, the starting point for accessing all tasks, and where you will begin each time you launch mdEditor. What you actually see could vary depending on your choice of browser and device. Since mdEditor is smart enough to reconfigure the display based on available visual space, it will look quite different on your mobile device from the way it appears on your large work-place monitor. However, don't take this as a recommendation to attempt editing metadata from your iPhone!
 
-![The dashboard view.](/assets/get-started/dashboard.png){caption class=border}
+![The dashboard view.](/assets/tutorial/dashboard.png){caption class=border}
 
 {% hint style='info' %}
 When you opened mdEditor you may have seen an alert message telling you the software has changed since your last visit and outline new features that have become available.  The message will not interfere with your editing.  Just read the message, close it, and continue.

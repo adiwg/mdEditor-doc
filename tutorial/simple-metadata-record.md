@@ -6,7 +6,7 @@ In this section we will step through creating a simple metadata record.  Admitte
 
 You should see something like this ...
 
-![Dashboard view with no records.](/assets/get-started/dashboard-empty.png){caption class=border}
+![Dashboard view with no records.](/assets/tutorial/dashboard-empty.png){caption class=border}
 
 Notice that there are three blocks at the top of the Dashboard labeled "Records", "Contacts", and "Dictionaries".  These are the different object types we can create and link together using mdEditor.  The blocks tell us that we have exactly zero (0) objects of these types created and loaded into browser cache at the moment.
 

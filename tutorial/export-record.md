@@ -12,7 +12,7 @@ Now that our very minimal metadata record can be translated into a valid, but eq
   * Click "Export" on the <span class="md-window">Primary Navigation Bar</span>.
 {% endhint %}
 
-![Export Window](/assets/get-started/export-record-1.png){caption}
+![Export Window](/assets/tutorial/export-record-1.png){caption}
 
 The <span class="md-window">Export Window</span> is showing two panels; one for <span class="md-panel">Metadata Records</span> and a second for <span class="md-panel">Contacts</span>.  
 

@@ -3,7 +3,7 @@
 
 If you haven't already done so, click the plus sign next to Contacts on the <span class="md-window">Primary Sidebar</span> to create a new contact.  Your screen should look similar to the image below.
 
-![Create New Contact Window](/assets/get-started/new-contact-ind-1.png){caption}
+![Create New Contact Window](/assets/tutorial/new-contact-ind-1.png){caption}
 
 {% hint style='info' %}
   In mdJSON, contacts are maintained separately from metadata records and dictionaries.  No information about a contact is ever entered in a metadata record.  This important feature allows contacts to be reused multiple times within a single metadata record or across multiple metadata records without the necessity of reentering the contact's information each time the contact is referenced.  Or worse yet, trying to remember all the places a contact's data needs to be edited when information changes.  Whenever a contact is needed for a metadata or dictionary record you will simply select the appropriate contact(s) from a list and mdEditor and mdTranslator will gather up all the pertinent information from the contact record for you - simple!  
@@ -52,7 +52,7 @@ Each contact is assigned a unique ID.  This is the ID used to link this contact 
   You probably noticed that when you entered your name in the <span class="md-element">Name</span> element the <span class="md-element">Position Name</span> element suddenly became optional.  The same would be true of <span class="md-element">Name</span> if you entered the <span class="md-element">Position Name</span> first.  This is because one or the other is required, but not both.  
 {% endhint %}
 
-![Create New Contact Window](/assets/get-started/new-contact-ind-2.png){caption}
+![Create New Contact Window](/assets/tutorial/new-contact-ind-2.png){caption}
 
 After clicking <strong><span class="btn btn-success btn-sm"> <i class="fa fa-floppy-o"> </i> Save</span></strong> you are transferred to the mdEditor window for contact records.  Notice that the individual contact you just entered is colored green in the <span class="md-window">Primary Sidebar</span>.  This is because the record is clean!  There are no additional required elements.  To be sure, there are still a lot of contact elements that can be entered to further define our contact, but what we have is sufficient to return to editing our metadata record.  
 

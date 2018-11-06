@@ -1,8 +1,8 @@
 # Summary
 
 * [Preface](README.md)
-* [Getting Started](getting-started/getting-started.md)
-* [mdEditor Tutorial](getting-started/tutorial.md)
+* [Getting Started](introduction/getting-started.md)
+* [mdEditor Tutorial](introduction/tutorial.md)
 * [Reference Manual](reference/reference-manual.md)
   * [Edit Window Reference](reference/edit-window/edit-window-reference.md)
     * [Metadata Records](reference/edit-window/metadata-record.md)

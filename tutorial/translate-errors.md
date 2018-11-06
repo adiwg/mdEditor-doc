@@ -9,7 +9,7 @@ Let's run another translation on "My First Metadata Record".  This time choose t
   * Click the <span class="btn btn-primary btn-sm"> <i class="fa fa-retweet"> </i> Translate</span> button.
 {% endhint %}
 
-![Translate Record Window with Warnings](/assets/get-started/translate-mdjson-3.png){caption}
+![Translate Record Window with Warnings](/assets/tutorial/translate-mdjson-3.png){caption}
 
 This time things do not go quite so well.  A "Translation Warning" panel has popped up along with the expected <span class="md-panel">Result</span> panel.  You are being warned that although you have met the requirements for a minimal mdJSON record, there are still one or more additional requirements needed to generate a valid ISO 19115-2 record.  
 

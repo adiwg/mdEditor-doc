@@ -16,7 +16,7 @@ Time to clear browser cache ...
   * Click the <i class="fa fa-cog"> </i> "Settings" button in the <span class="md-window">Primary Navigation Bar</span>.
 {% endhint %}
 
-![Settings Window](/assets/get-started/settings-clear-cache.png){caption}
+![Settings Window](/assets/tutorial/settings-clear-cache.png){caption}
 
 {% hint style='working' %}
   Clear browser cache.

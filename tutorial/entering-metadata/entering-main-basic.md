@@ -1,7 +1,7 @@
 # Tutorial: Entering Basic Information
 ---
 
-![Edit Window - Main - Basic Information](/assets/get-started/edit-window-main-basic.png){caption}
+![Edit Window - Main - Basic Information](/assets/tutorial/edit-window-main-basic.png){caption}
 
 To help focus on the <span class="md-panel">Basic Information</span> panel I isolated it by clicking the blue isolation dot ![](/assets/bullets/isolation-dot.png). This step is, of course, not required and totally your preference. 
 

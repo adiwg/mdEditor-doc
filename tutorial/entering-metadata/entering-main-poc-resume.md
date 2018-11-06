@@ -18,7 +18,7 @@ Now add a new <span class="md-panel">Point Of Contact</span> object.
 
 Your mdEditor screen should look very similar to the following:
 
-![Edit Window - Main - Points Of Contact](/assets/get-started/edit-window-main-poc-2.png){caption}
+![Edit Window - Main - Points Of Contact](/assets/tutorial/edit-window-main-poc-2.png){caption}
 
 {% hint style='working' %}
   Edit the new <span class="md-panel">Point Of Contact</span>
@@ -35,7 +35,7 @@ The metadata requirement for <span class="md-panel">Point Of Contact</span> has 
   * Click in the <span class="md-element">Contacts</span> selector and choose the organization contact created in the previous step 
 {% endhint %}
 
-![Edit Window - Main - Points Of Contact with two objects](/assets/get-started/edit-window-main-poc-3.png){caption}
+![Edit Window - Main - Points Of Contact with two objects](/assets/tutorial/edit-window-main-poc-3.png){caption}
 
 {% hint style='info' %}
   Notice the object count has increased to two in the blue circle on the panel title bar, reflecting the actual object count. 

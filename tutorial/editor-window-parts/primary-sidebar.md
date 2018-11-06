@@ -1,12 +1,12 @@
 # Tutorial: Primary Sidebar
 ---
 
-![The Primary Sidebar](/assets/get-started/primary-sidebar.png){caption}
+![The Primary Sidebar](/assets/tutorial/primary-sidebar.png){caption}
 
 ### Show/Hide
 Toward the top of the <span class="md-window">Primary Sidebar</span> is the mdEditor logo.  Clicking on the logo will hide or show the <span class="md-window">Primary Sidebar</span>.  This may be helpful to gain more screen real estate while working on smaller devices.
 
-![The Primary Sidebar Collapsed](/assets/get-started/primary-sidebar-collapse.png){caption}
+![The Primary Sidebar Collapsed](/assets/tutorial/primary-sidebar-collapse.png){caption}
 
 ### <i class="fa fa-question-circle"> </i> Context Sensitive Help
 Clicking on the question mark icon will display help appropriate to the current page.  The help window will also provide a link back to the corresponding page in this document. 

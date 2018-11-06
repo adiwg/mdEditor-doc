@@ -6,7 +6,7 @@
   * Click "Import" on the <span class="md-window">Primary Navigation Bar</span>.
 {% endhint %}
 
-![Import Window - Home Page](/assets/get-started/import-record-1.png){caption}
+![Import Window - Home Page](/assets/tutorial/import-record-1.png){caption}
 
 The absence of records showing in the <span class="md-window">Primary Sidebar</span> confirms that there are no records loaded in browser cache.  However, before proceeding with this exercise be sure the browser cache is clear so your experience will parallel this dialog.  
 
@@ -51,7 +51,7 @@ To load the exported file back into mdEditor's browser cache just drag and drop 
 
 The <span class="md-window">Import Window</span> should now look similar to the following image: 
 
-![Import Window - Choose Records to Import](/assets/get-started/import-record-2.png){caption}
+![Import Window - Choose Records to Import](/assets/tutorial/import-record-2.png){caption}
 
 You can use the <span class="md-window">Import Window</span> selection panels to choose just the records you wish to import.  These selection panels work identically to those discussed for the <span class="md-window">Export Window</span>, [Exporting Metadata Records](export-record.md), so nothing new here.
 
@@ -63,6 +63,6 @@ Now let's import the entire mdEditor file using just a single click!
   * Click the <strong class="btn btn-success btn-xs"> <i class="fa fa-sign-in"> </i> Click to Import Data</strong> button.
 {% endhint %}
 
-![Import Window - Import Results](/assets/get-started/import-record-3.png){caption}
+![Import Window - Import Results](/assets/tutorial/import-record-3.png){caption}
 
 As you can see from the records now listed in the <span class="md-window">Primary Sidebar</span>, the browser cache has been reloaded with all the records we exported earlier.  

@@ -3,7 +3,7 @@
 
 ## Date Picker
 
-![Edit Window - Date Picker](/assets/get-started/edit-window-date-picker.png){caption}
+![Edit Window - Date Picker](/assets/tutorial/edit-window-date-picker.png){caption}
 
 ### <span><strong class="fa fa-angle-double-left"> <strong class="fa fa-angle-double-right"></span> Previous Month / Next Month
 
@@ -33,7 +33,7 @@ This button will clear both the date and time.
 
 ## Time Picker
 
-![Edit Window - Time Picker](/assets/get-started/edit-window-time-picker.png){caption}
+![Edit Window - Time Picker](/assets/tutorial/edit-window-time-picker.png){caption}
 
 ### <i class="fa fa-calendar"> </i> Return to Calendar
 

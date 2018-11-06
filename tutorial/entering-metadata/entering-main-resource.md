@@ -1,7 +1,7 @@
 # Tutorial: Entering Resource Types 
 ---
 
-![Edit Window - Main - Resource Types](/assets/get-started/edit-window-main-resource-1.png){caption}
+![Edit Window - Main - Resource Types](/assets/tutorial/edit-window-main-resource-1.png){caption}
 
 As you can see, not all panels have the isolation capability.  In general, this feature was not added to panels with just a few elements. <span class="md-panel">Resource Types</span> has only a single element.  
 
@@ -22,7 +22,7 @@ A <span class="md-panel">Resource Type</span> object with its two elements was c
   The ![](/assets/bullets/count-red.png) on the <span class="md-window">Panel Title Bar</span> has changed to ![](/assets/bullets/count-blue.png) indicating the array-panel now has one object.  Note that the object is counted even though the object is not meeting the standard for a valid object. In this case the required element <span class="md-element">Type</span> is missing.  The count includes ALL objects, not just valid objects!
 {% endhint %}
 
-![Edit Window - Main - Resource Type new object](/assets/get-started/edit-window-main-resource-2.png){caption}
+![Edit Window - Main - Resource Type new object](/assets/tutorial/edit-window-main-resource-2.png){caption}
 
 ### Type <i class="fa fa-asterisk required" title="Required"> </i>
 
@@ -54,4 +54,4 @@ A <span class="md-panel">Resource Type</span> object with its two elements was c
   * click the <strong class="btn btn-danger btn-xs"> <i class="fa fa-times"> </i> Delete</strong> button next to the newly created object. 
 {% endhint %}
 
-![Edit Window - Main - Resource Type complete object](/assets/get-started/edit-window-main-resource-3.png){caption}
+![Edit Window - Main - Resource Type complete object](/assets/tutorial/edit-window-main-resource-3.png){caption}

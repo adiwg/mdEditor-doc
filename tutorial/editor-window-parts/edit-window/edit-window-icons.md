@@ -1,7 +1,7 @@
 # Tutorial: Edit Window Icons
 ---
 
-![Edit Window Icons](/assets/get-started/edit-window-icons.png){caption}
+![Edit Window Icons](/assets/tutorial/edit-window-icons.png){caption}
 
 ### <i class="fa fa-asterisk required"> </i> Panel has Required Elements
 

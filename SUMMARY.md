@@ -13,6 +13,7 @@
         * [Points of Contact Panel](reference/edit-window/metadata-sections/main-panels/poc-panel.md)
         * [Citation View Panel](reference/edit-window/metadata-sections/main-panels/citation-panel.md)
         * [Description Panel](reference/edit-window/metadata-sections/main-panels/description-panel.md)
+        * [Time Period Panel](reference/edit-window/metadata-sections/main-panels/time-period-panel.md)
       * [Metadata Section](reference/edit-window/metadata-sections/metadata-section.md)
       * [Citation Section](reference/edit-window/metadata-sections/citation-section.md)
     * [Contact Records](reference/edit-window/contact-record.md)

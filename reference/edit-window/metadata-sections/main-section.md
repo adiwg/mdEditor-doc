@@ -11,12 +11,11 @@ The <span class="md-section">Main</span> section of the <span class="md-window">
 
  * [<span class="md-panel" style="font-size: larger">Points of Contact</span>](main-panels/poc-panel.md)
 
+ * [<span class="md-panel" style="font-size: larger">Citation</span>](main-panels/citation-panel.md)
 
-<span class="md-panel" style="font-size: larger">Citation</span>
+ * [<span class="md-panel" style="font-size: larger">Description</span>](main-panels/description-panel.md)
 
-<span class="md-panel" style="font-size: larger">Description</span>
-
-<span class="md-panel" style="font-size: larger">Time Period</span>
+ * [<span class="md-panel" style="font-size: larger">Time Period</span>](main-panels/time-period-panel.md)
 
 <span class="md-panel" style="font-size: larger">Maintenance</span>
 

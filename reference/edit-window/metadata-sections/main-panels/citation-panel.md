@@ -6,6 +6,6 @@ DO NOT EDIT
 
 ![Citation View Panel](/assets/reference/edit-objects/citation-view.png)
 
-To edit the citation click one of the <span class="btn btn-success btn-xs"> <i class="fa fa-pencil"> </i> Edit</span> buttons to take you to the <span class="md-section">Citation</span> edit window.  See [Citation Section](../citation-section.md) for editing information.
+<span class="btn btn-success btn-xs"> <i class="fa fa-pencil"> </i> Edit</span> and <span class="btn btn-success btn-xs"> <i class="fa fa-pencil"> </i> Edit Citation</span> Click either button to open the <span class="md-panel">Citation</span> object in the <span class="md-section">Citation</span> edit window.  See [Citation Section](../citation-section.md) for editing instructions.
 
 ---

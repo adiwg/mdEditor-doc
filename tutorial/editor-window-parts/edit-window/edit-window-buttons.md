@@ -48,10 +48,8 @@ When an 'Edit' button appears next to a panel object, clicking it will expand th
 
 ### <strong class="btn btn-danger btn-xs"> <i class="fa fa-times"> </i> Delete</strong> Delete Array Object
 
-The 'Delete' button will remove the object from the array.  
+The 'Delete' button adjacent to an object is used to remove the object from the array. After clicking 'Delete' the button will change to <strong class="btn btn-danger btn-xs"> <i class="fa fa-question"> </i> Confirm</strong>.  Clicking 'Confirm' will complete the delete operation.
 
-{% hint style='danger' %}
-  There is no confirmation step prior to the delete action like there is when deleting an entire record.  Delete will be immediate and is not reversible when AutoSave is 'On'.  If AutoSave is 'Off' the <strong class="btn btn-warning btn-xs"> <i class="fa fa-undo"> </i> Cancel</strong> button will be active and the record can be restored to the last 'Save' point. 
-{% endhint %}
+---
 
 Okay!  That's probably enough orientation to the <span class="md-window">Edit Window's</span>sections, buttons and icons.  Time to get some actual work done.  So let's return to filling in our minimal metadata record.  

@@ -1,4 +1,8 @@
-* <span class="md-element">Dates</span> <i class="fa fa-asterisk required" title="Required"></i> {**type**: control group; **default**: nil} - A set of controls to select and set the <span class="md-element">Start Date</span> and <span class="md-element">End Date</span> of a <span class="md-panel">Time Period</span>.  See [Date-Time Control](../../controls/dateTime-control.md)
+* <span class="md-element">Dates</span> <i class="fa fa-asterisk required" title="Required"></i> {**type**: control group; **default**: nil} - A set of controls to select and set the <span class="md-element">Start Date</span> and <span class="md-element">End Date</span> of a <span class="md-panel">Time Period</span>.  
+
+  <span class="btn btn-primary btn-xs">Pick a Fiscal Year</span> Use this select control to set both the <span class="md-element">Start Date</span> and <span class="md-element">End Date</span> of a fiscal year.  To set both dates for a fiscal year use the control to select the desired starting year.  The <span class="md-element">Start Date</span> will be set to the first day of the month for the fiscal year and the <span class="md-element">End Date</span> will be the last day of the month twelve months later. The default starting month for the fiscal year is October.  The starting month can be changed on the Settings page and will used by mdEditor for all <span class="md-panel">Time Period</span> objects until changed.  Previously defined fiscal years will not be effected.
+
+  See [Date-Time Control](../../controls/dateTime-control.md) for details on picking dates and times using the Date-Time control.
 
 * <span class="md-element">Identifier</span> {**type**: string; **default**: nil} - A unique identifier for this <span class="md-panel">Time Period</span>.  
 
@@ -28,5 +32,5 @@
     * <span class="md-element">Second</span> {**type**: integer; **default**: nil} - A value for the unit of time.
     
   {% hint style='info' %}
-  At least one of the above elements is required.  More than one may be entered.  e.g. 1 Year, 6 Months is equivalent to 18 Months.
+  At least one duration elements is required.  More than one may also be entered.  e.g. 18 Months or 1 year, 6 months.
   {% endhint %}

@@ -1,4 +1,4 @@
-# Tutorial: Finding Required mdJSON Elements
+# Tutorial -- Finding Required mdJSON Elements
 ---
 
 In this image of the <span class="md-window">Edit Window</span> <span class="md-section">Main</span> section all the panels have been collapsed.  I have done this to make our discussion easier to follow, but it's not necessary for you to do this in completing the exercise.    

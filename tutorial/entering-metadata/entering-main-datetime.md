@@ -1,4 +1,4 @@
-# Tutorial: Entering Time Periods 
+# Tutorial -- Entering Time Periods 
 DO NOT EDIT
 
 {% hint style='working' %}

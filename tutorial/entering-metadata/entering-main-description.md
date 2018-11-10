@@ -1,4 +1,4 @@
-# Tutorial: Entering Descriptions 
+# Tutorial -- Entering Descriptions 
 ---
 
 The <span class="md-panel">Description</span> panel, like the <span class="md-panel">Basic Information</span> panel, is a collection of elements.  The only required element for <span class="md-panel">Description</span> is <span class="md-element">Abstract</span>, so let's write or copy in our abstract.   

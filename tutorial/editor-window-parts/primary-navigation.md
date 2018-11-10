@@ -1,4 +1,4 @@
-# Tutorial: Primary Navigation Bar
+# Tutorial -- Primary Navigation Bar
 ---
 The <span class="md-window">Primary Navigation Bar</span> is the top-most navigation bar, which has been outlined with a yellow rectangle in the image below.  This bar contains buttons that navigate you away from the Edit View (or whichever view you happen to be on at the time) to other facilities within mdEditor. 
 

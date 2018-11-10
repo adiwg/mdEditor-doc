@@ -1,4 +1,4 @@
-# Tutorial: Closing Thoughts
+# Tutorial -- Closing Thoughts
 
 ---
 

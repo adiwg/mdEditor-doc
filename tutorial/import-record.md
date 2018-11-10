@@ -1,4 +1,4 @@
-# Tutorial: Importing Metadata Records
+# Tutorial -- Importing Metadata Records
 ---
 
 {% hint style='working' %}

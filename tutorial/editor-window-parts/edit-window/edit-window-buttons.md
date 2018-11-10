@@ -1,4 +1,4 @@
-# Tutorial: Edit Window Buttons
+# Tutorial -- Edit Window Buttons
 ---
 
 ![Edit Window Buttons](/assets/tutorial/edit-window-buttons.png){caption}

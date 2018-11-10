@@ -8,7 +8,7 @@ DO NOT EDIT
 
 * <span class="md-element">Abstract</span> <i class="fa fa-asterisk required" title="Required"></i> {**type**: markdown text; **default**: nil} - A brief narrative summary of the main resource contents.  The <span class="md-element">Abstract</span> is entered in plain text with the option to format the text using a Markdown syntax.  See [Markdown Control](../../controls/markdown-control.md)
 
-* <span class="md-element">Short Abstract</span> {**type**: markdown text; **default**: nil} - A short description of the main resource contents limited to 300 characters or less. 
+* <span class="md-element">Short Abstract</span> {**type**: markdown text; **default**: nil; **max length**: 300 characters} - A short description of the main resource contents. 
  
   The <span class="md-element">Short Abstract</span> is useful for summary pages, lists, and web-pages built by repository and search software.  The <span class="md-element">Short Abstract</span> should be meaningful, not just the first 300 characters of the full <span class="md-element">Abstract</span>
 

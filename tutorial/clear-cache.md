@@ -1,4 +1,4 @@
-# Tutorial: Clearing Browser Cache
+# Tutorial -- Clearing Browser Cache
 ---
 
 Since we just exported our metadata records to local storage it stands to reason we should also be able to import metadata records into the mdEditor's browser cache. And we can.  

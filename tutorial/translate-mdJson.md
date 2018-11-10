@@ -1,4 +1,4 @@
-# Tutorial: Translate a Metadata Record
+# Tutorial -- Translate a Metadata Record
 ---
 
 Now that we have entered our minimal mdJSON metadata record let's see how easy it is to translate the record into other metadata formats.  With mdEditor open on the metadata record you wish to translate - in this example "My First Metadata Record" -  click the "Translate" button in the <span class="md-window">Primary Navigation Bar</span>.  This will take you to the Translate Record window show below.

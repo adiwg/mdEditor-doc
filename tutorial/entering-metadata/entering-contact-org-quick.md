@@ -1,4 +1,4 @@
-# Tutorial: Add a Quick Organization Contact 
+# Tutorial -- Add a Quick Organization Contact 
 ---
 
 {% hint style='working' %}

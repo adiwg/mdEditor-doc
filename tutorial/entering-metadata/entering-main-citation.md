@@ -1,4 +1,4 @@
-# Tutorial: Entering Citations 
+# Tutorial -- Entering Citations 
 ---
 
 The <span class="md-panel">Citation</span> we are editing in this step is the citation for the primary subject of this metadata record, aka the "main resource."   

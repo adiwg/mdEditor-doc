@@ -19,6 +19,8 @@ The <span class="md-section">Main</span> section of the <span class="md-window">
 
  * [<span class="md-panel" style="font-size: larger">Maintenance</span>](main-panels/maintenance-panel.md)
 
-<span class="md-panel" style="font-size: larger">Graphic Overview</span>
+ * [<span class="md-panel" style="font-size: larger">Graphic Overview</span>](main-panels/graphicOverview-panel.md)
+ 
+ * [<span class="md-panel" style="font-size: larger">Graphic Online Resource</span>](main-panels/graphicOnlineResource-panel.md)
 
-<span class="md-panel" style="font-size: larger">Credits</span>
+ * [<span class="md-panel" style="font-size: larger">Credits</span>](main-panels/credits-panel.md)

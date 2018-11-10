@@ -1,4 +1,4 @@
-# Tutorial: Entering Points Of Contact 
+# Tutorial -- Entering Points Of Contact 
 ---
 
 As your trained eye can now see, <span class="md-panel">Points Of Contact</span> is another array-panel containing <span class="md-panel">Point Of Contact</span> objects.  So, let's add our first Point Of Contact.

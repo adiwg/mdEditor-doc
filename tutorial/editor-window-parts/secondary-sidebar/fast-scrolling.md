@@ -1,4 +1,4 @@
-# Tutorial: Fast Scrolling
+# Tutorial -- Fast Scrolling
 --- 
 
 Some <span class="md-window">Edit Window</span> sections are too long to fit on a standard monitor and require some scrolling to see all the elements of the page.  The Edit Window can even get much longer as you continue to add your metadata.  This can make it inconvenient to locate just the information you're looking for by visually searching the record.

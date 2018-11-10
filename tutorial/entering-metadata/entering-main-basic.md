@@ -1,4 +1,4 @@
-# Tutorial: Entering Basic Information
+# Tutorial -- Entering Basic Information
 ---
 
 ![Edit Window - Main - Basic Information](/assets/tutorial/edit-window-main-basic.png){caption}

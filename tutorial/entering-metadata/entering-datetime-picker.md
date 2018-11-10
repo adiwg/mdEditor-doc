@@ -1,4 +1,4 @@
-# Tutorial: Entering Dates and Times 
+# Tutorial -- Entering Dates and Times 
 ---
 
 ## Date Picker

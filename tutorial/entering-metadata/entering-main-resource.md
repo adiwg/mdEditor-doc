@@ -1,4 +1,4 @@
-# Tutorial: Entering Resource Types 
+# Tutorial -- Entering Resource Types 
 ---
 
 ![Edit Window - Main - Resource Types](/assets/tutorial/edit-window-main-resource-1.png){caption}

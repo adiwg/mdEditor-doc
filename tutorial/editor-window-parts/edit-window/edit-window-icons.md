@@ -1,4 +1,4 @@
-# Tutorial: Edit Window Icons
+# Tutorial -- Edit Window Icons
 ---
 
 ![Edit Window Icons](/assets/tutorial/edit-window-icons.png){caption}

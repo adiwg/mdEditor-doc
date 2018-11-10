@@ -1,4 +1,4 @@
-# Tutorial: Entering Metadata Contacts
+# Tutorial -- Entering Metadata Contacts
 ---
 
 The <span class="md-panel">Metadata Contact</span> is our last requirement for a minimal mdJSON record.  It is not found on the <span class="md-window">Edit Window</span> <span class="md-section">Main</span> section where we have been working; the <span class="md-element">Metadata Contacts</span> panel we need is on the <span class="md-window">Edit Window</span> <span class="md-section">Metadata</span> section.

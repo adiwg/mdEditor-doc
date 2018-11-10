@@ -1,4 +1,4 @@
-# Tutorial: Before We Begin
+# Tutorial -- Before We Begin
 
 ---
 

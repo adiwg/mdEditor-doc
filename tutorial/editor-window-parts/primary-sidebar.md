@@ -1,4 +1,4 @@
-# Tutorial: Primary Sidebar
+# Tutorial -- Primary Sidebar
 ---
 
 ![The Primary Sidebar](/assets/tutorial/primary-sidebar.png){caption}

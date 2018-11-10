@@ -1,4 +1,4 @@
-# Tutorial: Exporting a Metadata Record
+# Tutorial -- Exporting a Metadata Record
 ---
 
 Now that our very minimal metadata record can be translated into a valid, but equally minimal, ISO metadata record, it's time to preserve our hard work.  By that I mean copy the records from browser cache to your local storage.  

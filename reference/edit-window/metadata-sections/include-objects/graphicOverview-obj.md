@@ -6,4 +6,4 @@
   
   * <span class="md-element">Description</span> {**type**: string; **default**: nil; **max length**: 500 characters} - A short description of the overview graphic.
  
-  * <span class="md-panel">Online Resource</span> {**type**: array ([<span class="md-panel">Online Resource</span>](../main-panels/graphicOnlineResource-panel.md)); **default**: empty;} - An array of <span class="md-panel">Online Resource</span> objects to define internet links to the <span class="md-panel">Graphic Overview</span> file.
+  * <span class="md-panel">Graphic Online Resource</span> {**type**: array ([<span class="md-panel">Graphic Online Resource</span>](../main-panels/graphicOnlineResource-panel.md)); **default**: empty;} - An array of <span class="md-panel">Graphic Online Resource</span> objects to define internet links to the <span class="md-panel">Graphic Overview</span> file.

@@ -16,7 +16,7 @@
         * [Time Period Panel](reference/edit-window/metadata-sections/main-panels/timePeriod-panel.md)
         * [Maintenance Panel](reference/edit-window/metadata-sections/main-panels/maintenance-panel.md)
         * [Graphic Overview Panel](reference/edit-window/metadata-sections/main-panels/graphicOverview-panel.md)
-        * [Graphic Online Resource Panel](reference/edit-window/metadata-sections/main-panels/graphicOnlineResource-panel.md)
+        * [Online Graphic Resource Panel](reference/edit-window/metadata-sections/main-panels/onlineGraphicResource-panel.md)
         * [Credits Panel](reference/edit-window/metadata-sections/main-panels/credits-panel.md)
       * [Metadata Section](reference/edit-window/metadata-sections/metadata-section.md)
       * [Citation Section](reference/edit-window/metadata-sections/citation-section.md)

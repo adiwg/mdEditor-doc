@@ -1,6 +1,6 @@
 ## Metadata Record -- Main Section
 ### Points of Contact Array
-DO NOT EDIT
+---
 
 <span class="md-panel" style="font-size: larger">Points of Contact</span> <i class="fa fa-asterisk required" title="Required"> </i> {**type**: array (<span class="md-panel">Responsible Party</span>)} - Responsible Parties identify persons and organizations to contact regarding various responsibilities associated with the main resource. 
 

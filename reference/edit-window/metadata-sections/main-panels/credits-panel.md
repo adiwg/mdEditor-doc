@@ -1,6 +1,6 @@
 ## Metadata Record -- Main Section
 ### Credits Array
-DO NOT EDIT
+---
 
 <span class="md-panel" style="font-size: larger">Credits</span> {**type**: array} - An array of additional persons and organizations that contributed to the resource. Each credit is a text string.
 

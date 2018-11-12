@@ -1,10 +1,19 @@
 ## Metadata Record -- Main Section
 ### Online Graphic Resource Array
-DO NOT EDIT
+---
 
-<span class="md-panel" style="font-size: larger">Online Graphic Resource</span> {**type**: array (<span class="md-panel">Online Graphic Resource</span>); **default**: empty} - An array of <span class="md-panel">Online Graphic Resource</span> objects that describe internet links to graphic files.
+<span class="md-panel" style="font-size: larger">Online Graphic Resource</span> {**type**: array (<span class="md-panel">Online Graphic Resource</span>); **default**: empty} - An array of <span class="md-panel">Online Graphic Resource</span> objects that describe internet links to graphic files.  
 
 ![Online Graphic Resource Array](/assets/reference/edit-objects/onlineGraphicResource-array.png)
+
+Along with the file <span class="md-element">Name</span> and <span class="md-element">URI</span>, mdEditor attempts to provide a thumbnail of each graphic file listed in the <span class="md-panel">Online Graphic Resource</span> array.  If a thumbnail can not be generated a broken image link will be displayed like the one shown for the second array item above.  
+
+{% hint style='info' %}
+  Reasons for mdEditor not producing a thumbnail preview include:
+  * an invalid link 
+  * a graphic format mdEditor is not able to read
+  * non-graphic file 
+{% endhint %} 
 
 <strong class="btn btn-success btn-xs"> <i class="fa fa-pencil"> </i> Edit</strong> Click 'Edit' to open the <span class="md-panel">Online Graphic Resource</span> object for editing.
 

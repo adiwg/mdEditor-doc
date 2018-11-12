@@ -1,5 +1,5 @@
 # Metadata Record -- Main Section
-DO NOT EDIT
+---
 
 The <span class="md-section">Main</span> section of the <span class="md-window">Edit Window</span> collects general information about the main resource and is subdivided into the following panels: 
 

@@ -1,6 +1,6 @@
 ## Metadata Record -- Main Section
 ### Citation View
-DO NOT EDIT
+---
 
 <span class="md-panel" style="font-size: larger">Citation</span> <i class="fa fa-asterisk required" title="Required"> </i> {**type**: view} <span class="md-panel">Citation</span> is a non-editable view of the main resource's citation information.  Not all of the <span class="md-panel">Citation's</span> information is displayed in the view, only a few select fields that provide a reasonable overview of the citation.
 

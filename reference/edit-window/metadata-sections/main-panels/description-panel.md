@@ -1,6 +1,6 @@
 ## Metadata Record -- Main Section
 ### Description
-DO NOT EDIT
+---
 
 <span class="md-panel" style="font-size: larger">Description</span> <i class="fa fa-asterisk required" title="Required"> </i> {**type**: collection} <span class="md-panel">Description</span> is a collection of independent elements that hold various text descriptions for the main resource. 
 

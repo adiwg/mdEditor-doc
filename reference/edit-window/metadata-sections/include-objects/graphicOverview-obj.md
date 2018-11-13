@@ -1,4 +1,4 @@
-![Graphic Overview](/assets/reference/edit-objects/graphicOverview.png)
+![Graphic Overview](/assets/reference/edit-objects/main/graphicOverview.png)
 
   * <span class="md-element">Name</span> <i class="fa fa-asterisk required" title="Required"> </i> {**type**: string; **default**: nil} - Name of the file containing the overview graphic.  
 

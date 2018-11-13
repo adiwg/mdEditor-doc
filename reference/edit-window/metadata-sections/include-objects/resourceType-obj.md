@@ -1,4 +1,4 @@
-![Resource Types Panel](/assets/reference/edit-objects/resourceType.png)
+![Resource Types Panel](/assets/reference/edit-objects/main/resourceType.png)
 
 <strong class="btn btn-danger btn-xs"> <i class="fa fa-times"> </i> Delete</strong> Click 'Delete' to remove the <span class="md-panel">Resource Type</span> object from the array.
 

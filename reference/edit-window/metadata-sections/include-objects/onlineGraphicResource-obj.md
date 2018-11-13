@@ -1,4 +1,4 @@
-![Online Graphic Resource](/assets/reference/edit-objects/onlineGraphicResource.png)
+![Online Graphic Resource](/assets/reference/edit-objects/main/onlineGraphicResource.png)
 
 * <span class="md-element">Name</span> {**type**: string; **default**: nil} - The name of the online graphic resource. 
 

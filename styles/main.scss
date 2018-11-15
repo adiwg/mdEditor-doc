@@ -29,7 +29,8 @@ $panel-back: #e3e3e3;
     //border-bottom: 1px lighten($glossary-text, 50) dotted;
     color: inherit; //$glossary-text;
     cursor: help;
-    font-style: italic;
+    border-bottom: 1px dotted;
+    border-color: lighten($glossary-text, 25);
     text-decoration: none;
 
     &:active,

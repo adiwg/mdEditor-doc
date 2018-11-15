@@ -1,4 +1,4 @@
-![Maintenance Panel](/assets/reference/edit-objects/main/maintenance-panel.png)
+![Maintenance Panel](/assets/reference/edit-objects/main/maintenance.png)
 
 * <span class="md-element">Frequency</span> <i class="fa fa-asterisk required" title="Required"> </i> {**type**: string; **default**: nil} - The frequency period for maintenance of this resource.  
 

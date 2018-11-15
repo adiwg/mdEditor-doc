@@ -1,5 +1,5 @@
 ## Metadata Record -- Metadata Section
-### Metadata Contacts
+### Metadata Contacts Array
 ---
 
 <span class="md-panel" style="font-size: larger">Metadata Contacts</span> <i class="fa fa-asterisk required" title="Required"> </i> {**type**: array (<span class="md-panel">Responsible Party</span>)} - These <span class="md-panel">Responsible Parties</span> identify persons and organizations to contact regarding the metadata record for this resource.

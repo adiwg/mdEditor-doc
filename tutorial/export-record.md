@@ -24,7 +24,7 @@ The <span class="md-window">Export Window</span> is showing two panels; one for 
 
 To select records (Metadata Records, Contacts, and/or Dictionaries) for export, simply click the checkbox in the left-hand column next to the items you wish to export.  The selected records will all be bundled into a single export file.  Bottom line, any record that is checked when you click "Export" will be exported.  
 
-It is not uncommon for a list of records to become too long to fit on a screen, particularly a list of contacts.  To help refine a list, search controls have been added to the panels.  Typing a string into one of these search controls will cause the panel to display only items that can find a match to the string.  The search controls located below column names refine the list based on the column's contents.  Search control located under the panel's <span class="md-window">Panel Title Bar</span> refine the list based on a match in ANY of the panel's columns. 
+It is not uncommon for a list of records to become too long to fit on a screen, particularly a list of contacts.  To help refine a list, search controls have been added to the panels.  Typing a string into one of these search controls will cause the panel to display only items with a match to the string.  The search controls located below column names refine the list based on the column's contents.  The search control located under the panel's <span class="md-window">Panel Title Bar</span> refines the list based on a match in ANY of the panel's columns. 
 
 {% hint style='info' %}
   Search criteria can also be entered into more than one search control.  The multiple search criteria are applied as a logical "AND" not an "OR".  Meaning the selected items will need to match ALL the search criteria, not merely ANY of the criteria.
@@ -33,7 +33,7 @@ It is not uncommon for a list of records to become too long to fit on a screen, 
 A checkbox in the panel's label row - identified as "Check All Items" in the screenshot above - will check or uncheck all items in the panel.  
 
 {% hint style='danger' %}
-  If you refine a list using search criteria, the "Check All Items" checkbox will still check or uncheck ALL rows in the panel.  Even those excluded by the search criteria 
+  If you refine a list using search criteria, the "Check All Items" checkbox will still check or uncheck ALL rows in the panel, even those excluded by the search criteria. 
 {% endhint %}
 
 ### <strong class="btn btn-primary btn-xs"> <i class="fa fa-sign-out"> </i> Export All</strong> Export All Items

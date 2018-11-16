@@ -41,7 +41,7 @@ The <span class="md-panel">Result</span> preview panel is pretty small for viewi
 {% endhint %} 
 
 {% hint style='tip' %}
-  The HTML output window is an excellent way to review the full content of your metadata record.  The HTML output presents all your entries in an organized easy to read format.  It can also be exported by clicking the <span class="btn btn-success btn-sm"> <i class="fa fa-floppy-o"> </i> Save Result</span> button making it a handy way for others to review your metadata or embed in websites.  
+  The HTML output window is an excellent way to review the full content of your metadata record.  The HTML output presents all your entries in an organized easy-to-read format.  It can also be exported by clicking the <span class="btn btn-success btn-sm"> <i class="fa fa-floppy-o"> </i> Save Result</span> button, making this a handy way for others to review your metadata or embed it in websites.  
 {% endhint %}
 
 {% hint style='tip' %}

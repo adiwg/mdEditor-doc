@@ -26,7 +26,7 @@ Your mdEditor screen should look very similar to the following:
   * Click in the <span class="md-element">Contacts</span> selector and choose the individual contact you created in the previous step.
 {% endhint %}
 
-The metadata requirement for <span class="md-panel">Point Of Contact</span> has been fulfilled.  But let's add a second <span class="md-panel">Point Of Contact</span> object to observe how these array-panels work.
+The metadata requirement for <span class="md-panel">Point Of Contact</span> has been fulfilled.  But let's add a second <span class="md-panel">Point Of Contact</span> object to observe how these array panels work.
 
 {% hint style='working' %}
   Add a second <span class="md-panel">Point Of Contact</span> object

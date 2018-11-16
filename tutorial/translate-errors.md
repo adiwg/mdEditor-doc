@@ -1,7 +1,7 @@
 # Tutorial -- Handling Translation Errors
 ---
 
-Let's run another translation on "My First Metadata Record".  This time choose to the output format as "ISO 19115-2."
+Let's run another translation on "My First Metadata Record".  This time choose the output format as "ISO 19115-2."
 
 {% hint style='working' %}
   Translate "My First Metadata Record" to ISO 19115-2
@@ -11,7 +11,7 @@ Let's run another translation on "My First Metadata Record".  This time choose t
 
 ![Translate Record Window with Warnings](/assets/tutorial/translate-mdjson-3.png){caption}
 
-This time things do not go quite so well.  A "Translation Warning" panel has popped up along with the expected <span class="md-panel">Result</span> panel.  You are being warned that although you have met the requirements for a minimal mdJSON record, there are still one or more additional requirements needed to generate a valid ISO 19115-2 record.  
+This time things did not go quite so well.  A "Translation Warning" panel has popped up along with the expected <span class="md-panel">Result</span> panel.  You are being warned that although you have met the requirements for a minimal mdJSON record, there are still one or more additional requirements needed to generate a valid ISO 19115-2 record.  
 
 No problem.  The messages informs us that we are missing a date for the main resource citation.  Let's break the message down by parts before we add the date.
 

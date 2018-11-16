@@ -26,7 +26,7 @@ All citations share the same format.  Thus what is shown here for the main resou
 
 ![Edit Window - Citation](/assets/tutorial/edit-window-main-citation-2.png){caption}
 
-You should now be looking at the <span class="md-section">Citation</span> edit window as shown in the above image.  Notice the <span class="md-window">Edit Window</span> title has changed from "Editing *My First Metadata Record*" to "Editing Citation"; also the path on the <span class="md-window">Breadcrumb Bar</span> confirms that you have navigated to the <span class="md-section">Citation</span> branch of the <span class="md-section">Main</span> <span class="md-window">Edit Window</span>.  
+You should now be looking at the <span class="md-section">Citation</span> edit window as shown in the image above.  Notice the <span class="md-window">Edit Window</span> title has changed from "Editing *My First Metadata Record*" to "Editing Citation"; also the path on the <span class="md-window">Breadcrumb Bar</span> confirms that you have navigated to the <span class="md-section">Citation</span> branch of the <span class="md-section">Main</span> <span class="md-window">Edit Window</span>.  
 
 From working with <span class="md-panel">Resource Types</span> earlier in this exercise you are already familiar with the array-panel control used for entering <span class="md-element">Alternate Title</span> elements, so let's enter a few <span class="md-element">Alternate Titles</span> now.
 

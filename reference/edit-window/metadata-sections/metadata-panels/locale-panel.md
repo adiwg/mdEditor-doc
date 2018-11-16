@@ -2,6 +2,9 @@
 ### Default Metadata Locale
 ---
 
-<span class="md-panel" style="font-size: larger">Default Metadata Locale</span> {**type**: collection} The <span class="md-panel">Basic Information</span> panel holds a collection of elements that identify and describe the metadata record.
+<span class="md-element">Default Metadata Local</span> {**type**: object (<span class="md-panel">Locale</span>)} - The default or primary language and character encoding for the metadata.
+
+![Locale Panel](/assets/reference/edit-objects/metadata/locale-metadata.png) 
+{% include "../include-objects/locale-obj.md" %}
 
 ---

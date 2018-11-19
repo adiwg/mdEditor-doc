@@ -27,10 +27,10 @@ To select records (Metadata Records, Contacts, and/or Dictionaries) for export, 
 It is not uncommon for a list of records to become too long to fit on a screen, particularly a list of contacts.  To help refine a list, search controls have been added to the panels.  Typing a string into one of these search controls will cause the panel to display only items with a match to the string.  The search controls located below column names refine the list based on the column's contents.  The search control located under the panel's <span class="md-window">Panel Title Bar</span> refines the list based on a match in ANY of the panel's columns. 
 
 {% hint style='info' %}
-  Search criteria can also be entered into more than one search control.  The multiple search criteria are applied as a logical "AND" not an "OR".  Meaning the selected items will need to match ALL the search criteria, not merely ANY of the criteria.
+  Search criteria can also be entered into more than one search control.  The multiple search criteria are applied as a logical "AND" not an "OR".  This means the selected items will need to match ALL the search criteria, not merely ANY of the criteria.
 {% endhint %}
 
-A checkbox in the panel's label row - identified as "Check All Items" in the screenshot above - will check or uncheck all items in the panel.  
+A checkbox in the panel's label row - identified as "Select All Items" in the screenshot above - will check or uncheck all items in the panel.  
 
 {% hint style='danger' %}
   If you refine a list using search criteria, the "Check All Items" checkbox will still check or uncheck ALL rows in the panel, even those excluded by the search criteria. 

@@ -36,6 +36,7 @@
         * [Series Panel](reference/edit-window/metadata-sections/citation-panels/series-panel.md)
         * [Other Details Panel](reference/edit-window/metadata-sections/citation-panels/otherDetails-panel.md)
         * [Graphic Panel](reference/edit-window/metadata-sections/citation-panels/graphic-panel.md)
+        * [Online Graphic Resource Panel](reference/edit-window/metadata-sections/citation-panels/onlineGraphicResource-panel.md)
       * [Identifier Section](reference/edit-window/metadata-sections/identifier-section.md)
     * [Contact Records](reference/edit-window/contact-record.md)
     * [Dictionary Records](reference/edit-window/dictionary-record.md)

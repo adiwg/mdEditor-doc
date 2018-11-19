@@ -20,5 +20,7 @@ The <span class="md-section">Citation</span> section is not directly accessible 
  * [<span class="md-panel" style="font-size: larger">Other Details</span>](citation-panels/otherDetails-panel.md)
 
  * [<span class="md-panel" style="font-size: larger">Graphic</span>](citation-panels/graphic-panel.md)
+ 
+ * [<span class="md-panel" style="font-size: larger">Online Graphic Resource</span>](citation-panels/onlineGraphicResource-panel.md)
 
 ---

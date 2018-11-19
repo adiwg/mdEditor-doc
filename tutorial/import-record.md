@@ -23,7 +23,7 @@ As identified on the <span class="md-window">Import Window</span>, mdEditor supp
  
 #### mdEditor format
 
-The mdEditor export format can contain multiple records, contacts, and dictionaries.  This is useful for organizing a collection of records in mdEditor that are related is some meaningful way, perhaps by project, organization, or principal investigator.  
+The mdEditor export format can contain multiple records, contacts, and dictionaries.  This is useful for organizing a collection of records in mdEditor that are related in some meaningful way, perhaps by project, organization, or principal investigator.  
 
 #### mdJSON format
 

@@ -1,7 +1,7 @@
 # Tutorial -- Handling Translation Errors
 ---
 
-Let's run another translation on "My First Metadata Record".  This time choose to the output format as "ISO 19115-2."
+Let's run another translation on "My First Metadata Record".  This time choose the output format as "ISO 19115-2."
 
 {% hint style='working' %}
   Translate "My First Metadata Record" to ISO 19115-2
@@ -11,9 +11,9 @@ Let's run another translation on "My First Metadata Record".  This time choose t
 
 ![Translate Record Window with Warnings](/assets/tutorial/translate-mdjson-3.png){caption}
 
-This time things do not go quite so well.  A "Translation Warning" panel has popped up along with the expected <span class="md-panel">Result</span> panel.  You are being warned that although you have met the requirements for a minimal mdJSON record, there are still one or more additional requirements needed to generate a valid ISO 19115-2 record.  
+This time things did not go quite so well.  A "Translation Warning" panel has popped up along with the expected <span class="md-panel">Result</span> panel.  You are being warned that although you have met the requirements for a minimal mdJSON record, there are still one or more additional requirements needed to generate a valid ISO 19115-2 record.  
 
-No problem.  The messages informs us that we are missing a date for the main resource citation.  Let's break the message down by parts before we add the date.
+No problem.  The message informs us that we are missing a date for the main resource citation.  Let's break the message down by parts before we add the date.
 
 #### Message Level
 
@@ -45,7 +45,7 @@ Let's add the missing date.
   * On the <span class="md-panel">Dates</span> panel click the <span class="btn btn-info btn-sm"> <i class="fa fa-plus"> </i> Add Date</span> button
   * Add a date
   * Choose a date type
-  * Save you edit if "AutoSave" is not "On"
+  * Save your edit if "AutoSave" is not "On"
 {% endhint %}
 
 With our citation date entered let's go back and try the translation to ISO one more time ...
@@ -59,7 +59,7 @@ With our citation date entered let's go back and try the translation to ISO one 
 
 Worked for me!  How about you?
 
-With a valid ISO 19115-2 record in <span class="md-panel">Result</span> preview panel let's export the metadata ISO record so it can be sent to a clearinghouse, repository, or publisher of our choice.  
+With a valid ISO 19115-2 record in the <span class="md-panel">Result</span> preview panel let's export the metadata ISO record so it can be sent to a clearinghouse, repository, or publisher of our choice.  
 
 {% hint style='working' %}
   Save the ISO 19115-2 metadata record.

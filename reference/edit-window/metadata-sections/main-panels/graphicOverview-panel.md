@@ -14,6 +14,8 @@
 
 ### Graphic Overview Object
 
+![Graphic Overview](/assets/reference/edit-objects/main/graphicOverview.png)
+
 {% include "../include-objects/graphicOverview-obj.md" %}
 
 ---

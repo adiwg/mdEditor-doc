@@ -57,4 +57,8 @@ No questions asked!  mdEditor just exported all the records we created.  If you 
   The file was given a name using a format of "mdeditor-{date}-{time}.json".  For example, my file was named "mdeditor-20180907-150907.json"; the date being September 7, 2018 and time 1:09:07 pm. 
 {% endhint %} 
 
+{% hint style='tip' %}
+  Placing files in the "Downloads" folder is the default setting of your internet browser.  If you prefer you can usually change this location in your browser settings.  Most browser preferences will even let you set a flag to ask for a file location and file name each time download a file. 
+{% endhint %}
+
 It's now up to you.  Move the download file to a safe location and give it proper name.  

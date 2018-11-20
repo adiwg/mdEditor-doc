@@ -20,5 +20,4 @@
 
 * <span class="md-element">Default Locale</span> <i class="fa fa-asterisk required" title="Required"> </i> {**type**: object ([<span class="md-panel">Default Locale</span>](locale-panel.md)); **default** (eng, UTF-8, USA)} - The default or primary language and character encoding for the main resource. 
 
-
 ---

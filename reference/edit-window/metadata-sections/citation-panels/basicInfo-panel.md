@@ -6,7 +6,7 @@
 
 ![Basic Information Panel](/assets/reference/edit-objects/citation/basicInfo-citation.png)
 
-* <span class="md-element">Title</span> <i class="fa fa-asterisk required" title="Required"> </i> {**type**: string; **default**: nil} - A user provided title for the resource.  This was required when the metadata record was created but may be edited at any time.
+* <span class="md-element">Title</span> <i class="fa fa-asterisk required" title="Required"> </i> {**type**: string; **default**: empty} - A user provided title for the resource.  This was required when the metadata record was created but may be edited at any time.
 
 * <span class="md-element">Alternate Titles</span> {**type**: array (string); **default**: empty} - Other titles, alias, by which the resource may be known.
 
@@ -19,8 +19,8 @@
   {% include "../include-objects/date-obj.md" %}
   ---
 
-* <span class="md-element">Edition</span> {**type**: string; **default**: nil} - Version identifier for the resource.
+* <span class="md-element">Edition</span> {**type**: string; **default**: empty} - Version identifier for the resource.
 
-* <span class="md-element">Presentation Form</span> {**type**: codelist (ISO CI_PresentationFormCode, ADIwg codes); **multi-value**: YES; **extensible**: YES; **default**: nil} - The form that the resource is presented, such as: digital map, digital document, etc.
+* <span class="md-element">Presentation Form</span> {**type**: codelist (ISO CI_PresentationFormCode, ADIwg codes); **multi-value**: YES; **extensible**: YES; **default**: empty} - The form that the resource is presented, such as: digital map, digital document, etc.
 
 ---

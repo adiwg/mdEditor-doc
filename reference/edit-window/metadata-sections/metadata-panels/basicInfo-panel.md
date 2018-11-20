@@ -6,7 +6,7 @@
 
 ![Basic Information Panel](/assets/reference/edit-objects/metadata/basicInfo-metadata.png)
 
-* <span class="md-element">Metadata Status</span> {**type**: codelist (ISO MD_ProgressCode, ADIwg codes); **multi-value**: YES; **default**: nil} - The current status of the metadata record.
+* <span class="md-element">Metadata Status</span> {**type**: codelist (ISO MD_ProgressCode, ADIwg codes); **multi-value**: YES; **default**: empty} - The current status of the metadata record.
 
 * <span class="md-element">Dates</span> {**type**: array (<span class="md-panel">Date</span>); **default**: empty} - Dates and datetimes related to creation and status of this metadata record.
   

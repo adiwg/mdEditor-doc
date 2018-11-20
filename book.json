@@ -1,36 +1,44 @@
 {
-  "plugins": ["hints", "styles-sass-fix", "regexplace", "code"],
-  "styles": {
-    "website": "styles/website.scss",
-    "ebook": "styles/ebook.scss",
-    "pdf": "styles/pdf.scss",
-    "mobi": "styles/mobi.scss",
-    "epub": "styles/epub.scss"
-  },
-  "pluginsConfig": {
-    "hints": {
-        "info": "fa fa-info-circle",
-        "tip": "fa fa-lightbulb-o",
-        "danger": "fa fa-exclamation-circle",
-        "working": "fa fa-wrench"
-    },
-    "regexplace": {
-      "substitutes": [{
-          "pattern": "<img (.*)alt=\"([^\"]*)\"(.*) {0,1}\/{0,1}> {0,}{caption([^\\}]*)}",
-          "flags": "g",
-          "substitute": "<figure id=\"fig_PAGE_LEVEL_._INDEX_\" class=\"screenshot\"><img $1alt=\"$2\" $4$3><figcaption><span>Image _INDEX_: </span>$2</figcaption></figure>"
-        },
-        {
-          "pattern": "<!-- tasks -->",
-          "flags": "g",
-          "substitute": "<div class=\"list-tasks\">"
-        },
-        {
-          "pattern": "<!-- endtasks -->",
-          "flags": "g",
-          "substitute": "</div>"
-        }
-      ]
-    }
-  }
+   "plugins": [
+      "hints",
+      "styles-sass-fix",
+      "regexplace",
+      "code",
+      "expandable-chapters"
+   ],
+   "styles": {
+      "website": "styles/website.scss",
+      "ebook": "styles/ebook.scss",
+      "pdf": "styles/pdf.scss",
+      "mobi": "styles/mobi.scss",
+      "epub": "styles/epub.scss"
+   },
+   "pluginsConfig": {
+      "hints": {
+         "info": "fa fa-info-circle",
+         "tip": "fa fa-lightbulb-o",
+         "danger": "fa fa-exclamation-circle",
+         "working": "fa fa-wrench"
+      },
+      "regexplace": {
+         "substitutes": [
+            {
+               "pattern": "<img (.*)alt=\"([^\"]*)\"(.*) {0,1}\/{0,1}> {0,}{caption([^\\}]*)}",
+               "flags": "g",
+               "substitute": "<figure id=\"fig_PAGE_LEVEL_._INDEX_\" class=\"screenshot\"><img $1alt=\"$2\" $4$3><figcaption><span>Image _INDEX_: </span>$2</figcaption></figure>"
+            },
+            {
+               "pattern": "<!-- tasks -->",
+               "flags": "g",
+               "substitute": "<div class=\"list-tasks\">"
+            },
+            {
+               "pattern": "<!-- endtasks -->",
+               "flags": "g",
+               "substitute": "</div>"
+            }
+         ]
+      },
+      "expandable-chapters": {}
+   }
 }

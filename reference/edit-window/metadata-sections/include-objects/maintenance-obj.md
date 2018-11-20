@@ -1,6 +1,6 @@
 ![Maintenance Panel](/assets/reference/edit-objects/main/maintenance.png)
 
-* <span class="md-element">Frequency</span> <i class="fa fa-asterisk required" title="Required"> </i> {**type**: string; **default**: nil} - The frequency period for maintenance of this resource.  
+* <span class="md-element">Frequency</span> <i class="fa fa-asterisk required" title="Required"> </i> {**type**: string; **default**: empty} - The frequency period for maintenance of this resource.  
 
 * <span class="md-element">Dates</span> {**type**: array (<span class="md-panel">Date</span>); **default**: empty} - Dates and datetimes related to maintenance of this resource.
   
@@ -22,4 +22,4 @@
   
 * <span class="md-element">Notes</span> {**type**: array; **default**: empty} - An array of notes or comments to provide additional information about this maintenance cycle.  Each note is a character string.
 
-* <span class="md-element">Scope</span> {**type**: codelist (ISO MD_ScopeCode, ADIwg codes); **extensible**: YES; **multi-value**: YES; **default**: nil} - A code to describe the class or context for which the maintenance cycle applies.
+* <span class="md-element">Scope</span> {**type**: codelist (ISO MD_ScopeCode, ADIwg codes); **extensible**: YES; **multi-value**: YES; **default**: empty} - A code to describe the class or context for which the maintenance cycle applies.

@@ -8,7 +8,7 @@ Since there are quite a few buttons and icons in mdEditor to help make the metad
 
 {% hint style='tip' %}
   Throughout the remainder of this documentation the following notations will be used ...
-  * Window parts (identifier in the above image) will be formatted as <span class="md-window">Window Part</span>
+  * Window parts (identified in the above image) will be formatted as <span class="md-window">Window Part</span>
   * Within the <span class="md-window">Edit Window</span> ...
     * sections (found in the <span class="md-window">Secondary Navigation Bar</span>) will be formatted as <span class="md-section">Section Name</span>
     * <span class="md-window">Edit Window</span> panels will be formatted as <span class="md-panel">Panel Name</span>

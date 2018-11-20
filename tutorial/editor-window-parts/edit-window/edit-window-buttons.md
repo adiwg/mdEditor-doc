@@ -5,7 +5,7 @@
 
 ### ![](/assets/bullets/isolation-dot.png) Isolate Panel
 
-Some panels, and even sub-panels (panels within panels), have an 'Isolate' button.  Clicking this will visually isolate the panel and all its elements from the surrounding data by dimming information not in scope making it easier to focus on relevant content.  When you are ready to return a normal view of the <span class="md-window">Edit Window</span>, click on the 'Isolate' button once again, or click simply click anywhere off the isolated panel.  In the example below the <span class="md-panel">Basic Information</span> panel has been isolated.  Notice also that <span class="md-panel">Default Locale</span> is a sub-panel which can be further isolated should you choose.  
+Some panels, and even sub-panels (panels within panels), have an 'Isolate' button.  Clicking this will visually isolate the panel and all its elements from the surrounding data by dimming information not in scope, making it easier to focus on relevant content.  When you are ready to return a normal view of the <span class="md-window">Edit Window</span>, click on the 'Isolate' button once again, or click simply click anywhere off the isolated panel.  In the example below the <span class="md-panel">Basic Information</span> panel has been isolated.  Notice also that <span class="md-panel">Default Locale</span> is a sub-panel which can be further isolated should you choose.  
 
 ![Isolated Basic Information Panel](/assets/tutorial/edit-window-isolate-panel.png){caption}
 
@@ -52,4 +52,4 @@ The 'Delete' button adjacent to an object is used to remove the object from the 
 
 ---
 
-Okay!  That's probably enough orientation to the <span class="md-window">Edit Window's</span>sections, buttons and icons.  Time to get some actual work done.  So let's return to filling in our minimal metadata record.  
+Okay!  That's probably enough orientation to the <span class="md-window">Edit Window's</span> sections, buttons and icons.  Time to get some actual work done.  So let's return to filling in our minimal metadata record.  

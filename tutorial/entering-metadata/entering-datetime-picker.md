@@ -65,5 +65,5 @@ This button will clear both the date and time, not just the time.
 We will cover the other elements of the <span class="md-panel">Time Period</span> object in a later section.  For now, we can rejoice in that we have completed our minimal mdJSON metadata record, and learned quite a bit about how mdEditor functions in the process.  Now it's time to see some of what we can do with it!
 
 {% hint style='info' %}
-  Date and time may be entered manually in a year, month, day, hour, minute, second string. Most delimiters are accepted by the control.  e.g. Entering "2014-03-15 10:45" is the 10:45 a.m. on ides of March for 2014 as is "2014 03 15 10 45".
+  Date and time may be entered manually in a year, month, day, hour, minute, second string. Most delimiters are accepted by the control.  e.g. Entering "2014-03-15 10:45" is 10:45 a.m. on the Ides of March for 2014, as is "2014 03 15 10 45".
 {% endhint %}

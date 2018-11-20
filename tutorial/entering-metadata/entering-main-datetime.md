@@ -19,7 +19,7 @@ DO NOT EDIT
 
 The main resource <span class="md-panel">Time Period</span> specifies a date-time range for the data resource or project described by the metadata record.  The <span class="md-panel">Time Period</span> must have a <span class="md-element">Start Date</span>, <span class="md-element">End Date</span>, or both.  
 
-Continue the exercise by first entering the optional <span class="md-element">Description</span> element to <span class="md-panel">Time Period</span>.
+Continue the exercise by first entering the optional <span class="md-element">Description</span> element for <span class="md-panel">Time Period</span>.
 
 {% hint style='working' %}
   Add a <span class="md-panel">Time Period</span> <span class="md-element">Description</span>

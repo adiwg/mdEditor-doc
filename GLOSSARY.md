@@ -18,13 +18,13 @@ A comma-separated values (CSV) file is a delimited text file that uses commas to
 
 The ability afforded by open-source code to edit the code of an application (in this case mdEditor) according to the needs of the users.
 
-## FGDC
-
-Federal Geographic Data Committee [https://www.fgdc.gov/](https://www.fgdc.gov/)
-
 ## FGDC CSDGM
 
 Federal Geographic Data Committee’s Content Standard for Digital Geospatial Metadata - FGDC-STD-001-1998 (Includes Biological Data Profile) [https://www.fgdc.gov/metadata/csdgm/](https://www.fgdc.gov/metadata/csdgm/)
+
+## FGDC
+
+Federal Geographic Data Committee [https://www.fgdc.gov/](https://www.fgdc.gov/)
 
 ## HTML
 
@@ -73,21 +73,21 @@ The user's standard storage system of directories, files, and folders.  Local St
 
 Markdown is a lightweight markup language with plain text formatting syntax. It is designed so that it can be converted to HTML and many other formats using a tool by the same name.
 
-## mdEditor
-
-Web application for authoring and editing metadata, for both projects and datasets.
-
 ## mdEditor File
 
 A mdJSON file created by mdEditor that contains all of the information contained in mdJSON, along with mdEditor settings. This can be exported and shared with collaborators, imported into another record set, or saved to a local workstation as a backup or archival copy.
 
-## mdJSON
+## mdEditor
 
-ADIwg standard for encoding project and data metadata, based on JavaScript Object Notation (JSON).
+Web application for authoring and editing metadata, for both projects and datasets.
 
 ## mdJSON File
 
 An mdJSON file that is proprietary to the Metadata toolkit developed by the Alaska Data Integration Working Group (ADIwg), learn more at [https://adiwg.github.io/mdTools/](https://www.gitbook.com/book/adiwg/mdeditor/edit#).
+
+## mdJSON
+
+ADIwg standard for encoding project and data metadata, based on JavaScript Object Notation (JSON).
 
 ## mdTranslator
 
@@ -97,13 +97,13 @@ Open-source Ruby software application for translating between metadata standards
 
 The volatile high-speed RAM (Random Access Memory) that is the temporary working storage for all computer applications and data.  Once a unit of work is complete it must be moved to a non-volatile storage area such as browser cache or local storage to be saved for later access.  Once an application is closed its memory space is cleared to be used by other applications.
 
-## Metadata
-
-A set of data that describes and gives information about other data.
-
 ## Metadata Repository
 
 A server where metadata is published.
+
+## Metadata
+
+A set of data that describes and gives information about other data.
 
 ## Record
 

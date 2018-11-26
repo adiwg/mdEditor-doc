@@ -14,8 +14,8 @@
 
 * <span class="md-element">Purpose</span> {**type**: string; **default**: empty} - A summary of the intentions for which the resource ase created.  
 
-* <span class="md-element">Supplemental Information</span> {**type**: string; **default**: empty} - Any other descriptive information about the dataset.  
+* <span class="md-element">Supplemental Information</span> {**type**: string; **default**: empty} - Any other descriptive information about the resource.  
 
-* <span class="md-element">Environment Description</span> {**type**: string; **default**: empty} - Description of the dataset in the producer's processing environment, including items such as the software, the computer, the computer operating system, file name, and the dataset size.  
+* <span class="md-element">Environment Description</span> {**type**: string; **default**: empty} - Description of the resource in the producer's processing environment, including items such as the software, the computer, the computer operating system, file name, and the resource size.  
 
 ---

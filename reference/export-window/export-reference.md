@@ -1,5 +1,5 @@
 # Export Record 
-DO NOT EDIT
+---
 
 The export function allows the contents of the currently loaded metadata records, contacts, and dictionaries to be saved either as an mdEditor file or mdJSON file. These files can then be shared with collaborators or saved to a local workstation for backup and/or archival. 
 
@@ -19,35 +19,35 @@ The <span class="md-window">Export</span> window is divided into three panels: <
 
 ### Search
 
-When there are a large number of metadata records, contacts, or dictionaries loaded into the browser cache the search capabilities of the <span class="md-window">Export</span> page can help quickly narrow the number of items in consideration for export.  
+When there are many metadata records, contacts, or dictionaries loaded into the browser cache, the search capabilities of the <span class="md-window">Export</span> page can help quickly narrow the number of items being considered for export.  
 
-  * #### Search ALL Columns 
-    Text entered into "Search All Columns" control will be matched against the contents of each column.  If the contents match a column value, the item remains visible; otherwise the item is hidden.  
- 
  * #### Search A Column
-   Immediately under each column header is the "Search A Column" control.  Text entered into this control is matched against the contents of the column.  If the contents match the column value, the item remains visible; otherwise the item is hidden.  
+   Immediately under each column header is the "Search A Column" control.  Text entered into this control is matched against the contents of that column only.  If the column value matches the search text, the item remains visible, otherwise the item is hidden.  All items in the browser cache will be searched not just those currently visible panel.  
+ 
+ * #### Search ALL Columns 
+    Text entered into "Search All Columns" control will be matched against the contents of each column.  If the column value matches the search text, the item remains visible, otherwise the item is hidden.  All items in the browser cache will be searched not just those currently visible panel. 
  
    ---
 
 ### Select
 
-For an item to be considered for export, it must have a checkmark in the checkbox at the head of the item's row.  
+For an item to be considered for export, it must have a checkmark in the checkbox at the head of its row.  
 
- * #### Select ALL Items
-   To select all displayed items in the panel for export, place a checkmark in the "Select All Items" checkbox by clicking the checkbox in the table headings row.  Click it again to un-check all items in the panel.  
- 
  * #### Select An Item
-   To select a specific item for export, place a checkmark in a "Select An Item" checkbox by clicking the checkbox in the item row.  Click it again to un-check the item.
+   To select an item for export, place a checkmark in a "Select An Item" checkbox by clicking the checkbox in the item's row.  Click it again to un-check the item.
    
+ * #### Select ALL Items
+   To select all displayed items in the panel for export, place a checkmark in the "Select All Items" checkbox by clicking the checkbox in the table headings row.  All items in the browser cache will be checked not just those currently visible panel.  Click it again to un-check all items. 
+ 
    ---
 
 ### Export
 
-There are three Export action buttons in the <span class="md-window">Secondary Sidebar</span> to choose from.  They control both the items set to export and the export file format.
+There are three Export action buttons in the <span class="md-window">Secondary Sidebar</span> to taylor your export.  They control both the items set to be exported and the export file format.
 
   * #### <strong class="btn btn-primary btn-xs"> <i class="fa fa-sign-out"> </i> Export All</strong> Export All Items
   
-    Click this button to export all items in the <span class="md-panel">Metadata Records</span>, <span class="md-panel">Contacts</span>, and <span class="md-panel">Dictionaries</span> panels regardless if they are individually checked.  All items will be exported into a single file in the mdEditor file format.
+    Click this button to export all items in the <span class="md-panel">Metadata Records</span>, <span class="md-panel">Contacts</span>, and <span class="md-panel">Dictionaries</span> panels regardless if they are checked or not.  All items will be exported into a single file in the mdEditor file format.  
  
   * #### <strong class="btn btn-info btn-xs"> <i class="fa fa-check-square-o"> </i> Export Selected</strong> Export Selected Items
   
@@ -55,22 +55,50 @@ There are three Export action buttons in the <span class="md-window">Secondary S
  
   * #### <strong class="btn btn-success btn-xs"> <i class="fa fa-check-square-o"> </i> Export mdJson</strong> Export Items in mdJson Format
     
-    Use this export button to export <class="md-panel">Metadata Records</span> in mdJSON file format.  If no <span class="md-panel">Metadata Records</span> are checked, the button will be disabled.  All checked <span class="md-panel">Metadata Records</span> will be exported into a single, composite mdJSON file.
+    Use this export button to export <span class="md-panel"> Metadata Records</span> in mdJSON file format.  If no <span class="md-panel">Metadata Records</span> are checked, the button will be disabled.  All checked <span class="md-panel">Metadata Records</span> will be exported into a single, composite mdJSON file.
     
    {% hint style='info' %}
-   Only <span class="md-panel">Metadata Records</span> can be exported in mdJSON file format.  During the export operation mdEditor will automatically collect and include all referenced <span class="md-panel"> Contacts</span> and <span class="md-panel"> Dictionaries</span>.
+   Only <span class="md-panel">Metadata Records</span> can be exported in mdJSON file format.  During the export operation mdEditor will automatically collect and bundle all referenced <span class="md-panel"> Contacts</span> and <span class="md-panel"> Dictionaries</span>.
    {% endhint %}
     
    {% hint style='danger' %}
-   It is not recommended to export more than one <span class="md-panel">Metadata Record</span> into a mdJSON file.  Multiple records cannot be processed by mdTranslator so individual records will need extracted from the composite mdJSON file before translation.  Also, while mdEditor can import multiple mdJSON files from a single file, <span class="md-panel">Contacts</span> will be duplicated and all links between <span class="md-panel">Metadata Records</span>, <span class="md-panel">Contacts</span>, and <span class="md-panel">Dictionaries</span> will be broken.
+   It is not recommended that you export more than one <span class="md-panel">Metadata Record</span> into an mdJSON file.  mdTranslator can only process one mdJSON file at a time, so individual mdJSON files will need extracted from the composite mdJSON file prior to translation.  Although not complicated, this will require specialized editing software.  
+   
+   Further, while mdEditor can import composite mdJSON files, <span class="md-panel">Contacts</span> and <span class="md-panel"> Dictionaries</span> will be duplicated once for each record in which they are used.  Records will remain invalid until the duplicate <span class="md-panel">Contacts</span> and <span class="md-panel">Dictionaries</span> are manually deleted.
    {% endhint %}
    
   * #### ![](/assets/bullets/switch-left.png) Include Settings
    
-    Setting 'Include Settings' to "Yes" will embed a copy of your mdEditor settings into an mdEditor file output.  The option can be useful when you need to switch browsers or send your metadata to another person to review or edit.  This option is not available for mdJSON file exports.
+    Setting 'Include Settings' switch to "Yes" will embed a copy of your mdEditor settings into an mdEditor file output.  The option can be useful when you need to switch browsers or send your metadata to another person for review or edit.  This option is not available for mdJSON file exports.
   
     ---
 
 ### View
+
+Each export panel has built in support for navigating long lists of <span class="md-panel">Metadata Records</span>, <span class="md-panel"> Contacts</span>, and <span class="md-panel"> Dictionaries</span>.  The following functions are available for each panel.
+
+  * #### Number of Items to Display
+  
+    This select list allows you to set the maximum number of items to display in the panel.  The default is 10 items with options for 25, 50, and 500.  You cannot set your own number of items.
+    
+  * #### Record Controls
+  
+    The 'Record Controls' manage which set of items are visible in the panel.  The controls become active when there are more items in browser cache than displayed in the panel given the limit set using the 'Number of Items to Display' control (above).
+
+    * ##### <i class="fa fa-forward"> </i> Next Page
+  
+    * ##### <i class="fa fa-backward"> </i> Previous Page
+  
+    * ##### <i class="fa fa-fast-forward"> </i> Last Page
+  
+    * ##### <i class="fa fa-fast-backward"> </i> First Page
+    
+  * #### Select Columns to Display
+  
+    Clicking this control presents a list of columns that can be displayed in the panel.  By default all available columns are displayed.  You can hide a column - or return it to visible again - by checking or unchecking the column name in the control's list.  The list of columns is naturally different between the <span class="md-panel">Metadata Records</span>, <span class="md-panel">Contacts</span>, and <span class="md-panel">Dictionaries</span> panels.
+    
+  * #### View Record Button
+  
+    The 'View Record' button exits the <span class="md-window"> Export</span> window and displays a view of the record with more detail than shown in the <span class="md-panel">Metadata Records</span>, <span class="md-panel">Contacts</span>, and <span class="md-panel">Dictionaries</span> panels.  Since the view did exit the <span class="md-window"> Export</span> window, you will need to return using the browser's "back" button or clicking <span class="btn btn-default btn-xs"><i class="fa fa-sign-out"> </i> Export</span> in the <span class="md-window">Primary Navigation Bar</span>. 
 
 ---

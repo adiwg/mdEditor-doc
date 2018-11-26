@@ -5,8 +5,6 @@ The <span class="md-section">Main</span> section of the <span class="md-window">
 
  * [<span class="md-panel" style="font-size: larger">Basic Information</span>](main-panels/basicInfo-panel.md)
 
- * [<span class="md-panel" style="font-size: larger">Default Locale</span>](main-panels/locale-panel.md)
-
  * [<span class="md-panel" style="font-size: larger">Resource Types</span>](main-panels/resourceType-panel.md)
 
  * [<span class="md-panel" style="font-size: larger">Points of Contact</span>](main-panels/poc-panel.md)

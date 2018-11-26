@@ -8,7 +8,6 @@
     * [Metadata Records](reference/edit-window/metadata-record.md)
       * [Main Section](reference/edit-window/metadata-sections/main-section.md)
         * [Basic Information Panel](reference/edit-window/metadata-sections/main-panels/basicInfo-panel.md)
-        * [Default Locale Panel](reference/edit-window/metadata-sections/main-panels/locale-panel.md)
         * [Resource Types Panel](reference/edit-window/metadata-sections/main-panels/resourceType-panel.md)
         * [Points of Contact Panel](reference/edit-window/metadata-sections/main-panels/poc-panel.md)
         * [Citation View Panel](reference/edit-window/metadata-sections/main-panels/citation-panel.md)

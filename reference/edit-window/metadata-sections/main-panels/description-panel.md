@@ -12,7 +12,7 @@
  
   The <span class="md-element">Short Abstract</span> is useful for summary pages, lists, and web-pages built by repository and search software.  The <span class="md-element">Short Abstract</span> should be meaningful, not just the first 300 characters of the full <span class="md-element">Abstract</span>
 
-* <span class="md-element">Purpose</span> {**type**: string; **default**: empty} - A summary of the intentions for which the resource ase created.  
+* <span class="md-element">Purpose</span> {**type**: string; **default**: empty} - A summary of the intentions for which the resource was created.  
 
 * <span class="md-element">Supplemental Information</span> {**type**: string; **default**: empty} - Any other descriptive information about the dataset.  
 

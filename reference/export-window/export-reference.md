@@ -21,7 +21,7 @@ The <span class="md-window">Export</span> window is divided into three panels: <
 
 When there are many metadata records, contacts, or dictionaries loaded into the browser cache, the search capabilities of the <span class="md-window">Export</span> page can help quickly narrow the number of items being considered for export.  
 
- * #### Search A Column
+ * #### Search Column
    Immediately under each column header is the "Search A Column" control.  Text entered into this control is matched against the contents of that column only.  If the column value matches the search text, the item remains visible, otherwise the item is hidden.  All items in the browser cache will be searched not just those currently visible panel.  
  
  * #### Search ALL Columns 
@@ -33,7 +33,7 @@ When there are many metadata records, contacts, or dictionaries loaded into the 
 
 For an item to be considered for export, it must have a checkmark in the checkbox at the head of its row.  
 
- * #### Select An Item
+ * #### Select Item
    To select an item for export, place a checkmark in a "Select An Item" checkbox by clicking the checkbox in the item's row.  Click it again to un-check the item.
    
  * #### Select ALL Items

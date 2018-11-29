@@ -18,10 +18,10 @@
 
 * <span class="md-element">Status</span> <i class="fa fa-asterisk required" title="Required"> </i> {**type**: codelist (ISO MD_ProgressCode, ADIwg codes); **multi-value**: YES; **extensible**: YES; **default**: empty} - The current status of the main resource.
 
-* <span class="md-element">Default Locale</span> <i class="fa fa-asterisk required" title="Required"> </i> {**type**: object (<span class="md-panel"> Locale</span>); **default** (eng, UTF-8, USA)} - The default or primary language and character encoding for the main resource. 
+* <span class="md-element">Default Locale</span> <i class="fa fa-asterisk required" title="Required"> </i> {**type**: object (<span class="md-panel">Locale</span>); **default** (eng, UTF-8, USA)} - The default or primary language and character encoding for the main resource. 
 
-  #### Locale Object
+---
 
-  {% include "../include-objects/locale-obj.md" %}
+{% include "../include-objects/locale-obj.md" %}
 
 ---

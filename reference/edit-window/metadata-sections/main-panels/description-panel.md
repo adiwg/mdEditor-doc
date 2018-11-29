@@ -6,7 +6,7 @@
 
 ![Description Panel](/assets/reference/edit-objects/main/description.png)
 
-* <span class="md-element">Abstract</span> <i class="fa fa-asterisk required" title="Required"></i> {**type**: markdown text; **default**: empty} - A brief narrative summary of the main resource contents.  The <span class="md-element">Abstract</span> is entered in plain text with the option to format the text using a Markdown syntax.  See [Markdown Control](../../controls/markdown-control.md)
+* <span class="md-element">Abstract</span> <i class="fa fa-asterisk required" title="Required"></i> {**type**: markdown text; **default**: empty; **max length**: unlimited} - A brief narrative summary of the main resource contents.  The <span class="md-element">Abstract</span> is entered in plain text with the option to format the text using a Markdown syntax.  See [Markdown Control](../../controls/markdown-control.md)
 
 * <span class="md-element">Short Abstract</span> {**type**: markdown text; **default**: empty; **max length**: 300 characters} - A short description of the main resource contents. 
  

@@ -12,9 +12,8 @@
   
   <strong class="btn btn-danger btn-xs"> <i class="fa fa-times"> </i> Delete</strong> Click 'Delete' to remove the <span class="md-panel">Date</span> object from the array.
     
-  #### Date Object
-  
-  {% include "../include-objects/date-obj.md" %}
-  ---
+---
+
+{% include "../include-objects/date-obj.md" %}
 
 ---

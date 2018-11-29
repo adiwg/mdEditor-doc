@@ -14,13 +14,12 @@
   
   <strong class="btn btn-danger btn-xs"> <i class="fa fa-times"> </i> Delete</strong> Click 'Delete' to remove the <span class="md-panel">Date</span> object from the array.
     
-  #### Date Object
-  
-  {% include "../include-objects/date-obj.md" %}
-  ---
-
 * <span class="md-element">Edition</span> {**type**: string; **default**: empty} - Version identifier for the resource.
 
 * <span class="md-element">Presentation Form</span> {**type**: codelist (ISO CI_PresentationFormCode, ADIwg codes); **multi-value**: YES; **extensible**: YES; **default**: empty} - The form that the resource is presented, such as: digital map, digital document, etc.
+
+---
+
+{% include "../include-objects/date-obj.md" %}
 
 ---

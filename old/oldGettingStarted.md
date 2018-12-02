@@ -54,11 +54,11 @@ These buttons are commonly found when editing records and contacts. Please keep 
 
 #### Icons
 
- ![](/assets/record_modified.png) A record that has been modified will be flagged with a red edit icon. The red icon is only visible when Auto-Save is turned off
+![](/assets/record_modified.png) A record that has been modified will be flagged with a red edit icon. The red icon is only visible when Auto-Save is turned off
 
-![](/assets/record_saved.png) The green icon indicates that a record meets the minimum mdEditor file requirements and is a "valid" record 
+![](/assets/record_saved.png) The green icon indicates that a record meets the minimum mdEditor file requirements and is a "valid" record
 
- ![](/assets/missing_required_field_icon.png) The orange icon indicates that a record has been saved but is missing a required field
+![](/assets/missing_required_field_icon.png) The orange icon indicates that a record has been saved but is missing a required field
 
 ---
 

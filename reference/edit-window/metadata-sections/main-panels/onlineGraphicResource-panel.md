@@ -21,8 +21,6 @@ Along with the file <span class="md-element">Name</span> and <span class="md-ele
 
 ---
 
-### Online Graphic Resource Object
-
 {% include "../include-objects/onlineGraphicResource-obj.md" %}
 
 ---

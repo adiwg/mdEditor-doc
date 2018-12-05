@@ -12,7 +12,7 @@ DO NOT EDIT
 
 ---
 
-### Graphic Object
+#### Graphic Object
 
 ![Graphic Overview](/assets/reference/edit-objects/citation/graphic.png)
 

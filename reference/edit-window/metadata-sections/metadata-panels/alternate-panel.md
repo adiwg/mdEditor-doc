@@ -6,7 +6,7 @@
 
 ![Alternate Metadata Reference Array](/assets/reference/edit-objects/metadata/alternateReference-array.png)
 
-<strong class="btn btn-success btn-xs"> <i class="fa fa-pencil"> </i> More...</strong> Click 'More' to open the <span class="md-panel">Citation</span> object in the <span class="md-section">Citation</span> edit window.  See [Citation Section](../citation-section.md) for editing instructions.
+<strong class="btn btn-success btn-xs"> <i class="fa fa-pencil"> </i> More...</strong> Click 'More' to open the <span class="md-panel">Citation</span> object in the <span class="md-section">Citation</span> edit window.  See [Citation Section](../citation-section.md) for informtion on editing.
 
 <strong class="btn btn-danger btn-xs"> <i class="fa fa-times"> </i> Delete</strong> Click 'Delete' to remove the <span class="md-panel">Citation</span> from the array.
 

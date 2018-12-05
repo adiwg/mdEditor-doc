@@ -6,20 +6,20 @@
   
   <strong class="btn btn-danger btn-xs"> <i class="fa fa-times"> </i> Delete</strong> Click 'Delete' to remove the <span class="md-panel">Date</span> object from the array.
     
-  #### Date Object
-  
-  {% include "../include-objects/date-obj.md" %}
-  ---
-
 * <span class="md-element">Contacts</span> {**type**: array (<span class="md-panel">Responsible Party</span>); **default**: empty} - Persons and organizations to contact for information regarding maintenance of this resource.
     
   <strong class="btn btn-danger btn-xs"> <i class="fa fa-times"> </i> Delete</strong> Click 'Delete' to remove the <span class="md-panel">Contact</span> object from the array.
   
-  #### Responsible Party Object
-  
-  {% include "../include-objects/responsibleParty-obj.md" %}
-  ---
-  
-* <span class="md-element">Notes</span> {**type**: array; **default**: empty} - An array of notes or comments to provide additional information about this maintenance cycle.  Each note is a character string.
+* <span class="md-element">Notes</span> {**type**: array (string); **default**: empty} - An array of notes or comments to provide additional information about this maintenance cycle.  Each note is a character string.
 
 * <span class="md-element">Scope</span> {**type**: codelist (ISO MD_ScopeCode, ADIwg codes); **extensible**: YES; **multi-value**: YES; **default**: empty} - A code to describe the class or context for which the maintenance cycle applies.
+
+---
+
+{% include "../include-objects/date-obj.md" %}
+
+---
+
+{% include "../include-objects/responsibleParty-obj.md" %}
+  
+  

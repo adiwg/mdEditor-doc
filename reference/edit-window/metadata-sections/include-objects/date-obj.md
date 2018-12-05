@@ -1,3 +1,5 @@
+#### Date Object
+  
   * <span class="md-element">Date</span> <i class="fa fa-asterisk required" title="Required"> </i> {**type**: datetime (ISO 8601); **default**: empty} - Date or datetime.
   
     See [Date-Time Control](../../controls/dateTime-control.md) for details on picking dates and times using the Date-Time control.

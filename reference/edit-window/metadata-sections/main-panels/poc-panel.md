@@ -10,8 +10,6 @@
 
 ---
 
-### Responsible Party Object
-
 {% include "../include-objects/responsibleParty-obj.md" %}
 
 ---

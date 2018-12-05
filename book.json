@@ -36,6 +36,11 @@
                "pattern": "<!-- endtasks -->",
                "flags": "g",
                "substitute": "</div>"
+            },
+            {
+               "pattern": "({<strong>type</strong>:.*}) -",
+               "flags": "g",
+               "substitute": "<span class=\"md-type\">$1<br>Usage: </span>"
             }
          ]
       },

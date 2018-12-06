@@ -38,9 +38,14 @@
                "substitute": "</div>"
             },
             {
-               "pattern": "({<strong>type</strong>:.*}) -",
+               "pattern": "1({<strong>type</strong>:.*})1",
                "flags": "g",
                "substitute": "<span class=\"md-type\">$1<br>Usage: </span>"
+            },
+            {
+               "pattern": "2{(.*)}2",
+               "flags": "g",
+               "substitute": "<br><span class=\"md-type\">$1 </span>"
             }
          ]
       },

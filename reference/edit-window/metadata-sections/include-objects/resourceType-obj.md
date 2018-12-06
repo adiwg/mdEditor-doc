@@ -1,11 +1,7 @@
+#### Resource Type Object
+
 ![Resource Types Panel](/assets/reference/edit-objects/main/resourceType.png)
 
-<strong class="btn btn-danger btn-xs"> <i class="fa fa-times"> </i> Delete</strong> Click 'Delete' to remove the <span class="md-panel">Resource Type</span> object from the array.
+* <span class="md-element">Type</span> <i class="fa fa-asterisk required" title="Required"></i> 1{**type**: codelist (ISO MD_ScopeCode, ADIwg codes); **extensible**: YES; **multi-value**: NO; **default**: empty}1 Identifies the type of resource(s), such as dataset, study, publication, project, etc.  
 
----
-
-### Resource Type Object
-
-* <span class="md-element">Type</span> <i class="fa fa-asterisk required" title="Required"></i> {**type**: codelist (ISO MD_ScopeCode, ADIwg codes); **extensible**: YES; **multi-value**: NO; **default**: empty} - Identifies the type of resource(s), such as dataset, study, publication, project, etc.  
-
-* <span class="md-element">Name</span> {**type**: string; **default**: empty} - A user provided name for the resource.  This may be helpful particularly when multiple resource types are identified.
+* <span class="md-element">Name</span> 1{**type**: string; **max length**: none; **default**: empty}1 A user provided name for the resource.  This may be helpful particularly when multiple resource types are identified.

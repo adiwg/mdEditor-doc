@@ -2,7 +2,7 @@
 ### Online Graphic Resource Array
 ---
 
-<span class="md-panel" style="font-size: larger">Online Graphic Resource</span> {**type**: array (<span class="md-panel">Online Graphic Resource</span>); **default**: empty} - An array of <span class="md-panel">Online Graphic Resource</span> objects that describe internet links to graphic files.  
+<span class="md-panel" style="font-size: larger">Online Graphic Resource</span> 1{**type**: array (obj: <span class="md-panel">Online Graphic Resource</span>); **default**: empty}1 An array of <span class="md-panel">Online Graphic Resource</span> objects that describe internet links to graphic files.  
 
 ![Online Graphic Resource Array](/assets/reference/edit-objects/main/onlineGraphicResource-array.png)
 
@@ -14,10 +14,6 @@ Along with the file <span class="md-element">Name</span> and <span class="md-ele
   * the file's graphic format is not readable by mdEditor
   * the file is not a graphic file 
 {% endhint %} 
-
-<strong class="btn btn-success btn-xs"> <i class="fa fa-pencil"> </i> Edit</strong> Click 'Edit' to open the <span class="md-panel">Online Graphic Resource</span> object for editing.
-
-<strong class="btn btn-danger btn-xs"> <i class="fa fa-times"> </i> Delete</strong> Click 'Delete' to remove the <span class="md-panel">Online Graphic Resource</span> object from the array.
 
 ---
 

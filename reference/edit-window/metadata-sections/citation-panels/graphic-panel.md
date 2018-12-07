@@ -2,20 +2,16 @@
 ### Graphic Array
 DO NOT EDIT
 
-<span class="md-panel" style="font-size: larger">Graphic</span> {**type**: array (<span class="md-panel">Graphic</span>)} - An array of file descriptions for images, maps, flow charts, models, logos, etc. associated with the citation.
+<span class="md-panel" style="font-size: larger">Graphic</span> 1{**type**: array (obj: <span class="md-panel">Graphic</span>)}1 An array of file descriptions for images, maps, flow charts, models, logos, etc. associated with the citation.
 
 ![Graphic Array](/assets/reference/edit-objects/citation/graphic-array.png)
-
-<strong class="btn btn-success btn-xs"> <i class="fa fa-pencil"> </i> Edit</strong> Click 'Edit' to open the <span class="md-panel">Graphic</span> object for editing.
-
-<strong class="btn btn-danger btn-xs"> <i class="fa fa-times"> </i> Delete</strong> Click 'Delete' to remove the <span class="md-panel">Graphic</span> from the array.
 
 ---
 
 #### Graphic Object
 
-![Graphic Overview](/assets/reference/edit-objects/citation/graphic.png)
+{% include "../include-objects/graphic-obj.md" %}
 
-{% include "../include-objects/graphicOverview-obj.md" %}
+* <span class="md-element">Online Graphic Resource</span> 1{**type**: array (obj: <span class="md-panel">Online Graphic Resource</span>); **default**: empty}1 <span class="md-panel"> Online Graphic Resource</span> objects that define internet links to the <span class="md-panel">Graphic Overview</span> file. 2{[See object details](../citation-panels/onlineGraphicResource-panel.md)}2
 
 ---

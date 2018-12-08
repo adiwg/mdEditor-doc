@@ -13,7 +13,7 @@ The file name assigned to an exported file follows the form "mdEditor-" (for an 
   
 ![Export Window](/assets/reference/export/export.png){caption}
 
-The <span class="md-window">Export</span> window is divided into three panels: <span class="md-panel">Metadata Records</span>, <span class="md-panel">Contacts</span>, and <span class="md-panel"> Dictionaries</span>.  Each of these panes has identical controls and behavior.  So, what is discussed for one applies to all.  In the above image the <span class="md-panel"> Dictionaries</span> panel is not shown, but as previously stated, it is no different than the other two. 
+The <span class="md-window">Export</span> window is divided into three panels: <span class="md-panel">Metadata Records</span>, <span class="md-panel">Contacts</span>, and <span class="md-panel"> Dictionaries</span>.  Each of these panes has identical controls and behavior.  So, what is discussed for one applies to all.  In the above image the <span class="md-panel"> Dictionaries</span> panel is not shown, there is no difference in behavior from the two which are shown. 
 
 --- 
 
@@ -43,7 +43,7 @@ For an item to be considered for export, it must have a checkmark in the checkbo
 
 ### Export
 
-There are three Export action buttons in the <span class="md-window">Secondary Sidebar</span> to taylor your export.  They control both the items set to be exported and the export file format.
+There are four Export action buttons in the <span class="md-window">Secondary Sidebar</span> to taylor your export.  They control both the items set to be exported and the export file format.
 
   * #### <strong class="btn btn-primary btn-xs"> <i class="fa fa-sign-out"> </i> Export All</strong> Export All Items
   
@@ -97,8 +97,8 @@ Each export panel has built in support for navigating long lists of <span class=
   
     Clicking this control presents a list of columns that can be displayed in the panel.  By default all available columns are displayed.  You can hide a column - or return it to visible again - by checking or unchecking the column name in the control's list.  The list of columns is naturally different between the <span class="md-panel">Metadata Records</span>, <span class="md-panel">Contacts</span>, and <span class="md-panel">Dictionaries</span> panels.
     
-  * #### View Record Button
+  * #### <span class="btn btn-info btn-xs"> <i class="fa fa-eye"> </i> Show</span> Show Record View
   
-    The 'View Record' button exits the <span class="md-window"> Export</span> window and displays a view of the record with more detail than shown in the <span class="md-panel">Metadata Records</span>, <span class="md-panel">Contacts</span>, and <span class="md-panel">Dictionaries</span> panels.  Since the view did exit the <span class="md-window"> Export</span> window, you will need to return using the browser's "back" button or clicking <span class="btn btn-default btn-xs"><i class="fa fa-sign-out"> </i> Export</span> in the <span class="md-window">Primary Navigation Bar</span>. 
+     The 'Show' button exits the <span class="md-window"> Export</span> window and displays a view of the record with more detail than shown in the <span class="md-panel">Metadata Records</span>, <span class="md-panel">Contacts</span>, and <span class="md-panel">Dictionaries</span> panels.  Since the view did exit the <span class="md-window"> Export</span> window, you will need to return using the browser's "back" button or clicking <span class="btn btn-default btn-xs"><i class="fa fa-sign-out"> </i> Export</span> in the <span class="md-window">Primary Navigation Bar</span>. 
 
 ---

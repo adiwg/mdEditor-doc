@@ -6,6 +6,6 @@
 
 ![Locale Panel](/assets/reference/edit-objects/metadata/locale-metadata.png) 
 
-{% include "../include-objects/locale-obj.md" %}
+{% include "../../../include-objects/locale-obj.md" %}
 
 ---

@@ -6,6 +6,6 @@
 
 ---
 
-{% include "../include-objects/resourceType-obj.md" %}
+{% include "../../../include-objects/resourceType-obj.md" %}
 
 ---

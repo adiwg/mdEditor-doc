@@ -10,6 +10,6 @@
 
 ![Metadata Contacts Panel](/assets/reference/edit-objects/metadata/contacts-metadata.png)
 
-{% include "../include-objects/responsibleParty-obj.md" %}
+{% include "../../../include-objects/responsibleParty-obj.md" %}
 
 ---

@@ -10,6 +10,6 @@
 
 ![Points of Contact Panel](/assets/reference/edit-objects/main/poc.png)
 
-{% include "../include-objects/responsibleParty-obj.md" %}
+{% include "../../../include-objects/responsibleParty-obj.md" %}
 
 ---

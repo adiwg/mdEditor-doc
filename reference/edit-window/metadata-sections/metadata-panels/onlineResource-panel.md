@@ -10,6 +10,6 @@
 
 ### Online Resource Object
 
-{% include "../include-objects/onlineResource-obj.md" %}
+{% include "../../../include-objects/onlineResource-obj.md" %}
 
 ---

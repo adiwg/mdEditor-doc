@@ -22,6 +22,6 @@
 
 ---
 
-{% include "../include-objects/locale-obj.md" %}
+{% include "../../../include-objects/locale-obj.md" %}
 
 ---

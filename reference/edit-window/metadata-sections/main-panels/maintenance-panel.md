@@ -10,6 +10,6 @@
 
 #### Maintenance Object
 
-{% include "../include-objects/maintenance-obj.md" %}
+{% include "../../../include-objects/maintenance-obj.md" %}
 
 ---

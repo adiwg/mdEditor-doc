@@ -6,6 +6,6 @@
 
 ![Authority Panel](/assets/reference/edit-objects/identifier/authority.png)
 
-See the [Citation Reference](../citation-section.md) for documentation on the specific <span class="md-panel">Authority</span> panels.
+See the [Citation Reference](../metadata-sections/citation-section.md) for documentation on the specific <span class="md-panel">Authority</span> panels.
 
 ---

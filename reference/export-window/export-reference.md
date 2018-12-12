@@ -17,29 +17,9 @@ The <span class="md-window">Export</span> window is divided into three panels: <
 
 --- 
 
-### Search
+{% include "../include-objects/search-obj.md" %}
 
-When there are many metadata records, contacts, or dictionaries loaded into the browser cache, the search capabilities of the <span class="md-window">Export</span> page can help quickly narrow the number of items being considered for export.  
-
- * #### Search Column
-   Immediately under each column header is the "Search A Column" control.  Text entered into this control is matched against the contents of that column only.  If the column value matches the search text, the item remains visible, otherwise the item is hidden.  All items in the browser cache will be searched not just those currently visible panel.  
- 
- * #### Search ALL Columns 
-    Text entered into "Search All Columns" control will be matched against the contents of each column.  If the column value matches the search text, the item remains visible, otherwise the item is hidden.  All items in the browser cache will be searched not just those currently visible panel. 
- 
-   ---
-
-### Select
-
-For an item to be considered for export, it must have a checkmark in the checkbox at the head of its row.  
-
- * #### Select Item
-   To select an item for export, place a checkmark in a "Select An Item" checkbox by clicking the checkbox in the item's row.  Click it again to un-check the item.
-   
- * #### Select ALL Items
-   To select all displayed items in the panel for export, place a checkmark in the "Select All Items" checkbox by clicking the checkbox in the table headings row.  All items in the browser cache will be checked not just those currently visible panel.  Click it again to un-check all items. 
- 
-   ---
+{% include "../include-objects/select-obj.md" %}
 
 ### Export
 
@@ -73,29 +53,7 @@ There are four Export action buttons in the <span class="md-window">Secondary Si
   
     ---
 
-### View
-
-Each export panel has built in support for navigating long lists of <span class="md-panel">Metadata Records</span>, <span class="md-panel"> Contacts</span>, and <span class="md-panel"> Dictionaries</span>.  The following functions are available for each panel.
-
-  * #### Number of Items to Display
-  
-    This select list allows you to set the maximum number of items to display in the panel.  The default is 10 items with options for 25, 50, and 500.  You cannot set your own number of items.
-    
-  * #### Record Controls
-  
-    The 'Record Controls' manage which set of items are visible in the panel.  The controls become active when there are more items in browser cache than displayed in the panel given the limit set using the 'Number of Items to Display' control (above).
-
-    * ##### <i class="fa fa-forward"> </i> Next Page
-  
-    * ##### <i class="fa fa-backward"> </i> Previous Page
-  
-    * ##### <i class="fa fa-fast-forward"> </i> Last Page
-  
-    * ##### <i class="fa fa-fast-backward"> </i> First Page
-    
-  * #### Select Columns to Display
-  
-    Clicking this control presents a list of columns that can be displayed in the panel.  By default all available columns are displayed.  You can hide a column - or return it to visible again - by checking or unchecking the column name in the control's list.  The list of columns is naturally different between the <span class="md-panel">Metadata Records</span>, <span class="md-panel">Contacts</span>, and <span class="md-panel">Dictionaries</span> panels.
+{% include "../include-objects/view-obj.md" %}
     
   * #### <span class="btn btn-info btn-xs"> <i class="fa fa-eye"> </i> Show</span> Show Record View
   

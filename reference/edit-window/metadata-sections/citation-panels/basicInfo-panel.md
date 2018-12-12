@@ -18,6 +18,6 @@
 
 ---
 
-{% include "../include-objects/date-obj.md" %}
+{% include "../../../include-objects/date-obj.md" %}
 
 ---

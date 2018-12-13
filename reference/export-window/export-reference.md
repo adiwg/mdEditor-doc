@@ -15,6 +15,11 @@ The file name assigned to an exported file follows the form "mdEditor-" (for an 
 
 The <span class="md-window">Export</span> window is divided into three panels: <span class="md-panel">Metadata Records</span>, <span class="md-panel">Contacts</span>, and <span class="md-panel"> Dictionaries</span>.  Each of these panes has identical controls and behavior.  So, what is discussed for one applies to all.  In the above image the <span class="md-panel"> Dictionaries</span> panel is not shown, there is no difference in behavior from the two which are shown. 
 
+* [Search](#search)
+* [Select](#select)
+* [Export](#export)
+* [View](#view)
+
 --- 
 
 {% include "../include-objects/search-obj.md" %}

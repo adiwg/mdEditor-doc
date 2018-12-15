@@ -16,8 +16,12 @@ The first step in the import process is to identify the metadata file to import.
    The import file can have any name.  The name does not need to be in the same pattern as assigned to exported files.  Also, the file extension is ignored by mdEditor.  Although it is best practice to keep mdEditor and mdJSON file extensions as .json and FGDC files as .xml.
    {% endhint %}
    
- * <span class="btn btn-info btn-xs"> <i class="fa fa-bullseye"> </i> Click or Drop a file here to import data</span> The file drop zone is also a button.  Click the button to launch your computer's file explorer and seach for an import file. Once found, select the file and click "Open".  mdEditor will proceed to process the file as outlined above.  
+ * <span class="btn btn-info btn-xs"> <i class="fa fa-bullseye"> </i> Click or Drop a file here to import data</span> The file drop zone is also a button.  Click the button to launch your computer's file explorer and seach for an import file. Once found, select the file and click "Open".  mdEditor will proceed to process the file as outlined above. 
+ 
+--- 
 
 #### Import Online File
 
-* <span class="md-element">Import from Online URL</span> To load a metadata file from an online source type the complete URL into the control and click <span class="btn btn-primary btn-xs"> <i class="fa fa-cloud-download"> </i> Import</span>.  mdEditor will proceed to process the file as outlined above.   
+* <span class="md-element">Import from Online URL</span> To load a metadata file from an online source type the complete URL into the control and click <span class="btn btn-primary btn-xs"> <i class="fa fa-cloud-download"> </i> Import</span>.  mdEditor will proceed to process the file as outlined above. 
+  
+---

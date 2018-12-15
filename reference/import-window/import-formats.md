@@ -21,22 +21,32 @@ When importing you are allowed to choose which <span class="md-panel">Metadata R
 
 ### mdJSON File Format
 
-The mdJSON file format stores a single, complete standalone metadata record in a standard independent format developed by ADIwg.  All contacts and dictionaries needed by the metadata record are bundled into the mdJSON file.  This is the format used by mdTranslator to prepare metadata in one of the supported standard metadata formats such as FGDC or ISO. 
+The mdJSON file format stores a metadata record in a standard independent format developed by ADIwg.  Each metadata record is complete and can standalone in that all contacts and dictionaries needed by the metadata record are bundled with the record.  This is the format used by mdTranslator to prepare metadata in one of the supported standard metadata formats such as FGDC or ISO. 
 
 {% hint style='tip' %}
-  The mdJSON file format is a great archive format for completed metadata records.  It will not only store all needed parts for a complete metadata record, the metadata record and all parts will maintain their state at the time of publication.  For example, later changes to a reused <span class="md-panel">Contact</span> will not alter the contents of the archived mdJSON file.
+  The mdJSON file format is a great archive format for metadata records once editing has been concluded.  It will not only save all contacts and dictionaries for the complete metadata record, the metadata record and parts will maintain their state at the time the record was saved.  For example, later changes to a reused <span class="md-panel">Contact</span> will not alter the contents of the archived mdJSON file.
 {% endhint %} 
 
-Internal item 'IDs' are NOT saved with the mdJSON format.  Thus when importing mdJSON files item matching cannot be done.  So when the import is MERGED, all items will be ADDED.  Further, because the imported items do not have an internal 'ID', new 'IDs' are assigned as they are added to browser cache.  This can create duplicates of items already in browser cache that will need to be manually removed.  
+Internal item 'IDs' are NOT saved with the mdJSON format.  Thus when importing mdJSON files item matching cannot be done.  So when an import is requested to be MERGED, all items will be ADDED.  Further, because the imported items do not have internal 'IDs', new 'IDs' are assigned as the items are added to browser cache.  This can create duplicates of items already in browser cache that will need to be manually removed.  
 
-The mdJSON file format can accommodate multiple metadata records although this can complicate import.  Again since mdEditor's internal 'IDs' are not saved with the format, a contact shared with multiple metadata records will be loaded into browser case once for each use. 
+An mdJSON file format is capable of storing multiple metadata records.  Each of these metadata records is a complete metadata record with all its contacts and dictionaries.  Thus when importing multiple mdJSON metadata records any contact or dictionary that was used by more than one of the metadata records will create a duplicate that will need to be manually removed.
 
 {% hint style='tip' %}
-  The mdJSON file format is best used when working with a single metadata record at a time.
+  The mdJSON file format performs best when working with a single metadata record at a time.
 {% endhint %}
 
 ---
 
 ### FGDC CSDGM File Format
+
+The FGDC CSDGM (Federal Geographic Data Committee Content Standard for Digital Geospatial Metadata) file format stores a complete, standalone metadata record with all contacts and dictionaries.  The FGDC format cannot accommodate multiple metadata records in a single file. 
+
+Internal item 'IDs' are NOT saved with the FGDC format.  Thus when importing FGDC files item matching cannot be done.  So when an import is requested to be MERGED, all items will be ADDED.  Further, because the imported items do not have internal 'IDs', new 'IDs' are assigned as the items are added to browser cache.  This can create duplicates of items already in browser cache that will need to be manually removed.   
+
+In FGDC each time a contact is referenced in the metadata the author must restate all the contact's information.  Since not all contact elements are required by the standard, or often completed, each reference to a contact which was used multiple times within the metadata record may contain different or even conflicting information.  
+
+{% hint style='danger' %}
+  Use caution when deleting duplicate contacts or dictionaries to be sure all pertinent information is saved in the retained contact or dictionary.  
+{% endhint %}
 
 ---

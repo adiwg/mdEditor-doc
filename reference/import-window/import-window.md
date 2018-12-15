@@ -33,16 +33,16 @@ There are three Import action buttons in the <span class="md-window">Secondary S
   
     * ##### Replace
     
-      The replace action will remove all items of its type currently loaded in browser cache and replace them with the items selected for import.  For example, if a <span class="md-panel">Contact</span> is selected for import all currently loaded <span class="md-panel">Contact</span> items will be removed before the import <span class="md-panel">Contact</span> is loaded.  The same process is applied when replacing <span class="md-panel">Metadata Records</span> and <span class="md-panel">Data Dictionaries</span>.  <span class="md-panel">Settings</span> are always replaced in full. 
+      The replace action will remove all items of its type currently loaded in browser cache and replace them with the items selected for import.  For example, if even a single <span class="md-panel">Contact</span> is selected for import, ALL currently loaded contacts will be removed before the import <span class="md-panel">Contact</span> is loaded.  Import items of other types (<span class="md-panel">Metadata Records</span> and <span class="md-panel">Dictionaries</span>) are not effected.  This same process is applied when replacing <span class="md-panel">Metadata Records</span> and <span class="md-panel">Data Dictionaries</span>.  Dictionaries remove only dictionaries; Metadata records remove only metadata records.  <span class="md-panel">Settings</span> are always replaced in full. 
       
       {% hint style='danger' %}
   Remember to backup, <span class="md-window">Export</span>, currently loaded records before using the 'Replace' action.
       {% endhint %}
     
       {% hint style='danger' %}
-  Use caution when replacing items.  Dependency links between <span class="md-panel">Metadata Records</span>, <span class="md-panel">Contacts</span> and <span class="md-panel">Data Dictionaries</span> can be broken in scenarios where all items are not replaced.  
+  Use caution when replacing items.  Dependency links between <span class="md-panel">Metadata Records</span>, <span class="md-panel">Contacts</span> and <span class="md-panel">Data Dictionaries</span> can be broken in scenarios where mdEditor files are only partially loaded.  
   
-  For example, if the replace action selects a <span class="md-panel">Contact</span> and no <span class="md-panel">Metadata Records</span> or <span class="md-panel">Dictionaries</span>, mdEditor will delete only the loaded <span class="md-panel">Contacts</span> before the import contact is added.  If there are any <span class="md-panel">Metadata Records</span> or <span class="md-panel">Dictionaries</span> remaining that depend on one of the removed <span class="md-panel">Contacts</span> those links will be broken until the missing <span class="md-panel">Contacts</span> are re-imported.
+  For example, if the replace action selects a <span class="md-panel">Contact</span> and no <span class="md-panel">Metadata Records</span> or <span class="md-panel">Dictionaries</span>, mdEditor will delete only the loaded <span class="md-panel">Contacts</span> before the import contact is added.  If there are any <span class="md-panel">Metadata Records</span> or <span class="md-panel">Dictionaries</span> that depended on one of the removed <span class="md-panel">Contacts</span> those links will be broken until the missing <span class="md-panel">Contacts</span> are re-imported.
       {% endhint %}
       
     * ##### Merge (default)
@@ -52,7 +52,7 @@ There are three Import action buttons in the <span class="md-window">Secondary S
       Import items that cannot be matched with an item currently loaded in browser cache are simply added to browser cache.
       
       {% hint style='danger' %}
-  The 'ID' shown is for the item to be imported.  Unfortunately at this time there is no way to display the internal 'ID' of items already loaded into browser cache.  Therefore there is no positive way to determine which loaded items will be matched and replaced by import items.  The best that can be done at this point is to visually match <span class="md-panel">Metadata Record</span>, <span class="md-panel">Contact</span>, and <span class="md-panel">Dictionary</span> names to understand what will happen on import. 
+  The 'ID' shown is for the item to be imported.  Unfortunately at this time there is no way to display the internal 'ID' of items already loaded into browser cache.  Therefore there is no positive way to determine which loaded items will be matched and replaced by import items.  The best that can be done at this point is to visually match <span class="md-panel">Metadata Record</span>, <span class="md-panel">Contact</span>, and <span class="md-panel">Dictionary</span> by names or titles to understand what will happen on import. 
       {% endhint %}
         
   ---
@@ -61,7 +61,7 @@ There are three Import action buttons in the <span class="md-window">Secondary S
     
   * #### <span class="btn btn-primary btn-xs"> <i class="fa fa-binoculars"> </i> Preview JSON</span> Show mdEditor JSON
   
-  The 'Preview JSON' button opens a new window and displays the selected item's JSON.  The view is neither in strict mdEditor JSON or mdJSON format, but something in between.  You can use this view to examine details of <span class="md-panel"> Metadata Records</span>, <span class="md-panel"> Contacts</span>, <span class="md-panel"> Data Dictionaries</span>, and <span class="md-panel"> Settings</span> prior to import. 
+  The 'Preview JSON' button opens a new window and displays the selected item's JSON.  The preview is neither in strict mdEditor JSON or mdJSON format, but somewhere in between.  You can use this preview to examine details of <span class="md-panel"> Metadata Records</span>, <span class="md-panel"> Contacts</span>, <span class="md-panel"> Data Dictionaries</span>, and <span class="md-panel"> Settings</span> prior to import. 
   
   ![Import Panel](/assets/reference/import/import-preview.png)
   

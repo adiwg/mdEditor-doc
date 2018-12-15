@@ -87,7 +87,7 @@
     * [Select Import File](reference/import-window/select-file.md)
     * [Import Window](reference/import-window/import-window.md)
     * [Import File Formats](reference/import-window/import-formats.md)
-    * [Clear Browser Cache](reference/import-window/clear-cache.md)
+    * [Clearing Browser Cache](reference/import-window/clear-cache.md)
   * [Publish Records](reference/publish-window/publish-reference.md)
   * [Translate Records](reference/translate-window/translate-reference.md)
   * [Settings](reference/settings-window/settings-reference.md)

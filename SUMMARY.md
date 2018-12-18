@@ -90,6 +90,8 @@
     * [Clearing Browser Cache](reference/import-window/clear-cache.md)
   * [Publish Records](reference/publish-window/publish-reference.md)
   * [Translate Records](reference/translate-window/translate-reference.md)
+    * [Choose Output Standard](reference/translate-window/translate-standard.md)
+    * [Result Window](reference/translate-window/translate-result.md)
   * [Settings](reference/settings-window/settings-reference.md)
 * [Workflow](workflow/workflow.md)
 * [Tutorial](tutorial/welcome-to-tutorial.md)

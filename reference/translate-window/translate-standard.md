@@ -1,5 +1,5 @@
 # Translate Records 
-### Choose Output Standard
+### Choose Metadata Standard
 ---
 
 ![Translate Window](/assets/reference/translate/translate.png)
@@ -22,11 +22,16 @@
   Having an empty place holder tag rather than a missing tag may help some validators and repositories to validate the metadata record.  It can also be helpful when visually scanning metadata records to see what information could be supplied that was not.  Adding empty tags is also helpful in understand the structure of the standard.  But all this comes with the downside of creating a larger record.
   {% endhint %}
   
-* <span class="btn btn-primary btn-sm"> <i class="fa fa-retweet"> </i> Translate</span> Initiate the translation process.
+* <span class="btn btn-primary btn-sm"> <i class="fa fa-retweet"> </i> Translate</span> Initiate the translation process.  The active <span class="md-panel">Metadata Record</span> will be sent to a publicly hosted mdTranslator server, translated, and the result retuned to your mdEditor where it will be displayed in a <span class="md-window">Result</span> window. 
 
   {% hint style='info' %}
   You must be connected to the internet to translate a <span class="md-panel">Metadata Record</span>. 
   {% endhint %}
   
 ---
-  
+
+The <span class="md-panel">Metadata Record</span> to be translated must be saved prior to translation.  In cases where "AutoSave" has been turned "OFF" the <span class="md-panel">Metadata Record</span> may not be save when you access the <span class="md-window">Translate</span> window.  In this case the <span class="md-window">Translate</span> window will display a <span class="btn btn-danger btn-xs"> <i class="fa fa-exclamation-circle"> </i> </span> button to perform a 'Save' without returning to the <span class="md-window">Edit Window</span>
+
+![Translate Window](/assets/reference/translate/translate-save.png)
+
+---

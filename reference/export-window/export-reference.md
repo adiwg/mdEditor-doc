@@ -9,7 +9,7 @@ By default, exported files will be saved in your computers "downloads" folder.  
   Because mdEditor is a web application (runs in an internet browser) exports from mdEditor are treated as downloads even though the metadata records are already on your computer.  The download process is actually copying the metadata records from browser cache to computer's file system
 {% endhint %} 
 
-The file name assigned to an exported file follows the form "mdEditor-" (for an mdEditor file export) or "mdJson-" (for an mdJson file export) followed by a timestamp and type of ".json".  For example an mdEditor file exported at 2:14 p.m. on November 21, 2018 would have the name "mdEditor-20181121-141126.json".  Note the timestamp is written in two sections using the format YYYYMMDD-hhmmss.  The files can be freely renamed to fit your requirements.  Just make the sure to keep the format suffix of ".json".  It is not necessary to keep the default file name in order to re-import the file to mdEditor at a later time.  
+The file name assigned to an exported file follows the form "mdEditor-" (for an mdEditor file export) or "mdJson-" (for an mdJson file export) followed by a timestamp and type of ".json".  For example an mdEditor file exported at 2:14 p.m. on November 21, 2018 would have the name "mdEditor-20181121-141126.json".  Note the timestamp is written in two sections using the format YYYYMMDD-hhmmss.  The files can be freely moved and renamed to fit your requirements.  Just make the sure to keep the MIME type suffix of ".json".  It is not necessary to keep the default file name in order to re-import the file to mdEditor at a later time.  
   
 ![Export Window](/assets/reference/export/export.png){caption}
 

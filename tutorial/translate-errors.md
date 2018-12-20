@@ -6,7 +6,7 @@ Let's run another translation on "My First Metadata Record".  This time choose t
 {% hint style='working' %}
   Translate "My First Metadata Record" to ISO 19115-2
   * Choose "ISO 11915-2" from the <span class="md-element">Choose Format</span> control
-  * Click the <span class="btn btn-primary btn-sm"> <i class="fa fa-retweet"> </i> Translate</span> button.
+  * Click the <span class="btn btn-primary btn-xs"> <i class="fa fa-retweet"> </i> Translate</span> button.
 {% endhint %}
 
 ![Translate Record Window with Warnings](/assets/tutorial/translate-mdjson-3.png){caption}
@@ -39,10 +39,10 @@ Let's add the missing date.
 
 {% hint style='working' %}
   Enter a main resource citation date.
-  * Click the <span class="btn btn-success btn-sm"> <i class="fa fa-pencil"> </i> </span> button next to the "My First Metadata Record" in the <span class="md-window">Primary Sidebar</span>.
+  * Click the <span class="btn btn-success btn-xs"> <i class="fa fa-pencil"> </i> </span> button next to the "My First Metadata Record" in the <span class="md-window">Primary Sidebar</span>.
   * Click "Citation" on the <span class="md-window">Fast Scrolling</span> section of the <span class="md-window">Secondary Sidebar</span> to scroll <span class="md-panel">Citation</span> to the top.
-  * Click the <span class="btn btn-success btn-sm"> <i class="fa fa-pencil"> </i> Edit</span> button on the <span class="md-panel">Citation</span> <span class="md-window">Panel Title Bar</span>.
-  * On the <span class="md-panel">Dates</span> panel click the <span class="btn btn-info btn-sm"> <i class="fa fa-plus"> </i> Add Date</span> button
+  * Click the <span class="btn btn-success btn-xs"> <i class="fa fa-pencil"> </i> Edit</span> button on the <span class="md-panel">Citation</span> <span class="md-window">Panel Title Bar</span>.
+  * On the <span class="md-panel">Dates</span> panel click the <span class="btn btn-info btn-xs"> <i class="fa fa-plus"> </i> Add Date</span> button
   * Add a date
   * Choose a date type
   * Save your edit if "AutoSave" is not "On"
@@ -54,7 +54,7 @@ With our citation date entered let's go back and try the translation to ISO one 
   Translate "My First Metadata Record" to "ISO 19115-2"
   * Click "Translate" on the <span class="md-window">Primary Navigation Bar</span>
   * Choose "ISO 11915-2" from the <span class="md-element">Choose Format</span> control
-  * Click the <span class="btn btn-primary btn-sm"> <i class="fa fa-retweet"> </i> Translate</span> button.
+  * Click the <span class="btn btn-primary btn-xs"> <i class="fa fa-retweet"> </i> Translate</span> button.
 {% endhint %}
 
 Worked for me!  How about you?
@@ -63,7 +63,7 @@ With a valid ISO 19115-2 record in the <span class="md-panel">Result</span> prev
 
 {% hint style='working' %}
   Save the ISO 19115-2 metadata record.
-  * Click the <span class="btn btn-success btn-sm"> <i class="fa fa-floppy-o"> </i> Save Result</span> button.
+  * Click the <span class="btn btn-success btn-xs"> <i class="fa fa-floppy-o"> </i> Save Result</span> button.
   * Check your computer's "Downloads" folder for the metadata record.
   * Move the file to a safe location on your computer.
   * Rename the file if you like.

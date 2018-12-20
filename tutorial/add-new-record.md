@@ -5,7 +5,7 @@
 
 {% hint style='working' %}
   Create a New Record.
-  * Click the plus <span class="btn btn-sm btn-primary"><i class="fa fa-plus"> </i></span> button on the left menu-bar next to "Metadata Records"
+  * Click the plus <span class="btn btn-xs btn-primary"><i class="fa fa-plus"> </i></span> button on the left menu-bar next to "Metadata Records"
 {% endhint %}
 
 You should see something like this ...
@@ -44,15 +44,15 @@ Choose a resource type for the main resource described by this metadata record. 
 {% endhint %}
 
 {% hint style='info' %}
-  Notice the Resource Type block has a <span class="btn btn-info btn-sm"><i class="fa fa-plus"> </i> Add Resource Type</span> button.  Click this button to enter another resource type in cases where the resource is in multiple formats such as "tabularDataset" and "map".
+  Notice the Resource Type block has a <span class="btn btn-info btn-xs"><i class="fa fa-plus"> </i> Add Resource Type</span> button.  Click this button to enter another resource type in cases where the resource is in multiple formats such as "tabularDataset" and "map".
 {% endhint %}
 
 ---
 
-We are ready to save the metadata record.  The <span class="btn btn-sm btn-success">Save</span> button at the bottom of the panel should have become active and turned a darker shade of green.
+We are ready to save the metadata record.  The <span class="btn btn-xs btn-success">Save</span> button at the bottom of the panel should have become active and turned a darker shade of green.
 
 {% hint style='working' %}
-  Click the <span class="btn btn-success">Save</span> button.
+  Click the <span class="btn btn-success btn-xs">Save</span> button.
 {% endhint %}
 
 Wow! Now there's a lot more stuff on the screen. Let's spend a few minutes getting oriented before we enter more content into our new metadata record.

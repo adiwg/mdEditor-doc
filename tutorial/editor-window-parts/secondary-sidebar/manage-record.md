@@ -38,4 +38,4 @@ Clicking 'Copy' will make a copy of the active record be it metadata, contact, o
 
 ### <span class="btn btn-danger btn-sm"> <i class="fa fa-times"> </i> Delete</span> Delete Record
 
-Delete will delete the active record from memory and browser cache.   Clicking 'Delete' will change the button to <span class="btn btn-danger btn-sm"> <i class="fa fa-question"> </i> Confirm</span> to give you a chance to reconsider or recover from an errant click. There is no 'Undo' for the delete function.
+Delete will delete the active record from memory and browser cache.   Clicking 'Delete' will change the button to <span class="btn btn-danger btn-xs"> <i class="fa fa-question"> </i> Confirm</span> to give you a chance to reconsider or recover from an errant click. There is no 'Undo' for the delete function.

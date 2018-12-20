@@ -9,11 +9,11 @@ Some panels, and even sub-panels (panels within panels), have an 'Isolate' butto
 
 ![Isolated Basic Information Panel](/assets/tutorial/edit-window-isolate-panel.png){caption}
 
-### <strong class="btn btn-info btn-xs"> <i class="fa fa-plus"> </i> Add</strong> Add New Object
+### <strong class="btn btn-info btn-sm"> <i class="fa fa-plus"> </i> Add</strong> Add New Object
 
 Clicking the 'Add' button on a <span class="md-window">Panel Title Bar</span> will add a new object to the panel.  The new object can then be edited as needed.
 
-### <strong class="btn btn-success btn-xs"> <i class="fa fa-pencil"> </i> Edit</strong> Edit Object
+### <strong class="btn btn-success btn-sm"> <i class="fa fa-pencil"> </i> Edit</strong> Edit Object
 
 An 'Edit' button will appear on <span class="md-window">Panel Title Bars</span> of panel objects when the object contains more elements than can be presented in the current window without creating clutter.  
 
@@ -42,11 +42,11 @@ Above we discussed that clicking the <strong class="btn btn-info btn-xs"> <i cla
 
 ![Array Panel with Multiple Objects](/assets/tutorial/edit-window-array-panel.png){caption}
 
-### <strong class="btn btn-success btn-xs"> <i class="fa fa-pencil"> </i> Edit</strong> Edit Array Object
+### <strong class="btn btn-success btn-sm"> <i class="fa fa-pencil"> </i> Edit</strong> Edit Array Object
 
 When an 'Edit' button appears next to a panel object, clicking it will expand the object for editing.  After editing, click the <strong class="btn btn-info btn-xs"> <i class="fa fa-check"> </i> OK</strong> button to hide the object's detail and restore the <span class="md-window">Edit Window</span>.
 
-### <strong class="btn btn-danger btn-xs"> <i class="fa fa-times"> </i> Delete</strong> Delete Array Object
+### <strong class="btn btn-danger btn-sm"> <i class="fa fa-times"> </i> Delete</strong> Delete Array Object
 
 The 'Delete' button adjacent to an object is used to remove the object from the array. After clicking 'Delete' the button will change to <strong class="btn btn-danger btn-xs"> <i class="fa fa-question"> </i> Confirm</strong>.  Clicking 'Confirm' will complete the delete operation.
 

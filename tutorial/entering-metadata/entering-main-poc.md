@@ -32,7 +32,7 @@ This is a situation you will likely encounter rather frequently while entering a
 
 {% hint style='working' %}
   Create a contact on the fly:
-  * Save your work.  If you have AutoSave set to "Off" click the <span class="btn btn-success btn-sm"> <i class="fa fa-floppy-o"> </i> Save</span> button in <span class="md-window">Record Management</span> block of the <span class="md-window">Secondary Sidebar</span>.  If AutoSave is "On", your record is already saved.
+  * Save your work.  If you have AutoSave set to "Off" click the <span class="btn btn-success btn-xs"> <i class="fa fa-floppy-o"> </i> Save</span> button in <span class="md-window">Record Management</span> block of the <span class="md-window">Secondary Sidebar</span>.  If AutoSave is "On", your record is already saved.
   * Click the plus sign (+) next to Contacts in the <span class="md-window">Primary Sidebar</span> to create a new contact. 
   * Continue to the next page to complete adding the new Contact record.
 {% endhint %}

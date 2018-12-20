@@ -18,7 +18,7 @@ As you can see there are few controls on this page since translating from mdJSON
 {% hint style='working' %}
   Translate "My First Metadata Record" to HTML
   * Choose "HTML" from the <span class="md-element">Choose Format</span> control
-  * Click the <span class="btn btn-primary btn-sm"> <i class="fa fa-retweet"> </i> Translate</span> button.
+  * Click the <span class="btn btn-primary btn-xs"> <i class="fa fa-retweet"> </i> Translate</span> button.
 {% endhint %}
 
 {% hint style='info' %}
@@ -27,7 +27,7 @@ As you can see there are few controls on this page since translating from mdJSON
 
 That's about all there is to it!
 
-When you click <span class="btn btn-primary btn-sm"> <i class="fa fa-retweet"> </i> Translate</span> button, the mdJSON record being edited in mdEditor (the record in memory) will be packaged up and sent to mdTranslator for translation into the format you requested, in this case "HTML".  The "Translate Record" window will then wait for a response from mdTranslator and display the result in a small <span class="md-panel">Result</span> preview panel as shown in the image below. 
+When you click <span class="btn btn-primary btn-xs"> <i class="fa fa-retweet"> </i> Translate</span> button, the mdJSON record being edited in mdEditor (the record in memory) will be packaged up and sent to mdTranslator for translation into the format you requested, in this case "HTML".  The "Translate Record" window will then wait for a response from mdTranslator and display the result in a small <span class="md-panel">Result</span> preview panel as shown in the image below. 
 
 ![Translate Record Window - Preview Window](/assets/tutorial/translate-mdjson-2.png){caption}
 
@@ -41,7 +41,7 @@ The <span class="md-panel">Result</span> preview panel is pretty small for viewi
 {% endhint %} 
 
 {% hint style='tip' %}
-  The HTML output window is an excellent way to review the full content of your metadata record.  The HTML output presents all your entries in an organized easy-to-read format.  It can also be exported by clicking the <span class="btn btn-success btn-sm"> <i class="fa fa-floppy-o"> </i> Save Result</span> button, making this a handy way for others to review your metadata or embed it in websites.  
+  The HTML output window is an excellent way to review the full content of your metadata record.  The HTML output presents all your entries in an organized easy-to-read format.  It can also be exported by clicking the <span class="btn btn-success btn-xs"> <i class="fa fa-floppy-o"> </i> Save Result</span> button, making this a handy way for others to review your metadata or embed it in websites.  
 {% endhint %}
 
 {% hint style='tip' %}

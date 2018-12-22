@@ -1,6 +1,6 @@
 ![Maintenance Panel](/assets/reference/edit-objects/main/maintenance.png)
 
-* <span class="md-element">Frequency</span> <i class="fa fa-asterisk required" title="Required"> </i> 1{**type**: codelist (ISO MD_MaintenanceFrequencyCode); **multi-value**: NO; **extensible**: YES; **default**: empty}1  The frequency period for maintenance of this resource.  
+* <span class="md-element">Frequency</span> <i class="fa fa-asterisk required" title="Required"> </i> 1{**type**: codelist (ISO MD_MaintenanceFrequencyCode); **multi-value**: NO; **extensible**: YES; **multi-value**: NO; **default**: empty}1  The frequency period for maintenance of this resource.  
 
 * <span class="md-element">Dates</span> 1{**type**: array (obj: <span class="md-panel">Date</span>); **default**: empty}1 - Dates and datetimes related to maintenance of this resource. 2{[See object details](#date-object)}2 
       

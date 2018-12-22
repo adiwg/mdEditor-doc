@@ -4,7 +4,7 @@
 
 ![Translate Window](/assets/reference/translate/translate.png)
 
-* <span class="md-element">Choose Format</span> <i class="fa fa-asterisk required" title="Required"> </i> 1{**type**: codelist ([metadata standards supported by ADIwg's mdTranslator](https://mdtranslator.adiwg.org/api/writers)); **multi-value**: NO; **extensible**: NO; **default**: empty}1 Translate the <span class="md-panel">Metadata Record</span> the selected metadata standard.   
+* <span class="md-element">Choose Format</span> <i class="fa fa-asterisk required" title="Required"> </i> 1{**type**: codelist ([metadata standards supported by ADIwg's mdTranslator](https://mdtranslator.adiwg.org/api/writers))**extensible**: NO; **multi-value**: NO; **default**: empty}1 Translate the <span class="md-panel">Metadata Record</span> the selected metadata standard.   
 
 * <span class="md-element">Force Valid Output</span> 1{**type**: Boolean; **default**: No}1  Applies to required elements of ISO and FGDC standards only.  If 'Yes', mdTranslator will attempt to force the output to conform with the selected standard by writing tags for missing required elements in accordance with the output standard's rules.  If 'No', mdTranslator will ignore missing required elements which may cause the output to fail validation.  
 

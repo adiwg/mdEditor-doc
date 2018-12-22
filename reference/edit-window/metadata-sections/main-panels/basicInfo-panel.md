@@ -16,7 +16,7 @@
 
 * <span class="md-element">Title</span> <i class="fa fa-asterisk required" title="Required"> </i> 1{**type**: string; **max length**: none; **default**: empty}1 A user provided title for the resource.  This was required when the metadata record was created but may be edited at any time.
 
-* <span class="md-element">Status</span> <i class="fa fa-asterisk required" title="Required"> </i> 1{**type**: codelist (ISO MD_ProgressCode, ADIwg codes); **multi-value**: YES; **extensible**: YES; **default**: empty}1 The current status of the main resource.
+* <span class="md-element">Status</span> <i class="fa fa-asterisk required" title="Required"> </i> 1{**type**: codelist (ISO MD_ProgressCode, ADIwg codes); **multi-value**: YES; **extensible**: YES; **multi-value**: YES; **default**: empty}1 The current status of the main resource.
 
 * <span class="md-element">Default Locale</span> <i class="fa fa-asterisk required" title="Required"> </i> 1{**type**: object (<span class="md-panel">Locale</span>); **default** (eng, UTF-8, USA)}1 The default or primary language and character encoding for the main resource. 2{[See object details](#locale-object)}2 
 

@@ -93,7 +93,7 @@
         * [Requirements](reference/publish-window/publish-sciencebase/sciencebase-requirements.md)
         * [Testing](reference/publish-window/publish-sciencebase/sciencebase-testing.md)
         * [Publishing](reference/publish-window/publish-sciencebase/sciencebase-publishing.md)
-        * [Re-Publishing](reference/publish-window/publish-sciencebase/sciencebase-requirements.md)
+        * [Re-Publishing](reference/publish-window/publish-sciencebase/sciencebase-re-publishing.md)
   * [Translate Records](reference/translate-window/translate-reference.md)
     * [Choose Metadata Standard](reference/translate-window/translate-standard.md)
     * [Result Window](reference/translate-window/translate-result.md)

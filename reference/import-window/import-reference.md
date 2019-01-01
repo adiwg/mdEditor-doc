@@ -1,4 +1,4 @@
-# Import Records
+# Reference -- Import Records
 ---
 
 The import function allows mdEditor to load compatible metadata records saved in local storage into browser cache.  The function can also import cloud based metadata files via the internet. 

@@ -38,7 +38,7 @@ From working with <span class="md-panel">Resource Types</span> earlier in this e
   * Click the <strong class="btn btn-primary btn-xs"><i class="fa fa-arrow-left"> </i> Back to Main</strong> button in the <span class="md-window">Secondary Sidebar</span> when you have finish entering your <span class="md-element">Alternate Titles</span>.  
 {% endhint %}
 
-Clicking <strong class="btn btn-primary btn-xs"><i class="fa fa-arrow-left"> </i> Back to Main</strong> ends editing of the <span class="md-panel">Citation</span> object and, as expected, returns you to <span class="md-window">Edit Window</span> <span class="md-section">Main</span>.
+Clicking <strong class="btn btn-primary btn-xs"> <i class="fa fa-arrow-left"> </i> Back to Main</strong> ends editing of the <span class="md-panel">Citation</span> object and, as expected, returns you to <span class="md-window">Edit Window</span> <span class="md-section">Main</span>.
 
 {% hint style='tip' %}
   There are several other ways to return to <span class="md-window">Edit Window</span> <span class="md-section">Main</span>. 

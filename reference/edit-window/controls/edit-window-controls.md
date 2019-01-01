@@ -1,4 +1,4 @@
-# Edit Window Controls Reference
+# Reference -- Edit Window Controls
 DO NOT EDIT
 
   

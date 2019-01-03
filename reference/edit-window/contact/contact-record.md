@@ -20,3 +20,17 @@ In mdEditor, <span class="md-panel">Contacts</span> are edited and saved separat
  * The <span class="md-window">Edit Window</span> opens with all panels closed.  There is a small <span class="btn btn-default btn-xs">Show</span> button in the <span class="md-window">Bread Crumb Bar</span> that will open a view with all of the <span class="md-panel">Contact</span>'s information displayed. This may be helpful in determining if you have selected the intended contact for editing.  
 
 ---
+
+ * [<span class="md-panel" style="font-size: larger">Basic Information</span>](basicInfo-panel.md)
+
+ * [<span class="md-panel" style="font-size: larger">Phone Numbers</span>](phones-panel.md)
+
+ * [<span class="md-panel" style="font-size: larger">E-Mail Addresses</span>](email-panel.md)
+
+ * [<span class="md-panel" style="font-size: larger">Addresses</span>](address-panel.md)
+
+ * [<span class="md-panel" style="font-size: larger">Logos</span>](logo-panel.md)
+
+ * [<span class="md-panel" style="font-size: larger">Available Times</span>](times-panel.md)
+
+---

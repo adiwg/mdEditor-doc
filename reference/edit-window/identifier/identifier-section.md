@@ -7,8 +7,8 @@ The <span class="md-section">Identifier</span> section is not directly accessibl
 
 <strong class="btn btn-primary btn-xs"> <i class="fa fa-arrow-left"> </i> Back to ...</strong> Click 'Back To' in the <span class="md-window">Secondary Sidebar</span> to end editing of the <span class="md-panel">Identifier</span> and return to the mdEditor section you were on before entering the <span class="md-section">Identifier</span>. 
 
- * [<span class="md-panel" style="font-size: larger">Basic Information</span>](../identifier-panels/basicInfo-panel.md)
+ * [<span class="md-panel" style="font-size: larger">Basic Information</span>](basicInfo-panel.md)
 
- * [<span class="md-panel" style="font-size: larger">Authority </span>](../identifier-panels/authority-panel.md)
+ * [<span class="md-panel" style="font-size: larger">Authority </span>](authority-panel.md)
 
 ---

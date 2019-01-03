@@ -10,6 +10,6 @@
 
 ![Responsible Parties Panel](/assets/reference/edit-objects/citation/responsibleParties.png)
 
-{% include "../../../include-objects/responsibleParty-obj.md" %}
+{% include "../../include-objects/responsibleParty-obj.md" %}
 
 ---

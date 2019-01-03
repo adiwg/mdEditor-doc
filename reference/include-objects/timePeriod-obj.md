@@ -1,5 +1,3 @@
-#### Time Period Object
-
 ![Time Period Panel](/assets/reference/edit-objects/main/timePeriod-main.png)
 
 * <span class="md-element">Dates</span> <i class="fa fa-asterisk required" title="Required"></i> 1{**type**: collection}1 - A collection of elements to select and set the <span class="md-element">Start Date</span> and <span class="md-element">End Date</span> of a <span class="md-panel">Time Period</span>. 

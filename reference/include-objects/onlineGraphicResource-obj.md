@@ -1,4 +1,4 @@
-#### Online Graphic Resource Object
+### Online Graphic Resource Object
 
 ![Online Graphic Resource](/assets/reference/edit-objects/main/onlineGraphicResource.png)
 

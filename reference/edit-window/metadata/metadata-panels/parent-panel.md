@@ -1,6 +1,7 @@
 ## Metadata Record -- Metadata Section
-### Parent Metadata Citation
 ---
+
+### Parent Metadata Citation
 
 <span class="md-panel" style="font-size: larger">Parent Metadata</span> 1{**type**: view}1 If the resource or project described by this metadata record has a parent resource or project from which it was derived, a citation to the parent may be defined using the <span class="md-panel">Parent Metadata</span> citation. The <span class="md-panel">Parent Metadata</span> panel is a non-editable view of the parent metadata's citation information.  Not all of the <span class="md-panel">Parent Metadata's</span> information can be displayed in the view, only a few select fields that provide a reasonable overview of the citation are included.
 

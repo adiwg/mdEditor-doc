@@ -1,6 +1,7 @@
 ## Metadata Record -- Citation Section
-### Basic Information
 ---
+
+### Basic Information Panel
 
 <span class="md-panel" style="font-size: larger">Basic Information</span> <i class="fa fa-asterisk required" title="Required"> </i> 1{**type**: collection}1 The <span class="md-panel">Basic Information</span> panel holds a collection of elements that describe the citation. 
 

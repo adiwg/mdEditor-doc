@@ -1,4 +1,4 @@
-#### Locale Object
+### Locale Object
 
 * <span class="md-element">Language</span> <i class="fa fa-asterisk required" title="Required"> </i> 1{**type**: codelist (ISO 639 Part 2); **extensible**: YES; **multi-value**: NO; **default**: "eng"}1 Identifies the primary language of the main resource.  
  

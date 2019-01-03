@@ -1,7 +1,15 @@
-# Contact Record -- Phones
+# Contact Record -- Phone Number 
 ---
 
-![Contact Phone Numbers](/assets/reference/edit-objects/contact/contact-phone.png){caption}
+### Phone Number Array
+
+<span class="md-panel" style="font-size: larger">Phones</span> 1{**type**: array (obj: <span class="md-panel">phone</span>)}1 An array of <span class="md-panel">Phone</span> objects each describing a phone associated with the individual or organization contact.
+
+![Contact Phone Number Panel](/assets/reference/edit-objects/contact/contact-phone.png){caption}
+
+---
+
+### Phone Number Object
 
 * <span class="md-element">Name</span> 1{**type**: string; **max length**: none; **default**: empty}1 User assigned name to phone or phone's location.
 

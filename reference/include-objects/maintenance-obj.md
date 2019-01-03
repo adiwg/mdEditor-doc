@@ -16,7 +16,7 @@
 
 ---
 
-#### Responsible Party Object (Contacts)
+### Responsible Party Object (Contacts)
 
 {% include "../include-objects/responsibleParty-obj.md" %}
   

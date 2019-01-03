@@ -1,4 +1,4 @@
-#### Resource Type Object
+### Resource Type Object
 
 ![Resource Types Panel](/assets/reference/edit-objects/main/resourceType.png)
 

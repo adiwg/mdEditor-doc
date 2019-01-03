@@ -1,6 +1,7 @@
 ## Metadata Record -- Citation Section
-### Series
 ---
+
+### Series Object
 
 <span class="md-panel" style="font-size: larger">Series</span> 1{**type**: object (<span class="md-panel">Series</span>); **default**: empty}1 Information about the series, publication, or aggregate resource to which a resource belongs 
 

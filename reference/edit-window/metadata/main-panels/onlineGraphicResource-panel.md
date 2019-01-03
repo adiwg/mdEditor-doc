@@ -1,6 +1,7 @@
 ## Metadata Record -- Main Section
-### Online Graphic Resource Array
 ---
+
+### Online Graphic Resource Array
 
 <span class="md-panel" style="font-size: larger">Online Graphic Resource</span> 1{**type**: array (obj: <span class="md-panel">Online Graphic Resource</span>); **default**: empty}1 An array of <span class="md-panel">Online Graphic Resource</span> objects that describe internet links to graphic files.  
 

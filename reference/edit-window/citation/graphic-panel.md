@@ -1,6 +1,7 @@
 ## Metadata Record -- Citation Section
+---
+
 ### Graphic Array
-DO NOT EDIT
 
 <span class="md-panel" style="font-size: larger">Graphic</span> 1{**type**: array (obj: <span class="md-panel">Graphic</span>)}1 An array of file descriptions for images, maps, flow charts, models, logos, etc. associated with the citation.
 
@@ -8,7 +9,7 @@ DO NOT EDIT
 
 ---
 
-#### Graphic Object
+### Graphic Object
 
 {% include "../../include-objects/graphic-obj.md" %}
 

@@ -30,6 +30,8 @@ In mdEditor, <span class="md-panel">Contacts</span> are edited and saved separat
  * [<span class="md-panel" style="font-size: larger">Addresses</span>](address-panel.md)
 
  * [<span class="md-panel" style="font-size: larger">Logos</span>](logo-panel.md)
+ 
+ * [<span class="md-panel" style="font-size: larger">Online Graphic Resource</span>](onlineGraphicResource-panel.md)
 
  * [<span class="md-panel" style="font-size: larger">Available Times</span>](times-panel.md)
 

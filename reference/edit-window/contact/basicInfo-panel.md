@@ -1,4 +1,4 @@
-# Contact Record -- Basic Information
+## Contact Record -- Basic Information
 ---
 
 The <span class="md-panel">Contact</span> <span class="md-window">Edit Window</span> does not have an actual "Basic Information" panel.  The elements defined on this page are the elements NOT embedded in the other panels.

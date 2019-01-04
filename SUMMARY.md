@@ -57,6 +57,7 @@
       * [Address Panel](reference/edit-window/contact/address-panel.md)
       * [Online Resource Panel](reference/edit-window/contact/onlineResource-panel.md)
       * [Logo Panel](reference/edit-window/contact/logo-panel.md)
+      * [Online Graphic Resource Panel](reference/edit-window/contact/onlineGraphicResource-panel.md)
       * [Available Times Panel](reference/edit-window/contact/times-panel.md)
     * [Dictionary Records](reference/edit-window/dictionary/dictionary-record.md)
       * [Main Section](reference/edit-window/dictionary/main-panels/basicInfo-panel.md)

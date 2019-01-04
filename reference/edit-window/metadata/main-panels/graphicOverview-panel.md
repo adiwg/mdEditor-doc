@@ -9,10 +9,10 @@
 
 ---
 
-### Graphic Object (Graphic Overview)
+### Graphic Object 
 
 {% include "../../../include-objects/graphic-obj.md" %}
 
-* <span class="md-element">Online Graphic Resource</span> 1{**type**: array (obj: <span class="md-panel">Online Graphic Resource</span>); **default**: empty}1 <span class="md-panel"> Online Graphic Resource</span> objects that define internet links to the <span class="md-panel">Graphic Overview</span> file. 2{[See object details](../main-panels/onlineGraphicResource-panel.md)}2
+* <span class="md-element">Online Graphic Resource</span> 1{**type**: array (obj: <span class="md-panel">Online Graphic Resource</span>); **default**: empty}1 <span class="md-panel"> Online Graphic Resource</span> objects that define internet links to the <span class="md-panel">Graphic Overview</span> file. 2{[See object details](onlineGraphicResource-panel.md)}2
 
 ---

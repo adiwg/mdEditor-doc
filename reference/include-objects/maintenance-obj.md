@@ -1,4 +1,4 @@
-![Maintenance Panel](/assets/reference/edit-objects/main/maintenance.png)
+![Maintenance Panel](/assets/reference/edit-objects/metadata/main/maintenance.png)
 
 * <span class="md-element">Frequency</span> <i class="fa fa-asterisk required" title="Required"> </i> 1{**type**: codelist (ISO MD_MaintenanceFrequencyCode); **multi-value**: NO; **extensible**: YES; **multi-value**: NO; **default**: empty}1  The frequency period for maintenance of this resource.  
 

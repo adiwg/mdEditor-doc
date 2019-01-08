@@ -1,4 +1,4 @@
-![Online Resource](/assets/reference/edit-objects/metadata/onlineResource.png)
+![Online Resource](/assets/reference/edit-objects/metadata/metadata/onlineResource.png)
 
 * <span class="md-element">Name</span> 1{**type**: string; **max length**: none; **default**: empty}1 The name of the online resource. 
 

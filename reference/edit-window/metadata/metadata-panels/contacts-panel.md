@@ -9,7 +9,7 @@
 
 ### Responsible Party Object (Metadata Contact)
 
-![Metadata Contacts Panel](/assets/reference/edit-objects/metadata/contacts-metadata.png)
+![Metadata Contacts Panel](/assets/reference/edit-objects/metadata/metadata/contacts-metadata.png)
 
 {% include "../../../include-objects/responsibleParty-obj.md" %}
 

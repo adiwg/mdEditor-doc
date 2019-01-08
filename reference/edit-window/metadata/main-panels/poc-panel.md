@@ -9,7 +9,7 @@
 
 ### Responsible Party Object (Points of Contact)
 
-![Points of Contact Panel](/assets/reference/edit-objects/main/poc.png)
+![Points of Contact Panel](/assets/reference/edit-objects/metadata/main/poc.png)
 
 {% include "../../../include-objects/responsibleParty-obj.md" %}
 

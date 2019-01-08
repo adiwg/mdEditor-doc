@@ -5,7 +5,7 @@
 
 <span class="md-panel" style="font-size: larger">Alternate Metadata Reference</span> 1{**type**: array (obj: <span class="md-panel">citation</span>)}1 The array holds <span class="md-panel">Citation</span> references to other editions of this metadata record.  Other edition may include items such as older versions of the metadata record or the current record output in other other metadata formats.
 
-![Alternate Metadata Reference Array](/assets/reference/edit-objects/metadata/alternateReference-array.png)
+![Alternate Metadata Reference Array](/assets/reference/edit-objects/metadata/metadata/alternateReference-array.png)
 
 ---
 

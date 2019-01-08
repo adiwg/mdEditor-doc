@@ -1,6 +1,6 @@
 ### Online Graphic Resource Object
 
-![Online Graphic Resource](/assets/reference/edit-objects/main/onlineGraphicResource.png)
+![Online Graphic Resource](/assets/reference/edit-objects/metadata/main/onlineGraphicResource.png)
 
 * <span class="md-element">Name</span> 1{**type**: string; **max length**: none; **default**: empty}1 The name of the online graphic resource. 
 

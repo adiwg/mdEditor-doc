@@ -5,7 +5,7 @@
 
 <span class="md-panel" style="font-size: larger">Basic Information</span> <i class="fa fa-asterisk required" title="Required"> </i> 1{**type**: collection}1  The <span class="md-panel">Basic Information</span> panel holds a collection of elements that identify and describe the main resource.
 
-![Basic Information Panel](/assets/reference/edit-objects/main/basicInfo-main.png)
+![Basic Information Panel](/assets/reference/edit-objects/metadata/main/basicInfo-main.png){caption}
 
 * <span class="md-element">Record ID</span> <i class="fa fa-asterisk required" title="Required"></i> 1{**type**: string; **max length**: none; **default**: UUID}1 A unique identifier for the metadata record. 
 

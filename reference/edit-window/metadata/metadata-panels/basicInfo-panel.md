@@ -4,7 +4,7 @@
 
 <span class="md-panel" style="font-size: larger">Basic Information</span> 1{**type**: collection}1 The <span class="md-panel">Basic Information</span> panel holds a collection of elements that describe the metadata for this metadata record. Metadata about metadata!
 
-![Basic Information Panel](/assets/reference/edit-objects/metadata/basicInfo-metadata.png)
+![Basic Information Panel](/assets/reference/edit-objects/metadata/metadata/basicInfo-metadata.png)
 
 * <span class="md-element">Metadata Status</span> 1{**type**: codelist (ISO MD_ProgressCode, ADIwg codes); **multi-value**: YES; **extensible**: YES; **multi-value**: NO; **default**: empty}1 The current status of the metadata record. 
 

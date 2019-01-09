@@ -1,6 +1,8 @@
 ## Contact Record -- Basic Information
 ---
 
+### Basic Information Collection
+
 The <span class="md-panel">Contact</span> <span class="md-window">Edit Window</span> does not have an actual "Basic Information" panel.  The elements defined on this page are the elements NOT embedded in the other panels.
 
 ![Contact Basic Information](/assets/reference/edit-objects/contact/contact-basicInfo.png){caption}

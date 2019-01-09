@@ -1,4 +1,4 @@
-## Metadata Record -- Citation Section
+## Citation Section -- Online Graphic Resource
 ---
 
 ### Online Graphic Resource Array

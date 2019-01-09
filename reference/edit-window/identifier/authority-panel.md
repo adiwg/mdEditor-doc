@@ -1,4 +1,4 @@
-## Metadata Record -- Identifier Section
+## Identifier Section -- Authority
 ---
 
 ### Authority Object

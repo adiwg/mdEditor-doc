@@ -1,4 +1,4 @@
-## Metadata Record -- Citation Section
+## Citation Section -- Other Details
 ---
 
 ### Other Details Array

@@ -1,4 +1,4 @@
-# Metadata Record -- Identifier Section
+# Reference -- Identifier Section
 ---
 
 The <span class="md-section">Identifier</span> section is not directly accessible from the <span class="md-window">Secondary Navigation Bar</span> like other <span class="md-window">Edit Window</span> sections.  Because a typical metadata record needs to reference many different identifiers, mdEditor has chosen to use the same <span class="md-panel">Identifier</span> object editor to edit all identifier objects.  You arrive at the <span class="md-section"> Identifier</span> edit page automatically when you choose to edit an <span class="md-panel"> Identifier</span> object from anywhere in mdEditor.   

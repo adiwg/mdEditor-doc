@@ -1,12 +1,15 @@
-# Metadata Record -- Citation Section
+# Reference -- Citation Section
 ---
 
-The <span class="md-section">Citation</span> section is not directly accessible from the <span class="md-window">Secondary Navigation Bar</span> like other <span class="md-window">Edit Window</span> sections.  This is because a typical metadata record will cite many different sources and mdEditor has chosen to use the same <span class="md-panel">Citation</span> object editor to edit all citations.  You arrive at the <span class="md-section"> Citation</span> edit page automatically when you choose to edit a <span class="md-panel"> Citation</span> object from anywhere in mdEditor.  
- 
- Throughout mdEditor, when not viewing the <span class="md-panel"> Citation</span> object from the <span class="md-section">Citation</span> page an overview of the full object will be displayed. When the metadata record is exported or translated the full <span class="md-panel">Citation</span> object will always be used.  
+The <span class="md-section">Citation</span> <span class="md-window">Edit Window</span> is accessed from many locations throughout mdEditor.  This is because a typical metadata record will reference many different resources.  For example, these resources might be of earlier or referenced works, data domains, or taxonomic systems in addition to a required main resource for the metadata record.  Each of these resources is represented by a separate <span class="md-panel">Citation</span> object each having identical structure and complement of elements.  
 
-<strong class="btn btn-primary btn-xs"> <i class="fa fa-arrow-left"> </i> Back to ...</strong> Click 'Back To' in the <span class="md-window">Secondary Sidebar</span> to end editing of the <span class="md-panel">Citation</span> and return to the mdEditor section you were on before entering the <span class="md-section">Citation</span>.
+How you actually arrive at the <span class="md-section">Citation</span> <span class="md-window">Edit Window</span> will vary, but the mdEditor elements and rules outlined in this reference section will apply in all situations. 
 
+{% hint style='info' %}
+  If you clicked <strong class="btn btn-success btn-xs"> <i class="fa fa-pencil"> </i>Edit</strong> to gain access to the <span class="md-panel">Citation</span> object there will be a <strong class="btn btn-primary btn-xs"> <i class="fa fa-arrow-left"> </i> Back to ...</strong> button in the <span class="md-window">Secondary Sidebar</span>.  Click this button to end editing of the <span class="md-panel">Citation</span> and return to the mdEditor section you were on before entering the <span class="md-section">Citation</span> <span class="md-window">Edit Window</span>.
+{% endhint %} 
+
+---
 
  * [<span class="md-panel" style="font-size: larger">Basic Information</span>](basicInfo-panel.md)
 

@@ -1,4 +1,4 @@
-## Metadata Record -- Citation Section
+## Citation Section -- Series
 ---
 
 ### Series Object

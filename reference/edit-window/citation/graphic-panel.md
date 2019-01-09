@@ -1,4 +1,4 @@
-## Metadata Record -- Citation Section
+## Citation Section -- Graphic
 ---
 
 ### Graphic Array

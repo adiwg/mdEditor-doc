@@ -7,6 +7,8 @@
 
 ![Citation View Panel](/assets/reference/edit-objects/metadata/main/citation-view.png)
 
-<span class="btn btn-success btn-xs"> <i class="fa fa-pencil"> </i> Edit</span> and <span class="btn btn-success btn-xs"> <i class="fa fa-pencil"> </i> Edit Citation</span> Click either button to open the <span class="md-panel">Citation</span> object in the <span class="md-section">Citation</span> edit window.  See [Citation Section](../citation-section.md) for editing instructions.
+<span class="btn btn-success btn-xs"> <i class="fa fa-pencil"> </i> Edit</span> and <span class="btn btn-success btn-xs"> <i class="fa fa-pencil"> </i> Edit Citation</span> 
+
+Click either button to open the <span class="md-panel">Citation</span> object in the <span class="md-section">Citation</span> <span class="md-window">Edit Window</span>.  See [Citation Section](../../citation/citation-section.md) for editing instructions.
 
 ---

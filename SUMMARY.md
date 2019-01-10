@@ -54,7 +54,7 @@
         * [Locale Panel](reference/edit-window/dictionary/main-panels/locale-panel.md)
       * [Citation Section](reference/edit-window/dictionary/citation-panels/citation-section.md)
       * [Domain Section](reference/edit-window/dictionary/domain-panels/domain-section.md)
-        * [Basic Information Panel](reference/edit-window/dictionary/domain-panels/basicInfo-panel.md)
+        * [Basic Information Panel](reference/edit-window/dictionary/domain-panels/domainInfo-panel.md)
         * [Domain Items Panel](reference/edit-window/dictionary/domain-panels/domainItem-panel.md)
         * [Domain Reference Panel](reference/edit-window/dictionary/domain-panels/domainReference-panel.md)
       * [Entity Section](reference/edit-window/dictionary/entity-panels/entity-section.md)

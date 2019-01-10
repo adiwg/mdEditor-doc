@@ -13,9 +13,9 @@
   Use caution when editing the <span class="md-element">Domain Identifier</span>.  This identifier must be unique among your <span class="md-panel">Dictionary</span> domains.  If this identifier was used to link with <span class="md-panel">Dictionary</span> <span class="md-panel">Attributes</span>, changing it may break the link(s).
   {% endhint %}
   
-* <span class="md-element">Code Name</span> <i class="fa fa-asterisk required" title="Required"> </i> 1{**type**: string; **max length**: none; **default**: empty}1 The code or 'lookup table' name for the <span class="md-panel">Domain</span> that is used in the dictionary schema.
+* <span class="md-element">Code Name</span> <i class="fa fa-asterisk required" title="Required"> </i> 1{**type**: string; **max length**: none; **default**: empty}1 The code name for the <span class="md-panel">Domain</span> used in the dictionary schema.
 
-* <span class="md-element">Common Name</span> 1{**type**: string; **max length**: none; **default**: empty}1 A short common name for the <span class="md-panel">Domain</span>. 
+* <span class="md-element">Common Name</span> 1{**type**: string; **max length**: none; **default**: empty}1 A common or conversational name for the <span class="md-panel">Domain</span>. 
 
 * <span class="md-element">Description</span> <i class="fa fa-asterisk required" title="Required"> </i> 1{**type**: string; **max length**: none; **default**: empty}1  A brief description of the <span class="md-panel">Domain</span> including identification of any established sources used in creating the list of domain items.
 

@@ -15,8 +15,12 @@ After one or more <span class="md-panel">Entities</span> are defined for the <sp
 
 ![Domain Array Panel](/assets/reference/edit-objects/dictionary/entities/dictionary-entity3.png){caption}
 
-From this array panel new <span class="md-panel">Entities</span> can be defined and existing <span class="md-panel">Entities</span> can be edited or deleted.
+From this array panel new <span class="md-panel">Entities</span> can be defined and existing <span class="md-panel">Entities</span> can be edited or deleted.  
 
+{% hint style='tip' %}
+  <span class="md-panel">Entities</span> can also be entered via CSV files (Comma Separated Value) files.  See the [CSV Import](csvImport-panel.md) section for details. 
+{% endhint %}
+ 
 ---
 
  * [<span class="md-panel" style="font-size: larger">Entity Information</span>](entityInfo-panel.md)

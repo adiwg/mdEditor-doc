@@ -3,7 +3,7 @@
 
 ### Domain Item Array & Short Form
 
-The <span class="md-panel">Domain Item</span> array allows editing of the three required <span class="md-panel">Domain Item</span> elements.  Click the <strong class="btn btn-success btn-xs"> <i class="fa fa-pencil"> </i> More ...</strong> button to access all <span class="md-panel">Domain Item</span> object elements.
+The <span class="md-panel">Domain Item</span> array displays a list of defined <span class="md-panel">Domain Item</span> objects and provides the <strong class="btn btn-info btn-xs"> <i class="fa fa-plus"> </i> Add</strong> button for creating new ones.  The array allows editing of the three required <span class="md-panel">Domain Item</span> elements.  Click the <strong class="btn btn-success btn-xs"> <i class="fa fa-pencil"> </i> More ...</strong> button to access all the <span class="md-panel">Domain Item</span> object elements.
 
 ![Domain Item Array](/assets/reference/edit-objects/dictionary/domains/domainItem-array.png){caption}
 

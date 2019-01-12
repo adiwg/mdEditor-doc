@@ -3,7 +3,7 @@
 
 ### File Structure
 
-<span class="md-panel">File Structure</span> elements primarily support <span class="md-panel">Entities</span> represented in spreadsheets and text files.  
+<span class="md-panel" style="font-size: larger">File Structure</span> 1{**type**: collection}1 The <span class="md-panel">File Structure</span> elements primarily support <span class="md-panel">Entities</span> which are represented as spreadsheets or text files.  
 
 ![File Structure Panel](/assets/reference/edit-objects/dictionary/entities/structure.png){caption}
 

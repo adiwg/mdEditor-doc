@@ -58,7 +58,7 @@
         * [Domain Items Panel](reference/edit-window/dictionary/domain-panels/domainItem-panel.md)
         * [Domain Reference Panel](reference/edit-window/dictionary/domain-panels/domainReference-panel.md)
       * [Entity Section](reference/edit-window/dictionary/entity-panels/entity-section.md)
-        * [Basic Information Panel](reference/edit-window/dictionary/entity-panels/entityInfo-panel.md)
+        * [Entity Information Panel](reference/edit-window/dictionary/entity-panels/entityInfo-panel.md)
         * [Attribute Information Panel](reference/edit-window/dictionary/entity-panels/attribute-panel.md)
         * [File Structure Panel](reference/edit-window/dictionary/entity-panels/structure-panel.md)
         * [Keys Panel](reference/edit-window/dictionary/entity-panels/key-panel.md)

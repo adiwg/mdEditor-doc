@@ -18,7 +18,7 @@ After one or more <span class="md-panel">Entities</span> are defined for the <sp
 From this array panel new <span class="md-panel">Entities</span> can be defined and existing <span class="md-panel">Entities</span> can be edited or deleted.  
 
 {% hint style='tip' %}
-  <span class="md-panel">Entities</span> can also be entered via CSV files (Comma Separated Value) files.  See the [CSV Import](csvImport-panel.md) section for details. 
+  <span class="md-panel">Entities</span> can also be entered via CSV files (Comma Separated Value) files.  See the [CSV Import](csvImport/csvImport-panel.md) section for details. 
 {% endhint %}
  
 ---
@@ -35,6 +35,6 @@ From this array panel new <span class="md-panel">Entities</span> can be defined 
 
  * [<span class="md-panel" style="font-size: larger">Entity Reference</span>](entityReference-panel.md)
 
- * [<span class="md-panel" style="font-size: larger">CSV Import</span>](csvImport-panel.md)
+ * [<span class="md-panel" style="font-size: larger">CSV Import</span>](csvImport/csvImport-panel.md)
 
 ---

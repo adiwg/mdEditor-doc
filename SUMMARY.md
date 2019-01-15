@@ -64,7 +64,7 @@
         * [Keys Panel](reference/edit-window/dictionary/entity-panels/key-panel.md)
         * [Indices Panel](reference/edit-window/dictionary/entity-panels/index-panel.md)
         * [Entity Reference Panel](reference/edit-window/dictionary/entity-panels/entityReference-panel.md)
-        * [CSV Import Panel](reference/edit-window/dictionary/entity-panels/csvImport-panel.md)
+        * [CSV Import Panel](reference/edit-window/dictionary/entity-panels/csvImport/csvImport-panel.md)
       * [Attribute Section](reference/edit-window/dictionary/attribute-panels/attribute-section.md)
         * [Basic Information Panel](reference/edit-window/dictionary/attribute-panels/basicInfo-panel.md)
         * [Value Range Panel](reference/edit-window/dictionary/attribute-panels/valueRange-panel.md)

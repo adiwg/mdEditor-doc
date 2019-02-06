@@ -32,7 +32,7 @@ There are four Export action buttons in the <span class="md-window">Secondary Si
 
   * #### <strong class="btn btn-primary btn-xs"> <i class="fa fa-sign-out"> </i> Export All</strong> Export All Items
   
-    Click this button to export all items in the <span class="md-panel">Metadata Records</span>, <span class="md-panel">Contacts</span>, and <span class="md-panel">Dictionaries</span> panels regardless if they are checked or not.  All items will be exported into a single file in the mdEditor file format.  
+    Click this button to export all items in the <span class="md-panel">Metadata Records</span>, <span class="md-panel">Contacts</span>, and <span class="md-panel">Dictionaries</span> panels regardless of whether they are checked or not.  All items will be exported into a single file in the mdEditor file format.  
  
   * #### <strong class="btn btn-info btn-xs"> <i class="fa fa-check-square-o"> </i> Export Selected</strong> Export Selected Items
   

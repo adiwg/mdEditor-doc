@@ -4,11 +4,11 @@ Each export panel has built in support for navigating long lists of <span class=
 
   * #### Number of Items to Display
   
-    This select list allows you to set the maximum number of items to display in the panel.  The default is 10 items with options for 25, 50, and 500.  You cannot set your own number of items.
+    This selection list allows you to set the maximum number of items to display in the panel.  The default is 10 items with options for 25, 50, and 500.  You cannot set your own number of items.
     
   * #### Record Controls
   
-    The 'Record Controls' manage which set of items are visible in the panel.  The controls become active when there are more items in browser cache than displayed in the panel given the limit set using the 'Number of Items to Display' control (above).
+    The 'Record Controls' manage which set of items is visible in the panel.  The controls become active when there are more items in browser cache than are displayed in the panel, given the limit set using the 'Number of Items to Display' control (above).
 
     * ##### <i class="fa fa-forward"> </i> Next Page
   

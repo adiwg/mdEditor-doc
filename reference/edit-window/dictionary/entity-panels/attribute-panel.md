@@ -3,7 +3,7 @@
 
 ### Attribute Array
 
-<span class="md-panel" style="font-size: larger">Attributes</span> 1{**type**: array (obj: <span class="md-panel">Attribute</span>)}1  The array panel displays a list of defined <span class="md-panel">Entity</span> <span class="md-panel">Attribute</span> objects and provides the <strong class="btn btn-info btn-xs"> <i class="fa fa-plus"> </i> Add</strong> button for creating new ones.  The array allows editing of the four required <span class="md-panel">Attribute</span> object elements.  Click the <strong class="btn btn-success btn-xs"> <i class="fa fa-pencil"> </i> More ...</strong> button to access all the <span class="md-panel">Attribute</span> object elements.
+<span class="md-panel" style="font-size: larger">Attributes</span> 1{**type**: array (obj: <span class="md-panel">Attribute</span>)}1  The array panel displays a list of the defined <span class="md-panel">Entity</span> <span class="md-panel">Attribute</span> objects and provides an <strong class="btn btn-info btn-xs"> <i class="fa fa-plus"> </i> Add</strong> button for creating additional <span class="md-panel">Attributes</span>.  The array allows editing of the four required <span class="md-panel">Attribute</span> object elements.  Click the <strong class="btn btn-success btn-xs"> <i class="fa fa-pencil"> </i> More ...</strong> button to access the full set of <span class="md-panel">Attribute</span> elements.
 
 ![Attributes Array](/assets/reference/edit-objects/dictionary/entities/attribute-array.png){caption}
 

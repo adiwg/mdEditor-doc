@@ -33,7 +33,7 @@ There are three Import action buttons in the <span class="md-window">Secondary S
   
     * ##### Replace
     
-      The replace action will remove all items of its type currently loaded in browser cache and replace them with the items selected for import.  For example, if even a single <span class="md-panel">Contact</span> is selected for import, ALL currently loaded contacts will be removed before the import <span class="md-panel">Contact</span> is loaded.  Import items of other types (<span class="md-panel">Metadata Records</span> and <span class="md-panel">Dictionaries</span>) are not effected.  This same process is applied when replacing <span class="md-panel">Metadata Records</span> and <span class="md-panel">Data Dictionaries</span>.  Dictionaries remove only dictionaries; Metadata records remove only metadata records.  <span class="md-panel">Settings</span> are always replaced in full. 
+      The replace action will remove all items of a type currently loaded in browser cache and replace them with the items selected for import.  For example, if even a single <span class="md-panel">Contact</span> is selected for import, ALL currently loaded contacts will be removed before the import <span class="md-panel">Contact</span> is loaded.  Import items of other types (<span class="md-panel">Metadata Records</span> and <span class="md-panel">Dictionaries</span>) are not effected.  This same process is applied when replacing <span class="md-panel">Metadata Records</span> and <span class="md-panel">Data Dictionaries</span>.  Dictionaries remove only dictionaries; Metadata records remove only metadata records.  <span class="md-panel">Settings</span> are always replaced in full. 
       
       {% hint style='danger' %}
   Remember to backup, <span class="md-window">Export</span>, currently loaded records before using the 'Replace' action.
@@ -47,12 +47,12 @@ There are three Import action buttons in the <span class="md-window">Secondary S
       
     * ##### Merge (default)
    
-      Unlike the replace action, merge will not remove items from browser cache prior to importing selected items.  The merge action will instead use the item's internal 'ID' which was assigned by mdEditor as the record was created.  This 'ID' is displayed in the <span class="md-element">ID</span> column of the three selection panels.  
+      Unlike the replace action, merge will not remove items from browser cache prior to importing selected items.  The merge action will instead use the item's internal ID which was assigned by mdEditor as the record was created.  This ID is displayed in the <span class="md-element">ID</span> column of the three selection panels.  
       
       Import items that cannot be matched with an item currently loaded in browser cache are simply added to browser cache.
       
       {% hint style='danger' %}
-  The 'ID' shown is for the item to be imported.  Unfortunately at this time there is no way to display the internal 'ID' of items already loaded into browser cache.  Therefore there is no positive way to determine which loaded items will be matched and replaced by import items.  The best that can be done at this point is to visually match <span class="md-panel">Metadata Record</span>, <span class="md-panel">Contact</span>, and <span class="md-panel">Dictionary</span> by names or titles to understand what will happen on import. 
+  The ID shown is for the item to be imported.  Unfortunately, at this time there is no way to display the internal ID of items already loaded into browser cache.  Therefore there is no positive way to determine which loaded items will be matched and replaced by imported items.  The best that can be done at this point is to visually match <span class="md-panel">Metadata Record</span>, <span class="md-panel">Contact</span>, and <span class="md-panel">Dictionary</span> records by names or titles to understand what will happen on import. 
       {% endhint %}
         
   ---

@@ -13,7 +13,7 @@ mdEditor can import metadata records in mdEditor file, mdJSON file, FGDC CSDGM f
 
 The mdEditor file format is organized to optimize editing in mdEditor.  And similar to mdEditor's screen organization, the file format stores <span class="md-panel">Metadata Records</span>, <span class="md-panel">Contacts</span>, and <span class="md-panel">Dictionaries</span> separately.  These items are then linked to each other via the mdEditor's internal 'IDs'.  This organization allows users to define a  <span class="md-panel">Contact</span> or <span class="md-panel">Dictionary</span> once and use it across many <span class="md-panel">Metadata Records</span>. 
 
-The mdEditor file format keeps these internal 'IDs' when exported.  Thus when importing an mdEditor file it can do positive item matching with items already loaded in browser cache regardless if titles or names have changed.  This provides for a safe merge. 
+The mdEditor file format keeps these internal 'IDs' when exported.  Thus when importing an mdEditor file it can do positive item matching with items already loaded in browser cache regardless of whether titles or names have changed.  This provides for a safe merge. 
   
 When importing you are allowed to choose which <span class="md-panel">Metadata Records</span>, <span class="md-panel">Contacts</span>, and <span class="md-panel">Dictionaries</span> to import.  mdEditor will not automatically gather all <span class="md-panel">Contacts</span> and <span class="md-panel">Dictionaries</span> referenced by an imported <span class="md-panel">Metadata Record</span>.  It is up to you to know which of your <span class="md-panel">Contacts</span> and <span class="md-panel">Dictionaries</span> to include to fully support the <span class="md-panel">Metadata Records</span> you retain after import. 
 
@@ -21,7 +21,7 @@ When importing you are allowed to choose which <span class="md-panel">Metadata R
 
 ### mdJSON File Format
 
-The mdJSON file format stores a metadata record in a standard independent format developed by ADIwg.  Each metadata record is complete and can standalone in that all contacts and dictionaries needed by the metadata record are bundled with the record.  This is the format used by mdTranslator to prepare metadata in one of the supported standard metadata formats such as FGDC or ISO. 
+The mdJSON file format stores a metadata record in a standard independent format developed by ADIwg.  Each metadata record is complete and can stand alone in that all contacts and dictionaries needed by the metadata record are bundled with the record.  This is the format used by mdTranslator to prepare metadata in one of the supported standard metadata formats such as FGDC or ISO. 
 
 {% hint style='tip' %}
   The mdJSON file format is a great archive format for metadata records once editing has been concluded.  It will not only save all contacts and dictionaries for the complete metadata record, the metadata record and parts will maintain their state at the time the record was saved.  For example, later changes to a reused <span class="md-panel">Contact</span> will not alter the contents of the archived mdJSON file.

@@ -68,6 +68,7 @@
             * [Prepare CSV File](reference/edit-window/dictionary/entity-panels/csvImport/csvImport-prepCSV.md)
             * [Read CSV File](reference/edit-window/dictionary/entity-panels/csvImport/csvImport-readCSV.md)
             * [Prepare for Import](reference/edit-window/dictionary/entity-panels/csvImport/csvImport-prepEntity.md)
+            * [Import Entity](reference/edit-window/dictionary/entity-panels/csvImport/csvImport-import.md)
       * [Attribute Section](reference/edit-window/dictionary/attribute-panels/attribute-section.md)
         * [Attribute Information Panel](reference/edit-window/dictionary/attribute-panels/attributeInfo-panel.md)
         * [AttributeValue Range Panel](reference/edit-window/dictionary/attribute-panels/valueRange-panel.md)

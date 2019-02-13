@@ -16,7 +16,7 @@ You are presented with a large blue target to drag and drop a CSV entity file on
   When using drag and drop method the target will turn green when mdEditor is ready to receive the CSV file.
 {% endhint %}
 
-If the sample CSV entity file illustrated above ("STATE") is dropped onto the target or selected for import the following entity will be STAGED FOR IMPORT in mdEditor.
+When the sample CSV entity file illustrated above ("STATE") is dropped onto the target or selected for import the following entity will be STAGED FOR IMPORT in mdEditor.
  
 ![Entity Staged for Import](/assets/reference/edit-objects/dictionary/entities/csvImport2.png){caption}
 

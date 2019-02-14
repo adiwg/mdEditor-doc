@@ -8,13 +8,13 @@
 
  1. Determine your workflow for testing:
  
-    If you DO NOT already have items on ScienceBase. Choose a project and its products to test.
+    If you DO NOT already have items on ScienceBase, choose a project and its products to test.
     
-    BEST MANAGEMENT PRACTICE: It's recommended that you export a project and its products into its own mdEditor file. Set default parent identifier as a ScienceBase folder.
+    BEST MANAGEMENT PRACTICE: It's recommended that you export a project and its products into its own mdEditor file. Set the default parent identifier as a ScienceBase folder.
     
      If you DO already have items on ScienceBase, choose one of the following approaches. Note that it will be harder to test without it affecting your real records.
      
-     Approach 1 - Take a simple project and product set, and make a copy of the mdEditor records. In the test version, delete all ScienceBase IDs (SBIDs) and parent IDs. The SBID will either be located in the citation, or if you imported the record from SB, the SBID will be the record identifier. Set default parent identifier as a folder.
+     Approach 1 - Take a simple project and product set, and make a copy of the mdEditor records. In the test version, delete all ScienceBase IDs (SBIDs) and parent IDs. The SBID will either be located in the citation, or if you imported the record from SB, the SBID will be the record identifier. Set the default parent identifier as a folder.
      
     Approach 2- Publish directly to a real record if you are okay with the risk it presents.
     

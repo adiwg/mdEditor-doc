@@ -1,7 +1,9 @@
 # Metadata Record -- Main Section
 ---
 
-The <span class="md-section">Main</span> section of the <span class="md-window">Edit Window</span> collects general information about the main resource and is subdivided into the following panels: 
+The <span class="md-section">Main</span> section of the <span class="md-window">Edit Window</span> collects general information about the main resource.
+
+---
 
  * [<span class="md-panel" style="font-size: larger">Basic Information</span>](basicInfo-panel.md)
 
@@ -22,3 +24,5 @@ The <span class="md-section">Main</span> section of the <span class="md-window">
  * [<span class="md-panel" style="font-size: larger">Online Graphic Resource</span>](onlineGraphicResource-panel.md)
 
  * [<span class="md-panel" style="font-size: larger">Credits</span>](credits-panel.md)
+
+---

@@ -1,7 +1,7 @@
 # Metadata Record -- Funding Section
 ---
 
-WAITING FOR mdEditor FIXES
+WAITING FOR mdEditor PATCHES
 
 The <span class="md-section">Funding</span> section of the <span class="md-window">Edit Window</span> collects information about funding sources for development and/or maintenance of the main resource.  
 

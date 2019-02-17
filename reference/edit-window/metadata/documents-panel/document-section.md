@@ -5,7 +5,7 @@ The <span class="md-section">Documents</span> section of the <span class="md-win
 
 When no <span class="md-panel">Additional Documents</span> have been defined for the <span class="md-panel">Metadata Record</span> a large blue bar is displayed on the page declaring "No Additional Documents found."  
 
-![Documents Section with no Allocations Defined](/assets/reference/edit-objects/metadata/documents/document-start.png)
+![Documents Section with no Additional Documents Defined](/assets/reference/edit-objects/metadata/documents/document-start.png)
 
 <strong class="btn btn-success btn-xs"> <i class="fa fa-plus"> </i> Add Additional Document</strong> and <strong class="btn btn-success btn-xs"> <i class="fa fa-plus"> </i> Add Document</strong>
 
@@ -19,20 +19,14 @@ The <span class="md-panel">Additional Document</span> object is basically a <spa
 
 ---
 
-### Resource Type Array
+* <span class="md-panel" style="font-size: larger">Resource Types</span> <i class="fa fa-asterisk required" title="Required"> </i> 1{**type**: array (obj: <span class="md-panel">Resource Type</span>)}1 Identifies the general class or kind of <span class="md-panel">Additional Document</span> being described. 
 
-<span class="md-panel" style="font-size: larger">Resource Types</span> <i class="fa fa-asterisk required" title="Required"> </i> 1{**type**: array (obj: <span class="md-panel">Resource Type</span>)}1 Identifies the general class or kind of <span class="md-panel">Additional Document</span> being described. 
+* <span class="md-panel" style="font-size: larger">Additional Document Citation</span> 1{**type**: object (<span class="md-panel">Citation</span>); **default** empty}1 The <span class="md-panel">Additional Document Citation</span> object is a <span class="md-panel">Citation</span> which references the external document being linked with the main resource.
+  
+  See the [Citation Reference](../../citation/citation-section.md) for documentation on specific <span class="md-panel">Additional Document</span> panels.
 
 ---
 
 {% include "../../../include-objects/resourceType-obj.md" %}
-
----
-
-### Additional Document Citation
-
-<span class="md-panel" style="font-size: larger">Additional Document</span> 1{**type**: object (<span class="md-panel">Citation</span>); **default** empty}1 The <span class="md-panel">Additional Document</span> object is a <span class="md-panel">Citation</span> which references an external document relevant to the main resource.
-
-See the [Citation Reference](../../citation/citation-section.md) for documentation on specific <span class="md-panel">Additional Document</span> panels.
 
 ---

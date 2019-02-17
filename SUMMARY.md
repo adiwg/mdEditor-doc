@@ -35,6 +35,8 @@
       * [Distribution Section](reference/edit-window/metadata/distribution-panels/distribution-section.md)
       * [Constraints Section](reference/edit-window/metadata/constraint-panels/constraint-section.md)
       * [Associated Resource Section](reference/edit-window/metadata/associated-panels/associated-section.md)
+        * [Edit Window](reference/edit-window/metadata/associated-panels/editWindow-panel.md)
+        * [Select a Record](reference/edit-window/metadata/associated-panels/selectRecord-panel.md)
       * [Additional Documents Section](reference/edit-window/metadata/documents-panel/document-section.md)
       * [Funding Section](reference/edit-window/metadata/funding-panels/funding-section.md)
       * [Dictionaries Section](reference/edit-window/metadata/dictionary-panels/dictionary-section.md)

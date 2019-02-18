@@ -21,7 +21,7 @@ Default values will pre-fill elements in mdEditor as new records and objects are
 * <span class="md-element">mdTranslator API URL</span> 1{**type**: URL}1  This provides the URL of the mdTranslator for the <span class="md-window">Translate</span> function.  If you have hosted a local version of mdTranslator that you wish to use, provide its location here.  Otherwise, leave this value as the publicly hosted ADIwg mdTranslator.  
 
   {% hint style='tip' %}
-  If you have delete the ADIwg translator location and wish to restore it, click <span class="btn btn-warning btn-xs">Default</span>.
+  If you have deleted the ADIwg translator location and wish to restore it, click <span class="btn btn-warning btn-xs">Default</span>.
   {% endhint %}
 
 * <span class="md-element">Metadata Repositories</span> 1{**type**: array (obj: <span class="md-panel"> Metadata Repository</span>)}1  Add a <span class="md-panel">Metadata Repository</span> object to set a default <span class="md-element">Collection Title</span> for a <span class="md-element">Repository</span>.  When the <span class="md-element">Repository</span> is selected on an <span class="md-window">Edit Window</span> the <span class="md-element">Collection Title</span> will auto fill. 2{[See object details](#metadata-repository-object)}2 

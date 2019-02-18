@@ -13,7 +13,7 @@ In mdEditor, <span class="md-panel">Dictionaries</span> are edited and saved sep
    
  * The <span class="md-panel">Dictionary</span>'s name is displayed at the top of the <span class="md-window">Edit Window</span>.
  
- * There is <span class="btn btn-primary btn-xs"> <i class="fa fa-home"> </i> Back to Overview</span> button in the <span class="md-window">Secondary Sidebar</span> that will open a view with all of the <span class="md-panel">Dictionary</span>'s information displayed. This may be helpful in determining if you have selected the intended dictionary for editing or just wish to review the information entered.  
+ * There is <span class="btn btn-primary btn-xs"> <i class="fa fa-home"> </i> Back to Overview</span> button in the <span class="md-window">Secondary Sidebar</span> that will open a view with all of the <span class="md-panel">Dictionary</span>'s information displayed. This may be helpful in determining if you have selected the intended dictionary for editing, or if you just wish to review the information entered.  
 
 ---
 

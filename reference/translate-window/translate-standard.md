@@ -4,7 +4,7 @@
 
 ![Translate Window](/assets/reference/translate/translate.png)
 
-* <span class="md-element">Choose Format</span> <i class="fa fa-asterisk required" title="Required"> </i> 1{**type**: codelist ([metadata standards supported by ADIwg's mdTranslator](https://mdtranslator.adiwg.org/api/writers))**extensible**: NO; **multi-value**: NO; **default**: empty}1 Translate the <span class="md-panel">Metadata Record</span> the selected metadata standard.   
+* <span class="md-element">Choose Format</span> <i class="fa fa-asterisk required" title="Required"> </i> 1{**type**: codelist ([metadata standards supported by ADIwg's mdTranslator](https://mdtranslator.adiwg.org/api/writers))**extensible**: NO; **multi-value**: NO; **default**: empty}1 Translate the <span class="md-panel">Metadata Record</span> using the selected metadata standard.   
 
 * <span class="md-element">Force Valid Output</span> 1{**type**: Boolean; **default**: No}1  Applies to required elements of ISO and FGDC standards only.  If 'Yes', mdTranslator will attempt to force the output to conform with the selected standard by writing tags for missing required elements in accordance with the output standard's rules.  If 'No', mdTranslator will ignore missing required elements which may cause the output to fail validation.  
 
@@ -13,7 +13,7 @@
   {% endhint %} 
   
   {% hint style='info' %}
-  Not all missing requirements can be patched by mdTranslator.  In general, most missing elements can be replaced with some form of a 'missing tag'.  Missing section for FGDC outputs cannot be patched, such a missing contact section.  Missing sections in ISO can be patched.
+  Not all missing requirements can be patched by mdTranslator.  In general, most missing elements can be replaced with some form of a 'missing tag'.  Missing section for FGDC outputs cannot be patched, such as a missing contact section.  Missing sections in ISO can be patched.
   {% endhint %}
 
 * <span class="md-element">Show Empty Tags</span> 1{**type**: Boolean; **default**: No}1  Applies to non-required elements of ISO and FGDC standards only.  If 'Yes', mdTranslator will place an empty tag when values are missing.  If 'No', mdTranslator will take no action.  
@@ -30,7 +30,7 @@
   
 ---
 
-The <span class="md-panel">Metadata Record</span> to be translated must be saved prior to translation.  In cases where "AutoSave" has been turned "OFF" the <span class="md-panel">Metadata Record</span> may not be save when you access the <span class="md-window">Translate</span> window.  In this case the <span class="md-window">Translate</span> window will display a <span class="btn btn-danger btn-xs"> <i class="fa fa-exclamation-circle"> </i> </span> button to perform a 'Save' without returning to the <span class="md-window">Edit Window</span>
+The <span class="md-panel">Metadata Record</span> to be translated must be saved prior to translation.  In cases where "AutoSave" has been turned "OFF" the <span class="md-panel">Metadata Record</span> may not have been saved when you access the <span class="md-window">Translate</span> window.  In this case the <span class="md-window">Translate</span> window will display a <span class="btn btn-danger btn-xs"> <i class="fa fa-exclamation-circle"> </i> </span> button to allow you to perform a 'Save' without returning to the <span class="md-window">Edit Window</span>
 
 ![Translate Window](/assets/reference/translate/translate-save.png)
 

@@ -13,12 +13,14 @@ When no <span class="md-panel">Associated Resources</span> have been defined for
 
 ![Associated Resource Edit Window](/assets/reference/edit-objects/metadata/associated/associated-editWindow.png)
 
+<strong class="btn btn-info btn-xs"> <i class="fa fa-check"> </i> Select a Record </strong> Click this button to see a list of <span class="md-panel">Metadata Records</span> available to import as an <span class="md-panel">Associated Resource</span>.   *See ["Select a Record"](selectRecord-panel.md)* for details.
+
 <strong class="btn btn-primary btn-xs"> <i class="fa fa-arrow-left"> </i> Back to Resource List</strong> Click to return to the list of defined <span class="md-panel">Associated Resources</span>. 
 
 ---
 
  * [<span class="md-panel" style="font-size: larger">Edit Window</span>](editWindow-panel.md)
 
- * [<span class="md-panel" style="font-size: larger">Select a Record</span>](editWindow-panel.md)
+ * [<span class="md-panel" style="font-size: larger">Select a Record</span>](selectRecord-panel.md)
 
 ---

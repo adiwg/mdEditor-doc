@@ -7,9 +7,7 @@ When no <span class="md-panel">Additional Documents</span> have been defined for
 
 ![Documents Section with no Additional Documents Defined](/assets/reference/edit-objects/metadata/documents/document-start.png)
 
-<strong class="btn btn-success btn-xs"> <i class="fa fa-plus"> </i> Add Additional Document</strong> and <strong class="btn btn-success btn-xs"> <i class="fa fa-plus"> </i> Add Document</strong>
-
-  To add an <span class="md-panel">Additional Document</span> click either button, they serve the same function.  After clicking one of the buttons you will be transferred to the <span class="md-panel">Additional Document</span> <span class="md-window">Edit Window</span> where you can complete data entry for the reference.  
+<strong class="btn btn-success btn-xs"> <i class="fa fa-plus"> </i> Add Additional Document</strong> and <strong class="btn btn-success btn-xs"> <i class="fa fa-plus"> </i> Add Document</strong>  To add an <span class="md-panel">Additional Document</span> click either button, they serve the same function.  After clicking one of the buttons you will be transferred to the <span class="md-panel">Additional Document</span> <span class="md-window">Edit Window</span> where you can complete data entry for the reference.  
 
 ![Documents Edit Window](/assets/reference/edit-objects/metadata/documents/document-editWindow.png)
 

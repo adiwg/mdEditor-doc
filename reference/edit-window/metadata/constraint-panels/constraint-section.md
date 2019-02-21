@@ -23,6 +23,10 @@ When no <span class="md-panel">Constraints</span> have been defined for the <spa
   
   * **Security constraints** define any handling restrictions imposed on the resource or metadata for national security or similar security concerns.
 
+  {% hint style='tip' %}
+  A <span class="md-panel">Constraint</span> can have only one <span class="md-element">Constraint Type</span>.  When the type is "use" complete <span class="md-panel">Use Limitations</span>, when "legal" complete <span class="md-panel">Legal</span>, and when "security" complete <span class="md-panel">Security</span>. 
+  {% endhint %}
+
 ---
 
  * [<span class="md-panel" style="font-size: larger">Use Limitations</span>](useLimitation-panel.md)

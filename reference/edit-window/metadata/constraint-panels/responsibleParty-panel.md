@@ -1,11 +1,16 @@
 ## Metadata Record -- Constraint Section
 ---
 
-### Responsible Party
+### Responsible Party Array
 
-![Associated Resource Edit Window](/assets/reference/edit-objects/metadata/associated/associated-editWindow.png)
+![Responsible Parties Array](/assets/reference/edit-objects/metadata/constraint/responsibleParty.png)
 
-* <span class="md-element">Association Type</span> <i class="fa fa-asterisk required" title="Required"></i> 1{**type**: codelist (ISO DS_AssociationTypeCode, ADIwg codes); **extensible**: YES; **multi-value**: NO; **default**: empty}1  Justification for the correlation of two resources. 
+* <span class="md-entity">Responsible Party</span> 1{**type**: object (<span class="md-panel">responsibleParty</span>); **default** empty}1 The persons and/or organizations responsible for assigning and/or defining the <span class="md-panel">Constraint</span>. 2{[See object details](#responsible-party-object)}2 
 
+---
+
+### Responsible Party Object 
+
+{% include "../../../include-objects/responsibleParty-obj.md" %}
   
 ---

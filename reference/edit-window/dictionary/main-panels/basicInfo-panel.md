@@ -13,7 +13,7 @@
 
 * <span class="md-entity">Responsible Party</span> 1{**type**: object (<span class="md-panel">responsibleParty</span>); **default** empty}1 The person or organization having primary responsibility for the intellectual content and structure of this dictionary. 2{[See object details](#responsible-party-object)}2 
 
-* <span class="md-element">Description</span> 1{**type**: markdown text; **default**: empty; **max length**: unlimited}1 A free text description of the contents of the data dictionary.  See [Markdown Control](../../controls/markdown-control.md)
+* <span class="md-element">Description</span> 1{**type**: markdown text; **default**: empty; **max length**: unlimited}1 A free text description of the contents of the data dictionary.  See *[Markdown Control](../../controls/markdown-control.md)*.
 
 * <span class="md-element">Dictionary Included?</span> 1{**type**: Boolean; **default**: FALSE}1 TRUE is the dictionary included with the resource materials.  FALSE if the dictionary is unavailable or available via another link or resource.
 
@@ -24,3 +24,5 @@
 ### Responsible Party Object 
 
 {% include "../../../include-objects/responsibleParty-obj.md" %}
+
+---

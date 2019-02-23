@@ -1,9 +1,9 @@
 # Metadata Record -- Lineage Section
 ---
 
-The <span class="md-section">Lineage</span> section of the <span class="md-window">Edit Window</span> is used to document the history of the resource.  In other words, the step-by-step actions taken from acquisition , validation, and transformation of source data; to the building of intermediary data products; to final assembly of the main resource.     
+The <span class="md-section">Lineage</span> section of the <span class="md-window">Edit Window</span> is used to document the history of the resource.  In other words, the step-by-step actions taken from acquisition of source data through transformation and validation of intermediary data products to final assembly of the main resource.     
 
-When no <span class="md-panel">Lineages</span> have been defined for the <span class="md-panel">Metadata Record</span> a large blue bar is displayed on the page declaring "No Lineage found."  
+When no <span class="md-panel">Lineage</span> has been defined for the <span class="md-panel">Metadata Record</span> a large blue bar is displayed on the page declaring "No Lineage found."  
 
 ![Lineage Section with no Lineage Defined](/assets/reference/edit-objects/metadata/lineage/lineage-start.png)
 
@@ -20,7 +20,5 @@ When no <span class="md-panel">Lineages</span> have been defined for the <span c
  * [<span class="md-panel" style="font-size: larger">Process Steps</span>](processStep-panel.md)
 
  * [<span class="md-panel" style="font-size: larger">Sources</span>](source-panel.md)
-
- * [<span class="md-panel" style="font-size: larger">Citations</span>](citation-panel.md)
 
 ---

@@ -1,7 +1,7 @@
 ## Metadata Record -- Constraint Section
 ---
 
-### Use Limitation
+### Use Limitation Array
 
 <span class="md-panel" style="font-size: larger">Use Limitation</span> 1{**type**: array (string)}1 An array of limitations or cautions regarding the fitness of this data or findings for various uses.  e.g. "Not to be used for ..."  Each limitation is a text string.
 

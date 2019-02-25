@@ -7,4 +7,6 @@
 
 ![Entity Reference Citation Array](/assets/reference/edit-objects/dictionary/entities/entityReference.png){caption}
 
-<span class="btn btn-success btn-xs"> <i class="fa fa-pencil"> </i> More</span> Click to open the <span class="md-panel">Citation</span> object in the <span class="md-section">Citation</span> <span class="md-window">Edit Window</span>.  See [Citation Section](../../citation/citation-section.md) for editing instructions.
+<span class="btn btn-success btn-xs"> <i class="fa fa-pencil"> </i> More...</span>  Click to access all <span class="md-panel">Citation</span> object elements in the <span class="md-section">Citation</span> <span class="md-window">Edit Window</span>.  See [Citation Section](../../citation/citation-section.md) for editing instructions.
+
+---

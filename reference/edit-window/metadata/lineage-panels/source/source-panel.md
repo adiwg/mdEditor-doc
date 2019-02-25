@@ -1,7 +1,15 @@
 ## Metadata Record -- Lineage Section
 ---
 
-### Source
+### Source Array
+
+![Source Array](/assets/reference/edit-objects/metadata/lineage/source-array.png) 
+
+ * <span class="md-element">Description</span> 1{**type**: string; **max length**: none; **default**: empty}1  A brief description of the source data.  After entering a <span class="md-element">Description</span>, click <strong class="btn btn-success btn-xs"> <i class="fa fa-pencil"> </i> More...</strong> to access the remaining <span class="md-panel">Source</span> elements.  See [Sources](source-panel.md) for documentation on the specific <span class="md-panel">Source</span> elements.
+ 
+---
+ 
+### Source Object
 
 ![Associated Resource Edit Window](/assets/reference/edit-objects/metadata/associated/associated-editWindow.png)
 
@@ -13,10 +21,10 @@
 
 * <span class="md-panel" style="font-size: larger">Associated Resource Citation</span> 1{**type**: object (<span class="md-panel">Citation</span>); **default** empty}1 The <span class="md-panel">Associated Resource Citation</span> object is a <span class="md-panel">Citation</span> which references the resource being linked with the main resource.
   
-  See the [Citation Reference](../../citation/citation-section.md) for documentation on specific <span class="md-panel">Additional Document</span> panels.
+  See the [Citation Reference](../../../../citation/citation-section.md) for documentation on specific <span class="md-panel">Additional Document</span> panels.
 
 ---
 
-{% include "../../../include-objects/resourceType-obj.md" %}
+{% include "../../../../include-objects/resourceType-obj.md" %}
 
 ---

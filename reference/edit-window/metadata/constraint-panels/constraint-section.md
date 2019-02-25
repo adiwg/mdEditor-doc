@@ -27,16 +27,14 @@ When no <span class="md-panel">Constraints</span> have been defined for the <spa
   A <span class="md-panel">Constraint</span> can have only one <span class="md-element">Constraint Type</span>.  When the type is "use" complete <span class="md-panel">Use Limitations</span>, when "legal" complete <span class="md-panel">Legal</span>, and when "security" complete <span class="md-panel">Security</span>. 
   {% endhint %}
 
----
+* [<span class="md-panel" style="font-size: larger">Use Limitations</span>](useLimitation-panel.md) 1{**type**: array (obj: <span class="md-panel">Use Limitation</span>)}1  An array of limitations or cautions regarding the fitness of this data or findings for various uses.  e.g. "Not to be used for ..."  Each limitation is a text string.
 
- * [<span class="md-panel" style="font-size: larger">Use Limitations</span>](useLimitation-panel.md)
+* [<span class="md-panel" style="font-size: larger">Legal</span>](legal-panel.md) 1{**type**: object (<span class="md-panel">Legal</span>); **default** empty}1  Describes legally binding constraints on the use and distribution of the main resource and its metadata.
 
- * [<span class="md-panel" style="font-size: larger">Legal</span>](legal-panel.md)
+* [<span class="md-panel" style="font-size: larger">Security</span>](security-panel.md) 1{**type**: object (<span class="md-panel">Security</span>); **default** empty}1  Handling instructions imposed on the resource or metadata for national security or similar security concerns. 
 
- * [<span class="md-panel" style="font-size: larger">Security</span>](security-panel.md)
+* [<span class="md-panel" style="font-size: larger">Responsible Parties</span>](responsibleParty-panel.md) 1{**type**: array (<span class="md-panel">obj: Responsible Party</span>)}1  An array of persons and/or organizations responsible for assigning and/or defining the <span class="md-panel">Constraint</span>.
 
- * [<span class="md-panel" style="font-size: larger">Responsible Parties</span>](responsibleParty-panel.md)
-
- * [<span class="md-panel" style="font-size: larger">Graphic or Logo</span>](graphic-panel.md)
+* [<span class="md-panel" style="font-size: larger">Graphic or Logo</span>](graphic-panel.md) 1{**type**: array (<span class="md-panel">obj: Graphic</span>)}1  An array of file descriptions for images and logos associated with the constraint.
 
 ---

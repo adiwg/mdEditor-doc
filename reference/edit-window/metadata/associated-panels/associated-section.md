@@ -17,7 +17,21 @@ When no <span class="md-panel">Associated Resources</span> have been defined for
 
 ---
 
- * [<span class="md-panel" style="font-size: larger">Edit Window</span>](editWindow-panel.md)
+* <span class="md-element">Association Type</span> <i class="fa fa-asterisk required" title="Required"></i> 1{**type**: codelist (ISO DS_AssociationTypeCode, ADIwg codes); **extensible**: YES; **multi-value**: NO; **default**: empty}1  Justification for the correlation of two resources. 
+
+* <span class="md-element">Initiative Type</span> 1{**type**: codelist (ISO DS_InitiativeTypeCode); **extensible**: YES; **multi-value**: NO; **default**: empty}1  The type of initiative under which the resource was produced - the activity that resulted in the resource. 
+
+* <span class="md-panel" style="font-size: larger">Resource Types</span> <i class="fa fa-asterisk required" title="Required"> </i> 1{**type**: array (obj: <span class="md-panel">Resource Type</span>)}1 Identifies the general class or kind of <span class="md-panel">Additional Document</span> being documented.  2{[See object details](#resource-type-object)}2 
+
+* <span class="md-panel" style="font-size: larger">Remaining Panel Elements</span> 1{**type**: object (<span class="md-panel">Citation</span>); **default** empty}1 The remaining panel elements comprise the <span class="md-panel">Associated Resource Citation</span> object is a <span class="md-panel">Citation</span> which references the resource being linked with the main resource.
+  
+  See the [Citation Reference](../../citation/citation-section.md) for documentation on specific <span class="md-panel">Associated Resource Citation</span> panels.
+
+---
+
+{% include "../../../include-objects/resourceType-obj.md" %}
+
+---
 
  * [<span class="md-panel" style="font-size: larger">Select a Resource</span>](selectResource-panel.md)
 

@@ -50,8 +50,6 @@ Step 3: Submit for Publishing
 
 Step 4: Review Records on ScienceBase
 
-Step 5: Review Entries in the LCC Science Catalog
-
 ---
 
 #### Step 1: Login to ScienceBase
@@ -107,15 +105,12 @@ Before you move records in the publishing outline please select your scenario be
 
 1. Once publishing is done, refresh ScienceBase to ensure everything is showing up how you expected it would show up.
 
+   * SB items should be updated with the new metadata information.
+   
    * SB items should have an mdJSON and XML file attached.
 
    * SB items should be in the location reflected in the mdEditor publishing outline.
 
 1. You can re-publish records as needed (e.g., after updating or correcting metadata).
-
----
-
-#### Step 5: Review Entries in the LCC Science Catalog
-The Science Catalog updates overnight so you should review newly-published records the day after you publish to ScienceBase. This will be one of your best quality control checks.
 
 ---

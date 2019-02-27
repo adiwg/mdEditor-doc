@@ -1,16 +1,23 @@
-## Metadata Record -- Process Step
+## Metadata Record -- Source
 ---
 
-### Processors Array
+### Metadata Citation Array
 
-<span class="md-panel" style="font-size: larger">Processors</span> 1{**type**: array (obj: <span class="md-panel">Responsible Party</span>)}1  An array of <span class="md-panel">Responsible Parties</span> indicating persons and/or organizations responsible for this <span class="md-panel">Process Step</span>.
+<span class="md-panel" style="font-size: larger">Metadata Citation</span> 1{**type**: array (obj: <span class="md-panel">Citation</span>)}1  An array of <span class="md-panel">Citations</span> providing references to the <span class="md-panel">Source</span>.
 
-![Step Processors Array](/assets/reference/edit-objects/metadata/lineage/stepProcessor-array.png)
+![Metadata Citation Array](/assets/reference/edit-objects/metadata/lineage/sourceMetadata-array.png)
 
 ---
 
-### Responsible Party Object 
+### Citation Object 
 
-{% include "../../../../include-objects/responsibleParty-obj.md" %}
+![Metadata Citation Panel](/assets/reference/edit-objects/metadata/lineage/sourceMetadata-panel.png)
+
+
+{% hint style='info' %}
+  Note that the <span class="md-panel">Metadata Citation</span> is only a partial citation.  The object does not include all <span class="md-panel">Citation</span> elements.  
+{% endhint %}
+
+See [Citation Section](../../../citation/citation-section.md) for editing instructions.
   
 ---

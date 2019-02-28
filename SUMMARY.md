@@ -30,6 +30,8 @@
       * [Keyword Section](reference/edit-window/metadata/keyword-panels/keyword-section.md)
       * [Extent Section](reference/edit-window/metadata/extent-panels/extent-section.md)
       * [Spatial Section](reference/edit-window/metadata/spatial-panels/spatial-section.md)
+        * [Spatial Reference System](reference/edit-window/metadata/spatial-panels/referenceSystem-panel.md)
+        * [Spatial Resolution](reference/edit-window/metadata/spatial-panels/spatialResolution-panel.md)
       * [Lineage Section](reference/edit-window/metadata/lineage-panels/lineage-section.md)
         * [Process Steps](reference/edit-window/metadata/lineage-panels/processStep/processStep-panel.md)
           * [Step Sources](reference/edit-window/metadata/lineage-panels/processStep/stepSource-panel.md)

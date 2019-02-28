@@ -30,6 +30,6 @@
 
 * [<span class="md-panel" style="font-size: larger">Spatial Reference System</span>](referenceSystem-panel.md) 1{**type**: object (<span class="md-panel">Spatial Reference System</span>); **default** empty}1  The spatial reference system used by the source. 
 
-* [<span class="md-panel" style="font-size: larger">Spatial Resolution</span>](spatialResolution-panel.md) 1{**type**: array (<span class="md-panel">obj: Citation</span>)}1  The spatial resolution of the source expressed as a scale factor, level of detail, or unit of measure. 
+* [<span class="md-panel" style="font-size: larger">Spatial Resolution</span>](spatialResolution-panel.md) 1{**type**: object (<span class="md-panel">Spatial Resolution</span>); **default** empty}1  Information about the scale of the geographic extent of the source. 
 
 ---

@@ -1,16 +1,9 @@
-## Metadata Record -- Process Step
+## Metadata Record -- Source
 ---
 
-### Processors Array
+### Spatial Reference System
 
-<span class="md-panel" style="font-size: larger">Processors</span> 1{**type**: array (obj: <span class="md-panel">Responsible Party</span>)}1  An array of <span class="md-panel">Responsible Parties</span> indicating persons and/or organizations responsible for this <span class="md-panel">Process Step</span>.
+<span class="md-panel" style="font-size: larger">Spatial Reference System</span> 1{**type**: object (<span class="md-panel">Spatial Reference System</span>); **default** empty}1   The spatial reference system used by the source data.
 
-![Step Processors Array](/assets/reference/edit-objects/metadata/lineage/stepProcessor-array.png)
-
----
-
-### Responsible Party Object 
-
-{% include "../../../../include-objects/responsibleParty-obj.md" %}
+{% include "../../../../include-objects/referenceSystem-obj.md" %}
   
----

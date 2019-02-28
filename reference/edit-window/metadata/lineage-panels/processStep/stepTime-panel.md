@@ -1,4 +1,4 @@
-## Metadata Record -- Lineage Section
+## Metadata Record -- Process Step
 ---
 
 ### Step Time Period

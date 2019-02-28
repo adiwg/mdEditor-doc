@@ -1,4 +1,4 @@
-![Spatial Reference System Edit Window](/assets/reference/edit-objects/metadata/spatial/spatial-editWindow.png)
+![Spatial Reference System Edit Window](/assets/reference/edit-objects/metadata/spatial/referenceSystem-panel.png)
 
 * <span class="md-element">Reference System Type</span> <i class="fa fa-asterisk required" title="Required"></i> 1{**type**: codelist (ISO MD_ReferenceSystemTypeCode); **extensible**: YES; **multi-value**: NO; **default**: empty}1   Type of reference system used.  
 

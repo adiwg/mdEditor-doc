@@ -1,16 +1,11 @@
-## Metadata Record -- Process Step
+## Metadata Record -- Source
 ---
 
-### Processors Array
+### Spatial Resolution
 
-<span class="md-panel" style="font-size: larger">Processors</span> 1{**type**: array (obj: <span class="md-panel">Responsible Party</span>)}1  An array of <span class="md-panel">Responsible Parties</span> indicating persons and/or organizations responsible for this <span class="md-panel">Process Step</span>.
+<span class="md-panel" style="font-size: larger">Spatial Resolution</span> 1{**type**: object (<span class="md-panel"> Spatial Resolution</span>); **default** empty}1  The geographic scale of the resource.
 
-![Step Processors Array](/assets/reference/edit-objects/metadata/lineage/stepProcessor-array.png)
 
----
-
-### Responsible Party Object 
-
-{% include "../../../../include-objects/responsibleParty-obj.md" %}
+{% include "../../../../include-objects/resolution-obj.md" %}
   
 ---

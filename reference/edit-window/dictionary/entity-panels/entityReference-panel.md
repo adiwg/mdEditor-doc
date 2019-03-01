@@ -3,7 +3,7 @@
 
 ### Entity Reference Array
 
-<span class="md-panel" style="font-size: larger">Entity Reference</span> 1{**type**: array (obj: <span class="md-panel"> Citation</span>)}1  The <span class="md-panel">Domain Reference</span> array lists <span class="md-panel">Citation</span> objects which reference additional information about the <span class="md-panel">Entity</span>.  New <span class="md-panel">Citation</span> references can be added and existing <span class="md-panel">Citations</span> edited from the panel. 
+<span class="md-panel" style="font-size: larger">Entity Reference</span> 1{**type**: array (obj: <span class="md-panel"> Citation</span>)}1  The <span class="md-panel">Entity Reference</span> array lists <span class="md-panel">Citation</span> objects which reference additional information about the <span class="md-panel">Entity</span>.  New <span class="md-panel">Citation</span> references can be added and existing <span class="md-panel">Citations</span> edited from the panel. 
 
 ![Entity Reference Citation Array](/assets/reference/edit-objects/dictionary/entities/entityReference.png){caption}
 

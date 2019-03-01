@@ -17,6 +17,8 @@ In mdEditor, <span class="md-panel">Dictionaries</span> are edited and saved sep
 
 ---
 
+See specific sections for details:
+
  * [<span class="md-panel" style="font-size: larger">Main Section</span>](main-panels/main-section.md)
 
  * [<span class="md-panel" style="font-size: larger">Citation Section</span>](citation-panels/citation-section.md)

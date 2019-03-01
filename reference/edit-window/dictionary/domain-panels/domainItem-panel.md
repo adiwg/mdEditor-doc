@@ -3,15 +3,17 @@
 
 ### Domain Item Array & Short Form
 
-The <span class="md-panel">Domain Item</span> array displays a list of defined <span class="md-panel">Domain Item</span> objects and provides the <strong class="btn btn-info btn-xs"> <i class="fa fa-plus"> </i> Add</strong> button for creating new ones.  The array allows editing of the three required <span class="md-panel">Domain Item</span> elements.  Click the <strong class="btn btn-success btn-xs"> <i class="fa fa-pencil"> </i> More ...</strong> button to access all the <span class="md-panel">Domain Item</span> object elements.
+<span class="md-panel" style="font-size: larger">Domain Item</span> 1{**type**: array (obj: <span class="md-panel"> Domain Item</span>)}1   An array of defined <span class="md-panel">Domain Item</span> objects. 
 
 ![Domain Item Array](/assets/reference/edit-objects/dictionary/domains/domainItem-array.png){caption}
 
-* <span class="md-element">Name</span> [See Domain Item Object](#domain-item-object).
+The array allows editing of the three required <span class="md-panel">Domain Item</span> elements.  Click the <strong class="btn btn-success btn-xs"> <i class="fa fa-pencil"> </i> More ...</strong> button to access all the <span class="md-panel">Domain Item</span> object elements.
 
-* <span class="md-element">Value</span> [See Domain Item Object](#domain-item-object).  
+* <span class="md-element">Name</span> <i class="fa fa-asterisk required" title="Required"> </i>  2{[See object details](#domain-item-object)}2.
 
-* <span class="md-element">Definition</span> [See Domain Item Object](#domain-item-object).  
+* <span class="md-element">Value</span> <i class="fa fa-asterisk required" title="Required"> </i> 2{[See object details](#domain-item-object)}2.
+
+* <span class="md-element">Definition</span> <i class="fa fa-asterisk required" title="Required"> </i> 2{[See object details](#domain-item-object)}2.
 
 ---
 

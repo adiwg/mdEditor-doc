@@ -3,7 +3,7 @@
 
 ### Identifier Array
 
-<span class="md-panel" style="font-size: larger">Metadata Identifier</span> 1{**type**: view}1 <span class="md-panel">Metadata Identifier</span> is a non-editable view of the metadata's identifier information.  Not all of the <span class="md-panel">Identifier's</span> information is displayed in the view, only a few select fields that provide a reasonable overview of the identifier. 
+<span class="md-panel" style="font-size: larger">Metadata Identifier</span> 1{**type**: array (obj: <span class="md-panel">Identifier</span>)}1  An array of identifiers for the cited resource.  Not all of the <span class="md-panel">Identifier's</span> information is displayed in the array view, only a few select fields that provide a reasonable overview of the identifier. 
 
 ![Citation Identifier Array](/assets/reference/edit-objects/citation/identifier-array.png)
 

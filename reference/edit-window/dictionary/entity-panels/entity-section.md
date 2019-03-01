@@ -7,34 +7,30 @@ When no <span class="md-panel">Entities</span> have yet been defined for a <span
 
 ![Entity Edit Window with no Entities Defined](/assets/reference/edit-objects/dictionary/entities/dictionary-entity1.png){caption}
 
-The <span class="md-panel">Entity</span> <span class="md-window">Edit Window</span> will be presented.
-
-![Entity Edit Window](/assets/reference/edit-objects/dictionary/entities/dictionary-entity2.png){caption}
-
-After one or more <span class="md-panel">Entities</span> are defined for the <span class="md-panel">Dictionary</span>, navigating to the <span class="md-section">Entities</span> section will display an array panel of the previously entered <span class="md-panel">Entities</span>.
+After one or more <span class="md-panel">Entities</span> are defined for the <span class="md-panel">Dictionary</span>, navigating to the <span class="md-section">Entities</span> section will display an array panel of the previously entered <span class="md-panel">Entities</span>.  
 
 ![Domain Array Panel](/assets/reference/edit-objects/dictionary/entities/dictionary-entity3.png){caption}
 
-From this array panel new <span class="md-panel">Entities</span> can be defined and existing <span class="md-panel">Entities</span> can be edited or deleted.  
+Click <strong class="btn btn-success btn-xs"> <i class="fa fa-pencil"> </i> More...</strong> to access all <span class="md-panel">Entity</span> elements. 
+
+![Domain Array Panel](/assets/reference/edit-objects/dictionary/domains/domain-editWindow.png){caption}
 
 {% hint style='tip' %}
   <span class="md-panel">Entities</span> can also be entered via CSV files (Comma Separated Value) files.  See the [CSV Import](csvImport/csvImport-process.md) section for details. 
 {% endhint %}
  
----
+ * [<span class="md-panel" style="font-size: larger">Entity Information</span>](entityInfo-panel.md) <i class="fa fa-asterisk required" title="Required"> </i> 1{**type**: collection}1  A collection of elements that identify and describe the entity.
 
- * [<span class="md-panel" style="font-size: larger">Entity Information</span>](entityInfo-panel.md)
+ * [<span class="md-panel" style="font-size: larger"> Attributes</span>](attribute-panel.md)  1{**type**: array (obj: <span class="md-panel">Attribute</span>)}1  The array panel displays a list of the defined <span class="md-panel">Entity</span> <span class="md-panel">Attributes</span>.
 
- * [<span class="md-panel" style="font-size: larger"> Attributes</span>](attribute-panel.md)
+ * [<span class="md-panel" style="font-size: larger">File Structure</span>](structure-panel.md)  1{**type**: collection}1  The <span class="md-panel">File Structure</span> elements provide file descriptions for <span class="md-panel">Entities</span> which are represented as spreadsheets or text files.
 
- * [<span class="md-panel" style="font-size: larger">File Structure</span>](structure-panel.md)
+ * [<span class="md-panel" style="font-size: larger"> Keys</span>](key-panel.md)  1{**type**: collection}1  The <span class="md-panel">Entity Keys</span> panel contains elements that specify keys (primary and foreign keys) used to enforce integrity of the entity's data. 
 
- * [<span class="md-panel" style="font-size: larger"> Keys</span>](key-panel.md)
+ * [<span class="md-panel" style="font-size: larger"> Indices</span>](index-panel.md)  1{**type**: array (obj: <span class="md-panel"> Entity Index</span>)}1  An array of <span class="md-panel">Entity Index</span> objects used to define alternate keys (keys in addition to the <span class="md-element">Primary Key</span>) for the <span class="md-panel">Entity</span>.  
 
- * [<span class="md-panel" style="font-size: larger"> Indices</span>](index-panel.md)
+ * [<span class="md-panel" style="font-size: larger">Entity Reference</span>](entityReference-panel.md)  1{**type**: array (obj: <span class="md-panel"> Citation</span>)}1  The <span class="md-panel">Entity Reference</span> array lists <span class="md-panel">Citations</span> which reference additional information about the <span class="md-panel">Entity</span>.
 
- * [<span class="md-panel" style="font-size: larger">Entity Reference</span>](entityReference-panel.md)
-
- * [<span class="md-panel" style="font-size: larger">CSV Import</span>](csvImport/csvImport-process.md)
+ * [<span class="md-panel" style="font-size: larger">CSV Import</span>](csvImport/csvImport-process.md)  <span class="md-panel">Entities</span> can also be imported as Comma Separated Value (CSV) files.  Read this section to discover how. 
 
 ---

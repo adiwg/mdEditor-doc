@@ -19,14 +19,14 @@ In mdEditor, <span class="md-panel">Dictionaries</span> are edited and saved sep
 
 See specific sections for details:
 
- * [<span class="md-panel" style="font-size: larger">Main Section</span>](main-panels/main-section.md)
+ * [<span class="md-section" style="font-size: larger">Main Section</span>](main-panels/main-section.md)  Describes general information about the <span class="md-panel">Dictionary Record</span>. 
 
- * [<span class="md-panel" style="font-size: larger">Citation Section</span>](citation-panels/citation-section.md)
+ * [<span class="md-section" style="font-size: larger">Citation Section</span>](citation-panels/citation-section.md)  The <span class="md-panel">Citation</span> for the <span class="md-panel">Dictionary Record</span>. 
 
- * [<span class="md-panel" style="font-size: larger">Domain Section</span>](domain-panels/domain-section.md)
+ * [<span class="md-section" style="font-size: larger">Domain Section</span>](domain-panels/domain-section.md)  Describes <span class="md-panel">Domains</span> which define all the values an <span class="md-panel">Attribute</span> may contain.
 
- * [<span class="md-panel" style="font-size: larger">Entity Section</span>](entity-panels/entity-section.md)
+ * [<span class="md-section" style="font-size: larger">Entity Section</span>](entity-panels/entity-section.md)  Define objects for the data model described by this <span class="md-panel">Dictionary Record</span>. 
  
- * [<span class="md-panel" style="font-size: larger">Attribute Section</span>](attribute-panels/attribute-section.md)
+ * [<span class="md-section" style="font-size: larger">Attribute Section</span>](attribute-panels/attribute-section.md)  Define properties of <span class="md-panel">Entities</span> (objects).
 
 ---

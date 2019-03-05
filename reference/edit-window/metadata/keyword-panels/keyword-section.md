@@ -1,3 +1,4 @@
 # Metadata Record -- Keyword Section
 ---
-Under Development
+
+THE keyword SECTION DOCUMENTATION WILL BE COMPLETED AFTER ADDITIONAL mdEditor FEATURES ARE COMPLETED.

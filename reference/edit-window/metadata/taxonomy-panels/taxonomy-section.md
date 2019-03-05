@@ -1,3 +1,4 @@
 # Metadata Record -- Taxonomy Section
 ---
-Under Development
+
+THE taxonomy SECTION DOCUMENTATION WILL BE COMPLETED AFTER ADDITIONAL mdEditor FEATURES ARE COMPLETED.

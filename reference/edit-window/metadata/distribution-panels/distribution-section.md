@@ -1,6 +1,8 @@
 # Metadata Record -- Distribution Section
 ---
 
+WAITING FOR mdEditor PATCHES
+
 The <span class="md-section">Distribution</span> section of the <span class="md-window">Edit Window</span> is used to provide information about how to obtain a copy of the main resource and/or other important resources described by the <span class="md-panel">Metadata Record</span>. 
 
 When no <span class="md-panel">Distributions</span> have been defined for the <span class="md-panel">Metadata Record</span> a large blue bar is displayed on the page declaring "No distribution sections found."  

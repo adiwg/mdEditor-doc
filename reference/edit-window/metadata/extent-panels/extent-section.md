@@ -1,3 +1,4 @@
 # Metadata Record -- Extent Section
 ---
-Under Development
+
+THE extent SECTION DOCUMENTATION WILL BE COMPLETED AFTER ADDITIONAL mdEditor FEATURES ARE COMPLETED.

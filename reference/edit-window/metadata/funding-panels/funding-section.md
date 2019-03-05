@@ -7,9 +7,4 @@ The <span class="md-section">Funding</span> section of the <span class="md-windo
 
 ![Funding Section with no Allocations Defined](/assets/reference/edit-objects/metadata/funding/funding-start.png)
 
-
----
-
- * [<span class="md-panel" style="font-size: larger">Basic Information</span>](basicInfo-panel.md)
-
 ---

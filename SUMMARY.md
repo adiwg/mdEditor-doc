@@ -56,7 +56,7 @@
         * [Online Graphic Resource Panel](reference/edit-window/metadata/constraint-panels/onlineGraphic-panel.md)
       * [Associated Resource Section](reference/edit-window/metadata/associated-panels/associated-section.md)
         * [Select a Resource](reference/edit-window/metadata/associated-panels/selectResource-panel.md)
-      * [Additional Documents Section](reference/edit-window/metadata/documents-panel/document-section.md)
+      * [Additional Documents Section](reference/edit-window/metadata/documents-panels/document-section.md)
       * [Funding Section](reference/edit-window/metadata/funding-panels/funding-section.md)
       * [Dictionaries Section](reference/edit-window/metadata/dictionary-panels/dictionary-section.md)
     * [Contact Records](reference/edit-window/contact/contact-record.md)

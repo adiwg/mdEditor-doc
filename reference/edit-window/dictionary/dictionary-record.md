@@ -28,5 +28,3 @@ See specific sections for details:
  * [<span class="md-section" style="font-size: larger">Entity Section</span>](entity-panels/entity-section.md)  Define objects for the data model described by this <span class="md-panel">Dictionary Record</span>. 
  
  * [<span class="md-section" style="font-size: larger">Attribute Section</span>](attribute-panels/attribute-section.md)  Define properties of <span class="md-panel">Entities</span> (objects).
-
----

@@ -20,5 +20,3 @@
 * <span class="md-element">Allow Null?</span> <i class="fa fa-asterisk required" title="Required"> </i> 1{**type**: Boolean; **default**: TRUE}1 TRUE if this attribute can be left empty.  FALSE if a value for the attribute is required. 
 
 See the [<span class="md-panel">Attributes</span> <span class="md-window">Edit Window</span>](../attribute-panels/attribute-section.md) for full documentation of the <span class="md-panel">Attribute</span> object.
-
----

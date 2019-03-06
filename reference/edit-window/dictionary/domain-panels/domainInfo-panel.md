@@ -18,5 +18,3 @@
 * <span class="md-element">Common Name</span> 1{**type**: string; **max length**: none; **default**: empty}1 A common or conversational name for the <span class="md-panel">Domain</span>. 
 
 * <span class="md-element">Description</span> <i class="fa fa-asterisk required" title="Required"> </i> 1{**type**: string; **max length**: none; **default**: empty}1  A brief description of the <span class="md-panel">Domain</span> including identification of any established sources used in creating the list of domain items.
-
----

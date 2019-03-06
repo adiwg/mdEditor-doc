@@ -19,5 +19,3 @@ mdEditor works hard to conceal the complexity of computer software and metadata 
 The "mdEditor User Manual" is intended to be a companion to scientists, researchers, and their assistants as they develop metadata with the assistance of mdEditor. This manual will discuss HOW to use mdEditor. Topics generally cover things such as workflow and how to perform certain tasks within mdEditor.
 
 mdEditor is just one tool in the larger ADIwg Metadata Toolkit. Information on local implementations, customization, and extensions will not be covered in this manual. For information on other tools in the ADIwg Metadata Toolkit please refer to [mdBook](https://legacy.gitbook.com/book/adiwg/mdbook/details).
-
----

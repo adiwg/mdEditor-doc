@@ -11,4 +11,3 @@ Once the tutorial is behind you, the "Reference" section of this documentation i
 {% endhint %}
 
 Take the [mdEditor Tutorial](../tutorial/welcome-to-tutorial.md) now!
-

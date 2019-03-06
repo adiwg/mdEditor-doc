@@ -22,5 +22,3 @@ Steps for importing an <span class="md-panel">Entity</span> from a CSV file:
 #### 3. [Prepare Entity for Import](csvImport-prepEntity.md)
 
 #### 4. [Import Entity](csvImport-import.md)
-
----

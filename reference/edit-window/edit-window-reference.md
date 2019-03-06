@@ -16,5 +16,3 @@ See specific edit window documentation for details about each record type:
 
 * [<span class="md-window" style="font-size: larger">Dictionary Records</span>](dictionary/dictionary-record.md)  Create, enter, and edit <span class="md-panel">Dictionary Records</span>.  
 
----
-

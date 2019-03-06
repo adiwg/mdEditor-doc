@@ -10,5 +10,3 @@ The <span class="btn btn-default btn-sm"> <i class="fa fa-retweet"> </i> Transla
 {% endhint %}
 
 ![Edit Window](/assets/reference/translate/translate-record.png)
-  
----

@@ -10,6 +10,4 @@ The <span class="btn btn-default btn-sm"> <i class="fa fa-cog"> </i> Settings</s
 {% hint style='tip' %}
   Settings can be exported from the <span class="md-window">Export</span>  window.  In this way you can maintain one or more sets of settings and defaults to accommodate various metadata editing projects.
 {% endhint %} 
-
----
   

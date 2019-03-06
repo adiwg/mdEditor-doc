@@ -23,5 +23,3 @@ When the sample CSV entity file illustrated above ("STATE") is dropped onto the 
 {% hint style='info' %}
   It is important to note that the entity including its domains and attributes are not yet created at this juncture.  They are only STAGED for import. Additional information must be added and existing information reviewed prior to actual import. 
 {% endhint %}
-
----

@@ -26,5 +26,3 @@ The <span class="md-panel">Additional Document</span> object is basically a <spa
 ---
 
 {% include "../../../include-objects/resourceType-obj.md" %}
-
----

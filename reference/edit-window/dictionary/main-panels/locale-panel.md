@@ -10,5 +10,3 @@
 ---
 
 {% include "../../../include-objects/locale-obj.md" %}
-
----

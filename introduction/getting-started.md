@@ -9,4 +9,3 @@ It seems that each person faced with creating metadata records is burdened with 
 Welcome to mdEditor! We have tried to provide you with a metadata editor that solves ALL these dilemmas and more. After several years in development, mdEditor is now available to government and university researchers and to anyone world-wide, thanks to early support from the U.S. Geological Survey and U.S. Fish and Wildlife Service.
 
 Because researchers' metadata requirements are so varied, a workflow for one situation may not be best suited to all. For that reason we advise reading through the 'Getting Started' section completely before beginning your first metadata project with mdEditor. This will enhance your understanding of the organization and behavior of mdEditor as you sort through which mdEditor features you need and which steps can be bypassed. So, shall we begin?
-

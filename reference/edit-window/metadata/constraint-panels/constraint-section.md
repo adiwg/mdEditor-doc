@@ -36,5 +36,3 @@ When no <span class="md-panel">Constraints</span> have been defined for the <spa
 * [<span class="md-panel" style="font-size: larger">Responsible Parties</span>](responsibleParty-panel.md) 1{**type**: array (<span class="md-panel">obj: Responsible Party</span>)}1  An array of persons and/or organizations responsible for assigning and/or defining the <span class="md-panel">Constraint</span>.
 
 * [<span class="md-panel" style="font-size: larger">Graphic or Logo</span>](graphic-panel.md) 1{**type**: array (<span class="md-panel">obj: Graphic</span>)}1  An array of file descriptions for images and logos associated with the constraint.
-
----

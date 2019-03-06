@@ -12,5 +12,3 @@
 ### Online Resource Object
 
 {% include "../../include-objects/onlineResource-obj.md" %}
-
----

@@ -12,5 +12,3 @@
 ### Time Period Object 
 
 {% include "../../../include-objects/timePeriod-obj.md" %}
-
----

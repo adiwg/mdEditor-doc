@@ -8,5 +8,3 @@
 ![Attribute Reference Panel](/assets/reference/edit-objects/dictionary/attribute/reference.png){caption}
 
 See the [Citation Reference](../../citation/citation-section.md) for documentation on specific <span class="md-panel">Attribute Reference</span> panels.
-
----

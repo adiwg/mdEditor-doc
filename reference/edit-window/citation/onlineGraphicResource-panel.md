@@ -19,5 +19,3 @@ Along with the file <span class="md-element">Name</span> and <span class="md-ele
 ---
 
 {% include "../../include-objects/onlineGraphicResource-obj.md" %}
-
----

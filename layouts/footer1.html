@@ -1,0 +1,23 @@
+<div class="page-wrapper">
+    <div class="page-inner">
+        <section class="footer-section">
+            <div class="footer-author">
+                ADIwg
+            </div>
+            <div class="footer-normal">
+                Alaska Data Integration working group - Metadata Toolkit
+                <div class="footer-right">
+                    Report any issues with this page to
+                    <a href="mailto:feedback@adiwg.org?subject=mdEditor%20Documentation%20Issue&body=Please%20include%20page%20name">
+                        feedback@adiwg.org</a><br>
+                    Page modified <span id="compileDate"></span>
+                </div>
+            </div>
+        </section>
+    </div>
+</div>
+
+<script>
+    var dt = new Date();
+    document.getElementById("compileDate").innerHTML = dt.toLocaleDateString();
+</script>

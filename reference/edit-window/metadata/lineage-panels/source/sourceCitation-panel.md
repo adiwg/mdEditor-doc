@@ -12,5 +12,3 @@
 ![Source Citation Panel](/assets/reference/edit-objects/metadata/lineage/sourceCitation-panel.png)
 
 See [Citation Section](../../../citation/citation-section.md) for editing instructions.
-  
----

@@ -19,5 +19,3 @@
 {% endhint %}
 
 See [Citation Section](../../../citation/citation-section.md) for editing instructions.
-  
----

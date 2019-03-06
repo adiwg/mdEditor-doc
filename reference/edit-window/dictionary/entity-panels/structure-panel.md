@@ -20,5 +20,3 @@
   {% hint style='tip' %}
   You can also enter the word "single" or "double".
   {% endhint %}
-  
----

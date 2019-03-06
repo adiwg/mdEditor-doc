@@ -23,5 +23,3 @@ Clicking on any row in the selection list will immediately load that <span class
 {% include "../../../include-objects/search-obj.md" %}
 
 {% include "../../../include-objects/view-obj.md" %}
-
----

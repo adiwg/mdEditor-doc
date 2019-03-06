@@ -32,5 +32,3 @@ On the above import window several items need to be completed and/or at consider
    * Place a check in the <span class="md-element">Min/Max</span> checkbox if the <span class="md-panel">Attribute</span>'s value is to be restricted by these bounds.  The minimum and maximum values shown will be transferred to <span class="md-element">Minimum Value</span> and <span class="md-element">Maximum Value</span> elements of <span class="md-panel">Attribute</span> *[See the Attribute Information Panel for more detail](../../attribute-panels/attributeInfo-panel.md)*. 
    
 ![Entity Ready for Import](/assets/reference/edit-objects/dictionary/entities/csvImport3.png){caption}
-
----

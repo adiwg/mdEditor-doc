@@ -24,5 +24,3 @@ When no <span class="md-panel">Lineage</span> has been defined for the <span cla
 * [<span class="md-panel" style="font-size: larger">Citations</span>](citation-panel.md) 1{**type**: array (obj: <span class="md-panel"> Citation </span>)}1  An array of citations that describe the lineage process. 
 
 * <span class="md-element">Scope</span> 1{**type**: codelist (ISO MD_ScopeCode, ADIwg codes); **extensible**: YES; **multi-value**: NO; **default**: empty}1  The type of resource this lineage describes. 
-
----

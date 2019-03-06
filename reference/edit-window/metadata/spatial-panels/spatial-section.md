@@ -10,5 +10,3 @@ The <span class="md-section">Spatial</span> section of the <span class="md-windo
 * [<span class="md-panel" style="font-size: larger">Spatial Reference System</span>](referenceSystem-panel.md) 1{**type**: object (<span class="md-panel">Spatial Reference System</span>); **default** empty}1  The spatial reference system of the main source. 
 
 * [<span class="md-panel" style="font-size: larger">Spatial Resolution</span>](spatialResolution-panel.md) 1{**type**: object (<span class="md-panel">Spatial Resolution</span>); **default** empty}1  Information about the scale of the geographic extent of the main resource. 
-
----

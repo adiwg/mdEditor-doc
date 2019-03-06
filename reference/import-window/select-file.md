@@ -23,5 +23,3 @@ The first step in the import process is to identify the metadata file to import.
 #### Import Online File
 
 * <span class="md-element">Import from Online URL</span> To load a metadata file from an online source, type the complete URL into the control and click <span class="btn btn-primary btn-xs"> <i class="fa fa-cloud-download"> </i> Import</span>.  mdEditor will proceed to process the file as outlined above. 
-  
----

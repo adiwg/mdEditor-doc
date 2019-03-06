@@ -12,5 +12,3 @@
 ![Points of Contact Panel](/assets/reference/edit-objects/metadata/main/poc.png)
 
 {% include "../../../include-objects/responsibleParty-obj.md" %}
-
----

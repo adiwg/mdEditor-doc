@@ -48,5 +48,3 @@ In FGDC, each time a contact is referenced in the metadata the author must resta
 {% hint style='danger' %}
   Use caution when deleting duplicate contacts or dictionaries to be sure all pertinent information is saved in the retained contact or dictionary.  
 {% endhint %}
-
----

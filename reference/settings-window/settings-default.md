@@ -29,5 +29,3 @@ Default values will pre-fill elements in mdEditor as new records and objects are
 ---
 
 {% include "../include-objects/repository-obj.md" %}
-
----

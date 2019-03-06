@@ -14,5 +14,3 @@
 * <span class="md-element">Min Value</span> <i class="fa fa-asterisk required" title="Required"> </i> 1{**type**: string; **max length**: none; **default**: empty}1 The least value that the attribute can be assigned within this range of values.
 
 * <span class="md-element">Max Value</span> <i class="fa fa-asterisk required" title="Required"> </i> 1{**type**: string; **max length**: none; **default**: empty}1 The greatest value that the attribute can be assigned within this range of values.
-
----                                           

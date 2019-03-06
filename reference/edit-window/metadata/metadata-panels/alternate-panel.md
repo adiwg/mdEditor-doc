@@ -12,5 +12,3 @@
 ### Citation Object (Alternate Metadata Reference)
 
 <strong class="btn btn-success btn-xs"> <i class="fa fa-pencil"> </i> More...</strong> Click 'More' to open the <span class="md-panel">Citation</span> object in the <span class="md-section">Citation</span> edit window.  See [Citation Section](../citation-section.md) for informtion on editing.
-
----

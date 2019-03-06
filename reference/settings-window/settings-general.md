@@ -18,6 +18,4 @@
   {% hint style='danger' %}
   Be sure loaded <span class="md-panel">Metadata Records</span>, <span class="md-panel">Contacts</span>, and <span class="md-panel">Dictionaries</span> have been exported to local storage before clearing cache if you wish to have access to them later.
   {% endhint %}
-
----
   

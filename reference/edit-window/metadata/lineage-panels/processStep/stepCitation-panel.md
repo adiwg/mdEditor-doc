@@ -8,5 +8,3 @@
 ![Step Reference Array](/assets/reference/edit-objects/metadata/lineage/stepReference-array.png)
 
 <span class="btn btn-success btn-xs"> <i class="fa fa-pencil"> </i> More...</span> Click to access all <span class="md-panel">Citation</span> object elements in the <span class="md-section">Citation</span> <span class="md-window">Edit Window</span>.  See [Citation Section](../../../citation/citation-section.md) for editing instructions.
-
----

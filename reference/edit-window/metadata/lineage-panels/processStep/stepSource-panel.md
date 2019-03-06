@@ -12,5 +12,3 @@
 {% hint style='tip' %}
   It is a good practice to here to reference a defined lineage [<span class="md-panel">Source</span>](../source/source-panel.md).
 {% endhint %}
-  
----

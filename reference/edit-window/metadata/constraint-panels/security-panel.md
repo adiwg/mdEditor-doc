@@ -16,5 +16,3 @@
 * <span class="md-element">Note</span> 1{**type**: string; **max length**: none; **default**: empty}1   Explanation for why this level of security classification was assigned to the resource or metadata.  
 
 * <span class="md-element">Handling Description</span> 1{**type**: string; **max length**: none; **default**: empty}1   Any additional instructions for handling the resource or metadata.  
-
----

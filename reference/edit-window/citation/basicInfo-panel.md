@@ -20,5 +20,3 @@
 ---
 
 {% include "../../include-objects/date-obj.md" %}
-
----

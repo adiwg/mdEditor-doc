@@ -22,5 +22,3 @@ The <span class="md-section">Metadata</span> section of the <span class="md-wind
  * [<span class="md-panel" style="font-size: larger">Default Metadata Locale</span>](locale-panel.md)  1{**type**: object (<span class="md-panel">Locale</span>)}1  The default or primary language and character encoding for the metadata.
  
  * [<span class="md-panel" style="font-size: larger">Alternate Metadata Reference</span>](alternate-panel.md)  1{**type**: array (obj: <span class="md-panel">citation</span>)}1 An array of <span class="md-panel">Citation</span> references to other editions of this metadata record. 
-
----

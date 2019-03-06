@@ -45,15 +45,15 @@ There are three Import action buttons in the <span class="md-window">Secondary S
   For example, if the replace action selects a <span class="md-panel">Contact</span> and no <span class="md-panel">Metadata Records</span> or <span class="md-panel">Dictionaries</span>, mdEditor will delete only the loaded <span class="md-panel">Contacts</span> before the import contact is added.  If there are any <span class="md-panel">Metadata Records</span> or <span class="md-panel">Dictionaries</span> that depended on one of the removed <span class="md-panel">Contacts</span> those links will be broken until the missing <span class="md-panel">Contacts</span> are re-imported.
       {% endhint %}
       
-    * ##### Merge (default)
+  * ##### Merge (default)
    
-      Unlike the replace action, merge will not remove items from browser cache prior to importing selected items.  The merge action will instead use the item's internal ID which was assigned by mdEditor as the record was created.  This ID is displayed in the <span class="md-element">ID</span> column of the three selection panels.  
+    Unlike the replace action, merge will not remove items from browser cache prior to importing selected items.  The merge action will instead use the item's internal ID which was assigned by mdEditor as the record was created.  This ID is displayed in the <span class="md-element">ID</span> column of the three selection panels.  
       
-      Import items that cannot be matched with an item currently loaded in browser cache are simply added to browser cache.
+    Import items that cannot be matched with an item currently loaded in browser cache are simply added to browser cache.
       
-      {% hint style='danger' %}
+    {% hint style='danger' %}
   The ID shown is for the item to be imported.  Unfortunately, at this time there is no way to display the internal ID of items already loaded into browser cache.  Therefore there is no positive way to determine which loaded items will be matched and replaced by imported items.  The best that can be done at this point is to visually match <span class="md-panel">Metadata Record</span>, <span class="md-panel">Contact</span>, and <span class="md-panel">Dictionary</span> records by names or titles to understand what will happen on import. 
-      {% endhint %}
+    {% endhint %}
         
   ---
 
@@ -65,19 +65,17 @@ There are three Import action buttons in the <span class="md-window">Secondary S
   
   ![Import Panel](/assets/reference/import/import-preview.png)
   
-    * ##### Record ID
+  * ##### Record ID
     
-      The "Record ID' is the mdEditor record id of the item selected for JSON preview.  This will match the ID shown in the <span class="md-window"> Import</span> window's selection panels. 
+    The "Record ID' is the mdEditor record id of the item selected for JSON preview.  This will match the ID shown in the <span class="md-window"> Import</span> window's selection panels. 
       
-    * ##### JSON Window
+  * ##### JSON Window
     
-      In the above image the hierarchial JSON sections are shown collapsed (or folded).  To view the full record detail click the '+' (plus sign) on the "Expand/Collapse Sections" button.
+    In the above image the hierarchial JSON sections are shown collapsed (or folded).  To view the full record detail click the '+' (plus sign) on the "Expand/Collapse Sections" button.
     
-    * ##### Expand/Collapse Sections
+  * ##### Expand/Collapse Sections
     
-    * ##### Increase/Decrease Font/Size
-    
-    * ##### <span class="btn btn-primary btn-xs"> <i class="fa fa-arrow-left"> </i> Close Preview</span> Return to Import Window
-
----
+  * ##### Increase/Decrease Font/Size
+  
+  * ##### <span class="btn btn-primary btn-xs"> <i class="fa fa-arrow-left"> </i> Close Preview</span> Return to Import Window
   

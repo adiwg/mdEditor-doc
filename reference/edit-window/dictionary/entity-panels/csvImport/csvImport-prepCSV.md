@@ -12,5 +12,3 @@ Start by creating a CSV file for your entity.  This is easily done by building t
 Below is an example of a CSV file showing a table with a few U.S. State statistics (name, state abbreviation, capital city, and population).  For expediency, only four attributes and five entity instances (data rows) were added to the table, but the maximum number is not limited by mdEditor.
  
 ![Example CSV File](/assets/reference/edit-objects/dictionary/entities/sampleCSV.png){caption}
-
----

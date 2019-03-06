@@ -18,5 +18,3 @@
 * <span class="md-element">Use Constraint</span> 1{**type**: codelist (ISO MD_RestrictionCode, ADIwg codes); **extensible**: NO; **multi-value**: YES; **default**: empty}1   These are use constraints applied to assure the protection or privacy of individuals or intellectual property as well as any restrictions or limitations on using the resource or metadata.  
 
 * <span class="md-panel">Other Constraints</span> 1{**type**: array (string)}1  Any other restrictions and legal prerequisites for accessing and using the resource or metadata.  Each limitation is a text string.
-  
----

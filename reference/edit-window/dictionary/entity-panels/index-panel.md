@@ -20,5 +20,3 @@
 * <span class="md-element">Attributes</span> <i class="fa fa-asterisk required" title="Required"> </i> 1{**type**: codelist (<span class="md-panel">Attributes</span> defined in the current <span class="md-panel">Entity</span>); **extensible**: YES; **multi-value**: YES; **default**: empty}1 Choose the attribute (or collection of attributes) from the current entity that will act as the alternate key. 
 
 * <span class="md-element">Duplicates</span> <i class="fa fa-asterisk required" title="Required"> </i> 1{**type**: Boolean; **default**: FALSE}1 TRUE if duplicates are permitted in the index.  FALSE if duplicates are not permitted. 
-
----

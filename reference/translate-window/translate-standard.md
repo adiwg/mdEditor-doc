@@ -33,5 +33,3 @@
 The <span class="md-panel">Metadata Record</span> to be translated must be saved prior to translation.  In cases where "AutoSave" has been turned "OFF" the <span class="md-panel">Metadata Record</span> may not have been saved when you access the <span class="md-window">Translate</span> window.  In this case the <span class="md-window">Translate</span> window will display a <span class="btn btn-danger btn-xs"> <i class="fa fa-exclamation-circle"> </i> </span> button to allow you to perform a 'Save' without returning to the <span class="md-window">Edit Window</span>
 
 ![Translate Window](/assets/reference/translate/translate-save.png)
-
----

@@ -27,5 +27,3 @@ Each <span class="md-panel">Attribute</span> has a <strong class="btn btn-succes
 
  * [<span class="md-panel" style="font-size: larger">Attribute Reference</span>](attributeReference-panel.md)
 
----
-

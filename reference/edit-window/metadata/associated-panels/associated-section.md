@@ -30,5 +30,3 @@ When no <span class="md-panel">Associated Resources</span> have been defined for
 ---
 
 {% include "../../../include-objects/resourceType-obj.md" %}
-
----

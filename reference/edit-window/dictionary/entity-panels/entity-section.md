@@ -32,5 +32,3 @@ Click <strong class="btn btn-success btn-xs"> <i class="fa fa-pencil"> </i> More
  * [<span class="md-panel" style="font-size: larger">Entity Reference</span>](entityReference-panel.md)  1{**type**: array (obj: <span class="md-panel"> Citation</span>)}1  The <span class="md-panel">Entity Reference</span> array lists <span class="md-panel">Citations</span> which reference additional information about the <span class="md-panel">Entity</span>.
 
  * [<span class="md-panel" style="font-size: larger">CSV Import</span>](csvImport/csvImport-process.md)  <span class="md-panel">Entities</span> can also be imported as Comma Separated Value (CSV) files.  Read this section to discover how. 
-
----

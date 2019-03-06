@@ -18,5 +18,3 @@
 * <span class="md-element">Supplemental Information</span> 1{**type**: string; **max length**: none; **default**: empty}1 Any other descriptive information about the resource.  
 
 * <span class="md-element">Environment Description</span> 1{**type**: string; **max length**: none; **default**: empty}1 Description of the resource in the producer's processing environment, including items such as the software, the computer, the computer operating system, file name, and the resource size.  
-
----

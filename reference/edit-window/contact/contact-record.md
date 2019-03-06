@@ -64,5 +64,3 @@ In mdEditor, <span class="md-panel">Contacts</span> are edited and saved separat
 * [<span class="md-panel" style="font-size: larger">Available Times</span>](times-panel.md)  1{**type**: array (string)}1 An array of text strings that describe the best times to connect with the individual or organization contact.
 
 * <span class="md-element">Contact Instructions</span> 1{**type**: string; **max length**: none; **default**: empty}1 Any supplemental instructions regarding contacting this "Individual" or "Organization" may be provided here.
-
----

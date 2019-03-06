@@ -10,5 +10,3 @@
 {% endhint %}
 
 ![Use Limitation Array](/assets/reference/edit-objects/metadata/constraint/useLimitation.png)
-  
----

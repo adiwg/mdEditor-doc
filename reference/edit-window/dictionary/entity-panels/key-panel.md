@@ -33,5 +33,3 @@ The primary key is a field (or collection of fields), that allows each instance 
   {% hint style='danger' %}
   When a foreign key is defined with multiple attributes be sure to select <span class="md-element">Referenced Attributes</span> in the same order as <span class="md-element">Local Attributes</span> so there is a one-to-one correspondence based on entry order.
   {% endhint %} 
-
----

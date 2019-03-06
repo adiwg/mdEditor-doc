@@ -63,5 +63,3 @@ There are four Export action buttons in the <span class="md-window">Secondary Si
   * #### <span class="btn btn-info btn-xs"> <i class="fa fa-eye"> </i> Show</span> Show Record View
   
      The 'Show' button exits the <span class="md-window"> Export</span> window and displays a view of the record with more detail than shown in the <span class="md-panel">Metadata Records</span>, <span class="md-panel">Contacts</span>, and <span class="md-panel">Dictionaries</span> panels.  Since the view does exit the <span class="md-window"> Export</span> window, you will need to return by using the browser's "back" button or by clicking <span class="btn btn-default btn-xs"><i class="fa fa-sign-out"> </i> Export</span> in the <span class="md-window">Primary Navigation Bar</span>. 
-
----

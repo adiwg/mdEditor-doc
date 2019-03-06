@@ -36,5 +36,3 @@ See specific section documentation for details:
  * [<span class="md-section" style="font-size: larger">Funding Section</span>](funding-panels/funding-section.md)  The section collects information about funding sources for development and/or maintenance of the main resource.  
  
  * [<span class="md-section" style="font-size: larger">Dictionaries Section</span>](dictionary-panels/dictionary-section.md)  Allows associating <span class="md-panel">Dictionary Records</span> with the <span class="md-panel">Metadata Record</span> being edited.
- 
----

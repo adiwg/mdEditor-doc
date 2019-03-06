@@ -40,5 +40,3 @@
 * <span class="md-element">Minimum Value</span> 1{**type**: string; **max length**:none; **default**: empty}1  The minimum range value permissible for this attribute.  The minimum value may be either numeric or character.
 
 * <span class="md-element">Maximum Value</span> 1{**type**: string; **max length**:none; **default**: empty}1  The maximum range value permissible for this attribute.  The maximum value may be either numeric or character.
-
----

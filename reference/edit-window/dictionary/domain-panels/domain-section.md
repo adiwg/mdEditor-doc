@@ -20,5 +20,3 @@ From this array panel new <span class="md-panel">Domains</span> can be defined a
  * [<span class="md-panel" style="font-size: larger">Domain Items</span>](domainItem-panel.md)  1{**type**: array (obj: <span class="md-panel"> Domain Item</span>)}1   An array of defined <span class="md-panel">Domain Item</span> objects.
  
  * [<span class="md-panel" style="font-size: larger">Domain Reference</span>](domainReference-panel.md)  1{**type**: object (<span class="md-panel">Citation</span>); **default** empty}1  The domains's citation information.  
-
----

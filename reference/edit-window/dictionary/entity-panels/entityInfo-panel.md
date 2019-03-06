@@ -20,5 +20,3 @@
 * <span class="md-element">Common Name</span> 1{**type**: string; **max length**: none; **default**: empty}1 A common or conversational name for the <span class="md-panel">Entity</span>. 
 
 * <span class="md-panel">Aliases</span> 1{**type**: array (string)}1 An array of additional names that are used to refer to this <span class="md-panel">Entity</span>. Each <span class="md-element">alias</span> is a text string.
-
----

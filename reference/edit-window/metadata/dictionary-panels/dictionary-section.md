@@ -28,7 +28,3 @@ To select a <span class="md-panel">Dictionary Record</span> simply the checkbox 
 ---
 
 {% include "../../../include-objects/view-obj.md" %}
-
-
-
----

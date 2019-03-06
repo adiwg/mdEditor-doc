@@ -7,5 +7,3 @@
 
 
 {% include "../../../../include-objects/resolution-obj.md" %}
-  
----

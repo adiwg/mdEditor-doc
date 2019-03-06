@@ -26,5 +26,3 @@ How you actually arrive at the <span class="md-section">Citation</span> <span cl
  * [<span class="md-panel" style="font-size: larger">Graphic</span>](graphic-panel.md)  1{**type**: array (obj: <span class="md-panel">Graphic</span>)}1  An array of file descriptions for images, maps, flow charts, models, logos, etc. associated with the citation.
  
  * [<span class="md-panel" style="font-size: larger">Online Graphic Resource</span>](onlineGraphicResource-panel.md)  1{**type**: array (obj: <span class="md-panel">Online Graphic Resource</span>); **default**: empty}1  An array of internet links to the graphic files. 
-
----

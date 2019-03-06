@@ -4,7 +4,8 @@
       "styles-sass-fix",
       "regexplace",
       "code",
-      "expandable-chapters"
+      "expandable-chapters",
+      "custom-footer"
    ],
    "styles": {
       "website": "styles/website.scss",
@@ -49,6 +50,9 @@
             }
          ]
       },
-      "expandable-chapters": {}
+      "expandable-chapters": {},
+      "layout": {
+         "footerPath": "layouts/footer1.html"
+      }
    }
 }

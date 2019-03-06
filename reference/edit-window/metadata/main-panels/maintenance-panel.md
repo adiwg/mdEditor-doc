@@ -12,5 +12,3 @@
 ### Maintenance Object
 
 {% include "../../../include-objects/maintenance-obj.md" %}
-
----

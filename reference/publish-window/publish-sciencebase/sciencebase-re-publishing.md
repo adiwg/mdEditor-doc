@@ -22,5 +22,3 @@ Once you have published your records for the first time, updating and re-publish
 {% hint style='info' %}
   If you delete or change the metadata repository information in mdJSON, you must delete any obsolete or erroneous metadata repository tags directly on ScienceBase. These are called "Harvest Sets" on ScienceBase.
 {% endhint %}
-
----

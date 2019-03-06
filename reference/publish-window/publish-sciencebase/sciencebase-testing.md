@@ -39,5 +39,3 @@
  1. Verify that the real records have updated as expected.
  
  1. Proceed with publishing your other records to their real locations.
-
----

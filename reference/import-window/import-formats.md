@@ -39,11 +39,11 @@ An mdJSON file format is capable of storing multiple metadata records.  Each of 
 
 ### FGDC CSDGM File Format
 
-The FGDC CSDGM (Federal Geographic Data Committee Content Standard for Digital Geospatial Metadata) file format stores a complete, standalone metadata record with all contacts and dictionaries.  The FGDC format cannot accommodate multiple metadata records in a single file. 
+The FGDC CSDGM (Federal Geographic Data Committee Content Standard for Digital Geospatial Metadata) file format stores a complete, standalone metadata record with all contacts and dictionaries.  The FGDC CSDGM format cannot accommodate multiple metadata records in a single file. 
 
-Internal item 'IDs' are NOT saved with the FGDC format.  Thus when importing FGDC files item matching cannot be done.  So when an import is requested to be MERGED, all items will be ADDED.  Further, because the imported items do not have internal 'IDs', new 'IDs' are assigned as the items are added to browser cache.  This can create duplicates of items already in browser cache that will need to be manually removed.   
+Internal item 'IDs' are NOT saved with the FGDC CSDGM format.  Thus when importing FGDC CSDGM files item matching cannot be done.  So when an import is requested to be MERGED, all items will be ADDED.  Further, because the imported items do not have internal 'IDs', new 'IDs' are assigned as the items are added to browser cache.  This can create duplicates of items already in browser cache that will need to be manually removed.   
 
-In FGDC, each time a contact is referenced in the metadata the author must restate all the contact's information.  Since not all contact elements are required by the standard, or often completed, each reference to a contact which was used multiple times within the metadata record may contain different or even conflicting information.  
+In FGDC CSDGM, each time a contact is referenced in the metadata the author must restate all the contact's information.  Since not all contact elements are required by the standard, or often completed, each reference to a contact which was used multiple times within the metadata record may contain different or even conflicting information.  
 
 {% hint style='danger' %}
   Use caution when deleting duplicate contacts or dictionaries to be sure all pertinent information is saved in the retained contact or dictionary.  

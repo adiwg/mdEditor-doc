@@ -7,5 +7,3 @@ Incorporated into mdEditor's design is the ability to export metadata records di
 ![Date Settings](/assets/reference/settings/settings-date.png)
 
 At this time the only supported repository is "ScienceBase", the United States Geological Survey's data repository.  Because setup and interface rules for each repository are different they are discussed individually.  
-
----

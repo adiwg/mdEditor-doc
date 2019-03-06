@@ -11,5 +11,3 @@ The United States Geological Survey (USGS) ScienceBase data repository has one s
 ![Date Settings](/assets/reference/settings/publish-sciencebase.png)
 
 * <span class="md-element">Default Parent Identifier</span> In the Default Parent Identifier, enter your ScienceBase project folder's ScienceBase ID (SBID). 
-
----

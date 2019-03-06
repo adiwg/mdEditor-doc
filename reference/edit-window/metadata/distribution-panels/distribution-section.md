@@ -9,4 +9,4 @@ When no <span class="md-panel">Distributions</span> have been defined for the <s
 
 ![Distribution Section with no Distributions Defined](/assets/reference/edit-objects/metadata/distribution/distribution-start.png)
 
-<strong class="btn btn-success btn-xs"> <i class="fa fa-plus"> </i> Add Distribution Section</strong> Click to add an <span class="md-panel">Distributioin</span>.  After clicking you will be transferred to the <span class="md-panel">Distribution</span> <span class="md-window">Edit Window</span> where you can complete data entry for the distribution.  
+<strong class="btn btn-success btn-xs"> <i class="fa fa-plus"> </i> Add Distribution Section</strong> Click to add an <span class="md-panel">Distribution</span>.  After clicking you will be transferred to the <span class="md-panel">Distribution</span> <span class="md-window">Edit Window</span> where you can complete data entry for the distribution.  

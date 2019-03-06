@@ -23,8 +23,3 @@ The following describes what happens when you publish from mdEditor to ScienceBa
 3. mdTranslator translates the mdJSON file into sbJSON and XML.
 4. ScienceBase imports the sbJSON and attaches the XML and mdJSON files to the ScienceBase item.
 5. The XML metadata record is sent to data.doi.gov if the requisite metadata repository is specified. Note: metadata repositories are called Harvest Sets in ScienceBase.
-
----
-
-
-

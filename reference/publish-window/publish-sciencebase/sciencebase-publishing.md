@@ -112,5 +112,3 @@ Before you move records in the publishing outline please select your scenario be
    * SB items should be in the location reflected in the mdEditor publishing outline.
 
 1. You can re-publish records as needed (e.g., after updating or correcting metadata).
-
----

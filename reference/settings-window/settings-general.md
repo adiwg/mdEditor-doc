@@ -2,10 +2,10 @@
 ### General Settings
 ---
 
-![General Settings](/assets/reference/settings/settings-general.png){caption}
+![General Settings Panel](/assets/reference/settings/settings-general.png){caption}
 
 
-* ### ![Auto Save Switch](/assets/bullets/switch-right.png){caption} Auto Save
+* ### ![Auto Save Switch](/assets/bullets/switch-right.png) Auto Save
 
   With Auto Save: ON, all edits in mdEditor are automatically saved.  With Auto Save: OFF you will need to do manual saves of your <span class="md-panel">Metadata Records</span>, <span class="md-panel">Contacts</span>, and <span class="md-panel">Dictionaries</span>. 
   

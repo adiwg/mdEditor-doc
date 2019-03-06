@@ -17,6 +17,6 @@ See specific edit window documentation for details about each mdEditor function:
 
 * [<span class="md-window" style="font-size: larger">Publishing Records</span>](publish-window/publish-reference.md)  Publish <span class="md-panel">Metadata Records</span> with supported metadata repositories and clearing houses. 
 
-* [<span class="md-window" style="font-size: larger">Translating Records</span>](translate-window/translate-reference.md)  Translate mdEditor mdJson formatted <span class="md-panel">Metadata Records</span> to established metadata formats such as ISO and FGDC.   
+* [<span class="md-window" style="font-size: larger">Translating Records</span>](translate-window/translate-reference.md)  Translate mdEditor mdJson formatted <span class="md-panel">Metadata Records</span> to established metadata formats such as ISO and FGDC CSDGM.   
 
 * [<span class="md-window" style="font-size: larger">Settings</span>](settings-window/settings-reference.md)  Set and alter mdEditor settings.  

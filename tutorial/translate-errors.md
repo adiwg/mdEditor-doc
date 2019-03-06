@@ -80,7 +80,7 @@ With a valid ISO 19115-2 record in the <span class="md-panel">Result</span> prev
   * Translate "My First Metadata Record" to "FGDC CSDGM"
 {% endhint %}
 
-Now there are a lot of missing elements!  FGDC has more required elements than either mdJSON or ISO.  But we don't need to add all those missing elements for this exercise.  Let's just move on to "Exporting Records."
+Now there are a lot of missing elements!  FGDC CSDGM has more required elements than either mdJSON or ISO.  But we don't need to add all those missing elements for this exercise.  Let's just move on to "Exporting Records."
 
 {% hint style='info' %}
   Each standard format has its own set of requirements.  Getting your record ready for one standard will not guarantee it is ready for another.  Thankfully mdTranslator can sort that out for you by pointing out any missing required elements.

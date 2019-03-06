@@ -9,5 +9,3 @@ Publishing requires every record to have a parent Identifier that identifies the
 {% hint style='info' %}
   Please use a testing folder before you update your real records. (Consult the Testing Publishing section of this manual for more information.)
 {% endhint %}
-
----

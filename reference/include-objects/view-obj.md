@@ -8,7 +8,7 @@ Each export panel has built in support for navigating long lists of <span class=
     
   * #### Record Controls
   
-    The 'Record Controls' manage which set of items is visible in the panel.  The controls become active when there are more items in browser cache than are displayed in the panel, given the limit set using the 'Number of Items to Display' control (above).
+    The "Record Controls" manage which set of items is visible in the panel.  The controls become active when there are more items in browser cache than are displayed in the panel, given the limit set using the "Number of Items to Display" control (above).
 
     * ##### <i class="fa fa-forward"> </i> Next Page
   
@@ -20,5 +20,5 @@ Each export panel has built in support for navigating long lists of <span class=
     
   * #### Select Columns to Display
   
-    Clicking this control presents a list of columns that can be displayed in the panel.  By default all available columns are displayed.  You can hide a column - or return it to visible again - by checking or unchecking the column name in the control's list.  The list of columns is naturally different between the <span class="md-panel">Metadata Records</span>, <span class="md-panel">Contacts</span>, and <span class="md-panel">Dictionaries</span> panels.
+    Clicking this control presents a list of columns that can be displayed in the panel.  By default all available columns are displayed.  You can hide a column - or return it to visible again - by checking or un-checking the column name in the control's list.  The list of columns is naturally different between the <span class="md-panel">Metadata Records</span>, <span class="md-panel">Contacts</span>, and <span class="md-panel">Dictionaries</span> panels.
     

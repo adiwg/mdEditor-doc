@@ -67,11 +67,11 @@ There are three Import action buttons in the <span class="md-window">Secondary S
   
   * ##### Record ID
     
-    The "Record ID' is the mdEditor record id of the item selected for JSON preview.  This will match the ID shown in the <span class="md-window"> Import</span> window's selection panels. 
+    The "Record ID" is the mdEditor record id of the item selected for JSON preview.  This will match the ID shown in the <span class="md-window"> Import</span> window's selection panels. 
       
   * ##### JSON Window
     
-    In the above image the hierarchial JSON sections are shown collapsed (or folded).  To view the full record detail click the '+' (plus sign) on the "Expand/Collapse Sections" button.
+    In the above image the hierarchical JSON sections are shown collapsed (or folded).  To view the full record detail click the '+' (plus sign) on the "Expand/Collapse Sections" button.
     
   * ##### Expand/Collapse Sections
     

@@ -3,7 +3,7 @@
 
 ### Series Object
 
-<span class="md-panel" style="font-size: larger">Series</span> 1{**type**: object (<span class="md-panel">Series</span>); **default**: empty}1 Information about the series, publication, or aggregate resource to which a resource belongs. 
+<span class="md-panel" style="font-size: larger">Series</span> 1{**type**: object (<span class="md-panel">Series</span>); **default**: empty}1  For resources which are included in a publication, details on the page(s) where the article or other resource was published.
 
 ![Series Panel](/assets/reference/edit-objects/citation/series.png)
 

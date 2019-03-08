@@ -1,7 +1,7 @@
 # Metadata Record -- Distribution Section
 ---
 
-WAITING FOR mdEditor PATCHES
+THE distribution SECTION DOCUMENTATION WILL BE COMPLETED AFTER PLANNED REVISIONS HAVE BEEN MADE.
 
 The <span class="md-section">Distribution</span> section of the <span class="md-window">Edit Window</span> is used to provide information about how to obtain a copy of the main resource and/or other important resources described by the <span class="md-panel">Metadata Record</span>. 
 

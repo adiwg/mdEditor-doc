@@ -92,13 +92,17 @@ $panel-back: #e3e3e3;
 
 .book .footer-section {
   .footer-author {
-    font-size: 2em !important;
+    font-size: 1em !important;
     border-bottom: 1px solid #ccc;
-    padding-bottom: 10px;
+    padding-bottom: 0px;
   }
   .footer-normal {
     font-size: .7em;
     color: #888;
+    .glossary-term {
+      border: 0px;
+      cursor: default !important;
+    }
   }
   .footer-right {
     text-align: right;

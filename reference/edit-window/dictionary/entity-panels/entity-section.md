@@ -16,7 +16,7 @@ Click <strong class="btn btn-success btn-xs"> <i class="fa fa-pencil"> </i> More
 ![Domain Array Panel](/assets/reference/edit-objects/dictionary/domains/domain-editWindow.png){caption}
 
 {% hint style='tip' %}
-  <span class="md-panel">Entities</span> can also be entered via CSV files (Comma Separated Value) files.  See the [CSV Import](csvImport/csvImport-process.md) section for details. 
+  <span class="md-panel">Entities</span> can also be entered via CSV (Comma Separated Value) files.  See the [CSV Import](csvImport/csvImport-process.md) section for details. 
 {% endhint %}
  
  * [<span class="md-panel" style="font-size: larger">Entity Information</span>](entityInfo-panel.md) <i class="fa fa-asterisk required" title="Required"> </i> 1{**type**: collection}1  A collection of elements that identify and describe the entity.

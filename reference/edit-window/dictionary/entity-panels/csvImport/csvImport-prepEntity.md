@@ -23,7 +23,7 @@ On the above import window several items need to be completed and/or at consider
     
    * In the <span class="md-element">Name</span> column you can change the <span class="md-panel">Attribute</span> name.  The original CSV header column name is shown in the next column wrapped in parenthesis.
     
-   * While reading the CSV file, mdEditor attempted to identify the datatype of <span class="md-panel">Attributes</span> and placed it's best guess in the <span class="md-element">Data Type</span> column of the <span class="md-panel">Setup</span> panel. Review mdEditor's decision and change it if necessary.  It was just a guess!
+   * While reading the CSV file, mdEditor attempted to identify the datatype of <span class="md-panel">Attributes</span> and placed its best guess in the <span class="md-element">Data Type</span> column of the <span class="md-panel">Setup</span> panel. Review mdEditor's decision and change it if necessary.  It was just a guess!
     
    * If the values associated with an <span class="md-panel">Attribute</span> constitute a domain, place a check in the <span class="md-element">Domain</span> element checkbox and new <span class="md-panel">Domain</span> will be generated using the attribute's values. A list of the unique domain values detected by mdEditor can be previewed by rolling the mouse over the <strong class="btn btn-info btn-xs"> <i class="fa fa-eye" title="Required"> </i> Example</strong> button.
     

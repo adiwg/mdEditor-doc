@@ -5,7 +5,7 @@
 
 ![Entity Staged for Import](/assets/reference/edit-objects/dictionary/entities/csvImport2.png){caption}
 
-On the above import window several items need to be completed and/or at considered before clicking the <strong><span class="btn btn-info btn-xs"> <i class="fa fa-sign-in"> </i> Do Import </span> </strong> button in the <span class="md-window">Secondary Sidebar</span>.
+On the above import window several items need to be completed and/or considered before clicking the <strong><span class="btn btn-info btn-xs"> <i class="fa fa-sign-in"> </i> Do Import </span> </strong> button in the <span class="md-window">Secondary Sidebar</span>.
 
   {% hint style='info' %}
   Any items not completed here may be edited later using the mdEditor <span class="md-panel">Entity</span>, <span class="md-panel">Attribute</span>, and <span class="md-panel">Domain</span> edit windows.

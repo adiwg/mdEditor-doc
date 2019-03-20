@@ -3,7 +3,7 @@
 
 ### Attribute Detail
 
-All <span class="md-panel">Attributes</span> are a property of an <span class="md-panel">Entity</span>.  Thus <span class="md-panel">Attributes</span> in mdEditor are defined from the <span class="md-panel">Attribute</span> array panel on the <span class="md-section">Entities</span> <span class="md-window">Edit Window</span> for <span class="md-panel">Dictionary Records</span> (see the [Attribute Array section](../entity-panels/attribute-panel.md) for initial <span class="md-panel">Attribute</span> definition).  
+All <span class="md-panel">Attributes</span> are properties of an <span class="md-panel">Entity</span>.  Thus <span class="md-panel">Attributes</span> in mdEditor are defined from the <span class="md-panel">Attribute</span> array panel on the <span class="md-section">Entities</span> <span class="md-window">Edit Window</span> for <span class="md-panel">Dictionary Records</span> (see the [Attribute Array section](../entity-panels/attribute-panel.md) for initial <span class="md-panel">Attribute</span> definition).  
 
 As discussed in the [Attribute Array section](../entity-panels/attribute-panel.md), only the few *required* <span class="md-panel">Attribute</span> elements may be defined from the <span class="md-panel">Entity</span>'s <span class="md-panel">Attribute</span> array panel.  However, there are many additional <span class="md-panel">Attribute</span> elements that may be optionally defined from the <span class="md-panel">Attribute</span> <span class="md-window">Edit Window</span>.  These are discussed next. 
 

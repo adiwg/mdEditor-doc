@@ -25,7 +25,7 @@ Each contact is assigned a unique ID.  This is the ID used to link this contact 
   Create an "Organization" contact record
   * Enter "CID002" as the <span class="md-element">Contact ID</span>
   * Enter your organization's name in <span class="md-element">Name</span>
-  * Click <strong><span class="btn btn-success btn-xs"> <i class="fa fa-floppy-o"> </i> Save</span></strong>.
+  * Click <strong><span class="btn btn-success btn-xs"> <i class="fa fa-floppy-o"> </i> Save</span></strong>
 {% endhint %}
 
 ![Create New Contact Window](/assets/tutorial/new-contact-org-2.png){caption}

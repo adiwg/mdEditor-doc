@@ -5,7 +5,7 @@
 
 ### ![](/assets/bullets/isolation-dot.png) Isolate Panel
 
-Some panels, and even sub-panels (panels within panels), have an 'Isolate' button.  Clicking this will visually isolate the panel and all its elements from the surrounding data by dimming information not in scope, making it easier to focus on relevant content.  When you are ready to return a normal view of the <span class="md-window">Edit Window</span>, click on the 'Isolate' button once again, or click simply click anywhere off the isolated panel.  In the example below the <span class="md-panel">Basic Information</span> panel has been isolated.  Notice also that <span class="md-panel">Default Locale</span> is a sub-panel which can be further isolated should you choose.  
+Some panels, and even sub-panels (panels within panels), have an 'Isolate' button.  Clicking this will visually isolate the panel and all its elements from the surrounding data by dimming information not in scope, making it easier to focus on relevant content.  When you are ready to return a normal view of the <span class="md-window">Edit Window</span>, click on the 'Isolate' button once again, or click simply click anywhere off the isolated panel.  In the example below the <span class="md-panel">Basic Information</span> panel has been isolated.  Notice also that <span class="md-panel">Default Locale</span> is a sub-panel that can be further isolated should you choose.  
 
 ![Isolated Basic Information Panel](/assets/tutorial/edit-window-isolate-panel.png){caption}
 
@@ -17,7 +17,7 @@ Clicking the 'Add' button on a <span class="md-window">Panel Title Bar</span> wi
 
 An 'Edit' button will appear on <span class="md-window">Panel Title Bars</span> of panel objects when the object contains more elements than can be presented in the current window without creating clutter.  
 
-Clicking the 'Edit' button will navigate you to a new window where the object can be edited on it's own.  After making your edits, click the <strong class="btn btn-info btn-xs"> <i class="fa fa-check"> </i> OK</strong> button to bring you back to where you initiated the edit. The 'OK' button may appear at the top, bottom, or both of the object edit window.  As an example of how this works, let's look at the <span class="md-panel">Citation</span>.
+Clicking the 'Edit' button will navigate you to a new window where the object can be edited on its own.  After making your edits, click the <strong class="btn btn-info btn-xs"> <i class="fa fa-check"> </i> OK</strong> button to bring you back to where you initiated the edit. The 'OK' button may appear at the top, bottom, or both of the object edit window.  As an example of how this works, let's look at the <span class="md-panel">Citation</span>.
 
 {% hint style='working' %}
   Edit the <span class="md-panel">Citation</span> 
@@ -26,7 +26,7 @@ Clicking the 'Edit' button will navigate you to a new window where the object ca
 
 ![Edit Window Buttons](/assets/tutorial/edit-window-main-citation-2.png){caption}
 
-There are a few things to take notice of on the above window.
+There are a few things to notice on the above window.
 
   * The <span class="md-window">Edit Window Title</span> has changed to indicate you are now editing a citation object. 
   * The <span class="md-window">Fast Scrolling</span> buttons have changed to reflect the panels of the <span class="md-window">Citation Edit Window</span> rather than the <span class="md-section">Main</span> section.
@@ -52,4 +52,4 @@ The 'Delete' button adjacent to an object is used to remove the object from the 
 
 ---
 
-Okay!  That's probably enough orientation to the <span class="md-window">Edit Window's</span> sections, buttons and icons.  Time to get some actual work done.  So let's return to filling in our minimal metadata record.  
+Okay!  That's probably enough orientation to the <span class="md-window">Edit Window's</span> sections, buttons, and icons.  Time to get some actual work done.  So let's return to filling in our minimal metadata record.  

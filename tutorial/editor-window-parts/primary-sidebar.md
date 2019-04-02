@@ -12,10 +12,10 @@ Toward the top of the <span class="md-window">Primary Sidebar</span> is the mdEd
 Clicking on the question mark icon will display help appropriate to the current page.  The help window will also provide a link back to the corresponding page in this document. 
 
 ### Open Record Overview
-Clicking on an record name, in this case a metadata record, will change the display in the edit window to an overview of the record's data.  Data cannot be edited from this read-only view.  
+Clicking on a record name, in this case a metadata record, will change the display in the edit window to an overview of the record's data.  Data cannot be edited from this read-only view.  
 
 {% hint style='info' %}
-  In "Image 1" above the record name and icon are colored orange because the record contains schema errors.  This is to be expected since we just created the record and some required data has yet to be entered.  In this case the record is missing a point-of-contact, citation, and other elements.  To enter this missing information we enter the edit mode as described in the next paragraph.
+  In "Image 1" above, the record name and icon are colored orange because the record contains schema errors.  This is to be expected since we just created the record and some required data has yet to be entered.  In this case, the record is missing a point-of-contact, citation, and other elements.  To enter this missing information we enter the edit mode as described in the next paragraph.
 {% endhint %}
 
 
@@ -31,7 +31,7 @@ Click on the pencil icon next to any record's name to edit the record.  The colo
 {% endhint %} 
 
 {% hint style='tip' %}
-  When "AutoSave" is turned on you will not see records in red since all entries are automatically saved.
+  When "AutoSave" is turned on (in Settings) you will not see records in red since all entries are automatically saved.
 {% endhint %}
   
 ### <i class="fa fa-list"> </i> Open Record Dashboard
@@ -42,7 +42,7 @@ Click the list icon to display a dashboard with a list of all records of the ass
 {% endhint %}
 
 ### <i class="fa fa-plus"> </i> Add New Record
-Click the plus icon to create a new record of the associated type.
+Click the plus icon to create a new record of that type.
 
 ### <span><strong class="fa fa-angle-down"> <strong class="fa fa-angle-up"></span> Expand & Collapse Record List
 Click an up arrow icon <strong class="fa fa-angle-up"></strong> to collapse an open record list.  Or click the down arrow icon <i class="fa fa-angle-down"> </i> on a collapsed list to reveal its contents. 

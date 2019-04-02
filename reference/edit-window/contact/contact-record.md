@@ -17,7 +17,7 @@ In mdEditor, <span class="md-panel">Contacts</span> are edited and saved separat
    
  * The <span class="md-panel">Contact</span>'s name is displayed at the top of the <span class="md-window">Edit Window</span>.
  
- * There is a small <span class="btn btn-default btn-xs">Show</span> button in the <span class="md-window">Bread Crumb Bar</span> that will open a view with all of the <span class="md-panel">Contact</span>'s information displayed. This may be helpful when determining if you have selected the intended contact for editing or just want to see what information was entered for a contact.  
+ * There is a small <span class="btn btn-default btn-xs">Show</span> button in the <span class="md-window">Breadcrumb Bar</span> that will open a view with all of the <span class="md-panel">Contact</span>'s information displayed. This may be helpful when determining if you have selected the intended contact for editing or just want to see what information was entered for a contact.  
 
 ---
 

@@ -23,7 +23,7 @@ Let's skip editing the <span class="md-element">Record ID</span> for the moment.
 {% endhint %}
 
 {% hint style='info' %}
-  Note the metadata record <span class="md-element">Title</span> and <span class="md-panel">Citation</span> <span class="md-element">Title</span> are one in the same as.  Changing one will change the other.
+  Note the metadata record <span class="md-element">Title</span> and <span class="md-panel">Citation</span> <span class="md-element">Title</span> are one and the same - changing one will change the other.
 {% endhint %}
 
 ### Status <i class="fa fa-asterisk required" title="Required"> </i>
@@ -42,9 +42,9 @@ Avoid using spaces and other symbols when creating your own list values.  Symbol
   Enter a status for metadata resource:
   * Choose "complete" from the <span class="md-element">Status</span> control's list. 
   * Now add "final" from the <span class="md-element">Status</span> control's list.  Both tags will show in the control's display.
-  * After deciding these sound a bit redundant, click the "x" on "final" tag to drop it from the list. 
+  * After deciding these sound a bit redundant, click the "x" on "final" tag to delete it from the list. 
   * Add another status item not in the list.  Type "releaseHold" in the status field and press enter.  A "releaseHold" tag will appear alongside the "completed" tag.
-  * drop the "releaseHold" tag also.
+  * Delete the "releaseHold" tag also.
 {% endhint %}
 
 ### Default Locale <i class="fa fa-asterisk required" title="Required"> </i>

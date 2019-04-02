@@ -20,6 +20,10 @@ The "Create New Contact" window has three standard text controls and something n
   Notice that when you change the <span class="md-element">Contact Type</span> from "Individual" to "Organization" the icon in the <span class="md-window">Primary Sidebar</span> changes from a single person <i class="fa fa-user"> </i> to a group <i class="fa fa-users"> </i>.  
 {% endhint %}
 
+{% hint style='info' %}
+  Once you have saved your contact, you cannot switch the <span class="md-element">Contact Type</span> from "Individual" to "Organization" or vice versa so be careful to select the correct option when you create the contact.
+{% endhint %} 
+
 ## Individual Contact
 
 An "Individual" contact record collects pertinent contact information for a person including a name, address, phone numbers, email addresses, etc.  There are three required elements: <span class="md-element">Contact ID</span>, <span class="md-element">Name</span>, and <span class="md-element">Position Name</span>.

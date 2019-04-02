@@ -1,7 +1,7 @@
 # Tutorial -- Fast Scrolling
 --- 
 
-Some <span class="md-window">Edit Window</span> sections are too long to fit on a standard monitor and require some scrolling to see all the elements of the page.  The Edit Window can even get much longer as you continue to add your metadata.  This can make it inconvenient to locate just the information you're looking for by visually searching the record.
+Some <span class="md-window">Edit Window</span> sections are too long to fit on a standard monitor and require some scrolling to see all the elements of the page.  The Edit Window can get even longer as you continue to add your metadata.  This can make it inconvenient to locate just the information you're looking for by visually searching the record.
 
 To assist with quickly displaying the portion of the page you need, the <span class="md-window">Fast Scrolling</span> feature was added to the <span class="md-window">Secondary Sidebar</span>.  This facility provides links to quickly scroll the panel you need to the top of the <span class="md-window">Edit Window</span>.  In addition, the window's current scroll position is highlighted in the <span class="md-window">Secondary Sidebar</span>.  
 
@@ -19,5 +19,5 @@ The <span class="md-window">Fast Scrolling</span> buttons are named for the pane
 {% endhint %}
 
 {% hint style='info' %}
-  Each <span class="md-window">Edit Window</span> section will have a unique <span class="md-window">Fast Scrolling</span> section that matches up with the panels for that <span class="md-window">Edit Window</span> section.  Some <span class="md-window">Edit Window</span> sections have only a few or even no panels, so not all <span class="md-window">Edit Window</span> sections will have a <span class="md-window">Fast Scrolling</span> feature in the <span class="md-window">Secondary Sidebar</span>. 
+  Each <span class="md-window">Edit Window</span> section will have a unique <span class="md-window">Fast Scrolling</span> section that matches up with the panels for that <span class="md-window">Edit Window</span> section.  However, some <span class="md-window">Edit Window</span> sections have only a few or even no panels, so not all <span class="md-window">Edit Window</span> sections will have a <span class="md-window">Fast Scrolling</span> feature in the <span class="md-window">Secondary Sidebar</span>. 
 {% endhint %}

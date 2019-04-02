@@ -15,7 +15,7 @@ You should see something like this ...
 The "Create New Record" form collects the minimal information mdEditor requires to save a new metadata record.  This minimal information is, of course, not sufficient to meet the minimum of any metadata standard, but just enough that you and mdEditor can find the record for editing.
 
 {% hint style='info' %}
-"Contacts" and "Dictionaries" are added in a similar manner.  We'll discuss these items later; for now, just add a new metadata record.
+"Contacts" and "Dictionaries" are added in a similar manner.  We'll discuss these items later. For now, just add a new metadata record.
 {% endhint %}
 
 #### Record ID <i class="fa fa-asterisk required" title="Required"> </i>

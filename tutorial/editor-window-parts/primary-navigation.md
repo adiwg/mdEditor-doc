@@ -5,7 +5,7 @@ The <span class="md-window">Primary Navigation Bar</span> is the top-most naviga
 ![The Primary Navigation Bar](/assets/tutorial/primary-nav.png){caption}
 
 {% hint style='info' %}
-  Not all <span class="md-window">Primary Navigation Bar</span> buttons are available from every window.  For instance "Translate" is not available from the "Dashboard".  If a button seems missing, don't panic, look around, you're likely just in the wrong place!
+  Not all <span class="md-window">Primary Navigation Bar</span> buttons are available from every window.  For instance, "Translate" is not available from the "Dashboard".  If a button seems missing, don't panic. Look around - you're likely just in the wrong place!
 {% endhint %}
 
 ### <i class="fa fa-tachometer"> </i> Dashboard
@@ -24,10 +24,10 @@ The Publish facility can transmit your metadata record directly to a supported m
 The Translate facility interfaces with the publicly hosted mdTranslator.  It will send the selected metadata record to the translator, request translation into the metadata format of your choice, and capture the output to be viewed and saved to your local storage. 
 
 ### Profile
-Profile is the exception that does not navigate away from the Edit View. Profile instead modifies the behavior of the Edit Window by setting which panels and elements are displayed and whether or not they are required. 
+Profile does not navigate away from the Edit View, but instead modifies the behavior of the Edit Window by setting which panels and elements are displayed and whether or not they are required. 
 
 {% hint style='info' %}
-  The default Profile is 'full'.  When the 'full' profile is selected ALL panels and elements are visible for editing.  Requirements for elements are set by the mdJSON schema - which is the minimum information required for a valid metadata record.
+  The default Profile is 'full'.  When the 'full' profile is selected ALL panels and elements are visible for editing.  Requirements for elements are set by the mdJSON schema, which is the minimum information required for a valid metadata record.
 {% endhint %} 
 
 {% hint style='tip' %}

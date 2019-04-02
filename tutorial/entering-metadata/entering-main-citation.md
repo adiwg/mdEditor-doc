@@ -32,7 +32,7 @@ From working with <span class="md-panel">Resource Types</span> earlier in this e
 
 {% hint style='working' %}
   Enter <span class="md-element">Alternate Titles</span>
-  * Click either <strong class="btn btn-info btn-xs"> <i class="fa fa-plus"> </i> Alternate Title</strong> button
+  * Click either <strong class="btn btn-info btn-xs"> <i class="fa fa-plus"> </i> Add Alternate Title</strong> button
   * Enter an <span class="md-element">Alternate Title</span>. I entered "First Alternate."
   * Enter a second <span class="md-element">Alternate Title</span>
   * Click the <strong class="btn btn-primary btn-xs"><i class="fa fa-arrow-left"> </i> Back to Main</strong> button in the <span class="md-window">Secondary Sidebar</span> when you have finish entering your <span class="md-element">Alternate Titles</span>.  

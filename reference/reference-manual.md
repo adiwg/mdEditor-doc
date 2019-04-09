@@ -4,7 +4,7 @@
 
 The Reference Manual provides specific information about the content, operation, and intention of each window in mdEditor.  The "Table of Contents" for the Reference Manual parallels the organization of mdEditor to allow for quickly accessing specific information in the manual.  
 
-It is assumed that the reader has worked through the mdEditor [Tutorial](../tutorial/welcome-to-tutorial.md), if not, doing so would be time well spent.  The Reference Manual will NOT cover general navigation and operation features covered in the Tutorial.  
+It is assumed that the reader has worked through the mdEditor [Tutorial](../tutorial/welcome-to-tutorial.md); if not, doing so would be time well spent.  The Reference Manual will NOT cover general navigation and operation features covered in the Tutorial.  
 
 ---
 See specific edit window documentation for details about each mdEditor function:

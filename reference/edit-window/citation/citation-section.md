@@ -15,7 +15,7 @@ How you actually arrive at the <span class="md-section">Citation</span> <span cl
 
  * [<span class="md-panel" style="font-size: larger">Responsible Party</span>](responsibleParty-panel.md)  1{**type**: array (obj: <span class="md-panel"> Responsible Party</span>)}1 Identification of, and means of communication with, person(s) and organization(s) associated with the cited resource.
 
- * [<span class="md-panel" style="font-size: larger">Online Resources</span>](onlineResource-panel.md)  1{**type**: array (obj: <span class="md-panel">Online Resource</span>)}1 An array of links to online information about the cited reference.
+ * [<span class="md-panel" style="font-size: larger">Online Resource</span>](onlineResource-panel.md)  1{**type**: array (obj: <span class="md-panel">Online Resource</span>)}1 An array of links to online information about the cited reference.
 
  * [<span class="md-panel" style="font-size: larger">Identifier</span>](identifier-panel.md)  1{**type**: array (obj: <span class="md-panel">Identifier</span>)}1  An array of identifiers for the cited resource.  
 
@@ -24,5 +24,3 @@ How you actually arrive at the <span class="md-section">Citation</span> <span cl
  * [<span class="md-panel" style="font-size: larger">Other Details</span>](otherDetails-panel.md)  1{**type**: array (string); **max length**: none; **default**: empty}1  An array of additional details required to complete the citation that are not recorded elsewhere. 
 
  * [<span class="md-panel" style="font-size: larger">Graphic</span>](graphic-panel.md)  1{**type**: array (obj: <span class="md-panel">Graphic</span>)}1  An array of file descriptions for images, maps, flow charts, models, logos, etc. associated with the citation.
- 
- * [<span class="md-panel" style="font-size: larger">Online Graphic Resource</span>](onlineGraphicResource-panel.md)  1{**type**: array (obj: <span class="md-panel">Online Graphic Resource</span>); **default**: empty}1  An array of internet links to the graphic files. 

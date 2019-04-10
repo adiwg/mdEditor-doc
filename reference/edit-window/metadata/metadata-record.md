@@ -29,9 +29,9 @@ See specific section documentation for details:
 
  * [<span class="md-section" style="font-size: larger">Constraint Section</span>](constraint-panels/constraint-section.md)  Used to document constraints of any kind regarding the distribution and use of the main resource. 
 
- * [<span class="md-section" style="font-size: larger">Associated Section</span>](associated-panels/associated-section.md)  Allows for defining connection between the main resource and other related resources. 
+ * [<span class="md-section" style="font-size: larger">Associated Section</span>](associated-panels/associated-section.md)  Allows for defining connections between the main resource and other related resources. 
 
- * [<span class="md-section" style="font-size: larger">Documents Section</span>](documents-panels/document-section.md)  Supports adding references to documents relevant to the main resource. 
+ * [<span class="md-section" style="font-size: larger">Documents Section</span>](documents-panels/document-section.md)  Supports adding references to documents that are relevant to the main resource. 
 
  * [<span class="md-section" style="font-size: larger">Funding Section</span>](funding-panels/funding-section.md)  Collects information about funding sources for development and/or maintenance of the main resource.  
  

@@ -20,7 +20,7 @@
 {% include "../../../include-objects/identifier-obj.md" %}
 
   {% hint style='danger' %}
-  As a safety precaution, this <span class="md-element">Identifier</span> element has an 'Edit' button to prevent accidental changes.  Click the <strong class="btn btn-warning btn-xs"> <i class="fa fa-pencil"> </i> Edit</strong> button to change the <span class="md-element">Identifier</span>.  Use caution when editing the <span class="md-element">Metadata Identifier</span>.  This ID must be unique among ALL your metadata records.  If this ID was used to link with other metadata records, changing it may break the link.
+  As a safety precaution, the <span class="md-element">Identifier</span> element has an 'Edit' button to prevent accidental changes.  Click the <strong class="btn btn-warning btn-xs"> <i class="fa fa-pencil"> </i> Edit</strong> button to change the <span class="md-element">Identifier</span>.  Use caution when editing the <span class="md-element">Metadata Identifier</span>.  This ID must be unique among ALL your metadata records.  If this ID was used to link with other metadata records, changing it may break the link.
   {% endhint %}
 
 ---

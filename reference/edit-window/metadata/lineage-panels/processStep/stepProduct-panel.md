@@ -3,7 +3,7 @@
 
 ### Step Products Array
 
-<span class="md-panel" style="font-size: larger">Step Products</span> 1{**type**: array (string)}1  An array of references to data sets or other resource created as a product or in the process of preforming this <span class="md-panel">Process Step</span>. Each limitation is a text string.
+<span class="md-panel" style="font-size: larger">Step Products</span> 1{**type**: array (string)}1  An array of references to datasets or other resources created as a product of this <span class="md-panel">Process Step</span>, or created in the process of performing this <span class="md-panel">Process Step</span>. Each description is a text string.
 
 ![Step Products Array](/assets/reference/edit-objects/metadata/lineage/stepProduct-array.png)
 

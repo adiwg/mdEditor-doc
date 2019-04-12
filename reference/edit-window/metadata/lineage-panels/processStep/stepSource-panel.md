@@ -3,7 +3,7 @@
 
 ### Step Sources Array
 
-<span class="md-panel" style="font-size: larger">Step Sources</span> 1{**type**: array (string)}1  An array of references to a data source or other resource used source material in this <span class="md-panel">Process Step</span>. Each limitation is a text string.
+<span class="md-panel" style="font-size: larger">Step Sources</span> 1{**type**: array (string)}1  An array of references to a data source or other resource used in this <span class="md-panel">Process Step</span>. Each description is a text string.
 
 ![Step Source Array](/assets/reference/edit-objects/metadata/lineage/stepSource-array.png)
 

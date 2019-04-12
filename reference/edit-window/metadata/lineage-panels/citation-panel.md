@@ -3,7 +3,7 @@
 
 ### Citation Array
 
- * <span class="md-panel" style="font-size: larger"> Citation</span>  1{**type**: array (obj: <span class="md-panel"> Citation</span>)}1  A reference to information about the source dataset, including an online resoruce or other instructions. 
+ * <span class="md-panel" style="font-size: larger"> Citation</span>  1{**type**: array (obj: <span class="md-panel"> Citation</span>)}1  A reference to information about the source dataset, including an online resource or other instructions. 
 
 ![Lineage Citation Array](/assets/reference/edit-objects/metadata/lineage/citation-array.png)
 

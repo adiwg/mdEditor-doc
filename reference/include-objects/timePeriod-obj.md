@@ -20,7 +20,7 @@
 
 * <span class="md-element">Description</span> 1{**type**: string; **max length**: none; **default**: empty}1 A brief description of any relevant information for this <span class="md-panel">Time Period</span>.  
 
-* <span class="md-element">Time Period Names</span> 1{**type**: array (string); **max length**: none; **default**: empty}1 - An array of user assigned names for this time period.  Each name is a character string.
+* <span class="md-element">Time Period Names</span> 1{**type**: array (string); **max length**: none; **default**: empty}1 - An array of user-assigned names for this time period.  Each name is a character string.
 
 * <span class="md-element">Interval</span> 1{**type**: object (<span class="md-panel">Time Interval</span>); **default**: empty}1 An object to specify a time interval for the resource.  2{[See object details](#time-interval-object)}2
 

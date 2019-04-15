@@ -17,7 +17,7 @@ In mdEditor, <span class="md-panel">Contacts</span> are edited and saved separat
    
  * The <span class="md-panel">Contact</span>'s name is displayed at the top of the <span class="md-window">Edit Window</span>.
  
- * There is a small <span class="btn btn-default btn-xs">Show</span> button in the <span class="md-window">Breadcrumb Bar</span> that will open a view with all of the <span class="md-panel">Contact</span>'s information displayed. This may be helpful when determining if you have selected the intended contact for editing or just want to see what information was entered for a contact.  
+ * There is a small <span class="btn btn-default btn-xs">Show</span> button in the <span class="md-window">Breadcrumb Bar</span> that will open a view with all of the <span class="md-panel">Contact</span>'s information displayed. This may be helpful when determining if you have selected the intended contact for editing or when you just want to see what information was entered for a contact.  
 
 ---
 
@@ -41,7 +41,7 @@ In mdEditor, <span class="md-panel">Contacts</span> are edited and saved separat
 
   For "Individual" contact records <span class="md-element">Position Name</span> is required when <span class="md-element">Individual Name</span> is empty.  For "Organization" contact records <span class="md-element">Position Name</span> is hidden on the <span class="md-window">Edit Window</span>.
   
-* <span class="md-element">Contact Type</span> 1{**type**: codelist (ADIwg codes); **extensible**: YES; **multi-value**: NO; **default**: empty}1 A user assigned type for the contact. 
+* <span class="md-element">Contact Type</span> 1{**type**: codelist (ADIwg codes); **extensible**: YES; **multi-value**: NO; **default**: empty}1 A user-assigned type for the contact. 
 
 * <span class="md-element">Member of Organization</span> 1{**type**: codelist (Organization <span class="md-panel">Contact</span>); **extensible**: NO; **multi-value**: YES; **default**: empty}1 A list of "Organization" <span class="md-panel">Contacts</span> the "Individual" or "Organization" <span class="md-panel">Contact</span> record being edited is affiliated with.  
 

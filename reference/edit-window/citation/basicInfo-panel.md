@@ -15,7 +15,7 @@
       
 * <span class="md-element">Edition</span> 1{**type**: string; **max length**: none; **default**: empty}1 Version identifier for the resource.
 
-* <span class="md-element">Presentation Form</span> 1{**type**: codelist (ISO CI_PresentationFormCode, ADIwg codes); **multi-value**: YES; **extensible**: YES; **multi-value**: YES; **default**: empty}1 The form that the resource is presented, such as: digital map, digital document, etc.
+* <span class="md-element">Presentation Form</span> 1{**type**: codelist (ISO CI_PresentationFormCode, ADIwg codes); **multi-value**: YES; **extensible**: YES; **multi-value**: YES; **default**: empty}1 The form that the resource is presented in, such as: digital map, digital document, etc.
 
 ---
 

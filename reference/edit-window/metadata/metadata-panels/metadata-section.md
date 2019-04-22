@@ -1,7 +1,7 @@
 # Metadata Record -- Metadata Section
 ---
 
-The <span class="md-section">Metadata</span> section of the <span class="md-window">Edit Window</span> collects general information about the metadata record itself.  This is information about the metadata, not the resource described by the metadata.  What's this? Metadata about metadata!!  Yep. 
+The <span class="md-section">Metadata</span> section of the <span class="md-window">Edit Window</span> collects general information about the metadata record itself.  This is information about the metadata, not the resource described by the metadata.  Yes, this is metadata about metadata! 
 
 ![Metadata Edit Window](/assets/reference/edit-objects/metadata/metadata/metadata-editWindow.png)
 

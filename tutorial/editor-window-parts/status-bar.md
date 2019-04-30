@@ -9,6 +9,11 @@ The <span class="md-window">Status Bar</span> is always present at the bottom of
 
 An issue you encounter while using mdEditor can be reported and tracked using the 'Report Issue' button.  This will open to a page of known mdEditor issues and provide a means of posting to an existing issue or creating a new issue if warranted. 
 
+{% hint style='info' %}
+You must have a GitHub account to view the list of existing issues or to submit a new issue. GibHub accounts are free to create.  
+{% endhint %}
+
+
 ### AutoSave Status
 
 No surprise, the 'AutoSave' status reports the status of the 'AutoSave' option and will either be 'On' or 'Off'.

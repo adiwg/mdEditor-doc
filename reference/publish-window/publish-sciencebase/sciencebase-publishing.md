@@ -18,7 +18,7 @@ The Publishing Outline displays a list of every valid record in mdEditor with it
 
  * Items directly below the ScienceBase header will be published under the ScienceBase item identified in your settings as “Default Parent Identifier.” Items below the blue line will be published under the parent ID specified in the metadata.
 
-For example, if the Default Parent Identifier is your *community*, then projects at the root level in the publishing outline will be added directly under your *community*, but products nested under a project in the outline will be added as a direct child item to the project item on ScienceBase. Items listed at the root level in the publishing outline don't have a parentID that correspond with a record loaded in mdEditor (Note: you could have other parent IDs identified in those records, but those records are not loaded in mdEditor)
+For example, if the Default Parent Identifier is your *community*, then projects at the root level in the publishing outline will be added directly under your *community*, but products nested under a project in the outline will be added as a direct child item to the project item on ScienceBase. Items listed at the root level in the publishing outline don't have a parentID that corresponds to a record loaded in mdEditor (Note: you could have other parent IDs identified in those records, but those records are not loaded in mdEditor)
 
 **Notes on Moving Records ...**
 
@@ -103,7 +103,7 @@ Before you move records in the publishing outline please select your scenario be
 
 #### Step 4: Review Records on ScienceBase
 
-1. Once publishing is done, refresh ScienceBase to ensure everything is showing up how you expected it would show up.
+1. Once publishing is done, refresh ScienceBase to ensure everything is showing up the way you expected it would show up.
 
    * SB items should be updated with the new metadata information.
    

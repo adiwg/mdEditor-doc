@@ -11,7 +11,7 @@
 
 ### Phone Number Object
 
-* <span class="md-element">Name</span> 1{**type**: string; **max length**: none; **default**: empty}1 User assigned name to phone or phone's location.
+* <span class="md-element">Name</span> 1{**type**: string; **max length**: none; **default**: empty}1 User-assigned name for the phone or phone's location.
 
 * <span class="md-element">Number</span> <i class="fa fa-asterisk required" title="Required"> </i> 1{**type**: NANP phone number; **max length**: none; **default**: empty}1 Phone number.  
 

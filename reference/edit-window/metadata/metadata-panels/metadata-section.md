@@ -1,7 +1,7 @@
 # Metadata Record -- Metadata Section
 ---
 
-The <span class="md-section">Metadata</span> section of the <span class="md-window">Edit Window</span> collects general information about the metadata record itself.  This is information about the metadata, not the resource described by the metadata.  What's this? Metadata about metadata!!  Yep. 
+The <span class="md-section">Metadata</span> section of the <span class="md-window">Edit Window</span> collects general information about the metadata record itself.  This is information about the metadata, not the resource described by the metadata.  Yes, this is metadata about metadata! 
 
 ![Metadata Edit Window](/assets/reference/edit-objects/metadata/metadata/metadata-editWindow.png)
 
@@ -13,9 +13,9 @@ The <span class="md-section">Metadata</span> section of the <span class="md-wind
 
  * [<span class="md-panel" style="font-size: larger">Parent Metadata</span>](parent-panel.md)  1{**type**: object (<span class="md-panel">Citation</span>); **default** empty}1  A citation for a parent resource or project. 
 
- * [<span class="md-panel" style="font-size: larger">Metadata Repositories</span>](repository-panel.md)  1{**type**: array (obj: <span class="md-panel">Repository</span>)}1  A array of metadata repositories or clearing houses where the metadata record has been cached.
+ * [<span class="md-panel" style="font-size: larger">Metadata Repositories</span>](repository-panel.md)  1{**type**: array (obj: <span class="md-panel">Repository</span>)}1  An array of metadata repositories or clearing houses where the metadata record has been cached.
 
- * [<span class="md-panel" style="font-size: larger">Online Resource</span>](onlineResource-panel.md)  1{**type**: array (obj: <span class="md-panel">Online Resource</span>)}1  An array links to online locations where this metadata record can be retrieved.
+ * [<span class="md-panel" style="font-size: larger">Online Resource</span>](onlineResource-panel.md)  1{**type**: array (obj: <span class="md-panel">Online Resource</span>)}1  An array of links to online locations where this metadata record can be retrieved.
 
  * [<span class="md-panel" style="font-size: larger">Metadata Maintenance</span>](maintenance-panel.md)  1{**type**: object (obj: <span class="md-panel">Maintenance</span>)}1 A description of the maintenance schedule for this metadata record. 
 

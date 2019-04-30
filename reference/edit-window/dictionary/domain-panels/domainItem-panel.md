@@ -26,7 +26,7 @@ The array allows editing of the three required <span class="md-panel">Domain Ite
 * <span class="md-element">Value</span> <i class="fa fa-asterisk required" title="Required"> </i> 1{**type**: string; **max length**: none; **default**: empty}1  The <span class="md-panel">Domain Item</span> value.  
 
   {% hint style='info' %}
-  For the metadata, all domain values are entered as strings.  The intent of the metadata is strictly to inform.  This value in a database 'loop-up' table will likely be strongly typed as required (e.g. character, integer, real, Boolean, etc.)
+  For the metadata, all domain values are entered as strings.  The intent of the metadata is strictly to inform.  This value in a database 'look-up' table will likely be strongly typed as required (e.g. character, integer, real, Boolean, etc.)
   {% endhint %}
 
 * <span class="md-element">Definition</span> <i class="fa fa-asterisk required" title="Required"> </i> 1{**type**: string; **max length**: none; **default**: empty}1  A brief definition of the <span class="md-panel">Domain Item</span>. 

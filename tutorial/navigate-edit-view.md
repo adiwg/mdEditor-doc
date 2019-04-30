@@ -1,6 +1,6 @@
 # Tutorial -- Navigating the Edit View
 ---
-Your newly created metadata record should appear very similar to the following screen image; without all the text balloons of course...
+Your newly created metadata record should appear very similar to the following screen image, without all the text balloons of course...
 
 ![The Edit View of a metadata record](/assets/tutorial/orientation-main-window.png){caption}
 

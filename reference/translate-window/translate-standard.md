@@ -13,7 +13,7 @@
   {% endhint %} 
   
   {% hint style='info' %}
-  Not all missing requirements can be patched by mdTranslator.  In general, most missing elements can be replaced with some form of a 'missing tag'.  Missing section for FGDC CSDGM outputs cannot be patched, such as a missing contact section.  Missing sections in ISO can be patched.
+  Not all missing requirements can be patched by mdTranslator.  In general, most missing elements can be replaced with some form of a 'missing tag'.  Missing sections in FGDC CSDGM outputs cannot be patched, such as a missing contact section.  Missing sections in ISO can be patched.
   {% endhint %}
 
 * <span class="md-element">Show Empty Tags</span> 1{**type**: Boolean; **default**: No}1  Applies to non-required elements of ISO and FGDC standards only.  If 'Yes', mdTranslator will place an empty tag when values are missing.  If 'No', mdTranslator will take no action.  

@@ -3,7 +3,7 @@
 
 ### CSV Import Process
 
-New <span class="md-panel">Entities</span> can be created using the mdEditor CSV Import process.  The process is able to create an entity, along with it's associated attributes and domains, in a single step.  However, not all entity, attribute, and domain elements are supported by the CSV import process.  Even some required elements cannot be captured from the CSV file, so additional editing is always required.  
+New <span class="md-panel">Entities</span> can be created using the mdEditor CSV Import process.  The process is able to create an entity, along with its associated attributes and domains, in a single step.  However, not all entity, attribute, and domain elements are supported by the CSV import process.  Even some required elements cannot be captured from the CSV file, so additional editing is always required.  
 
 {% hint style='info' %}
   Only one entity can be imported per CSV file.

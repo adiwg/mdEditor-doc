@@ -10,7 +10,7 @@ Now that we have entered our minimal mdJSON metadata record let's see how easy i
 {% endhint %}
 
 {% hint style='tip' %}
-  You can verify which metadata record will be translated by checking the name of the record in the <span class="md-window">Breadcrumb</span> path.
+  You can verify which metadata record will be translated by checking the name of the record in the <span class="md-window">Breadcrumb Bar</span> path.
 {% endhint %}
 
 As you can see there are few controls on this page since translating from mdJSON to other formats is pretty straightforward.  Let's try it now. 

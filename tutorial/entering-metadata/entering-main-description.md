@@ -17,7 +17,7 @@ The <span class="md-panel">Description</span> panel, like the <span class="md-pa
 
 ![Edit Window - Main - Description Elements](/assets/tutorial/edit-window-main-description-2.png){caption}
 
-As you can see, mdEditor has a pretty sweet text editor integrated into the application.  The editor supports many standard text formatting options and includes spell check, help, full-screen, and preview modes.  It will do pretty much anything but write your abstract for you! Sorry about that.  
+As you can see, mdEditor has a pretty sweet text editor integrated into the application.  The editor supports many standard text formatting options and includes spell check, help, full-screen, and preview modes.  It will do pretty much anything but write your abstract for you!   
 
 {% hint style='info' %}
   The text formatter used by mdEditor is a "Markdown" editor.  Wikipedia defines Markdown "as a lightweight markup language with plain text formatting syntax. It is designed so that it can be converted to HTML and many other formats ..."  

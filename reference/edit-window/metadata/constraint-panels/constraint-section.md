@@ -17,7 +17,7 @@ When no <span class="md-panel">Constraints</span> have been defined for the <spa
 
 * <span class="md-element">Constraint Type</span> <i class="fa fa-asterisk required" title="Required"></i> 1{**type**: codelist (ADIwg enumerated list); **extensible**: NO; **multi-value**: NO; **default**: empty}1  The type of constraint: use, legal, security.  
 
-  * **Use limitations** caution on the limitations of the fitness of data, findings, or metadata in various use cases.  i.e. What the data should NOT be used for.  Limitations are not legally binding nor deal with security concerns.
+  * **Use limitations** caution on the limitations of the fitness of data, findings, or metadata in various use cases.  i.e. What the data should NOT be used for.  Limitations are not legally binding and do not deal with security concerns.
   
   * **Legal constraints** enumerate any legally binding restrictions and prerequisites for accessing and using the resource or metadata including copyrights and intellectual property rights.
   

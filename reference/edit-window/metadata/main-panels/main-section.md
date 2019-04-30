@@ -14,7 +14,7 @@ The <span class="md-section">Main</span> section of the <span class="md-window">
 
  * [<span class="md-panel" style="font-size: larger">Citation</span>](citation-panel.md)  <i class="fa fa-asterisk required" title="Required"> </i> 1{**type**: object (<span class="md-panel">Citation</span>); **default** empty}1  The <span class="md-panel">Citation</span> for the main resource. 
 
- * [<span class="md-panel" style="font-size: larger">Description</span>](description-panel.md)  <i class="fa fa-asterisk required" title="Required"> </i> 1{**type**: collection}1 <span class="md-panel">Description</span> is a collection of independent elements for various text descriptions of the main resource. 
+ * [<span class="md-panel" style="font-size: larger">Description</span>](description-panel.md)  <i class="fa fa-asterisk required" title="Required"> </i> 1{**type**: collection}1 <span class="md-panel">Description</span> is a collection of independent elements that hold various text descriptions of the main resource. 
 
  * [<span class="md-panel" style="font-size: larger">Time Period</span>](timePeriod-panel.md)  1{**type**: object (<span class="md-panel">Time Period</span>)}1 The <span class="md-panel">Time Period</span> describes a period of time over which the resource is relevant.  
 

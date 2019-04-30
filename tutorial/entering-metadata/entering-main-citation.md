@@ -9,14 +9,14 @@ As you can see, something is different with this panel. The <span class="md-pane
 
 A full metadata record may contain many different citations.  This one is for the primary resource of the metadata record.  Others identify various external resource that were used or referenced by the project or product defined by this metadata record.  These will be entered from other <span class="md-window">Edit Window</span> sections such as the citation for a keyword thesaurus or the citation for a taxonomic classification system. 
 
-All citations share the same format.  Thus what is shown here for the main resource citation applies to all <span class="md-panel">Citation</span> panels wherever they appear in mdEditor.  Because all citations share the same format, they are edited from a common <span class="md-window">Citation Edit Window</span>.  Therefore, when editing any <span class="md-panel">Citation</span> object, you will leave the <span class="md-window">Edit Window</span> section you are on when you click the <strong class="btn btn-success btn-xs"> <i class="fa fa-pencil"> </i> Edit</strong> button on the <span class="md-window">Panel Title Bar</span> (or the one at the bottom of the <span class="md-panel">Citation</span> panel), make your edits, then return to the initial <span class="md-window">Edit Window</span> section by clicking the <strong class="btn btn-primary btn-xs"><i class="fa fa-arrow-left"> </i> Back to Main</strong> button in the <span class="md-window">Secondary Sidebar</span> when finished. 
+All citations share the same format.  Thus what is shown here for the main resource citation applies to all <span class="md-panel">Citation</span> panels wherever they appear in mdEditor.  Because all citations share the same format, they are edited from a <span class="md-window">Citation Edit Window</span>.  Therefore, when editing any <span class="md-panel">Citation</span> object, you will leave the <span class="md-window">Edit Window</span> section you are on when you click the <strong class="btn btn-success btn-xs"> <i class="fa fa-pencil"> </i> Edit</strong> button on the <span class="md-window">Panel Title Bar</span> (or the one at the bottom of the <span class="md-panel">Citation</span> panel), make your edits, then return to the initial <span class="md-window">Edit Window</span> section by clicking the <strong class="btn btn-primary btn-xs"><i class="fa fa-arrow-left"> </i> Back to Main</strong> button in the <span class="md-window">Secondary Sidebar</span> when finished. 
 
 {% hint style='info' %}
   <span class="md-panel">Citation</span> has only one required element in mdJSON, <span class="md-element">Title</span>.  Since the main resource <span class="md-panel">Citation</span> <span class="md-element">Title</span> is also the metadata record <span class="md-element">Title</span> and that has already been defined, technically there are no missing <span class="md-panel">Citation</span> elements.  We could skip editing <span class="md-panel">Citation</span> and still meet minimal requirements; however <span class="md-panel">Citation</span> is so widely used throughout mdEditor let's jump in and edit a non-required element.
 {% endhint %}  
 
 {% hint style='danger' %}
-  Remember, Citation Title and the Record Title are one! Changing the Citation Title also changing the Record Title. 
+  Remember, Citation Title and the Record Title are one! Changing the Citation Title also changes the Record Title. 
 {% endhint %}
 
 {% hint style='working' %}
@@ -32,7 +32,7 @@ From working with <span class="md-panel">Resource Types</span> earlier in this e
 
 {% hint style='working' %}
   Enter <span class="md-element">Alternate Titles</span>
-  * Click either <strong class="btn btn-info btn-xs"> <i class="fa fa-plus"> </i> Alternate Title</strong> button
+  * Click either <strong class="btn btn-info btn-xs"> <i class="fa fa-plus"> </i> Add Alternate Title</strong> button
   * Enter an <span class="md-element">Alternate Title</span>. I entered "First Alternate."
   * Enter a second <span class="md-element">Alternate Title</span>
   * Click the <strong class="btn btn-primary btn-xs"><i class="fa fa-arrow-left"> </i> Back to Main</strong> button in the <span class="md-window">Secondary Sidebar</span> when you have finish entering your <span class="md-element">Alternate Titles</span>.  

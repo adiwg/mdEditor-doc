@@ -37,7 +37,7 @@
 
 * [<span class="md-panel" style="font-size: larger">Step Processor</span>](stepProcessor-panel.md) 1{**type**: array (<span class="md-panel">obj: Responsible Party</span>)}1  An array persons and/or organizations involved in executing the <span class="md-panel">Process Step</span>. 
 
-* [<span class="md-panel" style="font-size: larger">Step Reference</span>](stepCitation-panel.md) 1{**type**: array (<span class="md-panel">obj: Citation</span>)}1  An array citations referencing the process used in the <span class="md-panel">Process Step</span>. 
+* [<span class="md-panel" style="font-size: larger">Step Reference</span>](stepCitation-panel.md) 1{**type**: array (<span class="md-panel">obj: Citation</span>)}1  An array of citations for the resources used in the <span class="md-panel">Process Step</span>. 
 
 * [<span class="md-panel" style="font-size: larger">Time Period</span>](stepTime-panel.md) 1{**type**: object (<span class="md-panel">Time Period</span>); **default** empty}1  The time period over which the <span class="md-panel">Process Step</span> was performed. 
 

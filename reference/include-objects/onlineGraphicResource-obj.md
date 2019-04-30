@@ -18,4 +18,4 @@
 
 * <span class="md-element">Description</span> 1{**type**: string; **max length**: 500 characters; **default**: empty}1 A text description with additional details of what the graphic resource is or describes. 
 
-* <span class="md-element">Function</span> 1{**type**: codelist (ISO CI_OnLineFunctionCode, ADIwg codes); **extensible**: YES; **multi-value**: NO; **default**: empty}1 A code declaring the intended function or the graphic resource. 
+* <span class="md-element">Function</span> 1{**type**: codelist (ISO CI_OnLineFunctionCode, ADIwg codes); **extensible**: YES; **multi-value**: NO; **default**: empty}1 A code declaring the intended function of the graphic resource. 

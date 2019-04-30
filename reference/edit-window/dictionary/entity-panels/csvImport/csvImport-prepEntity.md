@@ -5,7 +5,7 @@
 
 ![Entity Staged for Import](/assets/reference/edit-objects/dictionary/entities/csvImport2.png){caption}
 
-On the above import window several items need to be completed and/or at considered before clicking the <strong><span class="btn btn-info btn-xs"> <i class="fa fa-sign-in"> </i> Do Import </span> </strong> button in the <span class="md-window">Secondary Sidebar</span>.
+On the above import window several items need to be completed and/or considered before clicking the <strong><span class="btn btn-info btn-xs"> <i class="fa fa-sign-in"> </i> Do Import </span> </strong> button in the <span class="md-window">Secondary Sidebar</span>.
 
   {% hint style='info' %}
   Any items not completed here may be edited later using the mdEditor <span class="md-panel">Entity</span>, <span class="md-panel">Attribute</span>, and <span class="md-panel">Domain</span> edit windows.
@@ -23,12 +23,12 @@ On the above import window several items need to be completed and/or at consider
     
    * In the <span class="md-element">Name</span> column you can change the <span class="md-panel">Attribute</span> name.  The original CSV header column name is shown in the next column wrapped in parenthesis.
     
-   * While reading the CSV file, mdEditor attempted to identify the datatype of <span class="md-panel">Attributes</span> and placed it's best guess in the <span class="md-element">Data Type</span> column of the <span class="md-panel">Setup</span> panel. Review mdEditor's decision and change it if necessary.  It was just a guess!
+   * While reading the CSV file, mdEditor attempted to identify the datatype of <span class="md-panel">Attributes</span> and placed its best guess in the <span class="md-element">Data Type</span> column of the <span class="md-panel">Setup</span> panel. Review mdEditor's decision and change it if necessary.  It was just a guess!
     
-   * If the values associated with an <span class="md-panel">Attribute</span> constitute a domain, place a check in the <span class="md-element">Domain</span> element checkbox and new <span class="md-panel">Domain</span> will be generated using the attribute's values. A list of the unique domain values detected by mdEditor can be previewed by rolling the mouse over the <strong class="btn btn-info btn-xs"> <i class="fa fa-eye" title="Required"> </i> Example</strong> button.
+   * If the values associated with an <span class="md-panel">Attribute</span> constitute a domain, place a check in the <span class="md-element">Domain</span> element checkbox and a new <span class="md-panel">Domain</span> will be generated using the attribute's values. A list of the unique domain values detected by mdEditor can be previewed by rolling the mouse over the <strong class="btn btn-info btn-xs"> <i class="fa fa-eye" title="Required"> </i> Example</strong> button.
     
    * Place a check in the <span class="md-element">Allow Nulls</span> checkbox if the <span class="md-panel">Attribute</span> is permitted to have null (empty) values. 
 
-   * Place a check in the <span class="md-element">Min/Max</span> checkbox if the <span class="md-panel">Attribute</span>'s value is to be restricted by these bounds.  The minimum and maximum values shown will be transferred to <span class="md-element">Minimum Value</span> and <span class="md-element">Maximum Value</span> elements of <span class="md-panel">Attribute</span> *[See the Attribute Information Panel for more detail](../../attribute-panels/attributeInfo-panel.md)*. 
+   * Place a check in the <span class="md-element">Min/Max</span> checkbox if the <span class="md-panel">Attribute</span>'s value is to be restricted by these bounds.  The minimum and maximum values shown will be transferred to <span class="md-element">Minimum Value</span> and <span class="md-element">Maximum Value</span> elements of the <span class="md-panel">Attribute</span> *[See the Attribute Information Panel for more detail](../../attribute-panels/attributeInfo-panel.md)*. 
    
 ![Entity Ready for Import](/assets/reference/edit-objects/dictionary/entities/csvImport3.png){caption}

@@ -7,7 +7,7 @@ When no <span class="md-panel">Associated Resources</span> have been defined for
 
 ![Associated Section with no Associated Resources Defined](/assets/reference/edit-objects/metadata/associated/associated-start.png)
 
-<strong class="btn btn-success btn-xs"> <i class="fa fa-plus"> </i> Add Associated Resource</strong> and <strong class="btn btn-success btn-xs"> <i class="fa fa-plus"> </i> Add Resource</strong>  To add an <span class="md-panel">Associated Resource</span> click either button, they serve the same function.  After clicking one of the buttons you will be transferred to the <span class="md-panel">Additional Resource</span> <span class="md-window">Edit Window</span> where you can complete data entry for the resource.  
+<strong class="btn btn-success btn-xs"> <i class="fa fa-plus"> </i> Add Associated Resource</strong> and <strong class="btn btn-success btn-xs"> <i class="fa fa-plus"> </i> Add Resource</strong>  To add an <span class="md-panel">Associated Resource</span> click either button, they serve the same function.  After clicking one of the buttons you will be transferred to the <span class="md-panel">Associated Resource</span> <span class="md-window">Edit Window</span> where you can complete data entry for the resource.  
 
 ![Associated Resource Edit Window](/assets/reference/edit-objects/metadata/associated/associated-editWindow.png)
 

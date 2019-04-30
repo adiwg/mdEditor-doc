@@ -2,7 +2,7 @@
 
 ---
 
-In mdEditor, <span class="md-panel">Metadata Records</span> are created, edited, and maintained separately.  This normalized approach to the editor and record management allows the metadata author the flexibility to combine and reuse individual parts when creating subsequent metadata records.  
+In mdEditor, <span class="md-panel">Metadata Records</span>, <span class="md-panel">Contact Records</span> <span class="md-panel">Dictionary Records</span> are created and maintained separately.  This normalized format allows mdEditor to reference a contact multiple times within a single metadata record without restating the contact's information.  The approach also allows individual contacts and dictionaries to be incorporated into many metadata records. 
 
 ![Main mdEditor Dashboard](/assets/reference/reference/primaryDashboard.png){caption}
 

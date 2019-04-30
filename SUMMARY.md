@@ -52,7 +52,7 @@
         * [Legal Constraint](reference/edit-window/metadata/constraint-panels/legal-panel.md)
         * [Security Constraint](reference/edit-window/metadata/constraint-panels/security-panel.md)
         * [Responsible Parties](reference/edit-window/metadata/constraint-panels/responsibleParty-panel.md)
-        * [Graphic and Logo Array](reference/edit-window/metadata/constraint-panels/graphic-panel.md)
+        * [Graphic or Logo Array](reference/edit-window/metadata/constraint-panels/graphic-panel.md)
         * [Online Graphic Resource Panel](reference/edit-window/metadata/constraint-panels/onlineGraphic-panel.md)
       * [Associated Resource Section](reference/edit-window/metadata/associated-panels/associated-section.md)
         * [Select a Resource](reference/edit-window/metadata/associated-panels/selectResource-panel.md)

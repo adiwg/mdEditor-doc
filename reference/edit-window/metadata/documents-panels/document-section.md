@@ -19,7 +19,7 @@ The <span class="md-panel">Additional Document</span> object is basically a <spa
 
 * <span class="md-panel" style="font-size: larger">Resource Types</span> <i class="fa fa-asterisk required" title="Required"> </i> 1{**type**: array (obj: <span class="md-panel">Resource Type</span>)}1 Identifies the general class or kind of <span class="md-panel">Additional Document</span> being described.  2{[See object details](#resource-type-object)}2 
 
-* <span class="md-panel" style="font-size: larger">Remaining Panel Elements</span> 1{**type**: object (<span class="md-panel">Citation</span>); **default** empty}1 The remaining panel elements comprise the <span class="md-panel">Additional Document Citation</span> object.  This is a <span class="md-panel">Citation</span> object which references the external document being linked with the main resource.
+* <span class="md-panel" style="font-size: larger">Remaining Panel Elements</span> 1{**type**: object (<span class="md-panel">Citation</span>); **default** empty}1 The remaining panel elements comprise the <span class="md-panel">Additional Document</span> citation.  This <span class="md-panel">Citation</span> object references the external document being linked with the main resource.
   
   See the [Citation Reference](../../citation/citation-section.md) for documentation on specific <span class="md-panel">Additional Document Citation</span> panels.
 

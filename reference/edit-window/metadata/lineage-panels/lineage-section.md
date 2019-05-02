@@ -5,15 +5,15 @@ The <span class="md-section">Lineage</span> section of the <span class="md-windo
 
 When no <span class="md-panel">Lineage</span> has been defined for the <span class="md-panel">Metadata Record</span> a large blue bar is displayed on the page declaring "No Lineage found."  
 
-![Lineage Section with no Lineage Defined](/assets/reference/edit-objects/metadata/lineage/lineage-start.png)
+![Lineage Section with no Lineage Defined](/assets/reference/edit-objects/metadata/lineage/lineage-start.png){caption}
 
 <strong class="btn btn-success btn-xs"> <i class="fa fa-plus"> </i> Add Lineage</strong> and <strong class="btn btn-success btn-xs"> <i class="fa fa-plus"> </i> Add Lineage Object</strong>  To add a resource <span class="md-panel">Lineage</span> object click either button, they serve the same function.  After clicking one of the buttons you will be transferred to the <span class="md-panel">Lineage</span> <span class="md-window">Edit Window</span> where you can complete data entry for the resource lineage.  
 
-![Lineage Edit Window](/assets/reference/edit-objects/metadata/lineage/lineage-editWindow.png)
+---
+
+![Lineage Edit Window](/assets/reference/edit-objects/metadata/lineage/lineage-editWindow.png){caption}
 
 <strong class="btn btn-primary btn-xs"> <i class="fa fa-arrow-left"> </i> Back to Lineage List</strong> Click to return to the list of defined <span class="md-panel">Lineages</span>. 
-
----
 
 * <span class="md-element">Statement</span> <i class="fa fa-asterisk required" title="Required"> </i> 1{**type**: string; **max length**: none; **default**: empty}1  A description of the resource being described along with a general statement of the overall actions taken to verify, transform, filter, and integrate the resource.
 

@@ -7,15 +7,17 @@ When no <span class="md-panel">Additional Documents</span> have been defined for
 
 ![Documents Section with no Additional Documents Defined](/assets/reference/edit-objects/metadata/documents/document-start.png)
 
-<strong class="btn btn-success btn-xs"> <i class="fa fa-plus"> </i> Add Additional Document</strong> and <strong class="btn btn-success btn-xs"> <i class="fa fa-plus"> </i> Add Document</strong>  To add an <span class="md-panel">Additional Document</span> click either button, they serve the same function.  After clicking one of the buttons you will be transferred to the <span class="md-panel">Additional Document</span> <span class="md-window">Edit Window</span> where you can complete data entry for the reference.  
+<strong class="btn btn-success btn-xs"> <i class="fa fa-plus"> </i> Add Additional Document</strong> and <strong class="btn btn-success btn-xs"> <i class="fa fa-plus"> </i> Add Document</strong>  To add an <span class="md-panel">Additional Document</span> click either button, they serve the same function.  
+
+---
+
+After clicking one of the buttons you will be transferred to the <span class="md-panel">Additional Document</span> <span class="md-window">Edit Window</span> where you can complete data entry for the reference.  
 
 ![Documents Edit Window](/assets/reference/edit-objects/metadata/documents/document-editWindow.png)
 
 The <span class="md-panel">Additional Document</span> object is basically a <span class="md-panel">Resource Type</span> array concatenated to a full <span class="md-panel">Citation</span> object.  In other words, the <span class="md-panel">Additional Document</span> is a citation to some external document that is qualified by one or more <span class="md-panel">Resource Types</span>.  
 
 <strong class="btn btn-primary btn-xs"> <i class="fa fa-arrow-left"> </i> Back to Document List</strong> Click to return to the list of defined <span class="md-panel">Additional Documents</span>. 
-
----
 
 * <span class="md-panel" style="font-size: larger">Resource Types</span> <i class="fa fa-asterisk required" title="Required"> </i> 1{**type**: array (obj: <span class="md-panel">Resource Type</span>)}1 Identifies the general class or kind of <span class="md-panel">Additional Document</span> being described.  2{[See object details](#resource-type-object)}2 
 

@@ -1,7 +1,7 @@
 # Metadata Record -- Keyword Section
 ---
 
-The <span class="md-section">Keyword</span> section of the <span class="md-window">Edit Window</span> is used to define keyword sets for the main resource.  Each <span class="md-panel">Keyword Set</span> is associated with a <span class="md-panel">Keyword Thesaurus</span> which references the master dictionary from which the individual <span class="md-element">Keywords</span> were selected.  
+The <span class="md-section">Keywords</span> section of the <span class="md-window">Edit Window</span> is used to define keyword sets for the main resource.  Each <span class="md-panel">Keyword Set</span> is associated with a <span class="md-panel">Keyword Thesaurus</span> which references the master dictionary from which the individual <span class="md-element">Keywords</span> were selected.  
 
 When no <span class="md-panel">Keyword</span> lists have been defined for the <span class="md-panel">Metadata Record</span> a large blue bar is displayed on the page declaring "No keywords found."  
 
@@ -17,5 +17,5 @@ When no <span class="md-panel">Keyword</span> lists have been defined for the <s
  
  Conversely, custom thesauri require the user to enter both the thesaurus information and keywords.
  
- The <span class="md-panel">Keyword</span> panels can be collapsed to de-clutter the window by clicking the 'collapse panel icon' on the upper right corner of the panel.  Once collapsed, they can be expanded again by reversing the process.
+ The <span class="md-panel">Keyword</span> panels may be collapsed to de-clutter the window by clicking the 'collapse panel icon' on the upper right corner of the panel.  Once collapsed, they can be expanded again by reversing the process.
  

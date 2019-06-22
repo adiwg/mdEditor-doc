@@ -4,7 +4,7 @@
 The <span class="md-section">Taxonomy</span> section of the <span class="md-window">Edit Window</span> is used to define taxonomic information for the resource.  The taxonomy is described in a hierarchy to any number of desired levels from Kingdom to Subspecies.  The mdEditor implementation allows multiple entities to be defined at each hierarchy level.  Additionally, branching is permitted at any level of the hierarchy. 
 
 {% hint style='tip' %}
-  Although the <span class="md-section">Taxonomy</span> section was developed to define biological hierarchies it may also be used to define stratigraphic hierarchies for geology or archaeology, temporal periods, or other hierarchies that may describe the resource.
+  Although the <span class="md-section">Taxonomy</span> section was developed to define biological hierarchies it may also be used to define hierarchies in other disciplines, or more loosely used to describe layered or stratigraphic resource.
 {% endhint %}
 
 When no <span class="md-panel">Taxonomic Collections</span> have been defined for the <span class="md-panel">Metadata Record</span> a large blue bar is displayed on the page declaring "No taxonomic collections found."  

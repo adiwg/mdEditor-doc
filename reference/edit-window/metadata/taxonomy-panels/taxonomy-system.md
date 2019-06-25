@@ -16,8 +16,6 @@ The <span class="md-panel">Taxonomic System</span> is a reference to the system 
 
 ![Taxonomy System Array](/assets/reference/edit-objects/metadata/taxonomy/taxonomy-systems-array.png) {caption}
 
-<strong class="btn btn-success btn-xs"> <i class="fa fa-pencil"> </i> Edit</strong>  Click this button to expand the <span class="md-panel">Classification</span> object making all elements available for edit.  
-
 * <span class="md-element">Title</span> <i class="fa fa-asterisk required" title="Required"> </i> 1{**type**: string; **max length**: none; **default**: empty}1   Title (or name) of the <span class="md-panel">Taxonomic System</span> being referenced.  
 
   {% hint style='tip' %}
@@ -29,6 +27,8 @@ The <span class="md-panel">Taxonomic System</span> is a reference to the system 
   {% hint style='tip' %}
  The <span class="md-element">Modifications</span> element may be edited both from the <span class="md-panel">Taxonomic Systems</span> panel array and <span class="md-window">Edit Window</span>
   {% endhint %}
+  
+<strong class="btn btn-success btn-xs"> <i class="fa fa-pencil"> </i> Edit</strong>  Click this button to expand the <span class="md-panel">Classification</span> object making all elements available for edit.  
 
 ---
 

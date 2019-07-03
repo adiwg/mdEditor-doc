@@ -1,7 +1,7 @@
 # Metadata Record -- Taxonomy Section
 ---
 
-The <span class="md-section">Taxonomy</span> section of the <span class="md-window">Edit Window</span> is used to define taxonomic information for the resource.  A <span class="md-panel"> Taxonomic Collection </span> in mdEditor is described using a hierarchy or 'Classification' consisting of a discretionary number of levels from Kingdom to Subspecies.  The mdEditor's implementation also allows multiple entities to be ascribed to each level of the hierarchy which effectively supports branching the hierarchy.  The <span class="md-panel"> Taxonomic Collection </span> further includes information about observers, specimens, and how the species identification was made. 
+The <span class="md-section">Taxonomy</span> section of the <span class="md-window">Edit Window</span> defines the taxonomic information for the resource.  A <span class="md-panel"> Taxonomic Collection </span> in mdEditor is described using a hierarchy or 'Classification' consisting of a discretionary number of levels from Kingdom to Subspecies.  The mdEditor's implementation also allows multiple entities to be ascribed to each level of the hierarchy which effectively supports branching the hierarchy.  The <span class="md-panel"> Taxonomic Collection </span> further includes information about observers, specimens, and how the species identification was made. 
 
 {% hint style='tip' %}
   Although the <span class="md-section">Taxonomy</span> section was originally developed to define biological hierarchies, it may also be used to define hierarchies in other disciplines.  

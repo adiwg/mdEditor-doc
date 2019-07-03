@@ -1,5 +1,8 @@
 ## Controls
 ### Date Time 
-DO NOT EDIT
 
-![Description Panel](/assets/reference/control-objects/markdown.png)
+![DateTime Control Closed](/assets/reference/control-objects/dateTime-control-closed.png)
+
+---
+
+![DateTime Control Open](/assets/reference/control-objects/dateTime-control-open.png)

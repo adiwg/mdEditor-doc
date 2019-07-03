@@ -9,13 +9,8 @@ When no <span class="md-panel">Keyword</span> lists have been defined for the <s
 
 <strong class="btn btn-success btn-xs"> <i class="fa fa-plus"> </i> Add Thesaurus</strong> To add the inital <span class="md-panel">Keyword</span> list click either 'Add Thesaurus' button.  
 
----
+When one or more <span class="md-panel">Keyword</span> lists have been defined the <span class="md-section">Keyword</span> section window will look similar to the image below.  
 
 ![Keyword Section window with multiple Keyword List Defined](/assets/reference/edit-objects/metadata/keyword/keyword-start-2.png){caption}
 
- Two types of <span class="md-panel">Keyword</span> lists may be specified: *predefined* and *custom*.  Thesaurus information for predefined thesauri is inserted by mdEditor and cannot be changed, the elements have been disabled.  Likewise, the keywords from predefined lists must be selected from lists provided by mdEditor and cannot be extended.  
- 
- Conversely, custom thesauri require the user to enter both the thesaurus information and keywords.
- 
- The <span class="md-panel">Keyword</span> panels may be collapsed to de-clutter the window by clicking the 'collapse panel icon' on the upper right corner of the panel.  Once collapsed, they can be expanded again by reversing the process.
- 
+Click the <strong class="btn btn-success btn-xs"> <i class="fa fa-plus"> </i> Add Thesaurus</strong> button in the <span class="md-window">Secondary Sidebar</span> to add the next <span class="md-panel">Keyword</span> list.

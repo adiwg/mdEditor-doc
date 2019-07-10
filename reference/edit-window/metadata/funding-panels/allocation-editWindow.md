@@ -2,7 +2,7 @@
 ---
 ### Allocations Edit Window
 
-![Allocation Edit Window](/assets/reference/edit-objects/metadata/funding/funding-allocation.png)
+![Allocation Edit Window](/assets/reference/edit-objects/metadata/funding/funding-allocation.png){caption}
 
 * <span class="md-element">Amount</span> <i class="fa fa-asterisk required" title="Required"> </i> 1{**type**: real; **min**: 0.00; **max** none; **default**: 0.00}1  Amount of the allocation in the indicated currency.
 

@@ -2,7 +2,7 @@
 ---
 ### Edit Window
 
-![Funding Period Edit Window](/assets/reference/edit-objects/metadata/funding/funding-editWindow.png) 
+![Funding Period Edit Window](/assets/reference/edit-objects/metadata/funding/funding-editWindow.png){caption}
 
 * <span class="md-panel">Allocation</span> 1{**type**: array (obj: <span class="md-panel">Allocation</span>)}1  An array of <span class="md-panel">Allocation</span> objects documenting individual financial contributions made available for development and/or maintenance of the resource during the period.  2{[See object details](allocation.md)}2
  

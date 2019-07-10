@@ -59,6 +59,8 @@
           * [Editing the Hierarchy](reference/edit-window/metadata/taxonomy-panels/classification-edit.md)
         * [Taxonomy Voucher](reference/edit-window/metadata/taxonomy-panels/taxonomy-voucher.md)
       * [Distribution Section](reference/edit-window/metadata/distribution-panels/distribution-section.md)
+        * [Distribution Edit Window](reference/edit-window/metadata/distribution-panels/distribution-editWindow.md)
+        * [Distributor Edit Window](reference/edit-window/metadata/distribution-panels/distributor-editWindow.md)
       * [Constraints Section](reference/edit-window/metadata/constraint-panels/constraint-section.md)
         * [Use Limitations](reference/edit-window/metadata/constraint-panels/useLimitation-panel.md)
         * [Legal Constraint](reference/edit-window/metadata/constraint-panels/legal-panel.md)

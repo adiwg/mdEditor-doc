@@ -1,6 +1,6 @@
 ## Metadata Record -- Keyword Section
 ---
-### Choose a Thesaurus
+### Choose a Thesaurus Type
 
 Each <span class="md-panel">Keyword</span> list is assigned a "Thesaurus #' number starting with zero (0).  The Thesauri numbers for a <span class="md-panel">Metadata Record</span> are always in sequence.  When a <span class="md-panel">Keyword</span> list is deleted the numbering sequence will be reordered after the deleted list has been removed. 
  

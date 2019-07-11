@@ -8,7 +8,7 @@
  
 * <span class="md-element">Liability Statement</span> 1{**type**: string; **max length**: none; **default**: empty}1   A statement of the liability assumed or exempted by the resource owner.
  
-* <span class="md-panel">Distributor</span> 1{**type**: array (obj: <span class="md-panel"> Distributor</span>)}1  An array of <span class="md-panel">Distributor</span> objects.  Each distributor is authorized to distribute copies of the distribution package.  Details of the distribution are maintained in the <span class="md-panel">Distributor</span> object.
+* [<span class="md-panel" style="font-size: larger">Distributor</span>](distributor-editWindow.md) 1{**type**: array (obj: <span class="md-panel"> Distributor</span>)}1  An array of <span class="md-panel">Distributor</span> objects.  Each distributor is person or organization authorized to distribute copies of the distribution package.  Details of the distribution package and method(s) of delivery are maintained within the <span class="md-panel">Distributor</span> object.
 
   When no <span class="md-panel">Distributors</span> have been defined for the <span class="md-panel">Distribution</span> a large blue bar is displayed on the page declaring "No Distributors found." Click the <strong class="btn btn-success btn-xs"> <i class="fa fa-plus"> </i> Add Distributor</strong> button to add the initial <span class="md-panel">Distributor</span>.  Afterwards you will be transferred to the <span class="md-panel">Distributor</span> <span class="md-window">Edit Window</span> where you can complete data entry for the distributor.  
   

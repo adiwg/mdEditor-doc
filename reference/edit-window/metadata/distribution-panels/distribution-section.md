@@ -9,7 +9,7 @@ When no <span class="md-panel">Distributions</span> have been defined for the <s
 
 Click either <strong class="btn btn-success btn-xs"> <i class="fa fa-plus"> </i> Add Distribution Section</strong> button to add the initial <span class="md-panel">Distribution</span>.  Afterwards you will be transferred to the <span class="md-panel">Distribution</span> <span class="md-window">Edit Window</span> where you can complete data entry for the distribution.  
 
-When one or more <span class="md-panel">Distributions</span> have been defined the <span class="md-section">Distribution</span> section window will look similar to the image below.  
+When one or more <span class="md-panel">Distributions</span> have been defined the <span class="md-section">Distribution</span> window will look similar to the image below.  
 
 ![Distribution Section with Multiple Distributions Defined](/assets/reference/edit-objects/metadata/distribution/distribution-start-2.png){caption}
 

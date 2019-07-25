@@ -14,7 +14,11 @@
 
   * <span class="md-element">West</span> <i class="fa fa-asterisk required" title="Required"> </i> 1{**type**: real; **min**: -180.0; **max** +180.0; **default**: empty}1  Western-most coordinate of the limit of the dataset extent or area of interest expressed in longitude, in decimal degrees.
   
-  * <strong class="btn btn-primary btn-xs"> <i class="fa fa-calculator"> </i> Calculate</strong> If <span class="md-panel">Features</span> have been added to the <span class="md-panel">Geographic Extent</span> the button may be clicked to compute <span class="md-element">Bounding Box</span> values for the combined collection of <span class="md-panel">Features</span>.
+  * <strong class="btn btn-primary btn-xs"> <i class="fa fa-calculator"> </i> Calculate</strong> If <span class="md-panel">Features</span> have been added to the <span class="md-panel">Geographic Extent</span> the button may be clicked to compute <span class="md-element">Bounding Box</span> values for the collection of <span class="md-panel">Features</span>. 
+  
+    {% hint style='info' %}
+  Bounding box coordinates are not automatically recalculated when <span class="md-panel">Features</span> are added, edited, or deleted.  Click the <strong class="btn btn-primary btn-xs"> <i class="fa fa-calculator"> </i> Calculate</strong> button again after making changes to the <span class="md-panel">Feature</span> collection.
+    {% endhint %}
 
   * <strong class="btn btn-danger btn-xs"> <i class="fa fa-trash"> </i> Clear</strong> Clear all <span class="md-element">Bounding Box</span> elements.
 

@@ -2,7 +2,7 @@
 ---
 ### Import Geographic Features 
  
-![Geographic Extent Features Edit Window](/assets/reference/edit-objects/metadata/extent/features-editWindow.png){caption}
+![Geographic Extent Features Edit Window](/assets/reference/edit-objects/metadata/extent/features-import.png){caption}
 
 Some geographic features stored on your hard drive may be imported directly into mdEditor and saved as a geographic <span class="md-panel">Feature</span>.  To be eligible for import the file must be saved in one of the supported formats listed below.
 

@@ -24,6 +24,8 @@ The map may be panned by holding either the left or right mouse button down whil
   If the map tiles turn gray try zooming in and out to refresh.  Also, the map will not display tiles at a resolution of less than 500 meters.
 {% endhint %}
 
+![Show/Hide Features on Map](/assets/reference/edit-objects/metadata/extent/map-layers.png) Click to Show/Hide the <span class="md-panel">Features</span> layer over the map.  Clicking the button will display a short menu with a "Extents" checkbox.  If check, features will be displayed.  If unchecked, features will be hidden. 
+
 ---
 
 ##### [Add Features](features-add.md)

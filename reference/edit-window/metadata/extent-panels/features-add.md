@@ -15,5 +15,5 @@ Geographic <span class="md-panel">Features</span> may be added directly to the m
 ![Add point to map](/assets/reference/edit-objects/metadata/extent/map-point.png) Click to add a point <span class="md-panel">Feature</span> to the map and <span class="md-panel">Geographic Extent</span>, the cursor tip will change to a crosshair.  Place the crosshair at the point's location on the map and click to anchor the point and complete the feature.
 
 {% hint style='tip' %}
-  If the newly added <span class="md-panel">Feature</span> disappears from the map as soon as it is added check that the 'Extents' layer is turned on. 
+  If a newly added <span class="md-panel">Feature</span> disappears from the map as soon as it has been added check that the 'Extents' layer is turned on by clicking on the ![Show/Hide Features on Map](/assets/reference/edit-objects/metadata/extent/map-layers.png) button. 
 {% endhint %}

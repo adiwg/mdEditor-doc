@@ -6,11 +6,11 @@
 
 All geographic <span class="md-panel">Features</span> can edited on the map whether they were initially drawn or imported, the editing process is the same.  
 
-##### [Locating Features](#locate-a-feature)
+[<span style="font-size: larger">Locate a Features</span>](#locate-a-feature)
 
-##### [Edit Shape](#edit-shape)
+[<span style="font-size: larger">Edit Shape</span>](#edit-shape)
 
-##### [Edit Properties](#edit-properties)
+[<span style="font-size: larger">Edit Properties</span>](#edit-properties)
 
 ---
 
@@ -86,4 +86,12 @@ To delete the line or polygon <span class="md-panel">Feature</span>, select the 
 
 #### Edit Properties
 
+To edit the properties of a <span class="md-panel">Feature</span> click the <strong class="btn btn-info btn-xs"> <i class="fa fa-pencil"> </i> </strong> button on the corresponding line in the <span class="md-window">Feature List</span> or double click the feature on the map.  The <span class="md-panel">Feature</span>'s properties will be shown in a table below the map that temporarily replaces the <span class="md-window">Feature List</span>.  
 
+Only the <span class="md-element">ID</span>, <span class="md-element">Name</span>, and <span class="md-element">Description</span> elements may be edited.  All other properties of the <span class="md-panel">Feature</span> are displayed as read-only. 
+
+Click the <strong class="btn btn-info btn-xs"> <i class="fa fa-check"> </i> OK </strong> button to save your changes and show the <span class="md-window">Feature List</span> once again.
+
+{% hint style='tip' %}
+  Initiate property edits using the <strong class="btn btn-info btn-xs"> <i class="fa fa-pencil"> </i> </strong> button when possible.  After clicking the <strong class="btn btn-info btn-xs"> <i class="fa fa-check"> </i> OK </strong> button to end property edits the <span class="md-panel">Feature</span> will remain in active edit mode on the map.  You will need to click 'Save' or 'Cancel' on the ![Feature Edit Button](/assets/reference/edit-objects/metadata/extent/map-edit.png) button pop-out menu to close shape edit mode.
+{% endhint %}

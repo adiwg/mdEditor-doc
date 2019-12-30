@@ -3,9 +3,13 @@
 
 In data management and database design the term "entity" refers to a person, place, thing, or concept about which information is collected and organized.  Entities are most often implemented as tables in a database where the tables consist of numerous rows and columns.  Each row represents an instance of the entity and each column stores a single fact about the instance such as "name" or "ID".
 
-When no <span class="md-panel">Entities</span> have yet been defined for a <span class="md-panel">Dictionary</span> the <span class="md-section">Entities</span> section will display a large blue box stating "No Entity Found".  There is a large <strong class="btn btn-success btn-xs"> <i class="fa fa-plus"> </i> Add Entity</strong> button in the center of the box.  Click this button to add your initial <span class="md-panel">Entity</span>.
+When no <span class="md-panel">Entities</span> have yet been defined for a <span class="md-panel">Dictionary</span> the <span class="md-section">Entities</span> section will display a large blue box stating "No Entity Found".  
 
 ![Entity Edit Window with no Entities Defined](/assets/reference/edit-objects/dictionary/entities/dictionary-entity1.png){caption}
+
+<strong class="btn btn-success btn-xs"> <i class="fa fa-plus"> </i> Add Entity</strong> To add the initial <span class="md-panel">Entity</span> click the 'Add Entity' button.
+
+---
 
 After one or more <span class="md-panel">Entities</span> have been defined for the <span class="md-panel">Dictionary</span>, navigating to the <span class="md-section">Entities</span> section will display an array panel of the previously entered <span class="md-panel">Entities</span>.  
 

@@ -5,22 +5,12 @@ The <span class="md-section">Lineage</span> section of the <span class="md-windo
 
 When no <span class="md-panel">Lineage</span> has been defined for the <span class="md-panel">Metadata Record</span> a large blue bar is displayed on the page declaring "No Lineage found."  
 
-![Lineage Section with no Lineage Defined](/assets/reference/edit-objects/metadata/lineage/lineage-start.png)
+![Lineage Section with no Lineage Defined](/assets/reference/edit-objects/metadata/lineage/lineage-start.png){caption}
 
 <strong class="btn btn-success btn-xs"> <i class="fa fa-plus"> </i> Add Lineage</strong> and <strong class="btn btn-success btn-xs"> <i class="fa fa-plus"> </i> Add Lineage Object</strong>  To add a resource <span class="md-panel">Lineage</span> object click either button, they serve the same function.  After clicking one of the buttons you will be transferred to the <span class="md-panel">Lineage</span> <span class="md-window">Edit Window</span> where you can complete data entry for the resource lineage.  
 
-![Lineage Edit Window](/assets/reference/edit-objects/metadata/lineage/lineage-editWindow.png)
+When one or more <span class="md-panel">Lineage</span> have been defined the <span class="md-section">Lineage</span> section window will look similar to the image below.  
 
-<strong class="btn btn-primary btn-xs"> <i class="fa fa-arrow-left"> </i> Back to Lineage List</strong> Click to return to the list of defined <span class="md-panel">Lineages</span>. 
+![Lineage Section with one or more Lineage Defined](/assets/reference/edit-objects/metadata/lineage/lineage-array.png){caption}
 
----
-
-* <span class="md-element">Statement</span> <i class="fa fa-asterisk required" title="Required"> </i> 1{**type**: string; **max length**: none; **default**: empty}1  A description of the resource being described along with a general statement of the overall actions taken to verify, transform, filter, and integrate the resource.
-
-* [<span class="md-panel" style="font-size: larger">Process Steps</span>](processStep/processStep-panel.md) 1{**type**: array (obj: <span class="md-panel">Process Step</span>)}1 An array of brief statements describing individual, non-trivial processes or methodologies taken in developing the resource. 
-
-* [<span class="md-panel" style="font-size: larger">Sources</span>](source/source-panel.md) 1{**type**: array (obj: <span class="md-panel">Source</span>)}1 An array of information about source datasets used in creating the resource.
-
-* [<span class="md-panel" style="font-size: larger">Citations</span>](citation-panel.md) 1{**type**: array (obj: <span class="md-panel"> Citation </span>)}1  An array of citations that describe the lineage process. 
-
-* <span class="md-element">Scope</span> 1{**type**: codelist (ISO MD_ScopeCode, ADIwg codes); **extensible**: YES; **multi-value**: NO; **default**: empty}1  The type of resource this lineage describes. 
+Click the <strong class="btn btn-success btn-xs"> <i class="fa fa-pencil"> </i> Edit</strong> button to transfer to the <span class="md-panel">Lineage</span> <span class="md-window">Edit Window</span>.

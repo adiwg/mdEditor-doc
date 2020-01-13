@@ -4,7 +4,7 @@ before_script:
   - npm install -g gitbook-cli
   - gitbook install
 script: gitbook build
-before_deploy: touch .nojekyll
+before_deploy: touch _book/.nojekyll
 deploy:
   provider: pages:git
   edge: true # opt in to dpl v2

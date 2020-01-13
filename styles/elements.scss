@@ -1,0 +1,45 @@
+.md-panel,
+.md-section,
+.md-window,
+.md-element {
+  font-family: arial, "Lucida Console", "Lucida Sans Typewriter", monaco, "Bitstream Vera Sans Mono", monospace;
+  font-variant: normal;
+  padding: 2px 4px;
+}
+
+.md-panel {
+  background-color: $panel-back;
+  border-radius: 3px;
+  color: $midnight;
+  font-size: smaller;
+}
+
+.md-section {
+  border-bottom: 1px dashed;
+  border-color: darken($brand-warning, 10);
+  border-top: 1px dashed;
+  color: $section-text;
+  padding: 1px 4px;
+  font-size: smaller;
+}
+
+.md-window {
+  border: 1px solid $gray-light;
+  font-variant: small-caps;
+  padding: 1px 4px;
+  font-size: smaller;
+}
+
+.md-element {
+  background-color: lighten($brand-success, 41);
+  border-radius: 3px;
+  color: black;
+  font-weight: bold;
+  font-size: smaller;
+}
+
+.md-type {
+  font-size: .9em;
+  color: #666666;
+  font-style: italic;
+}

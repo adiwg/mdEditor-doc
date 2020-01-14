@@ -6,7 +6,7 @@ before_script:
 script: gitbook build
 before_deploy: 
   - touch _book/.nojekyll
-  - echo "guide.mdeditor.org" > CNAME
+  - echo "guide.mdeditor.org" > _book/CNAME
 deploy:
   provider: pages:git
   edge: true # opt in to dpl v2

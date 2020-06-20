@@ -69,6 +69,7 @@
         * [Distribution Edit Window](reference/edit-window/metadata/distribution-panels/distribution-editWindow.md)
         * [Distributor Edit Window](reference/edit-window/metadata/distribution-panels/distributor-editWindow.md)
           * [Transfer Option](reference/edit-window/metadata/distribution-panels/transferOption.md)
+            * [Online Transfer Option](reference/edit-window/metadata/distribution-panels/onlineOption.md)
             * [Offline Transfer Option](reference/edit-window/metadata/distribution-panels/offlineOption.md)
             * [Distribution Format](reference/edit-window/metadata/distribution-panels/format.md)
           * [Order Process](reference/edit-window/metadata/distribution-panels/orderProcess.md)

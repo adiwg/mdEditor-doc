@@ -1,6 +1,6 @@
 ### Online Transfer Option 
 
-![Online Transfer Option Edit Window](/assets/reference/edit-objects/metadata/distribution/OnlineTransferOption.png)
+![Online Transfer Option Edit Window](/assets/reference/edit-objects/metadata/distribution/OnlineTransferOption.PNG)
 
 ---
 

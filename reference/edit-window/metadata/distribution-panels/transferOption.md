@@ -14,6 +14,6 @@
 
 * [<span class="md-panel" style="font-size: larger">Distribution Formats <span>](format.md)  1{**type**: array (obj: <span class="md-panel">Distribution Format</span>)}1  Provides information about the format(s) used by the distributor.
 
-* [<span class="md-panel" style="font-size: larger">Transfer Frequency</span>]( timeDuration-obj.md)  1{**type**: array (obj: <span class="md-panel"> Transfer Frequency </span>)}1  <span class="md-panel"> Transfer Frequency </span> {type: object (Time Duration); default empty}
+* [<span class="md-panel" style="font-size: larger">Transfer Frequency</span>](timeDuration-obj.md)  1{**type**: array (obj: <span class="md-panel"> Transfer Frequency </span>)}1  <span class="md-panel"> Transfer Frequency </span> {type: object (Time Duration); default empty}
 Usage: The rate of occurrence of distribution.
 ---

@@ -11,7 +11,7 @@ As discussed in the [Attribute Array section](../entity-panels/attribute-panel.m
 
 In the example below, an <span class="md-panel">Entity</span> has been defined for vehicle registration records within a fictitious Department of Motor Vehicles database.  Several of the VEHICLE_REGISTRATION <span class="md-panel">Entity</span>'s <span class="md-panel">Attributes</span> are shown in the <span class="md-panel">Attribute</span> array panel along with their required elements.  
 
-![Entity Attribute Array](/assets/reference/edit-objects/dictionary/attribute/attribute-array.png){caption}
+![Entity Attribute Array](/assets/reference/edit-objects/dictionary/attribute/AtrributeNameAnnotations.png){caption}
 
 Each <span class="md-panel">Attribute</span> has a <strong class="btn btn-success btn-xs"> <i class="fa fa-pencil"> </i> More...</strong> button that when clicked navigates to the <span class="md-panel">Attribute</span>'s <span class="md-window">Edit Window</span> providing access to *all* the <span class="md-panel">Attribute</span>'s elements, optional and required. This <span class="md-panel">Attribute</span> <span class="md-window">Edit Window</span> is shown in the illustration below.  Each of the <span class="md-window">Edit Window</span>'s panels are discussed separately on the following pages.
 

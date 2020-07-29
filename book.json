@@ -1,7 +1,7 @@
 {
    "plugins": [
       "hints",
-      "styles-sass-fix",
+      "@adiwg/styles-sass",
       "regexplace",
       "code",
       "expandable-chapters",

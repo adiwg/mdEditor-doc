@@ -1,0 +1,41 @@
+{
+  "name": "mdEditor-doc",
+  "version": "1.0.0",
+  "private": true,
+  "description": "mdEditor Guide, Edition 2019-07-26",
+  "main": "index.js",
+  "dependencies": {
+    "@adiwg/honkit-plugin-styles-sass": "^2.0.0",
+    "gitbook-plugin-code": "^0.1.0",
+    "gitbook-plugin-customize-footer": "^1.0.2",
+    "gitbook-plugin-expandable-chapters": "^0.2.0",
+    "gitbook-plugin-hints": "^1.0.2",
+    "gitbook-plugin-regexplace": "^2.1.2"
+  },
+  "devDependencies": {
+    "concurrently": "^5.2.0",
+    "honkit": "^3.5.2"
+  },
+  "scripts": {
+    "serve": "honkit serve",
+    "build": "concurrently \"npm run build:web\"",
+    "publish": "concurrently \"npm run build:web\" \"npm run build:pdf\"",
+    "build:all": "concurrently \"npm run build:web\" \"npm run build:pdf\" \"npm run build:epub\" \"npm run build:mobi\"",
+    "build:web": "honkit build",
+    "build:pdf": "honkit pdf ./ _book/mdeditor-guide.pdf",
+    "build:epub": "honkit epub ./ _book/mdeditor-guide.epub",
+    "build:mobi": "honkit mobi ./ _book/mdeditor-guide.mobi",
+    "help": "honkit --help"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adiwg/mdEditor-doc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/adiwg/mdEditor-doc/issues"
+  },
+  "homepage": "https://github.com/adiwg/mdEditor-doc#readme"
+}

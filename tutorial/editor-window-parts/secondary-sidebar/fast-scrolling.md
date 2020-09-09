@@ -4,7 +4,7 @@
 
 Some <span class="md-window">Edit Window</span> sections are too long to fit on a standard monitor and require some scrolling to see all the elements of the page.  The Edit Window can get even longer as you continue to add your metadata.  This can make it inconvenient to locate just the information you're looking for by visually searching the record.
 
-To assist with quickly displaying the portion of the page you need, the <span class="md-window">Fast Scrolling</span> feature was added to the <span class="md-window">Secondary Sidebar</span>.  This facility provides links to quickly scroll the panel you need to the top of the <span class="md-window">Edit Window</span>.  
+To assist with quickly displaying the portion of the page you need, the <span class="md-window">Fast Scrolling</span> feature on the <span class="md-window">Secondary Sidebar</span> provides links to quickly scroll the panel you need to the top of the <span class="md-window">Edit Window</span>.  
 
 
 ![Secondary Sidebar: Fast Scrolling Buttons](/assets/tutorial/fast-scrolling-noHighlightSideBar.png){caption}

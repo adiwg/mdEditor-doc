@@ -4,7 +4,7 @@
 
 ---
 
-When importing metadata records to mdEditor there are times when completely clearing the browser cache can be helpful. If your import is replacing items of each type (<span class="md-panel">Metadata Record</span>, <span class="md-panel">Contact</span>, and <span class="md-panel">Dictionary</span>) mdEditor will effectively be clearing browser cache for you. In other instances, you may need to do this yourself. 
+When importing metadata records to mdEditor there are times when completely clearing the editor storage cache can be helpful. If your import is replacing items of each type (<span class="md-panel">Metadata Record</span>, <span class="md-panel">Contact</span>, and <span class="md-panel">Dictionary</span>) mdEditor will effectively be clearing browser cache for you. In other instances, you may need to do this yourself. 
 
 To do this, go to the Settings page pictured below.
 

@@ -14,6 +14,13 @@ __Drag & Drop__  The map supports dragging a file from your file explorer and dr
 
 ---
 
+{% hint style='info' %}
+**Please Note:**  Imported data needs to utilize the World Geodetic System 1984 (WGS 84) [WGS84] coordinate reference system.  Longitude and latitude should be in units of decimal degrees. For more details on WGS84, please visit <a href="https://epsg.io/4326" target="_blank">the espg.io database website <sup class="fa fa-external-link"></sup></a>.
+{% endhint %}
+
+
+
+
 * __CSV__ (Comma or Tab delimited) text file
    
   The import process searches column heading names for clues to locating geographic and other information.  

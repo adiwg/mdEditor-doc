@@ -14,7 +14,7 @@
   },
   "devDependencies": {
     "concurrently": "^5.2.0",
-    "honkit": "^3.5.2"
+    "honkit": "^5.1.0"
   },
   "scripts": {
     "serve": "honkit serve",
